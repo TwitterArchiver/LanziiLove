@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1284225570268569600",
+          "name": "HIIT"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Cardio",
+          "id": "920389340571754496",
+          "name": "Cardio"
+        }
+      }
+    ],
+    "conversation_id": "2047261717441466791",
+    "created_at": "2026-04-24T05:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047553083518210087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1402648752347705346",
+          "start": 0,
+          "username": "OCc1Fywi1AKXk9s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047553083518210087",
+    "in_reply_to_user_id": "1402648752347705346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047550427412226474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OCc1Fywi1AKXk9s 我是练的hiit腰腹+游泳\n\n应该还是有些用滴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284225570268569600",
+              "name": "HIIT"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Cardio",
+              "id": "920389340571754496",
+              "name": "Cardio"
+            }
+          }
+        ],
+        "conversation_id": "2047261717441466791",
+        "created_at": "2026-04-24T05:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047553083518210087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1402648752347705346",
+              "start": 0,
+              "username": "OCc1Fywi1AKXk9s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047553083518210087",
+        "in_reply_to_user_id": "1402648752347705346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047550427412226474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OCc1Fywi1AKXk9s 我是练的hiit腰腹+游泳\n\n应该还是有些用滴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1402648752347705346",
+        "conversation_id": "2047261717441466791",
+        "created_at": "2026-04-24T05:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047550427412226474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047550427412226474",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047261717441466791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 羡慕捏，好奇这个可以练嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫✨喜欢cos拍照片编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名的是本人😉评论区混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意平台公益捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22133,
+          "following_count": 1029,
+          "like_count": 1931,
+          "listed_count": 64,
+          "media_count": 390,
+          "tweet_count": 2027
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-09T15:28:26.000Z",
+        "description": "是喜欢一切可爱生物的小南梁哦～偶尔也会冒出一些涩涩的想法☺️",
+        "id": "1402648752347705346",
+        "name": "矢崎佳音♠️",
+        "pinned_tweet_id": "1949804189724393724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949091109281681408/sJWKcd3C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 4247,
+          "like_count": 162,
+          "listed_count": 13,
+          "media_count": 90,
+          "tweet_count": 1852
+        },
+        "username": "OCc1Fywi1AKXk9s",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1972527073874100224",
+        "3_1972527073869934592",
+        "3_1972527073853091840",
+        "3_1972527074100617216"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1972527171404271645",
+    "created_at": "2025-09-29T05:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T06:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972527171404271645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1915622690653954048",
+          "start": 9,
+          "username": "dexy0306"
+        },
+        {
+          "end": 33,
+          "id": "1459490226095943685",
+          "start": 22,
+          "username": "miratsu169"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R4TEpVOPLr",
+          "end": 78,
+          "expanded_url": "https://x.com/LanziiLove/status/1972527171404271645/video/1",
+          "media_key": "13_1972527073874100224",
+          "start": 55,
+          "url": "https://t.co/R4TEpVOPLr"
+        },
+        {
+          "display_url": "pic.x.com/R4TEpVOPLr",
+          "end": 78,
+          "expanded_url": "https://x.com/LanziiLove/status/1972527171404271645/video/1",
+          "media_key": "3_1972527073869934592",
+          "start": 55,
+          "url": "https://t.co/R4TEpVOPLr"
+        },
+        {
+          "display_url": "pic.x.com/R4TEpVOPLr",
+          "end": 78,
+          "expanded_url": "https://x.com/LanziiLove/status/1972527171404271645/video/1",
+          "media_key": "3_1972527073853091840",
+          "start": 55,
+          "url": "https://t.co/R4TEpVOPLr"
+        },
+        {
+          "display_url": "pic.x.com/R4TEpVOPLr",
+          "end": 78,
+          "expanded_url": "https://x.com/LanziiLove/status/1972527171404271645/video/1",
+          "media_key": "3_1972527074100617216",
+          "start": 55,
+          "url": "https://t.co/R4TEpVOPLr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972527171404271645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你怎么知道我家老公@dexy0306 送了我@miratsu169老师的miku大头周边w\n\n真的太可爱了w https://t.co/R4TEpVOPLr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10401,
+        "height": 1280,
+        "media_key": "13_1972527073874100224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1972527073874100224/img/gR6k5BL4tHrmwRiZ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972527073874100224/vid/avc1/320x694/fn5lPefTSPU0ajeX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972527073874100224/vid/avc1/480x1040/NX2xSzU2M7zoLjds.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972527073874100224/vid/avc1/590x1280/UmkkkAXo9DpcSMSO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1972527073874100224/pl/vKRsMhAFJQEWYSW5.m3u8"
+          }
+        ],
+        "width": 590
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972527073869934592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1_S7DvbsAAKvVk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1972527073853091840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1_S7DrasAAhF0Z.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972527074100617216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1_S7EmboAAZgRq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1972527073874100224",
+            "3_1972527073869934592",
+            "3_1972527073853091840",
+            "3_1972527074100617216"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1972527171404271645",
+        "created_at": "2025-09-29T05:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T06:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972527171404271645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1915622690653954048",
+              "start": 9,
+              "username": "dexy0306"
+            },
+            {
+              "end": 33,
+              "id": "1459490226095943685",
+              "start": 22,
+              "username": "miratsu169"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R4TEpVOPLr",
+              "end": 78,
+              "expanded_url": "https://x.com/LanziiLove/status/1972527171404271645/video/1",
+              "media_key": "13_1972527073874100224",
+              "start": 55,
+              "url": "https://t.co/R4TEpVOPLr"
+            },
+            {
+              "display_url": "pic.x.com/R4TEpVOPLr",
+              "end": 78,
+              "expanded_url": "https://x.com/LanziiLove/status/1972527171404271645/video/1",
+              "media_key": "3_1972527073869934592",
+              "start": 55,
+              "url": "https://t.co/R4TEpVOPLr"
+            },
+            {
+              "display_url": "pic.x.com/R4TEpVOPLr",
+              "end": 78,
+              "expanded_url": "https://x.com/LanziiLove/status/1972527171404271645/video/1",
+              "media_key": "3_1972527073853091840",
+              "start": 55,
+              "url": "https://t.co/R4TEpVOPLr"
+            },
+            {
+              "display_url": "pic.x.com/R4TEpVOPLr",
+              "end": 78,
+              "expanded_url": "https://x.com/LanziiLove/status/1972527171404271645/video/1",
+              "media_key": "3_1972527074100617216",
+              "start": 55,
+              "url": "https://t.co/R4TEpVOPLr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972527171404271645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你怎么知道我家老公@dexy0306 送了我@miratsu169老师的miku大头周边w\n\n真的太可爱了w https://t.co/R4TEpVOPLr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好：编曲 画画 3DCG Cos//985大二计算机科学与技术 第二学位数学//B站6.2万粉丝同名//中立生物 不主动攻击 阴阳我会被我攻击// 音乐&绘画作品 音乐平台&Pixiv@LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962507406770155521/giP0winc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18834,
+          "following_count": 902,
+          "like_count": 1164,
+          "listed_count": 48,
+          "media_count": 295,
+          "tweet_count": 1472
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915673915411881988/qqYyNevC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 3,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 42
+        },
+        "username": "dexy0306",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-13T11:56:07.000Z",
+        "description": "AI学習🚫 \nKR/JP \nemail seet100r@gmail.com\nFA-#miratsu_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 42,
+                "tag": "miratsu_art"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/miratsu169",
+                "end": 23,
+                "expanded_url": "https://lit.link/miratsu169",
+                "start": 0,
+                "url": "https://t.co/kkI42PRXI6"
+              }
+            ]
+          }
+        },
+        "id": "1459490226095943685",
+        "location": "hp",
+        "name": "みらつ/밋다다@依頼停止中",
+        "pinned_tweet_id": "1929336868119740763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970586023940820992/1nAf9En0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89519,
+          "following_count": 84,
+          "like_count": 988,
+          "listed_count": 232,
+          "media_count": 628,
+          "tweet_count": 774
+        },
+        "url": "https://t.co/kkI42PRXI6",
+        "username": "miratsu169",
+        "verified": true
+      }
+    ]
+  }
+}

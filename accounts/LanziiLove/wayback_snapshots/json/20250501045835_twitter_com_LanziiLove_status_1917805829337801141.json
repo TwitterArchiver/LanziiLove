@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917805820315852800"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1917220748764303808",
+    "created_at": "2025-05-01T04:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T05:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917805829337801141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1253083536828981248",
+          "start": 0,
+          "username": "Skyrim_Fujimaru"
+        },
+        {
+          "end": 26,
+          "id": "1915622690653954048",
+          "start": 17,
+          "username": "dexy0306"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0oiNQHzEax",
+          "end": 54,
+          "expanded_url": "https://x.com/LanziiLove/status/1917805829337801141/photo/1",
+          "media_key": "3_1917805820315852800",
+          "start": 31,
+          "url": "https://t.co/0oiNQHzEax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917805829337801141",
+    "in_reply_to_user_id": "1253083536828981248",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917723637697896723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Skyrim_Fujimaru @dexy0306 wow https://t.co/0oiNQHzEax"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1917805820315852800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp1qO4waYAALiV5.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917805820315852800"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1917220748764303808",
+        "created_at": "2025-05-01T04:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T05:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917805829337801141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1253083536828981248",
+              "start": 0,
+              "username": "Skyrim_Fujimaru"
+            },
+            {
+              "end": 26,
+              "id": "1915622690653954048",
+              "start": 17,
+              "username": "dexy0306"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0oiNQHzEax",
+              "end": 54,
+              "expanded_url": "https://x.com/LanziiLove/status/1917805829337801141/photo/1",
+              "media_key": "3_1917805820315852800",
+              "start": 31,
+              "url": "https://t.co/0oiNQHzEax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917805829337801141",
+        "in_reply_to_user_id": "1253083536828981248",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917723637697896723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Skyrim_Fujimaru @dexy0306 wow https://t.co/0oiNQHzEax"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253083536828981248",
+        "conversation_id": "1917220748764303808",
+        "created_at": "2025-04-30T23:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T00:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917723637697896723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 21,
+              "id": "1915622690653954048",
+              "start": 12,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917723637697896723",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917220748764303808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @dexy0306 专门整理个房间出来，完全按照女生宿舍的方式装修？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "dexy0306"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11951,
+          "following_count": 713,
+          "like_count": 329,
+          "listed_count": 30,
+          "media_count": 128,
+          "tweet_count": 561
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-22T22:09:40.000Z",
+        "description": "这个人很懒，还没写个人简介哦",
+        "id": "1253083536828981248",
+        "location": "巨门星",
+        "name": "慈爱的深渊-乙巳年祝政策宽松",
+        "pinned_tweet_id": "1253089776153923586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867724071171239939/8pQMklkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 758,
+          "like_count": 966,
+          "listed_count": 8,
+          "media_count": 124,
+          "tweet_count": 2068
+        },
+        "username": "Skyrim_Fujimaru",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915673915411881988/qqYyNevC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 2,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 10
+        },
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2061745376387059822",
+    "created_at": "2026-06-02T21:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T22:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061927720716755266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1541573173686292480",
+          "start": 0,
+          "username": "zhanqingyuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061927720716755266",
+    "in_reply_to_user_id": "1541573173686292480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061853908968919171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhanqingyuan 谢谢你 这个问题确实很多人理解不了 但是你能做到这么友好尊重我觉得就已经很好了。实际上，“性别不一致”是一种实实在在存在的病症，是一种出现在大脑里的异变现象，导致了经验性别和指定性别不一致，从而诱导出性别烦躁/性别焦虑，常见并发症抑郁症和焦虑症，严重的时候会很影响生活。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2061745376387059822",
+        "created_at": "2026-06-02T21:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T22:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061927720716755266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1541573173686292480",
+              "start": 0,
+              "username": "zhanqingyuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061927720716755266",
+        "in_reply_to_user_id": "1541573173686292480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061853908968919171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhanqingyuan 谢谢你 这个问题确实很多人理解不了 但是你能做到这么友好尊重我觉得就已经很好了。实际上，“性别不一致”是一种实实在在存在的病症，是一种出现在大脑里的异变现象，导致了经验性别和指定性别不一致，从而诱导出性别烦躁/性别焦虑，常见并发症抑郁症和焦虑症，严重的时候会很影响生活。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541573173686292480",
+        "conversation_id": "2061745376387059822",
+        "created_at": "2026-06-02T16:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061853908968919171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061853908968919171",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061746908151046297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 我想问一下，就是为什么会想要成为女生呢。因为我看到你之前说父母理解，还有个爱你的对象，而且我在b站看到你的校友对你的风评都很好，不太理解为什么在这积极阳光的环境下会让你对自我认知感到这么焦虑。但不论如何尊重你的决定，毕竟我不了解你的完整人生境遇。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25333,
+          "following_count": 1240,
+          "like_count": 3059,
+          "listed_count": 77,
+          "media_count": 455,
+          "tweet_count": 2710
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T00:04:37.000Z",
+        "description": "Love you for eveything",
+        "id": "1541573173686292480",
+        "location": "Birmingham, England",
+        "name": "CouldWelkin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762254434321481728/v3nk-kGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 23,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 99
+        },
+        "username": "zhanqingyuan",
+        "verified": false
+      }
+    ]
+  }
+}

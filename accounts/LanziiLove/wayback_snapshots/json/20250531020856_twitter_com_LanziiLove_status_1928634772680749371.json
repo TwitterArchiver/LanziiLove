@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1928375754691084717",
+    "created_at": "2025-05-31T02:08:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T03:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928634772680749371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1768178521497849856",
+          "start": 0,
+          "username": "iriyaQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928634772680749371",
+    "in_reply_to_user_id": "1768178521497849856",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928541052794712320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iriyaQWQ ៸៸᳐&gt;⩊&lt;៸៸᳐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1928375754691084717",
+        "created_at": "2025-05-31T02:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T03:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928634772680749371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1768178521497849856",
+              "start": 0,
+              "username": "iriyaQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928634772680749371",
+        "in_reply_to_user_id": "1768178521497849856",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928541052794712320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iriyaQWQ ៸៸᳐&gt;⩊&lt;៸៸᳐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768178521497849856",
+        "conversation_id": "1928375754691084717",
+        "created_at": "2025-05-30T19:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T20:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928541052794712320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928541052794712320",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928375754691084717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 可爱宝宝！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜ 是雫基米星人喵 来自🇨🇳成都｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "dexy0306"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15779,
+          "following_count": 731,
+          "like_count": 654,
+          "listed_count": 44,
+          "media_count": 186,
+          "tweet_count": 1035
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T07:33:18.000Z",
+        "description": "不知道怎么称呼我的可以叫我小伊！！\n日本卷烟，日本烟弹可直邮全球，七星，和平，云斯顿，万宝路，MEVIUS一手货源！国内也有自己大仓货品齐全。\nTG商品信息 https://t.co/YSqpdaKBTO\nTG https://t.co/LFCBbM7TKY\n微信号iriyaQAQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/iriyaQAQsuki",
+                "end": 102,
+                "expanded_url": "https://t.me/iriyaQAQsuki",
+                "start": 79,
+                "url": "https://t.co/YSqpdaKBTO"
+              },
+              {
+                "display_url": "t.me/+PGoBTuAUL9M2O…",
+                "end": 129,
+                "expanded_url": "https://t.me/+PGoBTuAUL9M2OTM1",
+                "start": 106,
+                "url": "https://t.co/LFCBbM7TKY"
+              }
+            ]
+          }
+        },
+        "id": "1768178521497849856",
+        "name": "小伊（日本烟韩国烟代免税香烟口粮代工国内香烟免税烟电子烟(全球可发)",
+        "pinned_tweet_id": "1876372528626868486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827740012882116609/ijL-qfDf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 460,
+          "like_count": 6037,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 6662
+        },
+        "username": "iriyaQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

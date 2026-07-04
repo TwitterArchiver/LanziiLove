@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2012435250958188777",
+    "created_at": "2026-01-18T04:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T05:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012748737664430468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "93972122",
+          "start": 0,
+          "username": "redideo"
+        },
+        {
+          "end": 25,
+          "id": "1485068728412913666",
+          "start": 9,
+          "username": "interesting_aIl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012748737664430468",
+    "in_reply_to_user_id": "93972122",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012459648800940351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@redideo @interesting_aIl typical high followers blue mark account saying dumbest shit"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2012435250958188777",
+        "created_at": "2026-01-18T04:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T05:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012748737664430468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "93972122",
+              "start": 0,
+              "username": "redideo"
+            },
+            {
+              "end": 25,
+              "id": "1485068728412913666",
+              "start": 9,
+              "username": "interesting_aIl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012748737664430468",
+        "in_reply_to_user_id": "93972122",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012459648800940351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@redideo @interesting_aIl typical high followers blue mark account saying dumbest shit"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "93972122",
+        "conversation_id": "2012435250958188777",
+        "created_at": "2026-01-17T09:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T10:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012459648800940351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1485068728412913666",
+              "start": 0,
+              "username": "interesting_aIl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012459648800940351",
+        "in_reply_to_user_id": "1485068728412913666",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 32896,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012435250958188777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@interesting_aIl Nice AI bro. 😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 非跨无药不是男娘是男的 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好编曲 画画 3DCG cos//985大二计算机科学与技术第二学位数学//B站6.6万粉丝同名//无差别block所有见证傻狗//音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 156,
+                "start": 145,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "世界和平☮️World Peace",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1946772875698110774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22190,
+          "following_count": 977,
+          "like_count": 1613,
+          "listed_count": 69,
+          "media_count": 355,
+          "tweet_count": 1785
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-01T23:41:12.000Z",
+        "description": "🎨 Creative Strategy 🚀 Small Business Marketing 🎥 Video Production 🎯 Web Design 💻 Real Results 👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "redideostudio.com",
+                "end": 23,
+                "expanded_url": "https://redideostudio.com/",
+                "start": 0,
+                "url": "https://t.co/PgKoVcU41e"
+              }
+            ]
+          }
+        },
+        "id": "93972122",
+        "location": "San Diego, CA",
+        "name": "Redideo Studio - Creative Agency San Diego",
+        "pinned_tweet_id": "1944205351622160712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778531124530339840/cU1iJdKA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62269,
+          "following_count": 48939,
+          "like_count": 22948,
+          "listed_count": 239,
+          "media_count": 2182,
+          "tweet_count": 14502
+        },
+        "url": "https://t.co/PgKoVcU41e",
+        "username": "redideo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-23T01:56:50.000Z",
+        "description": "Posting interesting history, tech, art, and more.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ail_interestin…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ail_interesting/",
+                "start": 0,
+                "url": "https://t.co/LpphpR04gR"
+              }
+            ]
+          }
+        },
+        "id": "1485068728412913666",
+        "name": "Interesting As Fuck",
+        "pinned_tweet_id": "2011898056602796270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739919942223347712/nC3oBLdU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2539256,
+          "following_count": 110,
+          "like_count": 3330,
+          "listed_count": 4345,
+          "media_count": 21859,
+          "tweet_count": 23629
+        },
+        "url": "https://t.co/LpphpR04gR",
+        "username": "interesting_aIl",
+        "verified": true
+      }
+    ]
+  }
+}

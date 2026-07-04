@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1927643782163693858",
+    "created_at": "2025-05-28T08:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T09:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927643782163693858"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1927643782163693858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 1021,
+      "like_count": 31,
+      "quote_count": 0,
+      "reply_count": 7,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只是自律了三天 面相就有了很大改善\n\n但是明明是为了能变可爱\n\n为什么变帅了啊……\n\n虽然不是什么坏事(^_^;)\n\n但是并没有达到我的目的口牙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1927643782163693858",
+        "created_at": "2025-05-28T08:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T09:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927643782163693858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927643782163693858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1021,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只是自律了三天 面相就有了很大改善\n\n但是明明是为了能变可爱\n\n为什么变帅了啊……\n\n虽然不是什么坏事(^_^;)\n\n但是并没有达到我的目的口牙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜ 是雫基米星人喵 来自🇨🇳成都｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "dexy0306"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨（LanziiLove）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15559,
+          "following_count": 724,
+          "like_count": 571,
+          "listed_count": 43,
+          "media_count": 181,
+          "tweet_count": 949
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

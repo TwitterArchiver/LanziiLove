@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1990686387998503040",
+    "created_at": "2025-11-18T07:45:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T08:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990687730272223293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1844402381070663680",
+          "start": 0,
+          "username": "camellia_ayin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990687730272223293",
+    "in_reply_to_user_id": "1844402381070663680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990687634675675476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@camellia_ayin 好滴好滴 感谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1990686387998503040",
+        "created_at": "2025-11-18T07:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T08:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990687730272223293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1844402381070663680",
+              "start": 0,
+              "username": "camellia_ayin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990687730272223293",
+        "in_reply_to_user_id": "1844402381070663680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990687634675675476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@camellia_ayin 好滴好滴 感谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844402381070663680",
+        "conversation_id": "1990686387998503040",
+        "created_at": "2025-11-18T07:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T08:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990687634675675476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990687634675675476",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990686387998503040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 我记得b站上有个做这个有关的up主，经常发一些有关的知识科普视频，你可以去搜一下做个参考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 不是跨 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好：编曲 画画 3DCG Cos//985大二计算机科学与技术 二学位数学//B站6.5万粉丝同名//因社恐不扩列sry 偶尔酌情回fo// 音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1986478231625810336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20794,
+          "following_count": 956,
+          "like_count": 1364,
+          "listed_count": 55,
+          "media_count": 335,
+          "tweet_count": 1654
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T15:39:41.000Z",
+        "description": "English//中文//日本語#喜欢动漫，音乐，不站队，05年，喜欢cos，有时候会女装，中二病晚期，欢迎大家加我好友",
+        "id": "1844402381070663680",
+        "name": "かめりあ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877234716556013568/G6UMBCK4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 175,
+          "like_count": 573,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 2175
+        },
+        "username": "camellia_ayin",
+        "verified": false
+      }
+    ]
+  }
+}

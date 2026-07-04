@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2055557709530005909",
+    "created_at": "2026-05-16T15:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T16:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055672978092982655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1872699226846556160",
+          "start": 0,
+          "username": "eZanA_CHEN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055672978092982655",
+    "in_reply_to_user_id": "1872699226846556160",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055671247384748129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eZanA_CHEN 🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2055557709530005909",
+        "created_at": "2026-05-16T15:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055672978092982655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1872699226846556160",
+              "start": 0,
+              "username": "eZanA_CHEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055672978092982655",
+        "in_reply_to_user_id": "1872699226846556160",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055671247384748129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eZanA_CHEN 🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872699226846556160",
+        "conversation_id": "2055557709530005909",
+        "created_at": "2026-05-16T15:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055671247384748129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055671247384748129",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055557709530005909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 我告诉我妈自己是ftm以后，她也拿我没追追开玩笑XD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24182,
+          "following_count": 1154,
+          "like_count": 2323,
+          "listed_count": 75,
+          "media_count": 426,
+          "tweet_count": 2247
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-27T17:41:15.000Z",
+        "description": "Ezana/狗王｜ftm hrt2026.4.3｜pansexual｜ASPD｜国际生，日本语勉强中｜线上社交能力很差，还请谅解",
+        "id": "1872699226846556160",
+        "location": "未来电波基地",
+        "name": "EzanaChen🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021642748227420160/gRXK4b0R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 243,
+          "like_count": 2382,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 964
+        },
+        "username": "eZanA_CHEN",
+        "verified": false
+      }
+    ]
+  }
+}

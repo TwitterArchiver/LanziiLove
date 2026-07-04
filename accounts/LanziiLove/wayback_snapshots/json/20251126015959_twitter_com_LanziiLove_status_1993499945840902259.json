@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1993306932908810279",
+    "created_at": "2025-11-26T01:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T02:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993499945840902259"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 90,
+          "normalized_text": "china",
+          "probability": 0.8176,
+          "start": 86,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1000952667860959232",
+          "start": 0,
+          "username": "kaxishk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993499945840902259",
+    "in_reply_to_user_id": "1000952667860959232",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993306932908810279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaxishk Indian account\nThat makes sense\nFirst of all there’s no fkin voodoo dolls in china\nSeconds it’s just a internet meme doll you retard😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59412,
+        "height": 1280,
+        "media_key": "13_1993306866823446528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1993306866823446528/img/g8EYZyk1YTYwG91o.jpg",
+        "public_metrics": {
+          "view_count": 18476
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993306866823446528/vid/avc1/320x568/vECiYSLMWHRR9FDA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993306866823446528/vid/avc1/480x852/4nilkeB_eykBvh-K.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993306866823446528/vid/avc1/720x1280/VDIgNOc5biOqzKd_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1993306866823446528/pl/cIT7eFV2dhKbRk1X.m3u8?v=1b8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1993306932908810279",
+        "created_at": "2025-11-26T01:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T02:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993499945840902259"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 90,
+              "normalized_text": "china",
+              "probability": 0.8176,
+              "start": 86,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1000952667860959232",
+              "start": 0,
+              "username": "kaxishk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993499945840902259",
+        "in_reply_to_user_id": "1000952667860959232",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993306932908810279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaxishk Indian account\nThat makes sense\nFirst of all there’s no fkin voodoo dolls in china\nSeconds it’s just a internet meme doll you retard😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1993306866823446528"
+          ]
+        },
+        "author_id": "1000952667860959232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Katy Perry",
+              "id": "806223011049185280",
+              "name": "Katy Perry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Katy Perry",
+              "id": "806223011049185280",
+              "name": "Katy Perry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Katy Perry",
+              "id": "806223011049185280",
+              "name": "Katy Perry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          }
+        ],
+        "conversation_id": "1993306932908810279",
+        "created_at": "2025-11-25T13:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993306932908810279"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "katy perry",
+              "probability": 0.9165,
+              "start": 46,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/adroMOq5h4",
+              "end": 91,
+              "expanded_url": "https://x.com/kaxishk/status/1993306932908810279/video/1",
+              "media_key": "13_1993306866823446528",
+              "start": 68,
+              "url": "https://t.co/adroMOq5h4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993306932908810279",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 102940,
+          "like_count": 644,
+          "quote_count": 6,
+          "reply_count": 23,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "chinese fans be throwing some voodoo dolls at katy perry on stage😭😭 https://t.co/adroMOq5h4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 不是跨 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好编曲 画画 3DCG cos//985大二计算机科学与技术 第二学位数学 大数据科学//B站6.6万粉丝同名//见证的一律block//音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 151,
+                "start": 140,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1986478231625810336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20759,
+          "following_count": 960,
+          "like_count": 1402,
+          "listed_count": 55,
+          "media_count": 336,
+          "tweet_count": 1681
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-28T04:11:27.000Z",
+        "description": "FAN ACCOUNT | KATY PERRY FOLLOWS ME | POP",
+        "id": "1000952667860959232",
+        "name": "kanishk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1477170538892062721/iZ-5GBPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18824,
+          "following_count": 2773,
+          "like_count": 29218,
+          "listed_count": 29,
+          "media_count": 7975,
+          "tweet_count": 16725
+        },
+        "username": "kaxishk",
+        "verified": true
+      }
+    ]
+  }
+}

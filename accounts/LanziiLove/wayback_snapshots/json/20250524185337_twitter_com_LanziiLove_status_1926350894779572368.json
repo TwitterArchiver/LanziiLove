@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1926346407490859055",
+    "created_at": "2025-05-24T18:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T19:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926350894779572368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1696410116097257472",
+          "start": 0,
+          "username": "RST_AloneStar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926350894779572368",
+    "in_reply_to_user_id": "1696410116097257472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926350750684180658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RST_AloneStar 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1926346407490859055",
+        "created_at": "2025-05-24T18:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T19:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926350894779572368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1696410116097257472",
+              "start": 0,
+              "username": "RST_AloneStar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926350894779572368",
+        "in_reply_to_user_id": "1696410116097257472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926350750684180658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RST_AloneStar 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696410116097257472",
+        "conversation_id": "1926346407490859055",
+        "created_at": "2025-05-24T18:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T19:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926350750684180658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926350750684180658",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926346407490859055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 其实这样也很好\n只要做自己就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "19岁🇨🇳可以叫咱小雫哦w｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜爱好是写歌画画和拍可爱的照片！喜欢各种可爱的东西！｜理智爱国 不喜欢见证哦呜呜｜备用小号@hosh1no_sh1zuku｜涩涩是不可以的！不接任何委托！｜喜欢和善良的孩子做朋友～｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "dexy0306"
+              },
+              {
+                "end": 117,
+                "start": 101,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15433,
+          "following_count": 722,
+          "like_count": 478,
+          "listed_count": 42,
+          "media_count": 175,
+          "tweet_count": 861
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-29T06:31:14.000Z",
+        "description": "CN/EN OK! JP下手 MUG Player |\nBiliBili：_AloneStar_ |\nSister：@Yujiudu |\nCouple Partner：@trifoliateor",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "Yujiudu"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "trifoliateor"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/KeFhX2Z",
+                "end": 23,
+                "expanded_url": "https://b23.tv/KeFhX2Z",
+                "start": 0,
+                "url": "https://t.co/0ibihKmT3t"
+              }
+            ]
+          }
+        },
+        "id": "1696410116097257472",
+        "location": "Mars",
+        "name": "_AloneStar_🍥@QueenStudio",
+        "pinned_tweet_id": "1893544236189901220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852924042577342464/wA7u-hqd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 932,
+          "like_count": 703,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1302
+        },
+        "url": "https://t.co/0ibihKmT3t",
+        "username": "RST_AloneStar",
+        "verified": false
+      }
+    ]
+  }
+}

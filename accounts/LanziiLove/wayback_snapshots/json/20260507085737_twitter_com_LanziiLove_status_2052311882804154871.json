@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2052290042085990718",
+    "created_at": "2026-05-07T08:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T09:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052311882804154871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1966354687810277376",
+          "start": 0,
+          "username": "nbnbnb44731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052311882804154871",
+    "in_reply_to_user_id": "1966354687810277376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052294853137240275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nbnbnb44731 水墨捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2052290042085990718",
+        "created_at": "2026-05-07T08:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052311882804154871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1966354687810277376",
+              "start": 0,
+              "username": "nbnbnb44731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052311882804154871",
+        "in_reply_to_user_id": "1966354687810277376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052294853137240275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nbnbnb44731 水墨捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966354687810277376",
+        "conversation_id": "2052290042085990718",
+        "created_at": "2026-05-07T07:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052294853137240275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052294853137240275",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052290042085990718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 兰州的水墨还是张掖的哇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！希望被称作She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意平台公益捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23219,
+          "following_count": 1070,
+          "like_count": 2065,
+          "listed_count": 69,
+          "media_count": 413,
+          "tweet_count": 2109
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T04:14:34.000Z",
+        "description": "",
+        "id": "1966354687810277376",
+        "name": "nbnbnb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966354802633592832/O8w09gWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 81,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 50
+        },
+        "username": "nbnbnb44731",
+        "verified": false
+      }
+    ]
+  }
+}

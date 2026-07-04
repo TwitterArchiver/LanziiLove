@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1911783024582107137"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1911783037450461342",
+    "created_at": "2025-04-14T14:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T15:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1911783037450461342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 34,
+          "id": "1878333765514346496",
+          "start": 18,
+          "username": "hosh1no_shizuku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s24akesYaq",
+          "end": 178,
+          "expanded_url": "https://x.com/LanziiLove/status/1911783037450461342/photo/1",
+          "media_key": "3_1911783024582107137",
+          "start": 155,
+          "url": "https://t.co/s24akesYaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911783037450461342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【大号被盗 情况说明】\n①被盗：大号@hosh1no_shizuku账号被盗且封号，被改邮箱，大概率找不回来了\n②自证：这个号是原来大号简介里@的小号，看图，B站5w粉号也发动态了 这个是唯一本人号\n③我没有任何tg账号，且纯清水，没有任何福利内容，一切其他账号都是骗子\n④求转推帮忙🥲谢谢喵 孩子现在很难过 https://t.co/s24akesYaq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [hosh1no_shizuku].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "hosh1no_shizuku",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "hosh1no_shizuku"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1911783024582107137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GogEiCPWoAEXH7R.jpg",
+        "width": 863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911783024582107137"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1911783037450461342",
+        "created_at": "2025-04-14T14:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T15:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911783037450461342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1878333765514346496",
+              "start": 18,
+              "username": "hosh1no_shizuku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s24akesYaq",
+              "end": 178,
+              "expanded_url": "https://x.com/LanziiLove/status/1911783037450461342/photo/1",
+              "media_key": "3_1911783024582107137",
+              "start": 155,
+              "url": "https://t.co/s24akesYaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911783037450461342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【大号被盗 情况说明】\n①被盗：大号@hosh1no_shizuku账号被盗且封号，被改邮箱，大概率找不回来了\n②自证：这个号是原来大号简介里@的小号，看图，B站5w粉号也发动态了 这个是唯一本人号\n③我没有任何tg账号，且纯清水，没有任何福利内容，一切其他账号都是骗子\n④求转推帮忙🥲谢谢喵 孩子现在很难过 https://t.co/s24akesYaq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "大号@hosh1no_shizuku被盗了 这个是之前大号简介@的小号 看我主页证明 求宝子们转推 冒充狗@FuturistBa51980帮忙举报一下谢谢！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "hosh1no_shizuku"
+              },
+              {
+                "end": 69,
+                "start": 53,
+                "username": "FuturistBa51980"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "映鏡R3-DMPT",
+        "name": "星野雫丶Shizuku（唯一真号 主页查证）",
+        "pinned_tweet_id": "1773369407219040626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 71,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 160
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2052686004893725057",
+    "created_at": "2026-05-08T18:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T19:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052819680767996294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1871711593375162369",
+          "start": 0,
+          "username": "ShuoQing0226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052819680767996294",
+    "in_reply_to_user_id": "1871711593375162369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052819336923058316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShuoQing0226 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2052686004893725057",
+        "created_at": "2026-05-08T18:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T19:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052819680767996294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1871711593375162369",
+              "start": 0,
+              "username": "ShuoQing0226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052819680767996294",
+        "in_reply_to_user_id": "1871711593375162369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052819336923058316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShuoQing0226 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871711593375162369",
+        "conversation_id": "2052686004893725057",
+        "created_at": "2026-05-08T18:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T19:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052819336923058316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052819336923058316",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052686004893725057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 能不能不要用可露希尔这个名字，搞不懂为什么戾气这么大，像死了爹妈一样去攻击别人，攻击别人又没办法让自己爹妈复活，希望小星野不要受到这种烂人的影响。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！希望被称作She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23528,
+          "following_count": 1092,
+          "like_count": 2113,
+          "listed_count": 70,
+          "media_count": 415,
+          "tweet_count": 2135
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-25T00:16:43.000Z",
+        "description": "",
+        "id": "1871711593375162369",
+        "name": "为朝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036101574825807872/ViUVgW4S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 184,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "ShuoQing0226",
+        "verified": false
+      }
+    ]
+  }
+}

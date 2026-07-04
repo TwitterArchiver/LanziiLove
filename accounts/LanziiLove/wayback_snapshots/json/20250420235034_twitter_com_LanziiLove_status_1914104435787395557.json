@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1913884615284310061",
+    "created_at": "2025-04-20T23:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T00:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914104435787395557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1721359471849742336",
+          "start": 0,
+          "username": "wwwxxxATRI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914104435787395557",
+    "in_reply_to_user_id": "1721359471849742336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914101881145901421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwwxxxATRI 好滴～\n谢谢w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1913884615284310061",
+        "created_at": "2025-04-20T23:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T00:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914104435787395557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721359471849742336",
+              "start": 0,
+              "username": "wwwxxxATRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914104435787395557",
+        "in_reply_to_user_id": "1721359471849742336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914101881145901421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwxxxATRI 好滴～\n谢谢w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721359471849742336",
+        "conversation_id": "1913884615284310061",
+        "created_at": "2025-04-20T23:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T00:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914101881145901421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914101881145901421",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913884615284310061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 小雫皮肤不好还是少化妆，素颜其实也很好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号@kitsunehashirao被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友 他叫然然～ 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "kitsunehashirao"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku（原号被盗 请转到该新号）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10652,
+          "following_count": 675,
+          "like_count": 259,
+          "listed_count": 24,
+          "media_count": 96,
+          "tweet_count": 378
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T02:51:06.000Z",
+        "description": "",
+        "id": "1721359471849742336",
+        "location": "不知名的小地",
+        "name": "凉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895282659095388160/5reHomfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 56,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 57
+        },
+        "username": "wwwxxxATRI",
+        "verified": false
+      }
+    ]
+  }
+}

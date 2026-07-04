@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1949333180739211482",
+    "created_at": "2025-07-27T05:41:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T06:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949344408962322804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1189868405190381568",
+          "start": 0,
+          "username": "bKjDU7b0mu9EIEH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949344408962322804",
+    "in_reply_to_user_id": "1189868405190381568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949340478073184670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bKjDU7b0mu9EIEH 这套好像已经下架了qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1949333180739211482",
+        "created_at": "2025-07-27T05:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T06:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949344408962322804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1189868405190381568",
+              "start": 0,
+              "username": "bKjDU7b0mu9EIEH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949344408962322804",
+        "in_reply_to_user_id": "1189868405190381568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949340478073184670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bKjDU7b0mu9EIEH 这套好像已经下架了qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1189868405190381568",
+        "conversation_id": "1949333180739211482",
+        "created_at": "2025-07-27T05:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T06:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949340478073184670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949340478073184670",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949333180739211482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 主包主包衣服有链接吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "dexy0306"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17844,
+          "following_count": 860,
+          "like_count": 968,
+          "listed_count": 46,
+          "media_count": 239,
+          "tweet_count": 1312
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-31T11:35:17.000Z",
+        "description": "👅",
+        "id": "1189868405190381568",
+        "name": "Snanami",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1189868500258578432/DIMKPRa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 1157,
+          "like_count": 375,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 176
+        },
+        "username": "bKjDU7b0mu9EIEH",
+        "verified": false
+      }
+    ]
+  }
+}

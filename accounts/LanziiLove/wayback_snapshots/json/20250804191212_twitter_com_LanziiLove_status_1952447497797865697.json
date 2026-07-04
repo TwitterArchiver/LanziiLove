@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1952447497797865697",
+    "created_at": "2025-08-04T19:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T20:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952447497797865697"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1952447497797865697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的排便就像EDG的进攻\n\n时而猛火直下 时而一泄千里 时而纯纯便秘\n\n但是现在是凌晨三点 所以就像EDG的加时进攻一样便秘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1952447497797865697",
+        "created_at": "2025-08-04T19:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T20:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952447497797865697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952447497797865697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的排便就像EDG的进攻\n\n时而猛火直下 时而一泄千里 时而纯纯便秘\n\n但是现在是凌晨三点 所以就像EDG的加时进攻一样便秘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "一个人类 // SNS当朋友圈发 照片高P // 男友@Dexy0306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952297088974462977/bue5f0ca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17930,
+          "following_count": 864,
+          "like_count": 984,
+          "listed_count": 45,
+          "media_count": 246,
+          "tweet_count": 1333
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

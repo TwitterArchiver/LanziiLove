@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1655050673405456385",
+    "created_at": "2024-10-03T05:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T06:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841705754048528447"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1841705754048528447",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1655050673405456385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Ewwwwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1655050673405456385",
+        "created_at": "2024-10-03T05:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T06:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841705754048528447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1841705754048528447",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1655050673405456385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Ewwwwww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1655050096311140352"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1655050673405456385",
+        "created_at": "2023-05-07T03:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-07T03:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1655050673405456385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kG2IY2kHQ4",
+              "end": 301,
+              "expanded_url": "https://x.com/LanziiLove/status/1655050673405456385/photo/1",
+              "media_key": "3_1655050096311140352",
+              "start": 278,
+              "url": "https://t.co/kG2IY2kHQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1655050673405456385",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大変だ\nWhile my package was missing and that I was phoning the delivering company, I just stepped onto a mega poop of a dog or something. But I was afraid to tell it to my mom , so the dirty thing just followed me for the whole week. Each time I sit down could I smell it.Horrible https://t.co/kG2IY2kHQ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "My Music Works♪：Spotify/SoundCloud/Youtube @LanziiLove My Illustrations：Pixiv/Twitter @LanziiLove 中文母语 English Mastered 日本語を勉強している",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "LanziiLove"
+              },
+              {
+                "end": 97,
+                "start": 86,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "映鏡R3-DMPT",
+        "name": "ランジーロブ",
+        "pinned_tweet_id": "1773369407219040626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756276667683889152/T34jRFSA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 68,
+          "like_count": 244,
+          "listed_count": 0,
+          "tweet_count": 154
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

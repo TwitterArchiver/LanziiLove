@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1933358943298027630",
+    "created_at": "2025-06-13T13:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T14:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933511124894560604"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "pantyhose",
+          "probability": 0.4908,
+          "start": 34,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1902014453891366912",
+          "start": 0,
+          "username": "Adelardrans"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933511124894560604",
+    "in_reply_to_user_id": "1902014453891366912",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933358943298027630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Adelardrans Imagine that wearing pantyhose inside"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59930,
+        "height": 1280,
+        "media_key": "7_1933358845583372288",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1933358845583372288/pu/img/AxCXWSpOcQhYGO5O.jpg",
+        "public_metrics": {
+          "view_count": 2042100
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933358845583372288/pu/vid/avc1/320x568/HoiqiYS8rcxJjI7X.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933358845583372288/pu/vid/avc1/480x852/gZ9QKCrv5kisqS43.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933358845583372288/pu/vid/avc1/720x1280/28hN73uRO8DIoyGF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1933358845583372288/pu/pl/cH-k_MKGpq9ydcSc.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1933358943298027630",
+        "created_at": "2025-06-13T13:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T14:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933511124894560604"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "pantyhose",
+              "probability": 0.4908,
+              "start": 34,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1902014453891366912",
+              "start": 0,
+              "username": "Adelardrans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933511124894560604",
+        "in_reply_to_user_id": "1902014453891366912",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933358943298027630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Adelardrans Imagine that wearing pantyhose inside"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1933358845583372288"
+          ]
+        },
+        "author_id": "1902014453891366912",
+        "conversation_id": "1933358943298027630",
+        "created_at": "2025-06-13T03:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T04:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933358943298027630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T0ztKAeK5N",
+              "end": 65,
+              "expanded_url": "https://x.com/Adelardrans/status/1933358943298027630/video/1",
+              "media_key": "7_1933358845583372288",
+              "start": 42,
+              "url": "https://t.co/T0ztKAeK5N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933358943298027630",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1064,
+          "impression_count": 2692362,
+          "like_count": 3157,
+          "quote_count": 86,
+          "reply_count": 230,
+          "retweet_count": 204
+        },
+        "reply_settings": "everyone",
+        "text": "Imagine that without wearing underwear 😂😂 https://t.co/T0ztKAeK5N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜不是女孩子也不是男娘 是雫基米星人喵！｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "dexy0306"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16924,
+          "following_count": 749,
+          "like_count": 728,
+          "listed_count": 44,
+          "media_count": 202,
+          "tweet_count": 1143
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T15:11:45.000Z",
+        "description": "Work hard, play with passion, and dream high",
+        "id": "1902014453891366912",
+        "name": "sanmaru",
+        "pinned_tweet_id": "1929423569517486183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926220336053239808/K0mEZ8IJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4281,
+          "following_count": 2096,
+          "like_count": 23979,
+          "listed_count": 3,
+          "media_count": 116,
+          "tweet_count": 12563
+        },
+        "username": "Adelardrans",
+        "verified": true
+      }
+    ]
+  }
+}

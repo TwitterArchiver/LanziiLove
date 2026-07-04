@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914151059234136064"
+      ],
+      "media_source_tweet_id": [
+        "1914151075214692521"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1914153300867571780",
+    "created_at": "2025-04-21T03:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T04:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914153300867571780"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "伪娘"
+        },
+        {
+          "end": 38,
+          "start": 32,
+          "tag": "伪娘の日常"
+        },
+        {
+          "end": 46,
+          "start": 39,
+          "tag": "可爱的男孩子"
+        },
+        {
+          "end": 50,
+          "start": 47,
+          "tag": "男娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1898274244938940419",
+          "start": 3,
+          "username": "youzikeai345"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gWZj2mQO3Q",
+          "end": 74,
+          "expanded_url": "https://x.com/youzikeai345/status/1914151075214692521/photo/1",
+          "media_key": "3_1914151059234136064",
+          "start": 51,
+          "url": "https://t.co/gWZj2mQO3Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914153300867571780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914151075214692521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youzikeai345: 裤裤太短了啦～😌\n\n#伪娘 #伪娘の日常 #可爱的男孩子 #男娘 https://t.co/gWZj2mQO3Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1914151059234136064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpBuPywWoAAE0Tx.jpg",
+        "width": 1539
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914151059234136064"
+          ],
+          "media_source_tweet_id": [
+            "1914151075214692521"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1914153300867571780",
+        "created_at": "2025-04-21T03:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T04:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914153300867571780"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "伪娘"
+            },
+            {
+              "end": 38,
+              "start": 32,
+              "tag": "伪娘の日常"
+            },
+            {
+              "end": 46,
+              "start": 39,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "男娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1898274244938940419",
+              "start": 3,
+              "username": "youzikeai345"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gWZj2mQO3Q",
+              "end": 74,
+              "expanded_url": "https://x.com/youzikeai345/status/1914151075214692521/photo/1",
+              "media_key": "3_1914151059234136064",
+              "start": 51,
+              "url": "https://t.co/gWZj2mQO3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914153300867571780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914151075214692521",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youzikeai345: 裤裤太短了啦～😌\n\n#伪娘 #伪娘の日常 #可爱的男孩子 #男娘 https://t.co/gWZj2mQO3Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914151059234136064"
+          ]
+        },
+        "author_id": "1898274244938940419",
+        "conversation_id": "1914151075214692521",
+        "created_at": "2025-04-21T02:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T03:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914151075214692521"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "伪娘"
+            },
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "伪娘の日常"
+            },
+            {
+              "end": 28,
+              "start": 21,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gWZj2mQO3Q",
+              "end": 56,
+              "expanded_url": "https://x.com/youzikeai345/status/1914151075214692521/photo/1",
+              "media_key": "3_1914151059234136064",
+              "start": 33,
+              "url": "https://t.co/gWZj2mQO3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914151075214692521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 65,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "裤裤太短了啦～😌\n\n#伪娘 #伪娘の日常 #可爱的男孩子 #男娘 https://t.co/gWZj2mQO3Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号@kitsunehashirao被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友 他叫然然～ 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "kitsunehashirao"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku（原号被盗 请转到该新号）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10687,
+          "following_count": 677,
+          "like_count": 259,
+          "listed_count": 24,
+          "media_count": 96,
+          "tweet_count": 380
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T07:27:16.000Z",
+        "description": "主号:@c581511｜是可爱的柚柚呢🍩｜拍腿腿狂魔👾｜最喜欢的事情是吃吃吃🍟想要变得很可爱🦄｜希望大家可以喜欢💕｜多多关注人家🍫｜过🚪请联系主号💗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "c581511"
+              }
+            ]
+          }
+        },
+        "id": "1898274244938940419",
+        "location": "距离你500m",
+        "name": "柚柚柚子",
+        "pinned_tweet_id": "1914151075214692521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899107873759862784/JACyPf2d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 45,
+          "like_count": 39,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 55
+        },
+        "username": "youzikeai345",
+        "verified": false
+      }
+    ]
+  }
+}

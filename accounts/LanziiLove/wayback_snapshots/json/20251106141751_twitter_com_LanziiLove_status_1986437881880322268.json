@@ -1,0 +1,491 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781972125179518977",
+          "name": "Auto Manufacturer - Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10044199219",
+          "name": "Tesla"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Car culture",
+          "id": "847528391163092993",
+          "name": "Automotive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Hybrid and electric vehicles",
+          "id": "847528576551337984",
+          "name": "Hybrid and electric vehicles"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Luxury",
+          "id": "847528646185070592",
+          "name": "Luxury Cars"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10044199219",
+          "name": "Tesla"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Car culture",
+          "id": "847528391163092993",
+          "name": "Automotive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196845866138533888",
+          "name": "Automobile Brands"
+        }
+      }
+    ],
+    "conversation_id": "1986437881880322268",
+    "created_at": "2025-11-06T14:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T15:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986437881880322268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/junshiguancha/…",
+          "end": 299,
+          "expanded_url": "https://twitter.com/junshiguancha/status/1986414042924392737",
+          "start": 276,
+          "url": "https://t.co/63OCLbUUqx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986437881880322268",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986414042924392737",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Days before aigc they’d say it’s computer graphics \nAfter that they’d say it’s aigc\nAfter livestream they said there’s a human inside\nNow they’re saying it’s a disabled with a fake leg\n\nBut they would believe it and start boasting it from the very start if it was from Tesla🤣 https://t.co/63OCLbUUqx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44164,
+        "height": 720,
+        "media_key": "13_1986413432082735108",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1986413432082735108/img/jmGkbGDU8c52xzlO.jpg",
+        "public_metrics": {
+          "view_count": 4819
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1986413432082735108/vid/avc1/320x320/VE5xfUvqKrtYHhB0.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1986413432082735108/vid/avc1/540x540/MapZY2jwhq9Ifqdr.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1986413432082735108/vid/avc1/720x720/1k2S38R7C3XwA8iI.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1986413432082735108/pl/zQ6mpscJRpyGC4k1.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044199219",
+              "name": "Tesla"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hybrid and electric vehicles",
+              "id": "847528576551337984",
+              "name": "Hybrid and electric vehicles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Luxury",
+              "id": "847528646185070592",
+              "name": "Luxury Cars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10044199219",
+              "name": "Tesla"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          }
+        ],
+        "conversation_id": "1986437881880322268",
+        "created_at": "2025-11-06T14:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T15:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986437881880322268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/junshiguancha/…",
+              "end": 299,
+              "expanded_url": "https://twitter.com/junshiguancha/status/1986414042924392737",
+              "start": 276,
+              "url": "https://t.co/63OCLbUUqx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986437881880322268",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986414042924392737",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Days before aigc they’d say it’s computer graphics \nAfter that they’d say it’s aigc\nAfter livestream they said there’s a human inside\nNow they’re saying it’s a disabled with a fake leg\n\nBut they would believe it and start boasting it from the very start if it was from Tesla🤣 https://t.co/63OCLbUUqx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1986413432082735108"
+          ]
+        },
+        "author_id": "1918996104970141696",
+        "conversation_id": "1986414042924392737",
+        "created_at": "2025-11-06T12:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T13:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986414042924392737"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 116,
+              "normalized_text": "Turing",
+              "probability": 0.7063,
+              "start": 111,
+              "type": "Other"
+            },
+            {
+              "end": 138,
+              "normalized_text": "XPengIRON",
+              "probability": 0.4668,
+              "start": 130,
+              "type": "Other"
+            },
+            {
+              "end": 149,
+              "normalized_text": "Chinatech",
+              "probability": 0.6263,
+              "start": 141,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 129,
+              "tag": "XPengIRON"
+            },
+            {
+              "end": 150,
+              "start": 140,
+              "tag": "Chinatech"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VXz2FfFpvv",
+              "end": 174,
+              "expanded_url": "https://x.com/junshiguancha/status/1986414042924392737/video/1",
+              "media_key": "13_1986413432082735108",
+              "start": 151,
+              "url": "https://t.co/VXz2FfFpvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986414042924392737",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 9512,
+          "like_count": 240,
+          "quote_count": 15,
+          "reply_count": 16,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "CHINA🇨🇳 INSANITY: Hot new robot accused of being a HUMAN SUIT – CEO goes LIVE to swear “IT’S NOT ME!”  Reverse Turing Test LIVE! #XPengIRON #Chinatech https://t.co/VXz2FfFpvv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 不是跨 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好：编曲 画画 3DCG Cos//985大二计算机科学与技术 二学位数学//B站6.5万粉丝同名//因社恐不扩列sry 偶尔酌情回fo// 音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20308,
+          "following_count": 944,
+          "like_count": 1295,
+          "listed_count": 53,
+          "media_count": 324,
+          "tweet_count": 1597
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T11:48:29.000Z",
+        "description": "China's Defense & Tech Edge ⚡  \nVerified breakthroughs | News\nNo noise, just signal. FactsOnly",
+        "id": "1918996104970141696",
+        "location": "China",
+        "name": "PLA_Overwhelm",
+        "pinned_tweet_id": "1976504084426555632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918996244657233920/oarwy7fz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10864,
+          "following_count": 9,
+          "like_count": 3426,
+          "listed_count": 114,
+          "media_count": 1405,
+          "tweet_count": 4236
+        },
+        "username": "junshiguancha",
+        "verified": false
+      }
+    ]
+  }
+}

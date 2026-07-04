@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067437083158016000",
+        "3_2067437082931552256"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2067437091919913445",
+    "created_at": "2026-06-18T02:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T03:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067437091919913445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9GxG3BZatQ",
+          "end": 42,
+          "expanded_url": "https://x.com/LanziiLove/status/2067437091919913445/photo/1",
+          "media_key": "3_2067437083158016000",
+          "start": 19,
+          "url": "https://t.co/9GxG3BZatQ"
+        },
+        {
+          "display_url": "pic.x.com/9GxG3BZatQ",
+          "end": 42,
+          "expanded_url": "https://x.com/LanziiLove/status/2067437091919913445/photo/1",
+          "media_key": "3_2067437082931552256",
+          "start": 19,
+          "url": "https://t.co/9GxG3BZatQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067437091919913445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "决定了\n\n我就要这样长(｡･ω･｡) https://t.co/9GxG3BZatQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067437083158016000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEDEskacAADePg.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067437082931552256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEDErua4AArSU8.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067437083158016000",
+            "3_2067437082931552256"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067437091919913445",
+        "created_at": "2026-06-18T02:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067437091919913445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9GxG3BZatQ",
+              "end": 42,
+              "expanded_url": "https://x.com/LanziiLove/status/2067437091919913445/photo/1",
+              "media_key": "3_2067437083158016000",
+              "start": 19,
+              "url": "https://t.co/9GxG3BZatQ"
+            },
+            {
+              "display_url": "pic.x.com/9GxG3BZatQ",
+              "end": 42,
+              "expanded_url": "https://x.com/LanziiLove/status/2067437091919913445/photo/1",
+              "media_key": "3_2067437082931552256",
+              "start": 19,
+              "url": "https://t.co/9GxG3BZatQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067437091919913445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "决定了\n\n我就要这样长(｡･ω･｡) https://t.co/9GxG3BZatQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！直女w💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人！🏠我永生挚爱的男友然桑@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25605,
+          "following_count": 1268,
+          "like_count": 3147,
+          "listed_count": 79,
+          "media_count": 466,
+          "tweet_count": 2808
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

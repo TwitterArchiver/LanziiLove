@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1913042085223207200",
+    "created_at": "2025-04-18T01:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T02:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913042085223207200"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/animalkyat/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/animalkyat/status/1912375093378052212",
+          "start": 2,
+          "url": "https://t.co/cLhNR4eRi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913042085223207200",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912375093378052212",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥹 https://t.co/cLhNR4eRi3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20400,
+        "height": 1280,
+        "media_key": "7_1597792835260252160",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1597792835260252160/pu/img/ePj8G9f7IhemW--4.jpg",
+        "public_metrics": {
+          "view_count": 6686600
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1597792835260252160/pu/vid/320x568/ciPSlZf0Ni4wf-Uz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1597792835260252160/pu/vid/480x852/AQEHxxSeLEU9P4zC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1597792835260252160/pu/vid/720x1280/UoPUv2y6z3u6Lazj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1597792835260252160/pu/pl/ZHe-eBkEsjHydPwd.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1913042085223207200",
+        "created_at": "2025-04-18T01:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T02:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913042085223207200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/animalkyat/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/animalkyat/status/1912375093378052212",
+              "start": 2,
+              "url": "https://t.co/cLhNR4eRi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913042085223207200",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912375093378052212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥹 https://t.co/cLhNR4eRi3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1597792835260252160"
+          ],
+          "media_source_tweet_id": [
+            "1597793022498209792"
+          ]
+        },
+        "author_id": "763150487046590465",
+        "conversation_id": "1912375093378052212",
+        "created_at": "2025-04-16T05:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T06:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912375093378052212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZmOIaq4HyC",
+              "end": 42,
+              "expanded_url": "https://x.com/NEKOLAND13/status/1597793022498209792/video/1",
+              "media_key": "7_1597792835260252160",
+              "start": 19,
+              "url": "https://t.co/ZmOIaq4HyC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912375093378052212",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10393,
+          "impression_count": 6089252,
+          "like_count": 106178,
+          "quote_count": 783,
+          "reply_count": 190,
+          "retweet_count": 8636
+        },
+        "reply_settings": "everyone",
+        "text": "スマホにチュールを塗って撮影してみた https://t.co/ZmOIaq4HyC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号重生】19岁🇨🇳男娘小雫｜2万fo大号@hosh1no_shizuku被盗 本号为唯一真号 置顶查证｜纯清水无黄无福利无tg 其他账号均为假冒｜🥺求帮帮孩子新号重生 关注我就回fo 求转推（没回fo就是到上限了）｜已有男朋友 他叫然然～ 是纯爱哦｜不设门槛 同好可扩列｜新小号@hosh1no_sh1zuku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "hosh1no_shizuku"
+              },
+              {
+                "end": 157,
+                "start": 141,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku（原号被盗 请转到该新号）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8087,
+          "following_count": 613,
+          "like_count": 249,
+          "listed_count": 19,
+          "media_count": 84,
+          "tweet_count": 308
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-09T23:10:29.000Z",
+        "description": "いろんな動物をお届けします🦥🐿️🦜🐈🐓🦮🦧🐢🐍🐕🐇お仕事などは@sizuezeusまで",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "sizuezeus"
+              }
+            ]
+          }
+        },
+        "id": "763150487046590465",
+        "location": "日本 東京",
+        "name": "癒しの動物",
+        "pinned_tweet_id": "1892956239308702152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893589723161280512/ea2nEpd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87798,
+          "following_count": 33,
+          "like_count": 282,
+          "listed_count": 306,
+          "media_count": 1259,
+          "tweet_count": 1395
+        },
+        "username": "animalkyat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924294286947782656"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1924294298620825866",
+    "created_at": "2025-05-19T02:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T03:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924294298620825866"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5ti3tCTRpD",
+          "end": 23,
+          "expanded_url": "https://x.com/LanziiLove/status/1924294298620825866/photo/1",
+          "media_key": "3_1924294286947782656",
+          "start": 0,
+          "url": "https://t.co/5ti3tCTRpD"
+        },
+        {
+          "display_url": "x.com/04177_realname…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/04177_realname/status/1923992131695411696",
+          "start": 24,
+          "url": "https://t.co/DllZzFZQKp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924294298620825866",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923992131695411696",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/5ti3tCTRpD https://t.co/DllZzFZQKp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1860,
+        "media_key": "3_1924294286947782656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrR3dWjWEAAnLQB.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1104,
+        "media_key": "3_1923992119074598912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrNko3gXsAAc8OS.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924294286947782656"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1924294298620825866",
+        "created_at": "2025-05-19T02:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T03:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924294298620825866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ti3tCTRpD",
+              "end": 23,
+              "expanded_url": "https://x.com/LanziiLove/status/1924294298620825866/photo/1",
+              "media_key": "3_1924294286947782656",
+              "start": 0,
+              "url": "https://t.co/5ti3tCTRpD"
+            },
+            {
+              "display_url": "x.com/04177_realname…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/04177_realname/status/1923992131695411696",
+              "start": 24,
+              "url": "https://t.co/DllZzFZQKp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924294298620825866",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923992131695411696",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/5ti3tCTRpD https://t.co/DllZzFZQKp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923992119074598912"
+          ]
+        },
+        "author_id": "1680508885394927616",
+        "conversation_id": "1923992131695411696",
+        "created_at": "2025-05-18T06:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T07:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923992131695411696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ko5Jnzemgx",
+              "end": 25,
+              "expanded_url": "https://x.com/04177_realname/status/1923992131695411696/photo/1",
+              "media_key": "3_1923992119074598912",
+              "start": 2,
+              "url": "https://t.co/ko5Jnzemgx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923992131695411696",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 183601,
+          "like_count": 1307,
+          "quote_count": 6,
+          "reply_count": 21,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "6 https://t.co/ko5Jnzemgx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "19岁 无🍬🇨🇳男娘 可以叫咱小雫哦w｜最爱的人是妈妈和老公｜男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜理智爱国 不见证 ｜纯清水 无黄无福利 无任何业务 私信骚扰等着挨骂吧｜无门槛 同好可酌情扩列｜备用小号@hosh1no_sh1zuku｜全网同名 只有B站/X/抖音有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "dexy0306"
+              },
+              {
+                "end": 130,
+                "start": 114,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14667,
+          "following_count": 719,
+          "like_count": 426,
+          "listed_count": 40,
+          "media_count": 166,
+          "tweet_count": 762
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "不要自杀，我可以陪你聊天。",
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1864147494676123745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10741,
+          "following_count": 6154,
+          "like_count": 62486,
+          "listed_count": 31,
+          "media_count": 2289,
+          "tweet_count": 17533
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

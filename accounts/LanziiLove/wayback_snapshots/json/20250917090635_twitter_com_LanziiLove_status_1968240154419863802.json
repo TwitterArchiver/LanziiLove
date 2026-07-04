@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968240144361873408",
+        "3_1968240144324173826",
+        "3_1968240144319913984",
+        "3_1968240144366080000"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1968240154419863802",
+    "created_at": "2025-09-17T09:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T10:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968240154419863802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 20,
+          "id": "1754187078953529346",
+          "start": 11,
+          "username": "yLIYa778"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vWdhPr48QY",
+          "end": 127,
+          "expanded_url": "https://x.com/LanziiLove/status/1968240154419863802/photo/1",
+          "media_key": "3_1968240144361873408",
+          "start": 104,
+          "url": "https://t.co/vWdhPr48QY"
+        },
+        {
+          "display_url": "pic.x.com/vWdhPr48QY",
+          "end": 127,
+          "expanded_url": "https://x.com/LanziiLove/status/1968240154419863802/photo/1",
+          "media_key": "3_1968240144324173826",
+          "start": 104,
+          "url": "https://t.co/vWdhPr48QY"
+        },
+        {
+          "display_url": "pic.x.com/vWdhPr48QY",
+          "end": 127,
+          "expanded_url": "https://x.com/LanziiLove/status/1968240154419863802/photo/1",
+          "media_key": "3_1968240144319913984",
+          "start": 104,
+          "url": "https://t.co/vWdhPr48QY"
+        },
+        {
+          "display_url": "pic.x.com/vWdhPr48QY",
+          "end": 127,
+          "expanded_url": "https://x.com/LanziiLove/status/1968240154419863802/photo/1",
+          "media_key": "3_1968240144366080000",
+          "start": 104,
+          "url": "https://t.co/vWdhPr48QY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968240154419863802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👻图打码（并没有打码）@yLIYa778 \nBro美颜开到飞起都还是张飞柱脸无药可救 自己美颜开得不亦乐乎每张图都长得不一样 还在那说你爹开美颜开得像伪人😅你这种线下真有人看得上？别让我遇见恶心我眼睛就行了 https://t.co/vWdhPr48QY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 642,
+        "media_key": "3_1968240144361873408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CX-61aYAA0kT0.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968240144324173826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CX-6sbIAI4Ik3.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968240144319913984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CX-6raIAAl5LQ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1968240144366080000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CX-62akAA_2ky.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968240144361873408",
+            "3_1968240144324173826",
+            "3_1968240144319913984",
+            "3_1968240144366080000"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1968240154419863802",
+        "created_at": "2025-09-17T09:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T10:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968240154419863802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1754187078953529346",
+              "start": 11,
+              "username": "yLIYa778"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vWdhPr48QY",
+              "end": 127,
+              "expanded_url": "https://x.com/LanziiLove/status/1968240154419863802/photo/1",
+              "media_key": "3_1968240144361873408",
+              "start": 104,
+              "url": "https://t.co/vWdhPr48QY"
+            },
+            {
+              "display_url": "pic.x.com/vWdhPr48QY",
+              "end": 127,
+              "expanded_url": "https://x.com/LanziiLove/status/1968240154419863802/photo/1",
+              "media_key": "3_1968240144324173826",
+              "start": 104,
+              "url": "https://t.co/vWdhPr48QY"
+            },
+            {
+              "display_url": "pic.x.com/vWdhPr48QY",
+              "end": 127,
+              "expanded_url": "https://x.com/LanziiLove/status/1968240154419863802/photo/1",
+              "media_key": "3_1968240144319913984",
+              "start": 104,
+              "url": "https://t.co/vWdhPr48QY"
+            },
+            {
+              "display_url": "pic.x.com/vWdhPr48QY",
+              "end": 127,
+              "expanded_url": "https://x.com/LanziiLove/status/1968240154419863802/photo/1",
+              "media_key": "3_1968240144366080000",
+              "start": 104,
+              "url": "https://t.co/vWdhPr48QY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968240154419863802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👻图打码（并没有打码）@yLIYa778 \nBro美颜开到飞起都还是张飞柱脸无药可救 自己美颜开得不亦乐乎每张图都长得不一样 还在那说你爹开美颜开得像伪人😅你这种线下真有人看得上？别让我遇见恶心我眼睛就行了 https://t.co/vWdhPr48QY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好 编曲&画画&3DCG//985大二计算机科学与技术 第二学位数学//B站6.2万粉丝同名//中立生物 不主动攻击 阴阳我会被我攻击// 音乐&绘画作品 音乐平台&Pixiv@LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962507406770155521/giP0winc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18201,
+          "following_count": 898,
+          "like_count": 1127,
+          "listed_count": 46,
+          "media_count": 281,
+          "tweet_count": 1447
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-04T16:56:28.000Z",
+        "description": "睡醒一觉，我依然在你身边",
+        "id": "1754187078953529346",
+        "location": "江苏",
+        "name": "瞳",
+        "pinned_tweet_id": "1915391697779098093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965014425674670081/CXaTRuoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2582,
+          "following_count": 82,
+          "like_count": 215,
+          "listed_count": 5,
+          "media_count": 47,
+          "tweet_count": 431
+        },
+        "username": "yLIYa778",
+        "verified": false
+      }
+    ]
+  }
+}

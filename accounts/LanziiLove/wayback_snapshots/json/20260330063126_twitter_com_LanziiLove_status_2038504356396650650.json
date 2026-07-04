@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2038465107072798890",
+    "created_at": "2026-03-30T06:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T07:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038504356396650650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1692820634328526848",
+          "start": 0,
+          "username": "Aihime_Haonaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038504356396650650",
+    "in_reply_to_user_id": "1692820634328526848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038502858849722605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aihime_Haonaa 久しぶり！ありがとう！៸៸᳐&gt;⩊&lt;៸៸᳐❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2038465107072798890",
+        "created_at": "2026-03-30T06:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T07:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038504356396650650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1692820634328526848",
+              "start": 0,
+              "username": "Aihime_Haonaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038504356396650650",
+        "in_reply_to_user_id": "1692820634328526848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038502858849722605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aihime_Haonaa 久しぶり！ありがとう！៸៸᳐&gt;⩊&lt;៸៸᳐❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692820634328526848",
+        "conversation_id": "2038465107072798890",
+        "created_at": "2026-03-30T06:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T07:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038502858849722605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038502858849722605",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038465107072798890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 好久不见♡\n好可爱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫 平时喜欢打打游戏玩玩cos发照片 账号纯绿日常向 已经有对象啦@dexy0306 B站6.7w粉同名的是我本人号 不定期直播打游戏 祝你生活愉快～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22134,
+          "following_count": 991,
+          "like_count": 1725,
+          "listed_count": 66,
+          "media_count": 365,
+          "tweet_count": 1857
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-19T08:47:53.000Z",
+        "description": "男娘 Cosplayer 呼び方 ▶︎ なーたん / ごうな / Haona /ài jī『我很憧憬爱丽丝团，也希望有一天能加入♡』cosplay / fashion / makeup 📍Japan ｜ 中文学习中📚✍🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "allmylinks.com/aihime-Haonaa",
+                "end": 23,
+                "expanded_url": "https://allmylinks.com/aihime-Haonaa",
+                "start": 0,
+                "url": "https://t.co/THGd2Lkr0B"
+              }
+            ]
+          }
+        },
+        "id": "1692820634328526848",
+        "name": "爱姬 豪娜（なーたん）",
+        "pinned_tweet_id": "1968268876992716830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022021360990789632/aNVFU4Ak_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 78,
+          "like_count": 7115,
+          "listed_count": 4,
+          "media_count": 114,
+          "tweet_count": 2873
+        },
+        "url": "https://t.co/THGd2Lkr0B",
+        "username": "Aihime_Haonaa",
+        "verified": false
+      }
+    ]
+  }
+}

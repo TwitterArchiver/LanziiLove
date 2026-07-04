@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2067207719174496706",
+    "created_at": "2026-06-18T03:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T04:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067446282743099409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1363778249277382656",
+          "start": 0,
+          "username": "JVltGillEasbaig"
+        },
+        {
+          "end": 29,
+          "id": "1924119398497026050",
+          "start": 17,
+          "username": "HhcvhW18221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067446282743099409",
+    "in_reply_to_user_id": "1363778249277382656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067317909458964857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JVltGillEasbaig @HhcvhW18221 你他妈死了吗了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2067207719174496706",
+        "created_at": "2026-06-18T03:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067446282743099409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1363778249277382656",
+              "start": 0,
+              "username": "JVltGillEasbaig"
+            },
+            {
+              "end": 29,
+              "id": "1924119398497026050",
+              "start": 17,
+              "username": "HhcvhW18221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067446282743099409",
+        "in_reply_to_user_id": "1363778249277382656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067317909458964857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JVltGillEasbaig @HhcvhW18221 你他妈死了吗了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363778249277382656",
+        "conversation_id": "2067207719174496706",
+        "created_at": "2026-06-17T18:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067317909458964857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1924119398497026050",
+              "start": 0,
+              "username": "HhcvhW18221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067317909458964857",
+        "in_reply_to_user_id": "1924119398497026050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067207719174496706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HhcvhW18221 你圈的颜值连这个都摸不到吗，那确实是没救了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！直女w💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人！🏠我永生挚爱的男友然桑@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25607,
+          "following_count": 1268,
+          "like_count": 3149,
+          "listed_count": 79,
+          "media_count": 466,
+          "tweet_count": 2809
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T09:10:56.000Z",
+        "description": "ᛋᚨᚢᛚ:ᚺᚢᚷᚨᚱ:ᛚᛁᚲᛁᛚᛚᛁᚾᚾ:ᛏᛁᛚ:ᛚᛟᚠᛏᛊ:ᛚᛁᚠᛊ",
+        "id": "1363778249277382656",
+        "location": "Silent Hill, Maine, USA",
+        "name": "JoannaGillespuic",
+        "pinned_tweet_id": "2054057274277302458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054574979145220096/BH8Ellu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 538,
+          "like_count": 16395,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 8339
+        },
+        "username": "JVltGillEasbaig",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T15:06:41.000Z",
+        "description": "出厂日期09年9.4号 未出柜 mtf  身高175 一个苦逼中专生TG https://t.co/oWdczxmhHh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xitelali904",
+                "end": 60,
+                "expanded_url": "http://t.me/xitelali904",
+                "start": 37,
+                "url": "https://t.co/oWdczxmhHh"
+              }
+            ]
+          }
+        },
+        "id": "1924119398497026050",
+        "location": "纳塔 烟迷主",
+        "name": "茜 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046082434874359876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040818645069189120/SUfTwSbM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 285,
+          "like_count": 163,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 432
+        },
+        "username": "HhcvhW18221",
+        "verified": false
+      }
+    ]
+  }
+}

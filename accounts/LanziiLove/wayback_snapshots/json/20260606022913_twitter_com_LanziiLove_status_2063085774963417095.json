@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2063081357862154290",
+    "created_at": "2026-06-06T02:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T03:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063085774963417095"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063085774963417095",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063081357862154290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "国内跨性别医疗资源本来就够少了 你他吗的两个巨婴要害死多少人你知道不？环境还不够差？自杀的还不够多？也能怪这种家长能教育出这种小孩 操你妈逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2063081357862154290",
+        "created_at": "2026-06-06T02:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063085774963417095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063085774963417095",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063081357862154290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "国内跨性别医疗资源本来就够少了 你他吗的两个巨婴要害死多少人你知道不？环境还不够差？自杀的还不够多？也能怪这种家长能教育出这种小孩 操你妈逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2063081357862154290",
+        "created_at": "2026-06-06T02:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063081357862154290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QINGYUANZHANG1…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/QINGYUANZHANG10/status/2062819692381954497",
+              "start": 145,
+              "url": "https://t.co/dSRbqALZz1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063081357862154290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 264,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062819692381954497",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以说啊 昨天我还在想我在粉丝群里骂神人会不会骂过头了 现在看来我只觉得骂的还不够 神人家长 神人小孩 神人一家 家长打人小孩开脱 那几张截图不知道是不是本人说的不好评价 但评价邸晓兰“逆天”然后给她妈开脱的那几句话看得我都想笑 具体抽象在哪我就不具体说了 在群里我已经骂过了懒得再去想💧 https://t.co/dSRbqALZz1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25389,
+          "following_count": 1244,
+          "like_count": 3084,
+          "listed_count": 78,
+          "media_count": 457,
+          "tweet_count": 2724
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

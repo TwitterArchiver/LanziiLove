@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1919355276534169896",
+    "created_at": "2025-05-05T11:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T12:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919356041050890329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1654033056477630466",
+          "start": 0,
+          "username": "kanzumenoraneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919356041050890329",
+    "in_reply_to_user_id": "1654033056477630466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919355829167534401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanzumenoraneko 原图颜色要偏米白一些，就是礼服hhh\n套了滤镜之后直接洗白了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1919355276534169896",
+        "created_at": "2025-05-05T11:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T12:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919356041050890329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1654033056477630466",
+              "start": 0,
+              "username": "kanzumenoraneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919356041050890329",
+        "in_reply_to_user_id": "1654033056477630466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919355829167534401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanzumenoraneko 原图颜色要偏米白一些，就是礼服hhh\n套了滤镜之后直接洗白了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654033056477630466",
+        "conversation_id": "1919355276534169896",
+        "created_at": "2025-05-05T11:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T12:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919355829167534401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919355829167534401",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919355276534169896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 这不就是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "dexy0306"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12232,
+          "following_count": 708,
+          "like_count": 356,
+          "listed_count": 31,
+          "media_count": 131,
+          "tweet_count": 600
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-04T07:59:55.000Z",
+        "description": "如果明天世界将要陷入火海，请提前告诉我。我好多买两提啤酒，让我可以在那天来临时支起沙滩椅欣赏原子聚合的闪光",
+        "id": "1654033056477630466",
+        "location": "Dark Ether",
+        "name": "罐头里的寄居蟹",
+        "pinned_tweet_id": "1908899702944550921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859143599721709568/_FXpeosp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 343,
+          "like_count": 4209,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 3888
+        },
+        "username": "kanzumenoraneko",
+        "verified": false
+      }
+    ]
+  }
+}

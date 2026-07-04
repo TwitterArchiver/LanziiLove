@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1913841722955874753",
+    "created_at": "2025-04-20T07:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T08:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913856023762550927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1664619442905677830",
+          "start": 0,
+          "username": "9dthwbmb95259"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913856023762550927",
+    "in_reply_to_user_id": "1664619442905677830",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913843412647985347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9dthwbmb95259 ありがとうwww\n僕は本当白いストッキングがメッチャメッチャ好きw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1913841722955874753",
+        "created_at": "2025-04-20T07:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T08:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913856023762550927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1664619442905677830",
+              "start": 0,
+              "username": "9dthwbmb95259"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913856023762550927",
+        "in_reply_to_user_id": "1664619442905677830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913843412647985347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9dthwbmb95259 ありがとうwww\n僕は本当白いストッキングがメッチャメッチャ好きw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664619442905677830",
+        "conversation_id": "1913841722955874753",
+        "created_at": "2025-04-20T06:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T07:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913843412647985347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913843412647985347",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913841722955874753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 纯白的丝袜真的很好看，跟你细腻的皮肤太配了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号@kitsunehashirao被盗 随时可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜🥺求帮帮孩子新号重生 关注我就回fo DM提醒我一下｜已有男朋友 他叫然然～ 是纯爱哦｜不设门槛 同好可扩列｜新小号@hosh1no_sh1zuku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "kitsunehashirao"
+              },
+              {
+                "end": 154,
+                "start": 138,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku（原号被盗 请转到该新号）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10402,
+          "following_count": 651,
+          "like_count": 256,
+          "listed_count": 24,
+          "media_count": 93,
+          "tweet_count": 357
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T13:06:29.000Z",
+        "description": "校内治安維持部員",
+        "id": "1664619442905677830",
+        "name": "レイ_9d",
+        "pinned_tweet_id": "1792911545589977418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1692692342053220352/0KlagTjY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 128,
+          "like_count": 3563,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 808
+        },
+        "username": "9dthwbmb95259",
+        "verified": false
+      }
+    ]
+  }
+}

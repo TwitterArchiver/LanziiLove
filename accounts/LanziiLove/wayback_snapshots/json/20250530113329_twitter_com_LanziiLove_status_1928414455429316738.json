@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928414445820395520"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1928375754691084717",
+    "created_at": "2025-05-30T11:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T12:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928414455429316738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1852361850782179328",
+          "start": 0,
+          "username": "gugugulou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cFe6gbLSnS",
+          "end": 43,
+          "expanded_url": "https://x.com/LanziiLove/status/1928414455429316738/photo/1",
+          "media_key": "3_1928414445820395520",
+          "start": 20,
+          "url": "https://t.co/cFe6gbLSnS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928414455429316738",
+    "in_reply_to_user_id": "1852361850782179328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928410162907193460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gugugulou 同款美颜（确信w https://t.co/cFe6gbLSnS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1928414445820395520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsMauKbbQAAV_WG.jpg",
+        "width": 1000
+      },
+      {
+        "height": 556,
+        "media_key": "3_1928410110159884288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsMWxy1aEAAKe0a.png",
+        "width": 453
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928414445820395520"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1928375754691084717",
+        "created_at": "2025-05-30T11:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T12:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928414455429316738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1852361850782179328",
+              "start": 0,
+              "username": "gugugulou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cFe6gbLSnS",
+              "end": 43,
+              "expanded_url": "https://x.com/LanziiLove/status/1928414455429316738/photo/1",
+              "media_key": "3_1928414445820395520",
+              "start": 20,
+              "url": "https://t.co/cFe6gbLSnS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928414455429316738",
+        "in_reply_to_user_id": "1852361850782179328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928410162907193460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gugugulou 同款美颜（确信w https://t.co/cFe6gbLSnS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928410110159884288"
+          ]
+        },
+        "author_id": "1852361850782179328",
+        "conversation_id": "1928375754691084717",
+        "created_at": "2025-05-30T11:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T12:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928410162907193460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yqULwaqCPO",
+              "end": 48,
+              "expanded_url": "https://x.com/gugugulou/status/1928410162907193460/photo/1",
+              "media_key": "3_1928410110159884288",
+              "start": 25,
+              "url": "https://t.co/yqULwaqCPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928410162907193460",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928375754691084717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 主包是你吗\n一个模子像是 https://t.co/yqULwaqCPO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜ 是雫基米星人喵 来自🇨🇳成都｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "dexy0306"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15724,
+          "following_count": 727,
+          "like_count": 626,
+          "listed_count": 44,
+          "media_count": 186,
+          "tweet_count": 1007
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T14:47:46.000Z",
+        "description": "🖤将你拖入堕落的炼狱里🖤\n\n双性/from:？\n私信概率掉落门牌，有门52。",
+        "id": "1852361850782179328",
+        "location": "hell",
+        "name": "♡cat♡",
+        "pinned_tweet_id": "1907303963483091292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901278823892889600/x2AxYGzo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 11,
+          "like_count": 17,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 41
+        },
+        "username": "gugugulou",
+        "verified": false
+      }
+    ]
+  }
+}

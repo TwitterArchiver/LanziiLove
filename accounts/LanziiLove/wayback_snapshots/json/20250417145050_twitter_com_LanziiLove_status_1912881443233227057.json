@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912881431786999808"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1912881443233227057",
+    "created_at": "2025-04-17T14:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T15:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912881443233227057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1751613061587468288",
+          "start": 0,
+          "username": "hosh1on_shizuku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2XXR9kGtuo",
+          "end": 131,
+          "expanded_url": "https://x.com/LanziiLove/status/1912881443233227057/photo/1",
+          "media_key": "3_1912881431786999808",
+          "start": 108,
+          "url": "https://t.co/2XXR9kGtuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912881443233227057",
+    "in_reply_to_user_id": "1751613061587468288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@hosh1on_shizuku \n他们把我邮箱改了 用户名也给改了🫠\n他们要是拿这号去干坏事就完了\n\n然而仁济X客服永远在驳回我 \n想说明情况都没办法\n完全没有真人工作人员看的（\n说无法证明我是号主 彻底无力了（ https://t.co/2XXR9kGtuo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1912881431786999808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Govrhv8a0AApgNj.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912881431786999808"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1912881443233227057",
+        "created_at": "2025-04-17T14:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T15:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912881443233227057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1751613061587468288",
+              "start": 0,
+              "username": "hosh1on_shizuku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2XXR9kGtuo",
+              "end": 131,
+              "expanded_url": "https://x.com/LanziiLove/status/1912881443233227057/photo/1",
+              "media_key": "3_1912881431786999808",
+              "start": 108,
+              "url": "https://t.co/2XXR9kGtuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912881443233227057",
+        "in_reply_to_user_id": "1751613061587468288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@hosh1on_shizuku \n他们把我邮箱改了 用户名也给改了🫠\n他们要是拿这号去干坏事就完了\n\n然而仁济X客服永远在驳回我 \n想说明情况都没办法\n完全没有真人工作人员看的（\n说无法证明我是号主 彻底无力了（ https://t.co/2XXR9kGtuo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号重生】19岁🇨🇳男娘小雫｜2万fo大号@hosh1no_shizuku被盗 本号为唯一真号 置顶查证｜纯清水无黄无福利无tg 其他账号均为假冒｜🥺求帮帮孩子新号重生 关注我就回fo 求转推（没回fo就是到上限了）｜已有男朋友 他叫然然～ 是纯爱哦｜不设门槛 同好可扩列｜新小号@hosh1no_sh1zuku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "hosh1no_shizuku"
+              },
+              {
+                "end": 157,
+                "start": 141,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku（大号被封 请转到该新号）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7609,
+          "following_count": 592,
+          "like_count": 249,
+          "listed_count": 17,
+          "media_count": 83,
+          "tweet_count": 301
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T14:28:03.000Z",
+        "description": "可以叫我小雫 || 19岁🇨🇳男娘 理智爱国 不见证 || 无🍬 || 纯清水无黄无擦边 || 已有男友 叫然然 正经纯爱 || 无🚪无业务 同好可扩列 || 推当朋友圈发 生活和女装随缘更新 || 高P美颜 || 喜欢写歌画画 作品@LanziiLove || 和善友好不主动攻击 尊重所有人 || 日常秀男友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 117,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1751613061587468288",
+        "location": "亚海悬城A包点二楼下",
+        "name": "星野雫丶Shizuku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894250059786588160/_ASAO7bp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21036,
+          "following_count": 158,
+          "like_count": 122,
+          "listed_count": 54,
+          "media_count": 79,
+          "tweet_count": 1124
+        },
+        "username": "hosh1on_shizuku",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1924445722650538139",
+    "created_at": "2025-05-19T17:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T18:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924523111162286444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1595593964781871104",
+          "start": 0,
+          "username": "Lilies42616718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924523111162286444",
+    "in_reply_to_user_id": "1595593964781871104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924523034771390619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lilies42616718 谢谢喵w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1924445722650538139",
+        "created_at": "2025-05-19T17:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T18:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924523111162286444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1595593964781871104",
+              "start": 0,
+              "username": "Lilies42616718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924523111162286444",
+        "in_reply_to_user_id": "1595593964781871104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924523034771390619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lilies42616718 谢谢喵w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595593964781871104",
+        "conversation_id": "1924445722650538139",
+        "created_at": "2025-05-19T17:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T18:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924523034771390619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924523034771390619",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924445722650538139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 芥末帅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "19岁 无🍬🇨🇳男娘 可以叫咱小雫哦w｜最爱的人是妈妈和老公｜男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜理智爱国 不见证 ｜纯清水 无黄无福利 无任何业务 私信骚扰等着挨骂吧｜无门槛 同好可酌情扩列｜备用小号@hosh1no_sh1zuku｜全网同名 只有B站/X/抖音有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "dexy0306"
+              },
+              {
+                "end": 130,
+                "start": 114,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14708,
+          "following_count": 719,
+          "like_count": 444,
+          "listed_count": 40,
+          "media_count": 169,
+          "tweet_count": 791
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T01:44:37.000Z",
+        "description": "励志成为冰圈爱抖露的莉莉~（事男生）\nr18g向 非同好勿扰（欢迎女装同好和涩影师私信~）一切视频均为表演，危险行为请勿代入三次元🙏🏻🙏🏻🙏🏻🥺（咱就是xp怪一些本体很好说话的w）不卖视频\n（互推私信）好友位🚪50私信口令\n\n #伪娘 #冰恋 #窒息 #调教 #cosplay #ryona",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 114,
+                "tag": "伪娘"
+              },
+              {
+                "end": 121,
+                "start": 118,
+                "tag": "冰恋"
+              },
+              {
+                "end": 125,
+                "start": 122,
+                "tag": "窒息"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "调教"
+              },
+              {
+                "end": 138,
+                "start": 130,
+                "tag": "cosplay"
+              },
+              {
+                "end": 145,
+                "start": 139,
+                "tag": "ryona"
+              }
+            ]
+          }
+        },
+        "id": "1595593964781871104",
+        "location": "冰城",
+        "name": "莉莉Lilies （冰恋の爱抖露）",
+        "pinned_tweet_id": "1923622019641524226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922710023509274624/8ADLHX70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9046,
+          "following_count": 250,
+          "like_count": 1313,
+          "listed_count": 45,
+          "media_count": 228,
+          "tweet_count": 1276
+        },
+        "username": "Lilies42616718",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933033262819258370"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1933033266111787097",
+    "created_at": "2025-06-12T05:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T06:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933033266111787097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1510447851507261445",
+          "start": 3,
+          "username": "LanziiLove"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+          "display_url": "infinityweet.me/love-calculato…",
+          "end": 53,
+          "expanded_url": "https://infinityweet.me/love-calculator?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1930538841036951552/CE7ezKyV?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1930538841036951552/CE7ezKyV?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 30,
+          "status": 200,
+          "title": "Love Calculator • Infinitweet",
+          "unwound_url": "https://infinityweet.me/love-calculator?lang=zh",
+          "url": "https://t.co/sJwBsn6iZi"
+        },
+        {
+          "display_url": "pic.x.com/ffW9RYj6yw",
+          "end": 77,
+          "expanded_url": "https://x.com/LanziiLove/status/1933033266111787097/photo/1",
+          "media_key": "3_1933033262819258370",
+          "start": 54,
+          "url": "https://t.co/ffW9RYj6yw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933033266111787097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我与 @LanziiLove 的爱兼容性为 22%\n\n➡️ https://t.co/sJwBsn6iZi https://t.co/ffW9RYj6yw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_1933033262819258370",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtODgslbMAIyYVx.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933033262819258370"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1933033266111787097",
+        "created_at": "2025-06-12T05:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T06:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933033266111787097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1510447851507261445",
+              "start": 3,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+              "display_url": "infinityweet.me/love-calculato…",
+              "end": 53,
+              "expanded_url": "https://infinityweet.me/love-calculator?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1930538841036951552/CE7ezKyV?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1930538841036951552/CE7ezKyV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 30,
+              "status": 200,
+              "title": "Love Calculator • Infinitweet",
+              "unwound_url": "https://infinityweet.me/love-calculator?lang=zh",
+              "url": "https://t.co/sJwBsn6iZi"
+            },
+            {
+              "display_url": "pic.x.com/ffW9RYj6yw",
+              "end": 77,
+              "expanded_url": "https://x.com/LanziiLove/status/1933033266111787097/photo/1",
+              "media_key": "3_1933033262819258370",
+              "start": 54,
+              "url": "https://t.co/ffW9RYj6yw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933033266111787097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我与 @LanziiLove 的爱兼容性为 22%\n\n➡️ https://t.co/sJwBsn6iZi https://t.co/ffW9RYj6yw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜不是女孩子也不是男娘 是雫基米星人喵！｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "dexy0306"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16923,
+          "following_count": 750,
+          "like_count": 725,
+          "listed_count": 45,
+          "media_count": 201,
+          "tweet_count": 1134
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

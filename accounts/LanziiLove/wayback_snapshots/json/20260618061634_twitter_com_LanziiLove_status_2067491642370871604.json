@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2067490890005004351",
+    "created_at": "2026-06-18T06:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067491642370871604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3301687694",
+          "start": 0,
+          "username": "Shirlene_girl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067491642370871604",
+    "in_reply_to_user_id": "3301687694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067491344759603395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shirlene_girl 我一直也是这么想的\n只是极个别人太让我恶心了\n我受不了了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2067490890005004351",
+        "created_at": "2026-06-18T06:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067491642370871604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3301687694",
+              "start": 0,
+              "username": "Shirlene_girl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067491642370871604",
+        "in_reply_to_user_id": "3301687694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067491344759603395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shirlene_girl 我一直也是这么想的\n只是极个别人太让我恶心了\n我受不了了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3301687694",
+        "conversation_id": "2067490890005004351",
+        "created_at": "2026-06-18T06:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067491344759603395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067491344759603395",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067490890005004351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 不是所有同类都这样的😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "反跨顺女。先贬低人长相的说我贬低人长相。先扣帽子秀优越的说我扣帽子土皇帝。一群傻逼有人像爹一样供着到我这就双标了。你们这傻逼烂圈就这样了小团体继续抱团取暖吧祝你们绑死",
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25607,
+          "following_count": 1268,
+          "like_count": 3158,
+          "listed_count": 79,
+          "media_count": 446,
+          "tweet_count": 2765
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-30T16:04:36.000Z",
+        "description": "当个废物好了/无业游民/庸医/养兔🐇/妹妹@EleanorAnatidae/日常照片https://t.co/2WHtfuaFEb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "EleanorAnatidae"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/miss.shirlene?…",
+                "end": 65,
+                "expanded_url": "https://www.instagram.com/miss.shirlene?igsh=bnVqZjRweHJscnBq&utm_source=qr",
+                "start": 42,
+                "url": "https://t.co/2WHtfuaFEb"
+              }
+            ]
+          }
+        },
+        "id": "3301687694",
+        "location": "🌏",
+        "name": "雪玲🐰",
+        "pinned_tweet_id": "1921757539684823388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030658851515867136/g4OxyqCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4128,
+          "following_count": 1818,
+          "like_count": 31610,
+          "listed_count": 14,
+          "media_count": 358,
+          "tweet_count": 5201
+        },
+        "url": "",
+        "username": "Shirlene_girl",
+        "verified": false
+      }
+    ]
+  }
+}

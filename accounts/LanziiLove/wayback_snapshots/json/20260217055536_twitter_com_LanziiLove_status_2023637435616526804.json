@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2023416158272237703",
+    "created_at": "2026-02-17T05:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T06:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023637435616526804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "743221875350765568",
+          "start": 0,
+          "username": "Ianfield77"
+        },
+        {
+          "end": 23,
+          "id": "1517523151219044353",
+          "start": 12,
+          "username": "Eng_china5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023637435616526804",
+    "in_reply_to_user_id": "743221875350765568",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023437920125022441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ianfield77 @Eng_china5 🐒🐒🐒🍌🍌🍌🐵🐵🐵🐵🐵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2023437917180620802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBSyEKabcAIwHky.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2023416158272237703",
+        "created_at": "2026-02-17T05:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T06:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023637435616526804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "743221875350765568",
+              "start": 0,
+              "username": "Ianfield77"
+            },
+            {
+              "end": 23,
+              "id": "1517523151219044353",
+              "start": 12,
+              "username": "Eng_china5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023637435616526804",
+        "in_reply_to_user_id": "743221875350765568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023437920125022441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ianfield77 @Eng_china5 🐒🐒🐒🍌🍌🍌🐵🐵🐵🐵🐵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023437917180620802"
+          ]
+        },
+        "author_id": "743221875350765568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2023416158272237703",
+        "created_at": "2026-02-16T16:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023437920125022441"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 119,
+              "normalized_text": "indonesia",
+              "probability": 0.7268,
+              "start": 111,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1517523151219044353",
+              "start": 0,
+              "username": "Eng_china5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSMyj2Ahur",
+              "end": 212,
+              "expanded_url": "https://x.com/Ianfield77/status/2023437920125022441/photo/1",
+              "media_key": "3_2023437917180620802",
+              "start": 189,
+              "url": "https://t.co/YSMyj2Ahur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023437920125022441",
+        "in_reply_to_user_id": "1517523151219044353",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 35738,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023416158272237703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eng_china5 kind of funny to think about how some strange festivals only affect one small area on an island in indonesia while others somehow end up influencing people all across the world https://t.co/YSMyj2Ahur"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 非跨无药不是男娘 只是爱穿可爱衣服和cos 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好编曲 画画 3DCG cos//985大二计算机科学与技术第二学位数学//B站6.6万粉丝同名//音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 150,
+                "start": 139,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22519,
+          "following_count": 991,
+          "like_count": 1701,
+          "listed_count": 70,
+          "media_count": 367,
+          "tweet_count": 1850
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-15T23:21:18.000Z",
+        "description": "your daily dose of memes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.ethos.network/profile/x/Ianf…",
+                "end": 23,
+                "expanded_url": "https://app.ethos.network/profile/x/Ianfield77",
+                "start": 0,
+                "url": "https://t.co/jFvYjILDSb"
+              }
+            ]
+          }
+        },
+        "id": "743221875350765568",
+        "location": "UK",
+        "name": "Ianfield",
+        "pinned_tweet_id": "2023177634595942711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021539745692876800/YpIwqTgG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 4192,
+          "like_count": 28678,
+          "listed_count": 4,
+          "media_count": 1952,
+          "tweet_count": 17215
+        },
+        "url": "https://t.co/jFvYjILDSb",
+        "username": "Ianfield77",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-22T15:18:15.000Z",
+        "description": "China-related news and the international struggle for influence in Eurasia and a multipolar world.\n\n中国相关动态与欧亚地区及多极世界的国际影响力博弈",
+        "id": "1517523151219044353",
+        "location": "Beijing",
+        "name": "China pulse 🇨🇳",
+        "pinned_tweet_id": "2015903349691056550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942216319929044992/-mGgW3GL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231417,
+          "following_count": 21,
+          "like_count": 510,
+          "listed_count": 426,
+          "media_count": 28551,
+          "tweet_count": 40094
+        },
+        "username": "Eng_china5",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2055287865773539396",
+    "created_at": "2026-05-16T03:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T04:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055496615293846010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2039295933834289152",
+          "start": 0,
+          "username": "runauua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055496615293846010",
+    "in_reply_to_user_id": "2039295933834289152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055446931045073197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@runauua 不是反面啦喵\n\n反正不让当学姐我就当学妹了（x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2055446916671148032",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HIZqFJrbEAAP_VE.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HIZqFJrbEAAP_VE.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2055287865773539396",
+        "created_at": "2026-05-16T03:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055496615293846010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2039295933834289152",
+              "start": 0,
+              "username": "runauua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055496615293846010",
+        "in_reply_to_user_id": "2039295933834289152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055446931045073197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@runauua 不是反面啦喵\n\n反正不让当学姐我就当学妹了（x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2055446916671148032"
+          ]
+        },
+        "author_id": "2039295933834289152",
+        "conversation_id": "2055287865773539396",
+        "created_at": "2026-05-16T00:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T01:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055446931045073197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2rABosLVFf",
+              "end": 52,
+              "expanded_url": "https://x.com/runauua/status/2055446931045073197/photo/1",
+              "media_key": "16_2055446916671148032",
+              "start": 29,
+              "url": "https://t.co/2rABosLVFf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055446931045073197",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 390,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055287865773539396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 呜呜 我变成反面案例素材了qwq https://t.co/2rABosLVFf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24133,
+          "following_count": 1154,
+          "like_count": 2312,
+          "listed_count": 75,
+          "media_count": 425,
+          "tweet_count": 2239
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T10:57:05.000Z",
+        "description": "01 | 无证 | 社恐 | 貌似没有郁郁症 | 日本海归已工作 | 日语OK | 家长管不了党 | 性取向非顺男非顺女仅限想要变喵的跨友（如果有喵愿意陪我去泰国srs我一定会嫁给她！）",
+        "id": "2039295933834289152",
+        "location": "安亭",
+        "name": "🇨🇳🇯🇵汐夏🏳️‍⚧️ 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039298253339103232/FRONZC4f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 101,
+          "like_count": 1034,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 266
+        },
+        "username": "runauua",
+        "verified": false
+      }
+    ]
+  }
+}

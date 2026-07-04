@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2044826465825665029",
+    "created_at": "2026-04-16T17:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T18:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044830835778707642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1423601390039961604",
+          "start": 0,
+          "username": "CARR0S_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044830835778707642",
+    "in_reply_to_user_id": "1423601390039961604",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044830059186508257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CARR0S_ 揉揉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2044826465825665029",
+        "created_at": "2026-04-16T17:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T18:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044830835778707642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1423601390039961604",
+              "start": 0,
+              "username": "CARR0S_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044830835778707642",
+        "in_reply_to_user_id": "1423601390039961604",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044830059186508257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CARR0S_ 揉揉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423601390039961604",
+        "conversation_id": "2044826465825665029",
+        "created_at": "2026-04-16T17:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T18:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044830059186508257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044830059186508257",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044826465825665029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 真好啊，感觉我已经不配被爱加上失去爱别人的能力了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫✨平时喜欢打打游戏玩玩cos发照片编曲画画写代码💻账号纯绿日常向🏠已经有对象啦@dexy0306❤️B站6.7w粉同名的是我本人号😉不定期直播打游戏 评论区混眼熟了会回fo 🥳 祝你生活愉快～☀️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21910,
+          "following_count": 1018,
+          "like_count": 1834,
+          "listed_count": 64,
+          "media_count": 381,
+          "tweet_count": 1938
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T11:06:45.000Z",
+        "description": "||叫我若斯\n||简中-Poor English\n||也许是INFP吧\n||🔨劳工万岁⚙️反威权✊↙️\n||臭画画臭打游戏的\n||喜欢画福瑞大姐姐\n||LGBTQ+友好\n||偶尔键政，不喜勿喷 \n||理性讨论，和平交流(若智除外)\n||🎮：三角洲， bf1/5/2042，cs，mc，codm",
+        "id": "1423601390039961604",
+        "location": "没有黑暗的地方",
+        "name": "CARROS📕",
+        "pinned_tweet_id": "2043034639623950827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718425489977802752/eavJssiF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 2032,
+          "like_count": 42596,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 8281
+        },
+        "username": "CARR0S_",
+        "verified": false
+      }
+    ]
+  }
+}

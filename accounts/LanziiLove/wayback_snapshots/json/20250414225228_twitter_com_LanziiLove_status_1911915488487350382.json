@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1911783037450461342",
+    "created_at": "2025-04-14T22:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T23:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911915488487350382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841801152381558784",
+          "start": 0,
+          "username": "Amemiya_Hasumi"
+        },
+        {
+          "end": 32,
+          "id": "1878333765514346496",
+          "start": 16,
+          "username": "hosh1no_shizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911915488487350382",
+    "in_reply_to_user_id": "1841801152381558784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911896885918601432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amemiya_Hasumi @hosh1no_shizuku 没事喵 原号已经被冻结了qwq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [hosh1no_shizuku].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "hosh1no_shizuku",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "hosh1no_shizuku"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1911783037450461342",
+        "created_at": "2025-04-14T22:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T23:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911915488487350382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841801152381558784",
+              "start": 0,
+              "username": "Amemiya_Hasumi"
+            },
+            {
+              "end": 32,
+              "id": "1878333765514346496",
+              "start": 16,
+              "username": "hosh1no_shizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911915488487350382",
+        "in_reply_to_user_id": "1841801152381558784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911896885918601432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amemiya_Hasumi @hosh1no_shizuku 没事喵 原号已经被冻结了qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841801152381558784",
+        "conversation_id": "1911783037450461342",
+        "created_at": "2025-04-14T21:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T22:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911896885918601432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 28,
+              "id": "1878333765514346496",
+              "start": 12,
+              "username": "hosh1no_shizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911896885918601432",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911783037450461342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @hosh1no_shizuku 摸摸头，实在没办法的话要不要试着把原来这个号举报掉？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "男娘小雫｜大号@hosh1no_shizuku被盗 本号为唯一真号 置顶查证｜纯清水无黄无福利无tg 其他账号均为假冒的骗子｜🥺求帮帮孩子新号重生 现在关注我就回fo 求转推（没回fo就是到上限了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "hosh1no_shizuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "映鏡R3-DMPT",
+        "name": "星野雫丶Shizuku（唯一真号 主页查证）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1814,
+          "following_count": 362,
+          "like_count": 244,
+          "listed_count": 4,
+          "media_count": 63,
+          "tweet_count": 195
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T11:23:15.000Z",
+        "description": "「Et in Arcadia Ego./我曾在阿卡迪亚。」\n男性，偶尔是男娘。\n往期照片请见亮点，禁敏感政治。\n团长：@Liberte_RA /老金：@KiminTW_Offical\nNGL：https://t.co/kxkm3rWwpE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "Liberte_RA"
+              },
+              {
+                "end": 91,
+                "start": 75,
+                "username": "KiminTW_Offical"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hasumi66262",
+                "end": 119,
+                "expanded_url": "https://ngl.link/hasumi66262",
+                "start": 96,
+                "url": "https://t.co/kxkm3rWwpE"
+              }
+            ]
+          }
+        },
+        "id": "1841801152381558784",
+        "location": "永恆之地 翁法羅斯",
+        "name": "雨宮 蓮見",
+        "pinned_tweet_id": "1871596096461713573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911443202722103296/siXzNcdc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4010,
+          "following_count": 1924,
+          "like_count": 31139,
+          "listed_count": 9,
+          "media_count": 998,
+          "tweet_count": 6994
+        },
+        "username": "Amemiya_Hasumi",
+        "verified": true
+      }
+    ]
+  }
+}

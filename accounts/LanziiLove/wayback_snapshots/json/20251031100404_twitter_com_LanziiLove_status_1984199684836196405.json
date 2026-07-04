@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1984112183417225259",
+    "created_at": "2025-10-31T10:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T11:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984199684836196405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1678688720126627841",
+          "start": 0,
+          "username": "xianjing_youhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984199684836196405",
+    "in_reply_to_user_id": "1678688720126627841",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984199594444739032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xianjing_youhu 谢谢www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1984112183417225259",
+        "created_at": "2025-10-31T10:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T11:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984199684836196405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1678688720126627841",
+              "start": 0,
+              "username": "xianjing_youhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984199684836196405",
+        "in_reply_to_user_id": "1678688720126627841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984199594444739032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xianjing_youhu 谢谢www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678688720126627841",
+        "conversation_id": "1984112183417225259",
+        "created_at": "2025-10-31T10:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T11:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984199594444739032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984199594444739032",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984112183417225259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 恭喜喵～ 🥳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 不是跨 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好：编曲 画画 3DCG Cos//985大二计算机科学与技术 二学位数学//B站6.5万粉丝同名//因社恐不扩列sry 偶尔酌情回fo// 音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20141,
+          "following_count": 933,
+          "like_count": 1261,
+          "listed_count": 53,
+          "media_count": 316,
+          "tweet_count": 1550
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T08:53:09.000Z",
+        "description": "可以叫我狐狐捏〜 | 07.02.22 | INFJ | MTF |  HRT 24.10.10- | JLPT N1 | 长居 上海 重庆 东京 | 术力口 | 🎀🎨推 | 小桃厨 | 交通吃 | 想要变成可爱猫娘 | 喜欢涩涩(x | 求fo喵(⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ⁠♡ | ♥️ @hcrk862",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 147,
+                "username": "hcrk862"
+              }
+            ]
+          }
+        },
+        "id": "1678688720126627841",
+        "name": "仙境幽狐🐧🐱🍦🌰🍊🍋",
+        "pinned_tweet_id": "1981769896070701082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976950096341463040/sNnuoLPp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 875,
+          "like_count": 26581,
+          "listed_count": 2,
+          "media_count": 1218,
+          "tweet_count": 3554
+        },
+        "username": "xianjing_youhu",
+        "verified": false
+      }
+    ]
+  }
+}

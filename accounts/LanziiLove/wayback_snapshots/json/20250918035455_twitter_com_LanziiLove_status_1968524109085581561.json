@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1968524109085581561",
+    "created_at": "2025-09-18T03:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T04:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968524109085581561"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1968524109085581561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上大学后 我发现有一类时间可以被称为“垃圾时间”\n刚开学的时候每一门课都还听得很认真 但是一旦某门课太难 我没听懂 听不懂就更不想听 不听就更听不懂 以至于这学期剩下上这门课的时间都是在装模作样地玩手机 这时发现来上课和翘课在结果上来说是一样的 那我为什么还要来上课呢（\n计通网疑似开始了⬆️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1968524109085581561",
+        "created_at": "2025-09-18T03:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T04:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968524109085581561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968524109085581561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上大学后 我发现有一类时间可以被称为“垃圾时间”\n刚开学的时候每一门课都还听得很认真 但是一旦某门课太难 我没听懂 听不懂就更不想听 不听就更听不懂 以至于这学期剩下上这门课的时间都是在装模作样地玩手机 这时发现来上课和翘课在结果上来说是一样的 那我为什么还要来上课呢（\n计通网疑似开始了⬆️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好 编曲&画画&3DCG//985大二计算机科学与技术 第二学位数学//B站6.2万粉丝同名//中立生物 不主动攻击 阴阳我会被我攻击// 音乐&绘画作品 音乐平台&Pixiv@LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962507406770155521/giP0winc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18210,
+          "following_count": 896,
+          "like_count": 1131,
+          "listed_count": 46,
+          "media_count": 282,
+          "tweet_count": 1448
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

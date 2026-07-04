@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1952595420091400240",
+    "created_at": "2025-08-05T17:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T18:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952791642311713238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1822421361983127552",
+          "start": 0,
+          "username": "wisdriftmore"
+        },
+        {
+          "end": 30,
+          "id": "907975864360501248",
+          "start": 14,
+          "username": "TheCleanCarClub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952791642311713238",
+    "in_reply_to_user_id": "1822421361983127552",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952598267562176943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wisdriftmore @TheCleanCarClub Typical brainless white pig"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1952595420091400240",
+        "created_at": "2025-08-05T17:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T18:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952791642311713238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1822421361983127552",
+              "start": 0,
+              "username": "wisdriftmore"
+            },
+            {
+              "end": 30,
+              "id": "907975864360501248",
+              "start": 14,
+              "username": "TheCleanCarClub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952791642311713238",
+        "in_reply_to_user_id": "1822421361983127552",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952598267562176943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wisdriftmore @TheCleanCarClub Typical brainless white pig"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822421361983127552",
+        "conversation_id": "1952595420091400240",
+        "created_at": "2025-08-05T05:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T06:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952598267562176943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "907975864360501248",
+              "start": 0,
+              "username": "TheCleanCarClub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952598267562176943",
+        "in_reply_to_user_id": "907975864360501248",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1103,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952595420091400240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheCleanCarClub yay! 10+ points on my social credit score!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "一个人类 // SNS当朋友圈发 照片高P // 男友@Dexy0306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952297088974462977/bue5f0ca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17947,
+          "following_count": 870,
+          "like_count": 988,
+          "listed_count": 45,
+          "media_count": 248,
+          "tweet_count": 1339
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T23:57:19.000Z",
+        "description": "",
+        "id": "1822421361983127552",
+        "name": "Driftless",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824486544272445445/jUYOQ966_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 1116,
+          "like_count": 49997,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 8887
+        },
+        "username": "wisdriftmore",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-13T14:34:50.000Z",
+        "description": "We provide latest trends and professional car advice. Join our community of car enthusiasts. DM for promos or email: cleancarclub01@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/cleancarclub",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/cleancarclub",
+                "start": 0,
+                "url": "https://t.co/jkjIL2UbqP"
+              }
+            ]
+          }
+        },
+        "id": "907975864360501248",
+        "location": "Subscribe for 1$",
+        "name": "CLEAN CAR CLUB",
+        "pinned_tweet_id": "1947777409010340245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641580943302443015/va2WK2MR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647128,
+          "following_count": 50087,
+          "like_count": 101168,
+          "listed_count": 1016,
+          "media_count": 19970,
+          "tweet_count": 53074
+        },
+        "url": "https://t.co/jkjIL2UbqP",
+        "username": "TheCleanCarClub",
+        "verified": true
+      }
+    ]
+  }
+}

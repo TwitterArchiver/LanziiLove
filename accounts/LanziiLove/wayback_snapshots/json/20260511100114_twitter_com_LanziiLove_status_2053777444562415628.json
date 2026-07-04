@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053777435783823360"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2053774695837974636",
+    "created_at": "2026-05-11T10:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T11:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053777444562415628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F3wShngQF8",
+          "end": 23,
+          "expanded_url": "https://x.com/LanziiLove/status/2053777444562415628/photo/1",
+          "media_key": "3_2053777435783823360",
+          "start": 0,
+          "url": "https://t.co/F3wShngQF8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053777444562415628",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053774695837974636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/F3wShngQF8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053777435783823360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIB7skubgAAlou8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053777435783823360"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2053774695837974636",
+        "created_at": "2026-05-11T10:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053777444562415628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F3wShngQF8",
+              "end": 23,
+              "expanded_url": "https://x.com/LanziiLove/status/2053777444562415628/photo/1",
+              "media_key": "3_2053777435783823360",
+              "start": 0,
+              "url": "https://t.co/F3wShngQF8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053777444562415628",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053774695837974636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/F3wShngQF8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2053774695837974636",
+        "created_at": "2026-05-11T09:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053774695837974636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053774695837974636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂和男友一起逛商品店一起买小裤裤 拿出一条猫猫图案的裤裤回头开心地问他“这个可爱吗！” 选完之后被他牵着拿着小裤裤去结账 想要自己结账却被他一只手拦在后面看着他结账 然后回家之后像个青春期恋爱脑小女孩一样激动地穿上他给自己买的小裤裤且爱不释手"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！希望被称作She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23823,
+          "following_count": 1133,
+          "like_count": 2233,
+          "listed_count": 73,
+          "media_count": 421,
+          "tweet_count": 2175
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

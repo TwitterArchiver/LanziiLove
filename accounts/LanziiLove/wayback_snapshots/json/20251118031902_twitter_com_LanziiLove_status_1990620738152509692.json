@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1986478231625810336",
+    "created_at": "2025-11-18T03:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T04:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990620738152509692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1774915548679405568",
+          "start": 0,
+          "username": "Meribel_YKR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990620738152509692",
+    "in_reply_to_user_id": "1774915548679405568",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990550552397426738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meribel_YKR 💧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1986478231625810336",
+        "created_at": "2025-11-18T03:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T04:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990620738152509692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1774915548679405568",
+              "start": 0,
+              "username": "Meribel_YKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990620738152509692",
+        "in_reply_to_user_id": "1774915548679405568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990550552397426738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meribel_YKR 💧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774915548679405568",
+        "conversation_id": "1986478231625810336",
+        "created_at": "2025-11-17T22:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T23:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990550552397426738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990550552397426738",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986478231625810336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 主页偶然刷到推主还是忍不住想留一句：给我这个现居通县只住的惯UCD单人宿舍的废物穷蛆看泪了，我现在只想回双流至少不用每次去春熙路玩都要打车钻老北京地道，小县城做题蛆原生家庭不幸的痛你们谁懂，求共情😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 不是跨 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好：编曲 画画 3DCG Cos//985大二计算机科学与技术 二学位数学//B站6.5万粉丝同名//因社恐不扩列sry 偶尔酌情回fo// 音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1986478231625810336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20798,
+          "following_count": 956,
+          "like_count": 1360,
+          "listed_count": 55,
+          "media_count": 334,
+          "tweet_count": 1650
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T21:43:54.000Z",
+        "description": "je ne suis pas...",
+        "id": "1774915548679405568",
+        "location": "Tahure, Marne",
+        "name": "(ᗜˬᗜ)",
+        "pinned_tweet_id": "1987708530963427555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987580730126262273/RvTnRbGa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 272,
+          "like_count": 1546,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 58
+        },
+        "username": "Meribel_YKR",
+        "verified": false
+      }
+    ]
+  }
+}

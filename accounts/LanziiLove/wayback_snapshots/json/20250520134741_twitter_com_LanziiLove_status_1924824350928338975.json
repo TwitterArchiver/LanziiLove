@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1924736866097758460",
+    "created_at": "2025-05-20T13:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T14:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924824350928338975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883047762729820160",
+          "start": 0,
+          "username": "tidy_fun8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924824350928338975",
+    "in_reply_to_user_id": "1883047762729820160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924820317387554979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tidy_fun8964 谢谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1924736866097758460",
+        "created_at": "2025-05-20T13:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T14:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924824350928338975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883047762729820160",
+              "start": 0,
+              "username": "tidy_fun8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924824350928338975",
+        "in_reply_to_user_id": "1883047762729820160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924820317387554979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tidy_fun8964 谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883047762729820160",
+        "conversation_id": "1924736866097758460",
+        "created_at": "2025-05-20T13:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T14:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924820317387554979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924820317387554979",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924736866097758460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 一定要幸福啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "19岁 无🍬🇨🇳男娘 可以叫咱小雫哦w｜最爱的人是妈妈和老公｜男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜理智爱国 不见证 ｜纯清水 无黄无福利 无任何业务 私信骚扰等着挨骂吧｜无门槛 同好可酌情扩列｜备用小号@hosh1no_sh1zuku｜全网同名 只有B站/X/抖音有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "dexy0306"
+              },
+              {
+                "end": 130,
+                "start": 114,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14732,
+          "following_count": 720,
+          "like_count": 459,
+          "listed_count": 40,
+          "media_count": 171,
+          "tweet_count": 821
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T07:02:44.000Z",
+        "description": "ENFP-A 10年学生 169cm|48kg 万用人 包容所有人 中文|English RFS IF SFS 无论你是什么立场一旦极端民族主义跟你讲不通话通通block  @LiuSuK7777 @JyushitiYizuka是好孩子啊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "LiuSuK7777"
+              },
+              {
+                "end": 114,
+                "start": 99,
+                "username": "JyushitiYizuka"
+              }
+            ]
+          }
+        },
+        "id": "1883047762729820160",
+        "location": "𝓤𝓷𝓲𝓽𝓮𝓭 𝓚𝓲𝓷𝓰𝓭𝓸𝓶",
+        "name": "泉こなたOffical",
+        "pinned_tweet_id": "1924823622574625156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908488824067371008/B9gnjeKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 1428,
+          "like_count": 5543,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 3155
+        },
+        "username": "tidy_fun8964",
+        "verified": false
+      }
+    ]
+  }
+}

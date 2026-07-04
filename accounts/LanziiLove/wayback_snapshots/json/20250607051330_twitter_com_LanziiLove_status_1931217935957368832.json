@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1931209745869808017",
+    "created_at": "2025-06-07T05:13:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T06:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931217935957368832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1915622690653954048",
+          "start": 0,
+          "username": "dexy0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931217935957368832",
+    "in_reply_to_user_id": "1915622690653954048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931214486213738885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dexy0306 没事 高考不算平时分 直接翘了没关系w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1935,
+        "media_key": "3_1931214478651293696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs0NVhkaAAA3QA6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1931209745869808017",
+        "created_at": "2025-06-07T05:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T06:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931217935957368832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1915622690653954048",
+              "start": 0,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931217935957368832",
+        "in_reply_to_user_id": "1915622690653954048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931214486213738885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dexy0306 没事 高考不算平时分 直接翘了没关系w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931214478651293696"
+          ]
+        },
+        "author_id": "1915622690653954048",
+        "conversation_id": "1931209745869808017",
+        "created_at": "2025-06-07T04:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T05:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931214486213738885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uENvWvRUVG",
+              "end": 61,
+              "expanded_url": "https://x.com/dexy0306/status/1931214486213738885/photo/1",
+              "media_key": "3_1931214478651293696",
+              "start": 38,
+              "url": "https://t.co/uENvWvRUVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931214486213738885",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931209745869808017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 本来想点华莱但是怕影响你下午考数学所以换了别的👉👈 https://t.co/uENvWvRUVG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜不是女孩子也不是男娘 是雫基米星人喵！｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "dexy0306"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16786,
+          "following_count": 739,
+          "like_count": 705,
+          "listed_count": 44,
+          "media_count": 195,
+          "tweet_count": 1118
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915673915411881988/qqYyNevC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 2,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 21
+        },
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

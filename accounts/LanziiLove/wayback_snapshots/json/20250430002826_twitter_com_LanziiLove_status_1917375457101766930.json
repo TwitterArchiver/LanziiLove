@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1605533261270159361"
+      ],
+      "media_source_tweet_id": [
+        "1605533283579723778"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1917375457101766930",
+    "created_at": "2025-04-30T00:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T01:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917375457101766930"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "ワンちゃん",
+          "probability": 0.4936,
+          "start": 34,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2351408209",
+          "start": 3,
+          "username": "cutest_animal1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AZEcs1Rk9w",
+          "end": 68,
+          "expanded_url": "https://x.com/cutest_animal1/status/1605533283579723778/video/1",
+          "media_key": "7_1605533261270159361",
+          "start": 45,
+          "url": "https://t.co/AZEcs1Rk9w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917375457101766930",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 276
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917135804977352735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cutest_animal1: 坂道をソリで滑るのに失敗したワンちゃんがかわいい https://t.co/AZEcs1Rk9w"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5800,
+        "height": 720,
+        "media_key": "7_1605533261270159361",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1605533261270159361/pu/img/Ls1-sMnccJrVcbXr.jpg",
+        "public_metrics": {
+          "view_count": 6970668
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1605533261270159361/pu/vid/320x320/C816IH4EUmHTYUUW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1605533261270159361/pu/vid/540x540/jHEj6ILKDBIPxFQN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1605533261270159361/pu/vid/720x720/qohW8itORIFtLbp5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1605533261270159361/pu/pl/TRq-NIiyJRqC4kFO.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1605533261270159361"
+          ],
+          "media_source_tweet_id": [
+            "1605533283579723778"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1917375457101766930",
+        "created_at": "2025-04-30T00:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T01:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917375457101766930"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "ワンちゃん",
+              "probability": 0.4936,
+              "start": 34,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2351408209",
+              "start": 3,
+              "username": "cutest_animal1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZEcs1Rk9w",
+              "end": 68,
+              "expanded_url": "https://x.com/cutest_animal1/status/1605533283579723778/video/1",
+              "media_key": "7_1605533261270159361",
+              "start": 45,
+              "url": "https://t.co/AZEcs1Rk9w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917375457101766930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 276
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917135804977352735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cutest_animal1: 坂道をソリで滑るのに失敗したワンちゃんがかわいい https://t.co/AZEcs1Rk9w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1605533261270159361"
+          ],
+          "media_source_tweet_id": [
+            "1605533283579723778"
+          ]
+        },
+        "author_id": "2351408209",
+        "conversation_id": "1917135804977352735",
+        "created_at": "2025-04-29T08:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T09:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917135804977352735"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "ワンちゃん",
+              "probability": 0.4688,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZEcs1Rk9w",
+              "end": 48,
+              "expanded_url": "https://x.com/cutest_animal1/status/1605533283579723778/video/1",
+              "media_key": "7_1605533261270159361",
+              "start": 25,
+              "url": "https://t.co/AZEcs1Rk9w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917135804977352735",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 71561,
+          "like_count": 2333,
+          "quote_count": 14,
+          "reply_count": 3,
+          "retweet_count": 276
+        },
+        "reply_settings": "everyone",
+        "text": "坂道をソリで滑るのに失敗したワンちゃんがかわいい https://t.co/AZEcs1Rk9w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "dexy0306"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11840,
+          "following_count": 712,
+          "like_count": 327,
+          "listed_count": 30,
+          "media_count": 126,
+          "tweet_count": 557
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-19T09:14:51.000Z",
+        "description": "癒される動物の画像・動画を紹介していきます。癒されたらRT",
+        "id": "2351408209",
+        "name": "癒される動物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/443909295256530944/8T92sYY4_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674391,
+          "following_count": 12656,
+          "like_count": 661,
+          "listed_count": 2272,
+          "media_count": 28525,
+          "tweet_count": 44073
+        },
+        "username": "cutest_animal1",
+        "verified": true
+      }
+    ]
+  }
+}

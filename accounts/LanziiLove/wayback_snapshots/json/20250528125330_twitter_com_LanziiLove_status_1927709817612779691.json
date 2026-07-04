@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1927281852244439061",
+    "created_at": "2025-05-28T12:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T13:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927709817612779691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1467884710600732673",
+          "start": 0,
+          "username": "TingYuJiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927709817612779691",
+    "in_reply_to_user_id": "1467884710600732673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927707466864669137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TingYuJiu 这个确实qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1927281852244439061",
+        "created_at": "2025-05-28T12:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T13:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927709817612779691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1467884710600732673",
+              "start": 0,
+              "username": "TingYuJiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927709817612779691",
+        "in_reply_to_user_id": "1467884710600732673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927707466864669137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TingYuJiu 这个确实qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467884710600732673",
+        "conversation_id": "1927281852244439061",
+        "created_at": "2025-05-28T12:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T13:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927707466864669137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927707466864669137",
+        "in_reply_to_user_id": "1467884710600732673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927707278259450303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 现在10d以下的又特别容易勾丝，感觉没有以前那么有性价比了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜ 是雫基米星人喵 来自🇨🇳成都｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "dexy0306"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨（LanziiLove）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15562,
+          "following_count": 724,
+          "like_count": 582,
+          "listed_count": 44,
+          "media_count": 181,
+          "tweet_count": 955
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-06T15:52:51.000Z",
+        "description": "正宗栈姐脑残粉",
+        "id": "1467884710600732673",
+        "location": "图图",
+        "name": "叮咚叮咚叮咚鸡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853163637063704576/6uM5qcuH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 516,
+          "like_count": 2463,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 43
+        },
+        "username": "TingYuJiu",
+        "verified": false
+      }
+    ]
+  }
+}

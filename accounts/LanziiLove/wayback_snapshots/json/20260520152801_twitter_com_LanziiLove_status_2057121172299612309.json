@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057121162497589249",
+        "3_2057121162505879552"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2057121172299612309",
+    "created_at": "2026-05-20T15:28:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T16:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057121172299612309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1915622690653954048",
+          "start": 5,
+          "username": "dexy0306"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pD4d9Y8tEe",
+          "end": 49,
+          "expanded_url": "https://x.com/LanziiLove/status/2057121172299612309/photo/1",
+          "media_key": "3_2057121162497589249",
+          "start": 26,
+          "url": "https://t.co/pD4d9Y8tEe"
+        },
+        {
+          "display_url": "pic.x.com/pD4d9Y8tEe",
+          "end": 49,
+          "expanded_url": "https://x.com/LanziiLove/status/2057121172299612309/photo/1",
+          "media_key": "3_2057121162505879552",
+          "start": 26,
+          "url": "https://t.co/pD4d9Y8tEe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057121172299612309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "520❤️@dexy0306 \n\n我会戴着它一辈子 https://t.co/pD4d9Y8tEe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2057121162497589249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxczFabgAEWsNr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_2057121162505879552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxczFcaAAAmmfO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057121162497589249",
+            "3_2057121162505879552"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2057121172299612309",
+        "created_at": "2026-05-20T15:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057121172299612309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1915622690653954048",
+              "start": 5,
+              "username": "dexy0306"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pD4d9Y8tEe",
+              "end": 49,
+              "expanded_url": "https://x.com/LanziiLove/status/2057121172299612309/photo/1",
+              "media_key": "3_2057121162497589249",
+              "start": 26,
+              "url": "https://t.co/pD4d9Y8tEe"
+            },
+            {
+              "display_url": "pic.x.com/pD4d9Y8tEe",
+              "end": 49,
+              "expanded_url": "https://x.com/LanziiLove/status/2057121172299612309/photo/1",
+              "media_key": "3_2057121162505879552",
+              "start": 26,
+              "url": "https://t.co/pD4d9Y8tEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057121172299612309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "520❤️@dexy0306 \n\n我会戴着它一辈子 https://t.co/pD4d9Y8tEe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku（tg上的是骗子⚠️）",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24542,
+          "following_count": 1187,
+          "like_count": 2536,
+          "listed_count": 75,
+          "media_count": 435,
+          "tweet_count": 2376
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915673915411881988/qqYyNevC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 7,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 92
+        },
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

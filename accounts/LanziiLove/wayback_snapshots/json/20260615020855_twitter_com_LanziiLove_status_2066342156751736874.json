@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066342149453701120"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2066342156751736874",
+    "created_at": "2026-06-15T02:08:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T03:08:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066342156751736874"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z6QXYNWmdm",
+          "end": 23,
+          "expanded_url": "https://x.com/LanziiLove/status/2066342156751736874/photo/1",
+          "media_key": "3_2066342149453701120",
+          "start": 0,
+          "url": "https://t.co/z6QXYNWmdm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066342156751736874",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/z6QXYNWmdm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066342149453701120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK0fPKqa4AAzy1q.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066342149453701120"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2066342156751736874",
+        "created_at": "2026-06-15T02:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066342156751736874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6QXYNWmdm",
+              "end": 23,
+              "expanded_url": "https://x.com/LanziiLove/status/2066342156751736874/photo/1",
+              "media_key": "3_2066342149453701120",
+              "start": 0,
+              "url": "https://t.co/z6QXYNWmdm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066342156751736874",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/z6QXYNWmdm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25514,
+          "following_count": 1260,
+          "like_count": 3124,
+          "listed_count": 78,
+          "media_count": 463,
+          "tweet_count": 2777
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

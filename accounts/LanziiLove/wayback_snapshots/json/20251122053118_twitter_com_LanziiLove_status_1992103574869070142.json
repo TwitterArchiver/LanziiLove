@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1992102278199947531",
+    "created_at": "2025-11-22T05:31:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T06:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992103574869070142"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1992103574869070142",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992102278199947531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "并没有说这位“画师”不配这么多fo\n我也没有反对ai作画（因为我自己也爱用 优质ai图创作者我也关注了好几个）\n只是单纯觉得ta甚至不愿意承认座位混乱是因为ai画不好 而是“解释”“有的教室是这样的”就很难绷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1992102278199947531",
+        "created_at": "2025-11-22T05:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T06:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992103574869070142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992103574869070142",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992102278199947531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "并没有说这位“画师”不配这么多fo\n我也没有反对ai作画（因为我自己也爱用 优质ai图创作者我也关注了好几个）\n只是单纯觉得ta甚至不愿意承认座位混乱是因为ai画不好 而是“解释”“有的教室是这样的”就很难绷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1992102278199947531",
+        "created_at": "2025-11-22T05:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T06:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992102278199947531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oshitsuji/stat…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/oshitsuji/status/1991701797774520355",
+              "start": 160,
+              "url": "https://t.co/ZhrEJWiKNi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992102278199947531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991701797774520355",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "timeline刷到的 其实挺难绷的 这么一个明显全是ai画的账号居然能有5w fo 这么一个ai直出 连手动修一下瑕疵都不愿意 画面构图混乱 座位坐得东南西北 本身并不算出彩的ai图能有这么大的流量 还有很大一部分人看不出来 关键是这位“画师”不仅没有声明ai 还在解释为什么座位混乱 有多少优质画师连1wfo都没有 https://t.co/ZhrEJWiKNi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 不是跨 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好编曲 画画 3DCG cos//985大二计算机科学与技术 第二学位数学 大数据科学//B站6.6万粉丝同名//见证的一律block//音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 151,
+                "start": 140,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1986478231625810336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20783,
+          "following_count": 957,
+          "like_count": 1389,
+          "listed_count": 55,
+          "media_count": 336,
+          "tweet_count": 1678
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

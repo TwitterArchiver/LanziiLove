@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2058392146399699380",
+    "created_at": "2026-05-24T04:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T05:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058398425281098185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1069827544621301760",
+          "start": 0,
+          "username": "Kitsumiya_Yuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058398425281098185",
+    "in_reply_to_user_id": "1069827544621301760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058397823708860434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kitsumiya_Yuu 谢谢！❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2058392146399699380",
+        "created_at": "2026-05-24T04:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058398425281098185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1069827544621301760",
+              "start": 0,
+              "username": "Kitsumiya_Yuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058398425281098185",
+        "in_reply_to_user_id": "1069827544621301760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058397823708860434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kitsumiya_Yuu 谢谢！❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1069827544621301760",
+        "conversation_id": "2058392146399699380",
+        "created_at": "2026-05-24T04:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058397823708860434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058397823708860434",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058392146399699380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 很足夠了，骨密度沒事，手腕的都行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24762,
+          "following_count": 1211,
+          "like_count": 2793,
+          "listed_count": 76,
+          "media_count": 440,
+          "tweet_count": 2540
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-04T05:35:37.000Z",
+        "description": "Yuri/狐娘である/ネットを使える程度の能力/狐第一主義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=dQw4w9…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+                "start": 0,
+                "url": "https://t.co/D5BXAKKxEe"
+              }
+            ]
+          }
+        },
+        "id": "1069827544621301760",
+        "location": "Fanta Sea",
+        "name": "狐宮きつみや",
+        "pinned_tweet_id": "1862445398930891098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967550246600560640/A5q4FdDd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 148,
+          "like_count": 5187,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 907
+        },
+        "url": "https://t.co/D5BXAKKxEe",
+        "username": "Kitsumiya_Yuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1942985346045874380",
+    "created_at": "2025-07-09T16:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T17:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942987622407901258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1561577289636126721",
+          "start": 0,
+          "username": "zander10001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942987622407901258",
+    "in_reply_to_user_id": "1561577289636126721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942986737451458914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zander10001 双手合着微微蹲了一下示意了一下w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1942985346045874380",
+        "created_at": "2025-07-09T16:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T17:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942987622407901258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1561577289636126721",
+              "start": 0,
+              "username": "zander10001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942987622407901258",
+        "in_reply_to_user_id": "1561577289636126721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942986737451458914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zander10001 双手合着微微蹲了一下示意了一下w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561577289636126721",
+        "conversation_id": "1942985346045874380",
+        "created_at": "2025-07-09T16:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T17:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942986737451458914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942986737451458914",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942985346045874380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 最后居然没用男声给他们说“不用谢”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "dexy0306"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17656,
+          "following_count": 820,
+          "like_count": 850,
+          "listed_count": 48,
+          "media_count": 217,
+          "tweet_count": 1246
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T04:53:44.000Z",
+        "description": "CN遊戲玩家",
+        "id": "1561577289636126721",
+        "location": "CN",
+        "name": "zander",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1566656103274151937/aximy-kW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 427,
+          "like_count": 241,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 220
+        },
+        "username": "zander10001",
+        "verified": false
+      }
+    ]
+  }
+}

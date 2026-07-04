@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2060545828255900054",
+    "created_at": "2026-05-30T02:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T03:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060546930732834994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554696046021730305",
+          "start": 0,
+          "username": "Pyuyi233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060546930732834994",
+    "in_reply_to_user_id": "1554696046021730305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060545828255900054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pyuyi233 老师你那么好看那么pass女性化外观是令所应当的哇🥺 而且老师你真的比我好看多了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1039,
+        "media_key": "3_2060545805866647552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJiHfkIaQAANWIq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2060545828255900054",
+        "created_at": "2026-05-30T02:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060546930732834994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554696046021730305",
+              "start": 0,
+              "username": "Pyuyi233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060546930732834994",
+        "in_reply_to_user_id": "1554696046021730305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060545828255900054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pyuyi233 老师你那么好看那么pass女性化外观是令所应当的哇🥺 而且老师你真的比我好看多了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060545805866647552"
+          ]
+        },
+        "author_id": "1554696046021730305",
+        "conversation_id": "2060545828255900054",
+        "created_at": "2026-05-30T02:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060545828255900054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ckx7ffHh1g",
+              "end": 52,
+              "expanded_url": "https://x.com/Pyuyi233/status/2060545828255900054/photo/1",
+              "media_key": "3_2060545805866647552",
+              "start": 29,
+              "url": "https://t.co/Ckx7ffHh1g"
+            },
+            {
+              "display_url": "x.com/LanziiLove/sta…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/LanziiLove/status/2060221264560832555",
+              "start": 53,
+              "url": "https://t.co/YVbx57FKSn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060545828255900054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060221264560832555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一想到和这么好看的人都是开的女性化外表，好像更焦虑了，， https://t.co/Ckx7ffHh1g https://t.co/YVbx57FKSn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25174,
+          "following_count": 1233,
+          "like_count": 3007,
+          "listed_count": 77,
+          "media_count": 452,
+          "tweet_count": 2681
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T05:10:13.000Z",
+        "description": "INFJ\n985math(Geometry/Combinatorics)\nAI Interpretability\nCybersecurity\n\nGithub：https://t.co/vZgYQSg5hB\n红薯：https://t.co/U7sjOeekmX\n\nChasing stars…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/VeraPyuyi",
+                "end": 102,
+                "expanded_url": "https://github.com/VeraPyuyi",
+                "start": 79,
+                "url": "https://t.co/vZgYQSg5hB"
+              },
+              {
+                "display_url": "xhslink.com/m/4magpdTP4E",
+                "end": 129,
+                "expanded_url": "https://xhslink.com/m/4magpdTP4E",
+                "start": 106,
+                "url": "https://t.co/U7sjOeekmX"
+              }
+            ]
+          }
+        },
+        "id": "1554696046021730305",
+        "location": "卡冈图雅",
+        "name": "冷残花飞雨 Pyuyi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826261544784769024/kNmChpk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 34,
+          "like_count": 8,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 34
+        },
+        "username": "Pyuyi233",
+        "verified": true
+      }
+    ]
+  }
+}

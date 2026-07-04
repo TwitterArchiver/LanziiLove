@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056265318557995008",
+        "3_2056265318566346752"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2056265325596041349",
+    "created_at": "2026-05-18T06:47:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T07:47:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056265325596041349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2IYmwaJfB4",
+          "end": 106,
+          "expanded_url": "https://x.com/LanziiLove/status/2056265325596041349/photo/1",
+          "media_key": "3_2056265318557995008",
+          "start": 83,
+          "url": "https://t.co/2IYmwaJfB4"
+        },
+        {
+          "display_url": "pic.x.com/2IYmwaJfB4",
+          "end": 106,
+          "expanded_url": "https://x.com/LanziiLove/status/2056265325596041349/photo/1",
+          "media_key": "3_2056265318566346752",
+          "start": 83,
+          "url": "https://t.co/2IYmwaJfB4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056265325596041349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "通知：主包只有B站 推特 抖音三个平台有号，其他平台的一律为骗子\n刚刚被人提醒电报有人拿我照片骗人\n不太清楚那个平台怎么用的 总之大家别被骗了 能举报大家多举报一下 https://t.co/2IYmwaJfB4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056265318557995008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlSaaSa0AABxnE.jpg",
+        "width": 998
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2056265318566346752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlSaaUaQAACZ7S.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056265318557995008",
+            "3_2056265318566346752"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2056265325596041349",
+        "created_at": "2026-05-18T06:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056265325596041349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2IYmwaJfB4",
+              "end": 106,
+              "expanded_url": "https://x.com/LanziiLove/status/2056265325596041349/photo/1",
+              "media_key": "3_2056265318557995008",
+              "start": 83,
+              "url": "https://t.co/2IYmwaJfB4"
+            },
+            {
+              "display_url": "pic.x.com/2IYmwaJfB4",
+              "end": 106,
+              "expanded_url": "https://x.com/LanziiLove/status/2056265325596041349/photo/1",
+              "media_key": "3_2056265318566346752",
+              "start": 83,
+              "url": "https://t.co/2IYmwaJfB4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056265325596041349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "通知：主包只有B站 推特 抖音三个平台有号，其他平台的一律为骗子\n刚刚被人提醒电报有人拿我照片骗人\n不太清楚那个平台怎么用的 总之大家别被骗了 能举报大家多举报一下 https://t.co/2IYmwaJfB4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24288,
+          "following_count": 1166,
+          "like_count": 2377,
+          "listed_count": 75,
+          "media_count": 428,
+          "tweet_count": 2285
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

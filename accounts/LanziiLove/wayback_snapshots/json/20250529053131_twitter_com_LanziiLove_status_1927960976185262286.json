@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1927658391067078945",
+    "created_at": "2025-05-29T05:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T06:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927960976185262286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1841754160338964480",
+          "start": 0,
+          "username": "3612996715LXB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927960976185262286",
+    "in_reply_to_user_id": "1841754160338964480",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927951271492747458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3612996715LXB ៸៸᳐&gt;⩊&lt;៸៸᳐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1927658391067078945",
+        "created_at": "2025-05-29T05:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T06:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927960976185262286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1841754160338964480",
+              "start": 0,
+              "username": "3612996715LXB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927960976185262286",
+        "in_reply_to_user_id": "1841754160338964480",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927951271492747458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3612996715LXB ៸៸᳐&gt;⩊&lt;៸៸᳐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841754160338964480",
+        "conversation_id": "1927658391067078945",
+        "created_at": "2025-05-29T04:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T05:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927951271492747458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927951271492747458",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927658391067078945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 好伟大的脸😘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜ 是雫基米星人喵 来自🇨🇳成都｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "dexy0306"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨（LanziiLove）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15629,
+          "following_count": 724,
+          "like_count": 591,
+          "listed_count": 44,
+          "media_count": 181,
+          "tweet_count": 970
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T08:17:22.000Z",
+        "description": "（MTF与性别焦虑）↓（雌/抗雄激素大全）→\nhttps://t.co/j2bgRtmEFh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "docs.hrt.guide/menu/",
+                "end": 46,
+                "expanded_url": "https://docs.hrt.guide/menu/",
+                "start": 23,
+                "url": "https://t.co/j2bgRtmEFh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "genderdysphoria.fyi/en/",
+                "end": 23,
+                "expanded_url": "https://genderdysphoria.fyi/en/",
+                "start": 0,
+                "url": "https://t.co/OoI8nxwQUj"
+              }
+            ]
+          }
+        },
+        "id": "1841754160338964480",
+        "name": "ReaLSR-Coasr（散修）",
+        "pinned_tweet_id": "1872308642407707016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892723125516931072/GLGjNzDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 48,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 595
+        },
+        "url": "https://t.co/OoI8nxwQUj",
+        "username": "3612996715LXB",
+        "verified": false
+      }
+    ]
+  }
+}

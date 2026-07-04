@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2057727807934063006",
+    "created_at": "2026-05-22T16:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T17:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057868497263431858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1696410116097257472",
+          "start": 0,
+          "username": "RST_AloneStar"
+        },
+        {
+          "end": 31,
+          "id": "1888105599642300416",
+          "start": 15,
+          "username": "Yunthought57441"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057868497263431858",
+    "in_reply_to_user_id": "1696410116097257472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057866785089851666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RST_AloneStar @Yunthought57441 谢谢🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2057727807934063006",
+        "created_at": "2026-05-22T16:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057868497263431858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1696410116097257472",
+              "start": 0,
+              "username": "RST_AloneStar"
+            },
+            {
+              "end": 31,
+              "id": "1888105599642300416",
+              "start": 15,
+              "username": "Yunthought57441"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057868497263431858",
+        "in_reply_to_user_id": "1696410116097257472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057866785089851666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RST_AloneStar @Yunthought57441 谢谢🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696410116097257472",
+        "conversation_id": "2057727807934063006",
+        "created_at": "2026-05-22T16:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057866785089851666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 28,
+              "id": "1888105599642300416",
+              "start": 12,
+              "username": "Yunthought57441"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057866785089851666",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057866099879018753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @Yunthought57441 可是宝宝你现在看着感觉就是女孩子啊🥺\n羡慕了呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24719,
+          "following_count": 1205,
+          "like_count": 2709,
+          "listed_count": 76,
+          "media_count": 437,
+          "tweet_count": 2485
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-29T06:31:14.000Z",
+        "description": "CN/EN OK! JP下手 MUG Player 曾经的xyn  | \n*已断糖一年 |\nBiliBili：_AloneStar_ |\nSister：@Yujiudu |\nCouple Partner：@trifoliateor",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 76,
+                "username": "Yujiudu"
+              },
+              {
+                "end": 115,
+                "start": 102,
+                "username": "trifoliateor"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/KeFhX2Z",
+                "end": 23,
+                "expanded_url": "https://b23.tv/KeFhX2Z",
+                "start": 0,
+                "url": "https://t.co/0ibihKmT3t"
+              }
+            ]
+          }
+        },
+        "id": "1696410116097257472",
+        "location": "Mars",
+        "name": "_AloneStar_🍥",
+        "pinned_tweet_id": "2033547542739517567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852924042577342464/wA7u-hqd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 1003,
+          "like_count": 1124,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 1808
+        },
+        "url": "https://t.co/0ibihKmT3t",
+        "username": "RST_AloneStar",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-08T06:00:42.000Z",
+        "description": "",
+        "id": "1888105599642300416",
+        "location": "People's Republic of China",
+        "name": "耘想Yunthought",
+        "pinned_tweet_id": "1937515425174307320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919064652870205440/cvuiP0no_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 140,
+          "like_count": 1712,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 64
+        },
+        "username": "Yunthought57441",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1920802494113800481",
+    "created_at": "2025-05-10T06:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T07:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921094192836514296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1721359471849742336",
+          "start": 0,
+          "username": "wwwxxxATRI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921094192836514296",
+    "in_reply_to_user_id": "1721359471849742336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921092946104910333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwwxxxATRI 然然跟咱聊天聊到他以前高中的时候受好多女生追捧的往事qwq\n\n又高又帅体育又好成绩又好是酱紫滴\n\n俺这个神人因为然然受女生欢迎就吃醋了qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1920802494113800481",
+        "created_at": "2025-05-10T06:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T07:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921094192836514296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721359471849742336",
+              "start": 0,
+              "username": "wwwxxxATRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921094192836514296",
+        "in_reply_to_user_id": "1721359471849742336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921092946104910333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwxxxATRI 然然跟咱聊天聊到他以前高中的时候受好多女生追捧的往事qwq\n\n又高又帅体育又好成绩又好是酱紫滴\n\n俺这个神人因为然然受女生欢迎就吃醋了qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721359471849742336",
+        "conversation_id": "1920802494113800481",
+        "created_at": "2025-05-10T06:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T07:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921092946104910333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921092946104910333",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920802494113800481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 难道是然然出去玩然后没有及时回消息吗😛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "dexy0306"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13209,
+          "following_count": 716,
+          "like_count": 395,
+          "listed_count": 36,
+          "media_count": 145,
+          "tweet_count": 686
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T02:51:06.000Z",
+        "description": "",
+        "id": "1721359471849742336",
+        "location": "不知名的小地",
+        "name": "凉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895282659095388160/5reHomfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 58,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 65
+        },
+        "username": "wwwxxxATRI",
+        "verified": false
+      }
+    ]
+  }
+}

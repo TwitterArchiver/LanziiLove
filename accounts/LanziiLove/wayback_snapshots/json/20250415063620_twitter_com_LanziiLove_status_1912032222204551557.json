@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1911783037450461342",
+    "created_at": "2025-04-15T06:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T07:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912032222204551557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1845668678387515392",
+          "start": 0,
+          "username": "baojiangdilei"
+        },
+        {
+          "end": 31,
+          "id": "1878333765514346496",
+          "start": 15,
+          "username": "hosh1no_shizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912032222204551557",
+    "in_reply_to_user_id": "1845668678387515392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912017278352429361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baojiangdilei @hosh1no_shizuku 谢谢喵🥺"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [hosh1no_shizuku].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "hosh1no_shizuku",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "hosh1no_shizuku"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1911783037450461342",
+        "created_at": "2025-04-15T06:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T07:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912032222204551557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1845668678387515392",
+              "start": 0,
+              "username": "baojiangdilei"
+            },
+            {
+              "end": 31,
+              "id": "1878333765514346496",
+              "start": 15,
+              "username": "hosh1no_shizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912032222204551557",
+        "in_reply_to_user_id": "1845668678387515392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912017278352429361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baojiangdilei @hosh1no_shizuku 谢谢喵🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845668678387515392",
+        "conversation_id": "1911783037450461342",
+        "created_at": "2025-04-15T05:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T06:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912017278352429361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 28,
+              "id": "1878333765514346496",
+              "start": 12,
+              "username": "hosh1no_shizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912017278352429361",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911783037450461342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @hosh1no_shizuku 抱抱姐姐，帮你转发了🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "19岁🇨🇳男娘小雫｜2万fo大号@hosh1no_shizuku被盗 本号为唯一真号 置顶查证｜纯清水无黄无福利无tg 其他账号均为假冒的骗子｜🥺求帮帮孩子新号重生 现在关注我就回fo 求转推（没回fo就是到上限了）｜已有男朋友 他叫然然～ 是纯爱哦｜不设门槛 同好可扩列｜新小号@hosh1no_sh1zuku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "hosh1no_shizuku"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "映鏡R3-DMPT",
+        "name": "星野雫丶Shizuku（唯一真号 主页查证）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3015,
+          "following_count": 419,
+          "like_count": 244,
+          "listed_count": 8,
+          "media_count": 66,
+          "tweet_count": 213
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T03:31:27.000Z",
+        "description": "我会很友善的对待大家的哟 ✧(≖ ◡ ≖✿) ｜喜欢玩碧蓝航线和CODM｜不键政｜会尽最大努力避免与任何人发生冲突｜想做个很温和的岁静人｜绝对不会主动骂人或人身攻击！｜很讨厌戾气重、乱骂人的人，见到了就屏蔽｜不会因立场不同而屏蔽或辱骂他人｜有时可能会出现误屏蔽的情况，十分抱歉🙏｜善待每一位能好好说话的推友❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/baojiangdilei?…",
+                "end": 23,
+                "expanded_url": "https://x.com/baojiangdilei?s=21",
+                "start": 0,
+                "url": "https://t.co/nieIMJTaLv"
+              }
+            ]
+          }
+        },
+        "id": "1845668678387515392",
+        "location": "D.P.R.KOREN",
+        "name": "爆浆地雷😘",
+        "pinned_tweet_id": "1901629628131033257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872123086683901952/OLhb4dEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 513,
+          "like_count": 96826,
+          "listed_count": 0,
+          "media_count": 575,
+          "tweet_count": 7558
+        },
+        "url": "https://t.co/nieIMJTaLv",
+        "username": "baojiangdilei",
+        "verified": false
+      }
+    ]
+  }
+}

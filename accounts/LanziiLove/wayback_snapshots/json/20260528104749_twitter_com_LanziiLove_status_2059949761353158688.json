@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2059938518185763170",
+    "created_at": "2026-05-28T10:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059949761353158688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1496143823608635397",
+          "start": 0,
+          "username": "YiQingCAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059949761353158688",
+    "in_reply_to_user_id": "1496143823608635397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059945570681422036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YiQingCAT 我男友是北理的顺直男\n我是别的学校的mtf\n我们两个没人是北理的男娘（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2059938518185763170",
+        "created_at": "2026-05-28T10:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059949761353158688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1496143823608635397",
+              "start": 0,
+              "username": "YiQingCAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059949761353158688",
+        "in_reply_to_user_id": "1496143823608635397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059945570681422036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YiQingCAT 我男友是北理的顺直男\n我是别的学校的mtf\n我们两个没人是北理的男娘（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1496143823608635397",
+        "conversation_id": "2059938518185763170",
+        "created_at": "2026-05-28T10:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059945570681422036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059945570681422036",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059938518185763170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 北理出人才啊，认识好多北理的男娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25069,
+          "following_count": 1225,
+          "like_count": 2974,
+          "listed_count": 77,
+          "media_count": 450,
+          "tweet_count": 2647
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-22T15:24:47.000Z",
+        "description": "我爸是人民公仆，我是人民女仆//07无糖南梁小画师，欢迎关注我嘻嘻😁\n努力拍出自己喜欢的照片！画喜欢的小男娘！\n斗酒十千恣欢谑，今年欢笑复明年 ，秋月春风等闲度\n\nWorking hard femboy coser",
+        "id": "1496143823608635397",
+        "location": "shanghai",
+        "name": "人民女仆喵♂",
+        "pinned_tweet_id": "2057164924225466413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016802096927166466/OKmZaW6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 271,
+          "like_count": 2200,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 388
+        },
+        "username": "YiQingCAT",
+        "verified": false
+      }
+    ]
+  }
+}

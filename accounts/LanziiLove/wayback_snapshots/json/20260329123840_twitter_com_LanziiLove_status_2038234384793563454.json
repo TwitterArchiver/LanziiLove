@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2038134693833723915",
+    "created_at": "2026-03-29T12:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T13:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038234384793563454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1786575562896793600",
+          "start": 0,
+          "username": "lan_xian85079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038234384793563454",
+    "in_reply_to_user_id": "1786575562896793600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038216474016518249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lan_xian85079 哇！好滴好滴！非常感谢！！！❤️❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2038134693833723915",
+        "created_at": "2026-03-29T12:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T13:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038234384793563454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1786575562896793600",
+              "start": 0,
+              "username": "lan_xian85079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038234384793563454",
+        "in_reply_to_user_id": "1786575562896793600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038216474016518249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_xian85079 哇！好滴好滴！非常感谢！！！❤️❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786575562896793600",
+        "conversation_id": "2038134693833723915",
+        "created_at": "2026-03-29T11:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038216474016518249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038216474016518249",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038134693833723915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 如果想要很自然的声音的话可以去找专业的团队去上嗓音练习的课程，我这北京的课的话，团课（两个人）2700（ 6次课+1次练习）单人的话是3600（也是6次课+1次练习），就我来说我原本声音的基频就比较高183.8，女生正常的基频是200以上，所以对我来说效果还是很明显的，现在声音外貌都是女孩子没人怀疑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫 平时喜欢打打游戏玩玩cos发照片 账号纯绿日常向 已经有对象啦@dexy0306 B站6.7w粉同名的是我本人号 不定期直播打游戏 祝你生活愉快～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22129,
+          "following_count": 991,
+          "like_count": 1719,
+          "listed_count": 66,
+          "media_count": 364,
+          "tweet_count": 1852
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T01:56:33.000Z",
+        "description": "可愛い物が好きです。是个日常清水（大概？）发推纯个人爱好awa",
+        "id": "1786575562896793600",
+        "name": "閑攬煙雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847971750560342016/rjv3KqG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 383,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 286
+        },
+        "username": "lan_xian85079",
+        "verified": false
+      }
+    ]
+  }
+}

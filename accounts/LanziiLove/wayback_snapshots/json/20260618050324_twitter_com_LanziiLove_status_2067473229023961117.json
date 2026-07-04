@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2067472310106530117",
+    "created_at": "2026-06-18T05:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T06:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067473229023961117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1618909954156679168",
+          "start": 0,
+          "username": "afdtb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067473229023961117",
+    "in_reply_to_user_id": "1618909954156679168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067472310106530117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@afdtb 我求你先看看它说了什么再在这装懂哥吧🤣\n\n我看你也好不到哪去啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2067472310106530117",
+        "created_at": "2026-06-18T05:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067473229023961117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1618909954156679168",
+              "start": 0,
+              "username": "afdtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067473229023961117",
+        "in_reply_to_user_id": "1618909954156679168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067472310106530117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@afdtb 我求你先看看它说了什么再在这装懂哥吧🤣\n\n我看你也好不到哪去啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618909954156679168",
+        "conversation_id": "2067472310106530117",
+        "created_at": "2026-06-18T04:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067472310106530117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LanziiLove/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/LanziiLove/status/2067449764883669150",
+              "start": 24,
+              "url": "https://t.co/E5GwBl4BEz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067472310106530117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067449764883669150",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "p图p成外星人多了已经见不得现实人类的长相了吗 https://t.co/E5GwBl4BEz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！直女w💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人！🏠我永生挚爱的男友然桑@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25612,
+          "following_count": 1269,
+          "like_count": 3156,
+          "listed_count": 79,
+          "media_count": 467,
+          "tweet_count": 2828
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T09:53:18.000Z",
+        "description": "MtF/退役OIer/舞萌W2/m/健全逼/日子人/慢性鼻炎/胃胀气\n🚪：一个月内拍摄的腹肌照\n猪：@sherry4869000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "sherry4869000"
+              }
+            ]
+          }
+        },
+        "id": "1618909954156679168",
+        "name": "不吃奶猪",
+        "pinned_tweet_id": "2064107257475059872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998668524831780864/zz8CBL0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4444,
+          "following_count": 904,
+          "like_count": 12920,
+          "listed_count": 14,
+          "media_count": 1589,
+          "tweet_count": 8825
+        },
+        "url": "",
+        "username": "afdtb",
+        "verified": false
+      }
+    ]
+  }
+}

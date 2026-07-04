@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989180282562662400"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1989180289105707489",
+    "created_at": "2025-11-14T03:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T04:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989180289105707489"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GA8WtcoRPf",
+          "end": 37,
+          "expanded_url": "https://x.com/LanziiLove/status/1989180289105707489/photo/1",
+          "media_key": "3_1989180282562662400",
+          "start": 14,
+          "url": "https://t.co/GA8WtcoRPf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989180289105707489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也来发一发\n我的作战记录 https://t.co/GA8WtcoRPf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1989180289105707489].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1989180289105707489",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1989180289105707489"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 486,
+        "media_key": "3_1989180282562662400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5r87Yhb0AA0mxS.jpg",
+        "width": 970
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 不是跨 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好：编曲 画画 3DCG Cos//985大二计算机科学与技术 二学位数学//B站6.5万粉丝同名//因社恐不扩列sry 偶尔酌情回fo// 音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1986478231625810336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20700,
+          "following_count": 955,
+          "like_count": 1350,
+          "listed_count": 54,
+          "media_count": 334,
+          "tweet_count": 1642
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2057321950134120953",
+    "created_at": "2026-05-21T13:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057454878541427133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1839915544897884160",
+          "start": 0,
+          "username": "GARYSIAKARLSHA"
+        },
+        {
+          "end": 32,
+          "id": "1313383273079345152",
+          "start": 16,
+          "username": "ValeriaEulabeia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057454878541427133",
+    "in_reply_to_user_id": "1839915544897884160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057393764893901029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GARYSIAKARLSHA @ValeriaEulabeia 谢谢！！！❤️🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2057321950134120953",
+        "created_at": "2026-05-21T13:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057454878541427133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1839915544897884160",
+              "start": 0,
+              "username": "GARYSIAKARLSHA"
+            },
+            {
+              "end": 32,
+              "id": "1313383273079345152",
+              "start": 16,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057454878541427133",
+        "in_reply_to_user_id": "1839915544897884160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057393764893901029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GARYSIAKARLSHA @ValeriaEulabeia 谢谢！！！❤️🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839915544897884160",
+        "conversation_id": "2057321950134120953",
+        "created_at": "2026-05-21T09:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057393764893901029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 28,
+              "id": "1313383273079345152",
+              "start": 12,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057393764893901029",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057321950134120953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @ValeriaEulabeia 祝你和你母亲长命百岁！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24615,
+          "following_count": 1192,
+          "like_count": 2589,
+          "listed_count": 75,
+          "media_count": 435,
+          "tweet_count": 2421
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T06:30:39.000Z",
+        "description": "上海不知名大学文科大学生｜无证MTF、DIYHRT",
+        "id": "1839915544897884160",
+        "location": "上海",
+        "name": "GsKrl🏳️‍⚧️🍥｜🐝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046392132664270848/HLOq16oq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 125,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 195
+        },
+        "username": "GARYSIAKARLSHA",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "È la vita una battaglia,\ne il cammino irto d'inganni,\nma siam forti: abbiam vent'anni,\nl'avvenire non temiam...\n🗡️💣🖤",
+        "id": "1313383273079345152",
+        "location": "Queensland, Australia",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "2028669028810838138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049492315513950209/Cp9UnZ_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6958,
+          "following_count": 3837,
+          "like_count": 156940,
+          "listed_count": 20,
+          "media_count": 2695,
+          "tweet_count": 25224
+        },
+        "username": "ValeriaEulabeia",
+        "verified": true
+      }
+    ]
+  }
+}

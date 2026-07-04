@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1954878488042955136",
+    "created_at": "2025-08-11T12:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T13:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954878607941386705"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1954878607941386705",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954878488042955136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "X又压音质又压画质\n\n你无敌了🐜🐲"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25480,
+        "height": 720,
+        "media_key": "13_1954878388424097792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1954878388424097792/img/Bwj34QJy_-VG_Vie.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954878388424097792/vid/avc1/480x270/coEa8YCVdZOkOomb.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954878388424097792/vid/avc1/640x360/_TNYfQTG7fkncSGg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954878388424097792/vid/avc1/1280x720/n4EZ4DTYiNvWwtt3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1954878388424097792/pl/WlVPr-aUmLRg55ih.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1954878488042955136",
+        "created_at": "2025-08-11T12:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T13:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954878607941386705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954878607941386705",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954878488042955136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "X又压音质又压画质\n\n你无敌了🐜🐲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1954878388424097792"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1954878488042955136",
+        "created_at": "2025-08-11T12:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T13:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954878488042955136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HWvYT1pzIh",
+              "end": 50,
+              "expanded_url": "https://x.com/LanziiLove/status/1954878488042955136/video/1",
+              "media_key": "13_1954878388424097792",
+              "start": 27,
+              "url": "https://t.co/HWvYT1pzIh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954878488042955136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟着B站上高小晟老师的教程做的一段CG动画（和音效） https://t.co/HWvYT1pzIh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年国产人类🇨🇳//X当朋友圈发 照片高P//男友@Dexy0306//一个除了高考674分以外没有任何过人之处的做题区//爱好 编曲&画画&3DCG//985大二计算机科学与技术 第二学位辅修数学//B站6.2万粉丝同名// 音乐&绘画作品 音乐平台&Pixiv@LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952297088974462977/bue5f0ca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17964,
+          "following_count": 874,
+          "like_count": 1006,
+          "listed_count": 45,
+          "media_count": 254,
+          "tweet_count": 1364
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

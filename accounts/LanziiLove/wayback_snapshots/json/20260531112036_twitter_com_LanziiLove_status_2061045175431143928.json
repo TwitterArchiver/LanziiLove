@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2061039860065177886",
+    "created_at": "2026-05-31T11:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T12:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061045175431143928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2038255367990202368",
+          "start": 0,
+          "username": "pwn_bug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061045175431143928",
+    "in_reply_to_user_id": "2038255367990202368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061043577590075845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pwn_bug 我发出来的照片都是P过的\n我线下素颜其实还是很一般的🥲\n\n不过南北方我印象里好像区别也都不大\n我在成都也没怎么被misgender过倒是awa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2061039860065177886",
+        "created_at": "2026-05-31T11:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061045175431143928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2038255367990202368",
+              "start": 0,
+              "username": "pwn_bug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061045175431143928",
+        "in_reply_to_user_id": "2038255367990202368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061043577590075845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pwn_bug 我发出来的照片都是P过的\n我线下素颜其实还是很一般的🥲\n\n不过南北方我印象里好像区别也都不大\n我在成都也没怎么被misgender过倒是awa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038255367990202368",
+        "conversation_id": "2061039860065177886",
+        "created_at": "2026-05-31T11:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061043577590075845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061043577590075845",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061039860065177886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 有点疑惑，老师这个长相还会被misgender吗 ？。。。我个人觉得没老师长得好看，但也没遇到过称呼我为先生的情况，所以才有此疑惑。\n\n更何况你还是去的北方，北方给我的印象就是相比于南方来说更不容易 misgender。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25278,
+          "following_count": 1233,
+          "like_count": 3027,
+          "listed_count": 77,
+          "media_count": 452,
+          "tweet_count": 2691
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T14:02:14.000Z",
+        "description": "Security Researcher, Coder, graduate majoring in SE / CTFer, retired ACMer. / \n不讨论政治 / 反对一切封闭、固化、威权的开发生态，崇尚开放、多元化、民主的开发生态.",
+        "id": "2038255367990202368",
+        "name": "pwn_bug",
+        "pinned_tweet_id": "2060804788884033651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038255898930692098/WGizerb1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 63,
+          "like_count": 4008,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 188
+        },
+        "username": "pwn_bug",
+        "verified": false
+      }
+    ]
+  }
+}

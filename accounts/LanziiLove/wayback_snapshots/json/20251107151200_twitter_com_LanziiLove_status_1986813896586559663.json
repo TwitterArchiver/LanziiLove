@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1986811402980589652",
+    "created_at": "2025-11-07T15:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T16:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986813896586559663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1781622500893622272",
+          "start": 0,
+          "username": "gomya0_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986813896586559663",
+    "in_reply_to_user_id": "1781622500893622272",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986811402980589652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gomya0_0 🎂HAPPY BIRTHDAY!🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1294,
+        "media_key": "3_1986811394969493505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5KSb-ja4AEZNcq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1986811402980589652",
+        "created_at": "2025-11-07T15:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T16:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986813896586559663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1781622500893622272",
+              "start": 0,
+              "username": "gomya0_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986813896586559663",
+        "in_reply_to_user_id": "1781622500893622272",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986811402980589652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gomya0_0 🎂HAPPY BIRTHDAY!🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986811394969493505"
+          ]
+        },
+        "author_id": "1781622500893622272",
+        "conversation_id": "1986811402980589652",
+        "created_at": "2025-11-07T15:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T16:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986811402980589652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s3W5fvRJo1",
+              "end": 25,
+              "expanded_url": "https://x.com/gomya0_0/status/1986811402980589652/photo/1",
+              "media_key": "3_1986811394969493505",
+              "start": 2,
+              "url": "https://t.co/s3W5fvRJo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986811402980589652",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 420,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "🎂 https://t.co/s3W5fvRJo1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 不是跨 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好：编曲 画画 3DCG Cos//985大二计算机科学与技术 二学位数学//B站6.5万粉丝同名//因社恐不扩列sry 偶尔酌情回fo// 音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20517,
+          "following_count": 950,
+          "like_count": 1308,
+          "listed_count": 53,
+          "media_count": 326,
+          "tweet_count": 1601
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T09:55:03.000Z",
+        "description": "ボーカロイドを主に描きます!/猫で描きます/🤖❌️!!/ rhaiek0.0@gmail.com / sub: @gomya3939",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "gomya3939"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "artmug.kr/m/index.php?ch…",
+                "end": 23,
+                "expanded_url": "https://artmug.kr/m/index.php?channel=view&uid=53113",
+                "start": 0,
+                "url": "https://t.co/PiqUELv0Rc"
+              }
+            ]
+          }
+        },
+        "id": "1781622500893622272",
+        "location": "https://fori.io/gomya",
+        "name": "ゴミャ/고먀",
+        "pinned_tweet_id": "1985673462099444057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965309923341807616/-jocYylX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20863,
+          "following_count": 77,
+          "like_count": 1703,
+          "listed_count": 46,
+          "media_count": 344,
+          "tweet_count": 524
+        },
+        "url": "https://t.co/PiqUELv0Rc",
+        "username": "gomya0_0",
+        "verified": false
+      }
+    ]
+  }
+}

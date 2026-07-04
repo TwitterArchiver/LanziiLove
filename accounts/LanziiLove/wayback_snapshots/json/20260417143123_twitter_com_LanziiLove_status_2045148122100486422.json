@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2045143668601041173",
+    "created_at": "2026-04-17T14:31:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T15:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045148122100486422"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045148122100486422",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045143668601041173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "AI工具使用说明：背景为AI替换、为了满足分辨率和壁纸比例使用超分和扩图\n\n其余均为自行拍摄&amp;后期加工"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045143659386122241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHPUpRaMAEJBAL.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2045143668601041173",
+        "created_at": "2026-04-17T14:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045148122100486422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045148122100486422",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045143668601041173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "AI工具使用说明：背景为AI替换、为了满足分辨率和壁纸比例使用超分和扩图\n\n其余均为自行拍摄&amp;后期加工"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045143659386122241"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2045143668601041173",
+        "created_at": "2026-04-17T14:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045143668601041173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ofAihx0gSH",
+              "end": 65,
+              "expanded_url": "https://x.com/LanziiLove/status/2045143668601041173/photo/1",
+              "media_key": "3_2045143659386122241",
+              "start": 42,
+              "url": "https://t.co/ofAihx0gSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045143668601041173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "张力\n\n（穿今天的常服突发奇想拍了一张 发现好适合当壁纸 就当发手机壁纸了www） https://t.co/ofAihx0gSH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫✨平时喜欢打打游戏玩玩cos发照片编曲画画写代码💻账号纯绿日常向🏠已经有对象啦@dexy0306❤️B站6.7w粉同名的是我本人号😉不定期直播打游戏 评论区混眼熟了会回fo 🥳 祝你生活愉快～☀️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21920,
+          "following_count": 1018,
+          "like_count": 1843,
+          "listed_count": 64,
+          "media_count": 383,
+          "tweet_count": 1950
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912777406349471744"
+      ],
+      "media_source_tweet_id": [
+        "1912777411994738712"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1912778664778817914",
+    "created_at": "2025-04-17T08:02:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T09:02:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912778664778817914"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "男娘"
+        },
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "伪娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1478742688509743106",
+          "start": 3,
+          "username": "kimari39831"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UtFpigf4wU",
+          "end": 56,
+          "expanded_url": "https://x.com/kimari39831/status/1912777411994738712/photo/1",
+          "media_key": "3_1912777406349471744",
+          "start": 33,
+          "url": "https://t.co/UtFpigf4wU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912778664778817914",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912777411994738712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kimari39831: 太阳太毒辣！\n\n#男娘 #伪娘 https://t.co/UtFpigf4wU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1912777406349471744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GouM6q_acAA7zyJ.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912777406349471744"
+          ],
+          "media_source_tweet_id": [
+            "1912777411994738712"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1912778664778817914",
+        "created_at": "2025-04-17T08:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T09:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912778664778817914"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "男娘"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "伪娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1478742688509743106",
+              "start": 3,
+              "username": "kimari39831"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UtFpigf4wU",
+              "end": 56,
+              "expanded_url": "https://x.com/kimari39831/status/1912777411994738712/photo/1",
+              "media_key": "3_1912777406349471744",
+              "start": 33,
+              "url": "https://t.co/UtFpigf4wU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912778664778817914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912777411994738712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kimari39831: 太阳太毒辣！\n\n#男娘 #伪娘 https://t.co/UtFpigf4wU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912777406349471744"
+          ]
+        },
+        "author_id": "1478742688509743106",
+        "conversation_id": "1912777411994738712",
+        "created_at": "2025-04-17T07:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T08:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912777411994738712"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "男娘"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UtFpigf4wU",
+              "end": 39,
+              "expanded_url": "https://x.com/kimari39831/status/1912777411994738712/photo/1",
+              "media_key": "3_1912777406349471744",
+              "start": 16,
+              "url": "https://t.co/UtFpigf4wU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912777411994738712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "太阳太毒辣！\n\n#男娘 #伪娘 https://t.co/UtFpigf4wU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号重生】19岁🇨🇳男娘小雫｜2万fo大号@hosh1no_shizuku被盗 本号为唯一真号 置顶查证｜纯清水无黄无福利无tg 其他账号均为假冒｜🥺求帮帮孩子新号重生 关注我就回fo 求转推（没回fo就是到上限了）｜已有男朋友 他叫然然～ 是纯爱哦｜不设门槛 同好可扩列｜新小号@hosh1no_sh1zuku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "hosh1no_shizuku"
+              },
+              {
+                "end": 157,
+                "start": 141,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku（新号复活中）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7342,
+          "following_count": 557,
+          "like_count": 249,
+          "listed_count": 16,
+          "media_count": 82,
+          "tweet_count": 284
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-05T14:58:42.000Z",
+        "description": "",
+        "id": "1478742688509743106",
+        "location": "Chiba-shi Mihama-ku, Chiba",
+        "name": "Lucky☆Kimari",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1478742763424288769/4nWGUADE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 299,
+          "like_count": 9,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 101
+        },
+        "username": "kimari39831",
+        "verified": false
+      }
+    ]
+  }
+}

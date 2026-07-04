@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2063106058474946826",
+    "created_at": "2026-06-06T04:45:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T05:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063120043106586941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1874636095196909568",
+          "start": 0,
+          "username": "BD3RER"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063120043106586941",
+    "in_reply_to_user_id": "1874636095196909568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063108314993697001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BD3RER 谢谢！！！❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2063106058474946826",
+        "created_at": "2026-06-06T04:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063120043106586941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1874636095196909568",
+              "start": 0,
+              "username": "BD3RER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063120043106586941",
+        "in_reply_to_user_id": "1874636095196909568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063108314993697001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BD3RER 谢谢！！！❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874636095196909568",
+        "conversation_id": "2063106058474946826",
+        "created_at": "2026-06-06T03:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063108314993697001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063108314993697001",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063106058474946826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 1.可以去上海精卫速通\n2.理论上可以只需要一方同意\n3.同1\n4.休学证明不清楚\n5.看医院 411认可所有三甲医院精神科/心理科的大证 上海九院似乎限人 北三需要三甲综合医院精神科/三甲精神专科医院精神/心理科大证\n总之具体要求咨询医院"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25396,
+          "following_count": 1246,
+          "like_count": 3092,
+          "listed_count": 79,
+          "media_count": 457,
+          "tweet_count": 2728
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T01:57:35.000Z",
+        "description": "DE BD3RER  |  星凪澪奈  | 集邮📨  火车迷🚅  业余无线电📶 |神秘倒计时2027.7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qrz.com/db/bd3rer",
+                "end": 23,
+                "expanded_url": "https://www.qrz.com/db/bd3rer",
+                "start": 0,
+                "url": "https://t.co/TmLC9ul0q3"
+              }
+            ]
+          }
+        },
+        "id": "1874636095196909568",
+        "location": "| Grid OM99 | ",
+        "name": "Hoshinagi Miona",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878881621224333313/e0v3QbtZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 403,
+          "like_count": 3598,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 326
+        },
+        "url": "https://t.co/TmLC9ul0q3",
+        "username": "BD3RER",
+        "verified": false
+      }
+    ]
+  }
+}

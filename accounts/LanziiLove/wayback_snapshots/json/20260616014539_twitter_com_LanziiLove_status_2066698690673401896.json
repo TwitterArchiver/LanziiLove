@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2066562020288422230",
+    "created_at": "2026-06-16T01:45:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T02:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066698690673401896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1215118015647244288",
+          "start": 0,
+          "username": "6eUFqMlc7DmQeUQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066698690673401896",
+    "in_reply_to_user_id": "1215118015647244288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066693017533387051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6eUFqMlc7DmQeUQ 开个玩笑发发癫都能让你优越上了😩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2066562020288422230",
+        "created_at": "2026-06-16T01:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T02:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066698690673401896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1215118015647244288",
+              "start": 0,
+              "username": "6eUFqMlc7DmQeUQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066698690673401896",
+        "in_reply_to_user_id": "1215118015647244288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066693017533387051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6eUFqMlc7DmQeUQ 开个玩笑发发癫都能让你优越上了😩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1215118015647244288",
+        "conversation_id": "2066562020288422230",
+        "created_at": "2026-06-16T01:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T02:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066693017533387051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066693017533387051",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066562020288422230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 想女性化只能变性手术，  你不会以为靠吃糖就可以变性吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！直女w💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人！🏠我永生挚爱的男友然桑@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25524,
+          "following_count": 1262,
+          "like_count": 3128,
+          "listed_count": 78,
+          "media_count": 463,
+          "tweet_count": 2782
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-09T03:48:22.000Z",
+        "description": "奇跡と魔法が存在する     https://t.co/FCytojlBo7     日本の友達は私のLINEを加えることができます",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/_NiAmdJnDj",
+                "end": 38,
+                "expanded_url": "http://line.me/ti/p/_NiAmdJnDj",
+                "start": 15,
+                "url": "https://t.co/FCytojlBo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/TianyinYuesaki",
+                "end": 23,
+                "expanded_url": "https://t.me/TianyinYuesaki",
+                "start": 0,
+                "url": "https://t.co/uXiAcEab0r"
+              }
+            ]
+          }
+        },
+        "id": "1215118015647244288",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "環 いろは ",
+        "pinned_tweet_id": "1659560680872378369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592793063738331136/ki4eVfOx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 689,
+          "like_count": 70303,
+          "listed_count": 9,
+          "media_count": 1164,
+          "tweet_count": 26661
+        },
+        "url": "https://t.co/uXiAcEab0r",
+        "username": "6eUFqMlc7DmQeUQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1777806815536775169"
+      ],
+      "media_source_tweet_id": [
+        "1777806879843815642"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1935584591110345101",
+    "created_at": "2025-06-19T06:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T07:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935584591110345101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1130021685351079938",
+          "start": 3,
+          "username": "buitengebieden"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AZYecmkmiW",
+          "end": 62,
+          "expanded_url": "https://x.com/buitengebieden/status/1777806879843815642/video/1",
+          "media_key": "13_1777806815536775169",
+          "start": 39,
+          "url": "https://t.co/AZYecmkmiW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935584591110345101",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14026
+    },
+    "referenced_tweets": [
+      {
+        "id": "1777806879843815642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @buitengebieden: Branch manager.. 😅 https://t.co/AZYecmkmiW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11700,
+        "height": 1350,
+        "media_key": "13_1777806815536775169",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1777806815536775169/img/157mgUp13Mm3Oggr.jpg",
+        "public_metrics": {
+          "view_count": 4442438
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1777806815536775169/vid/avc1/320x400/z5L2PgBRCtt7WnZI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1777806815536775169/vid/avc1/480x600/7vQRIpBqYHTTSWS7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1777806815536775169/vid/avc1/720x900/pgLOjIX93i65LN9V.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1777806815536775169/pl/LuO1y58qEoNkpJTa.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1777806815536775169"
+          ],
+          "media_source_tweet_id": [
+            "1777806879843815642"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1935584591110345101",
+        "created_at": "2025-06-19T06:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T07:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935584591110345101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1130021685351079938",
+              "start": 3,
+              "username": "buitengebieden"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZYecmkmiW",
+              "end": 62,
+              "expanded_url": "https://x.com/buitengebieden/status/1777806879843815642/video/1",
+              "media_key": "13_1777806815536775169",
+              "start": 39,
+              "url": "https://t.co/AZYecmkmiW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935584591110345101",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14026
+        },
+        "referenced_tweets": [
+          {
+            "id": "1777806879843815642",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @buitengebieden: Branch manager.. 😅 https://t.co/AZYecmkmiW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1777806815536775169"
+          ]
+        },
+        "author_id": "1130021685351079938",
+        "conversation_id": "1777806879843815642",
+        "created_at": "2024-04-09T21:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-09T22:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1777806879843815642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZYecmkmiW",
+              "end": 42,
+              "expanded_url": "https://x.com/buitengebieden/status/1777806879843815642/video/1",
+              "media_key": "13_1777806815536775169",
+              "start": 19,
+              "url": "https://t.co/AZYecmkmiW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1777806879843815642",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4208,
+          "impression_count": 5149906,
+          "like_count": 118293,
+          "quote_count": 815,
+          "reply_count": 612,
+          "retweet_count": 14026
+        },
+        "reply_settings": "everyone",
+        "text": "Branch manager.. 😅 https://t.co/AZYecmkmiW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜不是女孩子也不是男娘 是雫基米星人喵！｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "dexy0306"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16981,
+          "following_count": 757,
+          "like_count": 742,
+          "listed_count": 45,
+          "media_count": 204,
+          "tweet_count": 1163
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-19T08:05:39.000Z",
+        "description": "The official positive side of 𝕏. I’m Sander from the Netherlands. All copyrights belong to their respective owners! DM for credits/removal/submission!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/buitengebieden",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/buitengebieden",
+                "start": 0,
+                "url": "https://t.co/lcTxsIZCBL"
+              }
+            ]
+          }
+        },
+        "id": "1130021685351079938",
+        "location": "Nederland",
+        "name": "Buitengebieden",
+        "pinned_tweet_id": "1933620496295473458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1130022182971760640/FlbICzEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2836332,
+          "following_count": 75,
+          "like_count": 22292,
+          "listed_count": 14020,
+          "media_count": 8655,
+          "tweet_count": 9501
+        },
+        "url": "https://t.co/lcTxsIZCBL",
+        "username": "buitengebieden",
+        "verified": true
+      }
+    ]
+  }
+}

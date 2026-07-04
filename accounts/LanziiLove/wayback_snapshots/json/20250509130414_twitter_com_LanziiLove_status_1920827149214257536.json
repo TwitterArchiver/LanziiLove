@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1920827149214257536",
+    "created_at": "2025-05-09T13:04:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T14:04:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920827149214257536"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/hsn8086/status/1920751570913775977",
+          "start": 23,
+          "url": "https://t.co/BPOrXAtIho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920827149214257536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920751570913775977",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然然如果见面发现咱脱了裙子没有小唧唧会怎么样 https://t.co/BPOrXAtIho"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 294,
+        "media_key": "3_1920751540668952579",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqfhWYNbcAMGMXd.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1920827149214257536",
+        "created_at": "2025-05-09T13:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T14:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920827149214257536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/hsn8086/status/1920751570913775977",
+              "start": 23,
+              "url": "https://t.co/BPOrXAtIho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920827149214257536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920751570913775977",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然然如果见面发现咱脱了裙子没有小唧唧会怎么样 https://t.co/BPOrXAtIho"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920751540668952579"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1920751570913775977",
+        "created_at": "2025-05-09T08:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T09:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920751570913775977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/frd4X382UG",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1920751570913775977/photo/1",
+              "media_key": "3_1920751540668952579",
+              "start": 0,
+              "url": "https://t.co/frd4X382UG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920751570913775977",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5243,
+          "like_count": 135,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/frd4X382UG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "dexy0306"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12916,
+          "following_count": 714,
+          "like_count": 392,
+          "listed_count": 33,
+          "media_count": 142,
+          "tweet_count": 675
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1909591657043144887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65502,
+          "following_count": 960,
+          "like_count": 39709,
+          "listed_count": 148,
+          "media_count": 10644,
+          "tweet_count": 16826
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

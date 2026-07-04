@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2058201614905962673",
+    "created_at": "2026-05-25T03:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T04:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058759769704591474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1960223030493515776",
+          "start": 0,
+          "username": "TOKYO_HATTER"
+        },
+        {
+          "end": 25,
+          "id": "1961425958277373952",
+          "start": 14,
+          "username": "i_make_hat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058759769704591474",
+    "in_reply_to_user_id": "1960223030493515776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058759172934754598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOKYO_HATTER @i_make_hat 唉 对不起对不起……\n我也情绪激动了\n真的很抱歉 我也有错\n\n祝你能够生活顺利愉快"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2058201614905962673",
+        "created_at": "2026-05-25T03:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058759769704591474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1960223030493515776",
+              "start": 0,
+              "username": "TOKYO_HATTER"
+            },
+            {
+              "end": 25,
+              "id": "1961425958277373952",
+              "start": 14,
+              "username": "i_make_hat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058759769704591474",
+        "in_reply_to_user_id": "1960223030493515776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058759172934754598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOKYO_HATTER @i_make_hat 唉 对不起对不起……\n我也情绪激动了\n真的很抱歉 我也有错\n\n祝你能够生活顺利愉快"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960223030493515776",
+        "conversation_id": "2058201614905962673",
+        "created_at": "2026-05-25T03:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058759172934754598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 23,
+              "id": "1961425958277373952",
+              "start": 12,
+              "username": "i_make_hat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058759172934754598",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "大妹子啊，我是上边那个猪头人，惹你不高兴了，给你道个歉（磕头啦😭）\n\n这事你说谁对谁错，那肯定是那个人不对，因为主观的痛苦和悲伤是没法比的嘛\n\n为啥我会有一开始的那个评价呢，因为人都是关注自己比关注别人更多嘛（废话），结果就是互相不理解，也不愿意想想对方为什么会那样想。这样的拌嘴往往都是自说自话，根本不是对话，这是我原本想表达的意思\n\n哎呀，我情商太低了，明明你当时心情不好，我还要说些有的没的。错都在我，实在对不起🙇🏼"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058696777793151472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @i_make_hat 大妹子啊，我是上边那个猪头人，惹你不高兴了，给你道个歉（磕头啦😭）\n\n这事你说谁对谁错，那肯定是那个人不对，因为主观的痛苦和悲伤是没法比的嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24819,
+          "following_count": 1214,
+          "like_count": 2820,
+          "listed_count": 77,
+          "media_count": 440,
+          "tweet_count": 2555
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T06:09:36.000Z",
+        "description": "中国人留学生でした。趣味はサバゲー、写真機材(写真下手)、アウトドア系レジャー全般。友達ほしいです！",
+        "id": "1960223030493515776",
+        "location": "Tokyo,Japan",
+        "name": "リュウくん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961421828834168834/rhRw7FmE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 96,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 51
+        },
+        "username": "TOKYO_HATTER",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-29T13:49:33.000Z",
+        "description": "学人说话",
+        "id": "1961425958277373952",
+        "location": "埼玉の山奥",
+        "name": "劉喃喃",
+        "pinned_tweet_id": "2009230579519422718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006409337653309443/x4oV5msk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 151,
+          "like_count": 7356,
+          "listed_count": 6,
+          "media_count": 41,
+          "tweet_count": 358
+        },
+        "username": "i_make_hat",
+        "verified": true
+      }
+    ]
+  }
+}

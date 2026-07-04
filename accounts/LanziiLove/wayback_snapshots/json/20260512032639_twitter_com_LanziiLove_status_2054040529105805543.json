@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2054028887362015495",
+    "created_at": "2026-05-12T03:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T04:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054040529105805543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2024688044109156353",
+          "start": 0,
+          "username": "solotu778"
+        },
+        {
+          "end": 22,
+          "id": "1984485336173735936",
+          "start": 11,
+          "username": "ccc1424190"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054040529105805543",
+    "in_reply_to_user_id": "2024688044109156353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054040277472653416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@solotu778 @ccc1424190 会\n但是乳腺发育出来了会一直在那（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2054028887362015495",
+        "created_at": "2026-05-12T03:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054040529105805543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2024688044109156353",
+              "start": 0,
+              "username": "solotu778"
+            },
+            {
+              "end": 22,
+              "id": "1984485336173735936",
+              "start": 11,
+              "username": "ccc1424190"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054040529105805543",
+        "in_reply_to_user_id": "2024688044109156353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054040277472653416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@solotu778 @ccc1424190 会\n但是乳腺发育出来了会一直在那（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024688044109156353",
+        "conversation_id": "2054028887362015495",
+        "created_at": "2026-05-12T03:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054040277472653416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1984485336173735936",
+              "start": 0,
+              "username": "ccc1424190"
+            },
+            {
+              "end": 23,
+              "id": "1510447851507261445",
+              "start": 12,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054040277472653416",
+        "in_reply_to_user_id": "1984485336173735936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054035399400677705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccc1424190 @LanziiLove 短期用两个月停了后会缩回去吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！希望被称作She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23935,
+          "following_count": 1144,
+          "like_count": 2273,
+          "listed_count": 73,
+          "media_count": 422,
+          "tweet_count": 2201
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T03:30:39.000Z",
+        "description": "幽幽大行军",
+        "id": "2024688044109156353",
+        "name": "这是我的小号",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024688698227556352/AaECFCgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 37,
+          "like_count": 616,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 79
+        },
+        "username": "solotu778",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T04:59:27.000Z",
+        "description": "",
+        "id": "1984485336173735936",
+        "name": "ccc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984485416062619648/TxySEimz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "ccc1424190",
+        "verified": false
+      }
+    ]
+  }
+}

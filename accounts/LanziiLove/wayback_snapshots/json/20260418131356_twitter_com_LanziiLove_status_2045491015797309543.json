@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2045461822451642754",
+    "created_at": "2026-04-18T13:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T14:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045491015797309543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2034329457776103424",
+          "start": 0,
+          "username": "ashley_tho42081"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045491015797309543",
+    "in_reply_to_user_id": "2034329457776103424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045488864169525619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashley_tho42081 我d你妈卖批"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2045461822451642754",
+        "created_at": "2026-04-18T13:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045491015797309543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2034329457776103424",
+              "start": 0,
+              "username": "ashley_tho42081"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045491015797309543",
+        "in_reply_to_user_id": "2034329457776103424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045488864169525619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashley_tho42081 我d你妈卖批"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034329457776103424",
+        "conversation_id": "2045461822451642754",
+        "created_at": "2026-04-18T13:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045488864169525619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045488864169525619",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045461822451642754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 线下d‌d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫✨平时喜欢打打游戏玩玩cos发照片编曲画画写代码💻账号纯绿日常向🏠已经有对象啦@dexy0306❤️B站6.7w粉同名的是我本人号😉不定期直播打游戏 评论区混眼熟了会回fo 🥳 祝你生活愉快～☀️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21947,
+          "following_count": 1019,
+          "like_count": 1864,
+          "listed_count": 64,
+          "media_count": 386,
+          "tweet_count": 1969
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-18T18:01:58.000Z",
+        "description": "已入驻约p平台:👉https://t.co/cLaxzJc2KT只在平台上约推特绝大部分女主播都入驻的平台，安全可靠.下载直接打开不用注册，日常更新具体位置平台都有显示",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "d93g.top",
+                "end": 32,
+                "expanded_url": "http://d93g.top",
+                "start": 9,
+                "url": "https://t.co/cLaxzJc2KT"
+              }
+            ]
+          }
+        },
+        "id": "2034329457776103424",
+        "location": "附近2.88km",
+        "name": "妙晴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045488883190644736/7LJsQRpW_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 19,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 275
+        },
+        "username": "ashley_tho42081",
+        "verified": false
+      }
+    ]
+  }
+}

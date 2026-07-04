@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2002988930233454800",
+    "created_at": "2025-12-22T16:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T17:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003148206767767570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1832095049343184896",
+          "start": 0,
+          "username": "zuim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003148206767767570",
+    "in_reply_to_user_id": "1832095049343184896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003136713443746073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuim33 这个是下学期的选课"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2002988930233454800",
+        "created_at": "2025-12-22T16:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T17:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003148206767767570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1832095049343184896",
+              "start": 0,
+              "username": "zuim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003148206767767570",
+        "in_reply_to_user_id": "1832095049343184896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003136713443746073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuim33 这个是下学期的选课"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832095049343184896",
+        "conversation_id": "2002988930233454800",
+        "created_at": "2025-12-22T16:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T17:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003136713443746073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003136713443746073",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002988930233454800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 985真好，计科还能学大数据，不过为啥快期末了还那么多课"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 非跨无药不是男娘是男的 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好编曲 画画 3DCG cos//985大二计算机科学与技术第二学位数学//B站6.6万粉丝同名//无差别block所有见证傻狗//音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 156,
+                "start": 145,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "世界和平☮️World Peace",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1946772875698110774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22378,
+          "following_count": 974,
+          "like_count": 1578,
+          "listed_count": 69,
+          "media_count": 348,
+          "tweet_count": 1762
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T16:34:59.000Z",
+        "description": "🇨🇳爱国，爱党，在学习英语，法语",
+        "id": "1832095049343184896",
+        "name": "zuim",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832095241819815936/EdtdIjCb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 114,
+          "like_count": 800,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 63
+        },
+        "username": "zuim33",
+        "verified": false
+      }
+    ]
+  }
+}

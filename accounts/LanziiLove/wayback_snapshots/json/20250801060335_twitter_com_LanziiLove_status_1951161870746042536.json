@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1950746806624694690",
+    "created_at": "2025-08-01T06:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T07:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951161870746042536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2820070334",
+          "start": 0,
+          "username": "2007xArGos"
+        },
+        {
+          "end": 20,
+          "id": "1594302945218158593",
+          "start": 12,
+          "username": "sanitf1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951161870746042536",
+    "in_reply_to_user_id": "2820070334",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950888175473451099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2007xArGos @sanitf1 sb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1950746806624694690",
+        "created_at": "2025-08-01T06:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T07:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951161870746042536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2820070334",
+              "start": 0,
+              "username": "2007xArGos"
+            },
+            {
+              "end": 20,
+              "id": "1594302945218158593",
+              "start": 12,
+              "username": "sanitf1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951161870746042536",
+        "in_reply_to_user_id": "2820070334",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950888175473451099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2007xArGos @sanitf1 sb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2820070334",
+        "conversation_id": "1950746806624694690",
+        "created_at": "2025-07-31T11:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T12:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950888175473451099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1594302945218158593",
+              "start": 0,
+              "username": "sanitf1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950888175473451099",
+        "in_reply_to_user_id": "1594302945218158593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1674,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950746806624694690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanitf1 放下仇恨正式歷史才能前進，這是正常國家的常態"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "dexy0306"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17918,
+          "following_count": 861,
+          "like_count": 973,
+          "listed_count": 46,
+          "media_count": 241,
+          "tweet_count": 1319
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-19T14:41:30.000Z",
+        "description": "wow 好吧  新的介面 新體驗\r\n還是要從新說一次 \r\n這玩意兒要怎麼用啊!?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "plurk.com/season666",
+                "end": 23,
+                "expanded_url": "http://www.plurk.com/season666",
+                "start": 0,
+                "url": "https://t.co/OJ28VhHo8i"
+              }
+            ]
+          }
+        },
+        "id": "2820070334",
+        "location": "Taiwan",
+        "name": "ArGos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893212757232885760/oqVJeK4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 668,
+          "like_count": 58597,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 945
+        },
+        "url": "https://t.co/OJ28VhHo8i",
+        "username": "2007xArGos",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T12:13:48.000Z",
+        "description": "萨尼铁塔好，萨尼铁塔好！萨尼给你扎个针还送你个包~\nNIKON/Music/♍/Battlefield！\n小号：@svaghglm2nd\n推荐关注友友👉 @dilei114\n@VicoOci\n好哥们：@tonyhaozhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "svaghglm2nd"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "dilei114"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "VicoOci"
+              },
+              {
+                "end": 111,
+                "start": 100,
+                "username": "tonyhaozhe"
+              }
+            ]
+          }
+        },
+        "id": "1594302945218158593",
+        "location": "地鐵行動2014  B點售票廳",
+        "name": "💉萨尼!Hilf mir!💉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916448773007716352/Ew8n4LGN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 1795,
+          "like_count": 45857,
+          "listed_count": 5,
+          "media_count": 525,
+          "tweet_count": 4496
+        },
+        "username": "sanitf1",
+        "verified": false
+      }
+    ]
+  }
+}

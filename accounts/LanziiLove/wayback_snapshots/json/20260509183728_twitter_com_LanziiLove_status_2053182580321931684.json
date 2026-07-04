@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2053160989781324286",
+    "created_at": "2026-05-09T18:37:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T19:37:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053182580321931684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1439306335",
+          "start": 0,
+          "username": "60Mohan"
+        },
+        {
+          "end": 18,
+          "id": "1915622690653954048",
+          "start": 9,
+          "username": "dexy0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053182580321931684",
+    "in_reply_to_user_id": "1439306335",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053181617137725643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@60Mohan @dexy0306 ៸៸᳐&gt;⩊&lt;៸៸᳐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2053160989781324286",
+        "created_at": "2026-05-09T18:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T19:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053182580321931684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1439306335",
+              "start": 0,
+              "username": "60Mohan"
+            },
+            {
+              "end": 18,
+              "id": "1915622690653954048",
+              "start": 9,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053182580321931684",
+        "in_reply_to_user_id": "1439306335",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053181617137725643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@60Mohan @dexy0306 ៸៸᳐&gt;⩊&lt;៸៸᳐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439306335",
+        "conversation_id": "2053160989781324286",
+        "created_at": "2026-05-09T18:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T19:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053181617137725643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 21,
+              "id": "1915622690653954048",
+              "start": 12,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053181617137725643",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053160989781324286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @dexy0306 两小只都好可爱，磕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！希望被称作She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23760,
+          "following_count": 1127,
+          "like_count": 2178,
+          "listed_count": 71,
+          "media_count": 417,
+          "tweet_count": 2149
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-18T19:51:12.000Z",
+        "description": "励志成为每一道菜里面不起眼的生姜｜🪜 https://t.co/3tSBo8e9vt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xyz004.damoplane.xyz/#/register?cod…",
+                "end": 42,
+                "expanded_url": "https://xyz004.damoplane.xyz/#/register?code=VAxKtzay",
+                "start": 19,
+                "url": "https://t.co/3tSBo8e9vt"
+              }
+            ]
+          }
+        },
+        "id": "1439306335",
+        "location": "伦敦",
+        "name": "伪装成土豆的生姜小姐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007138824158318592/ZVjIMjd8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2684,
+          "following_count": 1244,
+          "like_count": 11941,
+          "listed_count": 8,
+          "media_count": 320,
+          "tweet_count": 7526
+        },
+        "username": "60Mohan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915673915411881988/qqYyNevC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 7,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 92
+        },
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

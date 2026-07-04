@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1928005445849075712"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1928005553608913273",
+    "created_at": "2025-05-29T08:28:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T09:28:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928005553608913273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7a7F7ZK5xl",
+          "end": 112,
+          "expanded_url": "https://x.com/LanziiLove/status/1928005553608913273/video/1",
+          "media_key": "13_1928005445849075712",
+          "start": 89,
+          "url": "https://t.co/7a7F7ZK5xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928005553608913273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "偶然翻到一个两年前写的Kawaii Bass的一段demo\n记得当时就随手搓了一小段也没完善没混音 但是现在作为大学生的我 感觉被纯纯薄纱了🥲我以前原来曾经拥有过这种写歌水平吗 https://t.co/7a7F7ZK5xl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48061,
+        "height": 1280,
+        "media_key": "13_1928005445849075712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1928005445849075712/img/0nFQMm6_qPASCLbg.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928005445849075712/vid/avc1/320x694/E6ycDTvtf3wws125.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928005445849075712/vid/avc1/480x1040/g3_X93-oHQE-rcGY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928005445849075712/vid/avc1/590x1280/zMv2b8QQP5Ye5jdK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1928005445849075712/pl/lFeFeC8ZRabbLofq.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1928005445849075712"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1928005553608913273",
+        "created_at": "2025-05-29T08:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T09:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928005553608913273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7a7F7ZK5xl",
+              "end": 112,
+              "expanded_url": "https://x.com/LanziiLove/status/1928005553608913273/video/1",
+              "media_key": "13_1928005445849075712",
+              "start": 89,
+              "url": "https://t.co/7a7F7ZK5xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928005553608913273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偶然翻到一个两年前写的Kawaii Bass的一段demo\n记得当时就随手搓了一小段也没完善没混音 但是现在作为大学生的我 感觉被纯纯薄纱了🥲我以前原来曾经拥有过这种写歌水平吗 https://t.co/7a7F7ZK5xl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜ 是雫基米星人喵 来自🇨🇳成都｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "dexy0306"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨（LanziiLove）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15642,
+          "following_count": 724,
+          "like_count": 594,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 976
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

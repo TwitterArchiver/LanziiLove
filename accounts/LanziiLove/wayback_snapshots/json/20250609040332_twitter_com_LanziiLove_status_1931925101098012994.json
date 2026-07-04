@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1931726865976168883",
+    "created_at": "2025-06-09T04:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T05:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931925101098012994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1546783033511923713",
+          "start": 0,
+          "username": "Abigail42013990"
+        },
+        {
+          "end": 32,
+          "id": "1615404813856178176",
+          "start": 17,
+          "username": "Lovemostmevius"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931925101098012994",
+    "in_reply_to_user_id": "1546783033511923713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931911680361177269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Abigail42013990 @Lovemostmevius 香油的话就是芝麻油 不加牛油鸡精什么的就可以了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1931726865976168883",
+        "created_at": "2025-06-09T04:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T05:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931925101098012994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1546783033511923713",
+              "start": 0,
+              "username": "Abigail42013990"
+            },
+            {
+              "end": 32,
+              "id": "1615404813856178176",
+              "start": 17,
+              "username": "Lovemostmevius"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931925101098012994",
+        "in_reply_to_user_id": "1546783033511923713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931911680361177269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Abigail42013990 @Lovemostmevius 香油的话就是芝麻油 不加牛油鸡精什么的就可以了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546783033511923713",
+        "conversation_id": "1931726865976168883",
+        "created_at": "2025-06-09T03:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T04:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931911680361177269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 27,
+              "id": "1615404813856178176",
+              "start": 12,
+              "username": "Lovemostmevius"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931911680361177269",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931794254113935435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @Lovemostmevius 有无适合吃素的人的配料呀？比如动物油换成哪种蔬菜油什么。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜不是女孩子也不是男娘 是雫基米星人喵！｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "dexy0306"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16840,
+          "following_count": 740,
+          "like_count": 708,
+          "listed_count": 44,
+          "media_count": 198,
+          "tweet_count": 1123
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-12T09:07:47.000Z",
+        "description": "愿意倾听他人得话语，不过上推特是需要vpn得 ，所以如果有人想聊聊私信啦可以先说，我上线看到啦一定会回得。\n当然我这瞎编得名字可能让人不好称呼 ，可以称呼我为“小白”\n\n我更多的推文可能是评论回复，哈哈。\n（其它没什么好说得啦）\n\nPS：偶尔上线",
+        "id": "1546783033511923713",
+        "name": "Abigail",
+        "pinned_tweet_id": "1650920664109572096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546783369735782401/g7QHUjrh_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 1222,
+          "like_count": 1613,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 810
+        },
+        "username": "Abigail42013990",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-17T17:45:10.000Z",
+        "description": "MTX |是狐娘～|大四在读 | 最爱的兔兔的唯一+主人+对象+女朋友+比翼鸟+一直爱着守护陪伴的下去人+另一半+老婆+darling～+女王殿下 @MeviuslX_Xl｜最爱的大兔兔/姐姐@miya051223 |  如果需要帮助的地方可以私信哦～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "MeviuslX_Xl"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "miya051223"
+              }
+            ]
+          }
+        },
+        "id": "1615404813856178176",
+        "location": "ℳℯ𝓋𝒾𝓊𝓈 的心",
+        "name": "MXT",
+        "pinned_tweet_id": "1931380339299188841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873761540312313856/ltyDX-7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3405,
+          "following_count": 976,
+          "like_count": 18482,
+          "listed_count": 4,
+          "media_count": 44,
+          "tweet_count": 5968
+        },
+        "username": "Lovemostmevius",
+        "verified": false
+      }
+    ]
+  }
+}

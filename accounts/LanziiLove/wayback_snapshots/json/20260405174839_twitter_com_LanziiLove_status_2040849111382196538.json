@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2040849111382196538",
+    "created_at": "2026-04-05T17:48:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T18:48:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040849111382196538"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040849111382196538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你妈 家里不知道哪知猫他妈的往我被子上拉了一泡屎我草了😀进房间闻到屎味找了尼玛一圈没找着最后发现在他吗我被子上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2040849111382196538",
+        "created_at": "2026-04-05T17:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T18:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040849111382196538"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040849111382196538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你妈 家里不知道哪知猫他妈的往我被子上拉了一泡屎我草了😀进房间闻到屎味找了尼玛一圈没找着最后发现在他吗我被子上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫 平时喜欢打打游戏玩玩cos发照片 账号纯绿日常向 已经有对象啦@dexy0306 B站6.7w粉同名的是我本人号 不定期直播打游戏 评论区混眼熟了会回fo 祝你生活愉快～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22188,
+          "following_count": 1001,
+          "like_count": 1750,
+          "listed_count": 64,
+          "media_count": 369,
+          "tweet_count": 1876
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

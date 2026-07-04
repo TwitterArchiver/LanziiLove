@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1943557958841045110",
+    "created_at": "2025-07-11T19:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T20:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943748336382882222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1649351610970308610",
+          "start": 0,
+          "username": "cucha5526351647"
+        },
+        {
+          "end": 26,
+          "id": "1915622690653954048",
+          "start": 17,
+          "username": "dexy0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943748336382882222",
+    "in_reply_to_user_id": "1649351610970308610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943743378463895823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cucha5526351647 @dexy0306 草确实乍一看有点像qwq\n\n不过呆胶布 我们两个会永远在一起哒w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1943557958841045110",
+        "created_at": "2025-07-11T19:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T20:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943748336382882222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1649351610970308610",
+              "start": 0,
+              "username": "cucha5526351647"
+            },
+            {
+              "end": 26,
+              "id": "1915622690653954048",
+              "start": 17,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943748336382882222",
+        "in_reply_to_user_id": "1649351610970308610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943743378463895823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cucha5526351647 @dexy0306 草确实乍一看有点像qwq\n\n不过呆胶布 我们两个会永远在一起哒w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649351610970308610",
+        "conversation_id": "1943557958841045110",
+        "created_at": "2025-07-11T18:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T19:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943743378463895823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 21,
+              "id": "1915622690653954048",
+              "start": 12,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943743378463895823",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943557958841045110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @dexy0306 还以为分手了，吓我一跳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "dexy0306"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17723,
+          "following_count": 823,
+          "like_count": 861,
+          "listed_count": 46,
+          "media_count": 217,
+          "tweet_count": 1256
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T09:57:30.000Z",
+        "description": "",
+        "id": "1649351610970308610",
+        "location": "Hong Kong",
+        "name": "粗茶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649351747788509186/knh9mSux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 137,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "cucha5526351647",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915673915411881988/qqYyNevC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 2,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 26
+        },
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

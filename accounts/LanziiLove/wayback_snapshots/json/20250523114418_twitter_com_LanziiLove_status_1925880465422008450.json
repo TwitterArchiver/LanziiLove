@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925880453124300800"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1925880465422008450",
+    "created_at": "2025-05-23T11:44:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T12:44:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925880465422008450"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ly0YCQYPCN",
+          "end": 30,
+          "expanded_url": "https://x.com/LanziiLove/status/1925880465422008450/photo/1",
+          "media_key": "3_1925880453124300800",
+          "start": 7,
+          "url": "https://t.co/ly0YCQYPCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925880465422008450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "运筹学是对的 https://t.co/ly0YCQYPCN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 849,
+        "media_key": "3_1925880453124300800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GroaEYBXoAAVoey.jpg",
+        "width": 1512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925880453124300800"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1925880465422008450",
+        "created_at": "2025-05-23T11:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T12:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925880465422008450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ly0YCQYPCN",
+              "end": 30,
+              "expanded_url": "https://x.com/LanziiLove/status/1925880465422008450/photo/1",
+              "media_key": "3_1925880453124300800",
+              "start": 7,
+              "url": "https://t.co/ly0YCQYPCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925880465422008450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "运筹学是对的 https://t.co/ly0YCQYPCN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "19岁 无🍬🇨🇳男娘 可以叫咱小雫哦w｜最爱的人是妈妈和老公｜男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜理智爱国 不见证 ｜纯清水 无黄无福利 无任何业务 私信骚扰等着挨骂吧｜无门槛 同好可酌情扩列｜备用小号@hosh1no_sh1zuku｜全网同名 只有B站/X/抖音有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "dexy0306"
+              },
+              {
+                "end": 130,
+                "start": 114,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15392,
+          "following_count": 721,
+          "like_count": 471,
+          "listed_count": 42,
+          "media_count": 175,
+          "tweet_count": 854
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

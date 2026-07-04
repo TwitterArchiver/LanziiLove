@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Moms",
+          "id": "847545709800767488",
+          "name": "Motherhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Moms",
+          "id": "847545709800767488",
+          "name": "Motherhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      }
+    ],
+    "conversation_id": "1997111521487233331",
+    "created_at": "2025-12-06T22:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T23:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997428424952954993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1661471354078593031",
+          "start": 0,
+          "username": "Mappy6984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997428424952954993",
+    "in_reply_to_user_id": "1661471354078593031",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997111521487233331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mappy6984 Are the fish your dad or mom or grandparents or something😅Bro probably never respected his own parents much as the fkg fish"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 112500,
+        "height": 1024,
+        "media_key": "7_1997111466248257537",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1997111466248257537/pu/img/Y0Pe4JrYU4VhzaM8.jpg",
+        "public_metrics": {
+          "view_count": 28334
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997111466248257537/pu/vid/avc1/320x568/FbZPnAr6FE_JYc5p.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997111466248257537/pu/vid/avc1/480x852/gcX486JrpzSo8VF0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997111466248257537/pu/vid/avc1/576x1024/J6C4VfIJXQQS130h.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1997111466248257537/pu/pl/xxWhl3Qg-MGYBP7n.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "1997111521487233331",
+        "created_at": "2025-12-06T22:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T23:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997428424952954993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1661471354078593031",
+              "start": 0,
+              "username": "Mappy6984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997428424952954993",
+        "in_reply_to_user_id": "1661471354078593031",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997111521487233331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mappy6984 Are the fish your dad or mom or grandparents or something😅Bro probably never respected his own parents much as the fkg fish"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1997111466248257537"
+          ]
+        },
+        "author_id": "1661471354078593031",
+        "conversation_id": "1997111521487233331",
+        "created_at": "2025-12-06T01:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T02:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997111521487233331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/06Wamm7XCm",
+              "end": 52,
+              "expanded_url": "https://x.com/Mappy6984/status/1997111521487233331/video/1",
+              "media_key": "7_1997111466248257537",
+              "start": 29,
+              "url": "https://t.co/06Wamm7XCm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997111521487233331",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 36612,
+          "like_count": 163,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "Some of these are disturbing https://t.co/06Wamm7XCm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 非跨无药不是男娘是男的 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好编曲 画画 3DCG cos//985大二计算机科学与技术第二学位数学//B站6.6万粉丝同名//无差别block所有见证傻狗//音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 156,
+                "start": 145,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "世界和平☮️World Peace",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1946772875698110774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22386,
+          "following_count": 974,
+          "like_count": 1439,
+          "listed_count": 67,
+          "media_count": 343,
+          "tweet_count": 1719
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T20:37:07.000Z",
+        "description": "💯💯just a normal dude, retired 11B purple heart veteran OEF-5, living the good life💯💯0826",
+        "id": "1661471354078593031",
+        "location": "Plainfield, IL",
+        "name": "NRM84",
+        "pinned_tweet_id": "1685313803594973184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990948729008861184/FKkNlqHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284405,
+          "following_count": 29251,
+          "like_count": 77120,
+          "listed_count": 367,
+          "media_count": 30715,
+          "tweet_count": 82990
+        },
+        "username": "Mappy6984",
+        "verified": true
+      }
+    ]
+  }
+}

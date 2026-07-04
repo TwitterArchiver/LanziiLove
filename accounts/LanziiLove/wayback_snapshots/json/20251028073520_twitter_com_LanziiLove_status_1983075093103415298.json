@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1983075093103415298",
+    "created_at": "2025-10-28T07:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T08:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983075093103415298"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rakkoonpo/stat…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/rakkoonpo/status/1982847815744471441",
+          "start": 27,
+          "url": "https://t.co/DRf5XxnS7A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983075093103415298",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982847815744471441",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨 https://t.co/DRf5XxnS7A"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19533,
+        "height": 720,
+        "media_key": "7_1982847765597003776",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1982847765597003776/pu/img/niWLmI4rjSaPaa_E.jpg",
+        "public_metrics": {
+          "view_count": 1789
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982847765597003776/pu/vid/avc1/320x320/0y1w5rKANGYoN260.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982847765597003776/pu/vid/avc1/540x540/PkElQkldGmtxW5qp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982847765597003776/pu/vid/avc1/720x720/Zg_2EI3dPfObhDLu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1982847765597003776/pu/pl/EaZr880aEIvKrnDj.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1983075093103415298",
+        "created_at": "2025-10-28T07:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T08:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983075093103415298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rakkoonpo/stat…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/rakkoonpo/status/1982847815744471441",
+              "start": 27,
+              "url": "https://t.co/DRf5XxnS7A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983075093103415298",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982847815744471441",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨😨 https://t.co/DRf5XxnS7A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1982847765597003776"
+          ]
+        },
+        "author_id": "1308047484925612032",
+        "conversation_id": "1982847815744471441",
+        "created_at": "2025-10-27T16:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T17:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982847815744471441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ThJrmmid4T",
+              "end": 23,
+              "expanded_url": "https://x.com/rakkoonpo/status/1982847815744471441/video/1",
+              "media_key": "7_1982847765597003776",
+              "start": 0,
+              "url": "https://t.co/ThJrmmid4T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982847815744471441",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 3705,
+          "like_count": 283,
+          "quote_count": 9,
+          "reply_count": 13,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ThJrmmid4T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 不是跨 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好：编曲 画画 3DCG Cos//985大二计算机科学与技术 二学位数学//B站6.5万粉丝同名//因社恐不扩列sry 偶尔酌情回fo// 音乐&绘画作品 音乐平台&Pixiv@LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19737,
+          "following_count": 930,
+          "like_count": 1239,
+          "listed_count": 52,
+          "media_count": 311,
+          "tweet_count": 1519
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-21T14:16:50.000Z",
+        "description": "",
+        "id": "1308047484925612032",
+        "name": "草炎",
+        "pinned_tweet_id": "1882313244997812447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939035580391620608/HtODwUug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 25,
+          "like_count": 287,
+          "listed_count": 6,
+          "media_count": 268,
+          "tweet_count": 408
+        },
+        "username": "rakkoonpo",
+        "verified": false
+      }
+    ]
+  }
+}

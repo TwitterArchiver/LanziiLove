@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1937957743601848730",
+    "created_at": "2025-06-25T19:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T20:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937957743601848730"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lanziilove/sta…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/lanziilove/status/1937956980209160256",
+          "start": 54,
+          "url": "https://t.co/LIdFEfJrwH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937957743601848730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937956980209160256",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有一周就约会了\n主播的身体为了给男友展现成都特色打算把主播熬成熊猫眼\n连续几天床上闭眼躺一小时睡不着谁懂 https://t.co/LIdFEfJrwH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 914,
+        "media_key": "3_1937956972609064960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuUBmU5a0AA61pb.jpg",
+        "width": 914
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1937957743601848730",
+        "created_at": "2025-06-25T19:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T20:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937957743601848730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/lanziilove/status/1937956980209160256",
+              "start": 54,
+              "url": "https://t.co/LIdFEfJrwH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937957743601848730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937956980209160256",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有一周就约会了\n主播的身体为了给男友展现成都特色打算把主播熬成熊猫眼\n连续几天床上闭眼躺一小时睡不着谁懂 https://t.co/LIdFEfJrwH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937956972609064960"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1937956980209160256",
+        "created_at": "2025-06-25T19:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T20:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937956980209160256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N6qOYDmiFQ",
+              "end": 36,
+              "expanded_url": "https://x.com/LanziiLove/status/1937956980209160256/photo/1",
+              "media_key": "3_1937956972609064960",
+              "start": 13,
+              "url": "https://t.co/N6qOYDmiFQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937956980209160256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "失眠\n买的褪黑素明天才到 https://t.co/N6qOYDmiFQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜不是女孩子也不是男娘 是雫基米星人喵！｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "dexy0306"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17024,
+          "following_count": 779,
+          "like_count": 771,
+          "listed_count": 45,
+          "media_count": 207,
+          "tweet_count": 1187
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

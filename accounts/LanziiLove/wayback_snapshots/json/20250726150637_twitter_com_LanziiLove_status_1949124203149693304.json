@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1949124203149693304",
+    "created_at": "2025-07-26T15:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T16:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949124203149693304"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/betchesugh/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/betchesugh/status/1948971545797558288",
+          "start": 7,
+          "url": "https://t.co/6sa0vdTzt3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949124203149693304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948971545797558288",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是真事（） https://t.co/6sa0vdTzt3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1948058274382688257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwjkreZXMAEtz9V.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1949124203149693304",
+        "created_at": "2025-07-26T15:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T16:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949124203149693304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/betchesugh/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/betchesugh/status/1948971545797558288",
+              "start": 7,
+              "url": "https://t.co/6sa0vdTzt3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949124203149693304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948971545797558288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是真事（） https://t.co/6sa0vdTzt3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948058274382688257"
+          ]
+        },
+        "author_id": "1529580704878804996",
+        "conversation_id": "1948971545797558288",
+        "created_at": "2025-07-26T05:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T06:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948971545797558288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QgAo5tqyLs",
+              "end": 23,
+              "expanded_url": "https://x.com/betchesugh/status/1948971545797558288/photo/1",
+              "media_key": "3_1948058274382688257",
+              "start": 0,
+              "url": "https://t.co/QgAo5tqyLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948971545797558288",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1472,
+          "impression_count": 337456,
+          "like_count": 9984,
+          "quote_count": 30,
+          "reply_count": 17,
+          "retweet_count": 551
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QgAo5tqyLs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "dexy0306"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17835,
+          "following_count": 859,
+          "like_count": 967,
+          "listed_count": 46,
+          "media_count": 238,
+          "tweet_count": 1310
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T21:50:50.000Z",
+        "description": "cute and kinky memes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onlylinks.com/cocooyogi",
+                "end": 23,
+                "expanded_url": "https://onlylinks.com/cocooyogi",
+                "start": 0,
+                "url": "https://t.co/2Zeu4L96tg"
+              }
+            ]
+          }
+        },
+        "id": "1529580704878804996",
+        "name": "could be us",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535326360457052161/craB8OC1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392677,
+          "following_count": 6,
+          "like_count": 2124,
+          "listed_count": 486,
+          "media_count": 2093,
+          "tweet_count": 2512
+        },
+        "url": "https://t.co/2Zeu4L96tg",
+        "username": "betchesugh",
+        "verified": true
+      }
+    ]
+  }
+}

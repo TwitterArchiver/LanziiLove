@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1926346407490859055",
+    "created_at": "2025-05-25T17:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T18:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926689668126384519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1721359471849742336",
+          "start": 0,
+          "username": "wwwxxxATRI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926689668126384519",
+    "in_reply_to_user_id": "1721359471849742336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926683151683711432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@wwwxxxATRI 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1926346407490859055",
+        "created_at": "2025-05-25T17:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T18:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926689668126384519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721359471849742336",
+              "start": 0,
+              "username": "wwwxxxATRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926689668126384519",
+        "in_reply_to_user_id": "1721359471849742336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926683151683711432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@wwwxxxATRI 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721359471849742336",
+        "conversation_id": "1926346407490859055",
+        "created_at": "2025-05-25T16:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T17:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926683151683711432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926683151683711432",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926346407490859055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@LanziiLove 宝宝自己做自己，看到账号一步一步做起来真的很为你开心，那些人大多数都是嫉妒，很多人都认可你呀，不要在意这些会打扰到自己心情的事物，想干什么就干什么这就是人生的意义呀！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "19岁🇨🇳可以叫咱小雫哦w｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜爱好是写歌画画和拍可爱的照片！喜欢各种可爱的东西！｜理智爱国 不喜欢见证哦呜呜｜备用小号@hosh1no_sh1zuku｜涩涩是不可以的！不接任何委托！｜喜欢和善良的孩子做朋友～｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "dexy0306"
+              },
+              {
+                "end": 117,
+                "start": 101,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15491,
+          "following_count": 724,
+          "like_count": 512,
+          "listed_count": 42,
+          "media_count": 176,
+          "tweet_count": 891
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T02:51:06.000Z",
+        "description": "",
+        "id": "1721359471849742336",
+        "location": "不知名的小地",
+        "name": "凉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895282659095388160/5reHomfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 62,
+          "like_count": 437,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 68
+        },
+        "username": "wwwxxxATRI",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1941431528242008307",
+    "created_at": "2025-07-05T14:08:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T15:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941499336376160659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1886239119166304256",
+          "start": 0,
+          "username": "buzaicuoguole"
+        },
+        {
+          "end": 24,
+          "id": "1915622690653954048",
+          "start": 15,
+          "username": "dexy0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941499336376160659",
+    "in_reply_to_user_id": "1886239119166304256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941432772041769429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buzaicuoguole @dexy0306 热化了qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1941431528242008307",
+        "created_at": "2025-07-05T14:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T15:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941499336376160659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1886239119166304256",
+              "start": 0,
+              "username": "buzaicuoguole"
+            },
+            {
+              "end": 24,
+              "id": "1915622690653954048",
+              "start": 15,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941499336376160659",
+        "in_reply_to_user_id": "1886239119166304256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941432772041769429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buzaicuoguole @dexy0306 热化了qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886239119166304256",
+        "conversation_id": "1941431528242008307",
+        "created_at": "2025-07-05T09:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T10:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941432772041769429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 21,
+              "id": "1915622690653954048",
+              "start": 12,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941432772041769429",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941431528242008307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @dexy0306 我超  主播不热啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "dexy0306"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17141,
+          "following_count": 815,
+          "like_count": 833,
+          "listed_count": 46,
+          "media_count": 212,
+          "tweet_count": 1236
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T02:23:52.000Z",
+        "description": "希望你能指着我说  因为有你  我过得很幸福",
+        "id": "1886239119166304256",
+        "name": "超级可达鸭",
+        "pinned_tweet_id": "1941446818279325980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939335411177799681/sBMUoINk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 491,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 97
+        },
+        "username": "buzaicuoguole",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915673915411881988/qqYyNevC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 2,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 26
+        },
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

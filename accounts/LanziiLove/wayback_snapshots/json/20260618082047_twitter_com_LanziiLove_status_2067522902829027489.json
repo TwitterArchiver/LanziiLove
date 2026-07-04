@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2067498763363680675",
+    "created_at": "2026-06-18T08:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067522902829027489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1639927019856363521",
+          "start": 0,
+          "username": "caibing_0420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067522902829027489",
+    "in_reply_to_user_id": "1639927019856363521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067521179712360625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caibing_0420 随意吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2067498763363680675",
+        "created_at": "2026-06-18T08:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067522902829027489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1639927019856363521",
+              "start": 0,
+              "username": "caibing_0420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067522902829027489",
+        "in_reply_to_user_id": "1639927019856363521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067521179712360625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caibing_0420 随意吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639927019856363521",
+        "conversation_id": "2067498763363680675",
+        "created_at": "2026-06-18T08:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067521179712360625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067521179712360625",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067498763363680675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 应激了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "",
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25663,
+          "following_count": 1268,
+          "like_count": 3158,
+          "listed_count": 79,
+          "media_count": 447,
+          "tweet_count": 2749
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T09:47:39.000Z",
+        "description": "你有没有什么原生家庭创伤，童年的不幸之类的东西要对我诉说的?",
+        "id": "1639927019856363521",
+        "location": "Tokyo-to, Japan",
+        "name": "雾岛董香🫧🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028644530376073216/USDh3txx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 191,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1006
+        },
+        "url": "",
+        "username": "caibing_0420",
+        "verified": false
+      }
+    ]
+  }
+}

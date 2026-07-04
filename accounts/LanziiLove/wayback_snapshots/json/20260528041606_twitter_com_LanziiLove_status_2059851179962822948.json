@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2059144851325878378",
+    "created_at": "2026-05-28T04:16:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059851179962822948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1906416508349370368",
+          "start": 0,
+          "username": "yuzhimao_miaowu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059851179962822948",
+    "in_reply_to_user_id": "1906416508349370368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059848901117784239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzhimao_miaowu 噢噢谢谢！！！\n请问酒精湿巾擦之后要用纸擦干吗\n大概哪个部位面积多大呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2059144851325878378",
+        "created_at": "2026-05-28T04:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059851179962822948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1906416508349370368",
+              "start": 0,
+              "username": "yuzhimao_miaowu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059851179962822948",
+        "in_reply_to_user_id": "1906416508349370368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059848901117784239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzhimao_miaowu 噢噢谢谢！！！\n请问酒精湿巾擦之后要用纸擦干吗\n大概哪个部位面积多大呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906416508349370368",
+        "conversation_id": "2059144851325878378",
+        "created_at": "2026-05-28T04:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059848901117784239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059848901117784239",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059144851325878378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 主包似乎没看到w再发一遍，我涂之前先用酒精湿巾擦一遍，然后吸收率上升了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25045,
+          "following_count": 1225,
+          "like_count": 2948,
+          "listed_count": 77,
+          "media_count": 447,
+          "tweet_count": 2635
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T18:41:43.000Z",
+        "description": "出厂日期2005 | mtf |HRT 12.2023| 悼念超级可爱的姐姐@XiaoHuiHuiH | 无敌大姐大@itsCatRoll | 魔怔人警告⚠非战斗单位请迅速撤离 | 是蛆 | 疑似NPD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "XiaoHuiHuiH"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "itsCatRoll"
+              }
+            ]
+          }
+        },
+        "id": "1906416508349370368",
+        "location": "北京",
+        "name": "预制猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907893121934868480/zCrdoSjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 164,
+          "like_count": 1854,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 754
+        },
+        "username": "yuzhimao_miaowu",
+        "verified": false
+      }
+    ]
+  }
+}

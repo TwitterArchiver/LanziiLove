@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1933429085692440899",
+    "created_at": "2025-06-13T07:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T08:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933429085692440899"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086xe/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/hsn8086xe/status/1933281044805161104",
+          "start": 7,
+          "url": "https://t.co/4nlF8fDsL0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933429085692440899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933281044805161104",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "计科是这样的 https://t.co/4nlF8fDsL0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1933281006225850368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtRk1QsaAAALfX0.jpg",
+        "width": 706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1933429085692440899",
+        "created_at": "2025-06-13T07:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T08:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933429085692440899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/1933281044805161104",
+              "start": 7,
+              "url": "https://t.co/4nlF8fDsL0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933429085692440899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933281044805161104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "计科是这样的 https://t.co/4nlF8fDsL0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933281006225850368"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "1933281044805161104",
+        "created_at": "2025-06-12T21:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T22:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933281044805161104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QYlbiSbkCC",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/1933281044805161104/photo/1",
+              "media_key": "3_1933281006225850368",
+              "start": 0,
+              "url": "https://t.co/QYlbiSbkCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933281044805161104",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 14774,
+          "like_count": 262,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QYlbiSbkCC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜不是女孩子也不是男娘 是雫基米星人喵！｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "dexy0306"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16929,
+          "following_count": 747,
+          "like_count": 728,
+          "listed_count": 44,
+          "media_count": 202,
+          "tweet_count": 1142
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "pinned_tweet_id": "1908572439300497669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9219,
+          "following_count": 1,
+          "like_count": 42,
+          "listed_count": 25,
+          "media_count": 2717,
+          "tweet_count": 2740
+        },
+        "username": "hsn8086xe",
+        "verified": false
+      }
+    ]
+  }
+}

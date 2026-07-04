@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1944971496344182784",
+        "3_1944971496319070208",
+        "3_1944971496335855616",
+        "3_1944971496683618304"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1944971567395709439",
+    "created_at": "2025-07-15T04:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T05:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944971567395709439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1AgjLQmQey",
+          "end": 60,
+          "expanded_url": "https://x.com/LanziiLove/status/1944971567395709439/video/1",
+          "media_key": "13_1944971496344182784",
+          "start": 37,
+          "url": "https://t.co/1AgjLQmQey"
+        },
+        {
+          "display_url": "pic.x.com/1AgjLQmQey",
+          "end": 60,
+          "expanded_url": "https://x.com/LanziiLove/status/1944971567395709439/video/1",
+          "media_key": "3_1944971496319070208",
+          "start": 37,
+          "url": "https://t.co/1AgjLQmQey"
+        },
+        {
+          "display_url": "pic.x.com/1AgjLQmQey",
+          "end": 60,
+          "expanded_url": "https://x.com/LanziiLove/status/1944971567395709439/video/1",
+          "media_key": "3_1944971496335855616",
+          "start": 37,
+          "url": "https://t.co/1AgjLQmQey"
+        },
+        {
+          "display_url": "pic.x.com/1AgjLQmQey",
+          "end": 60,
+          "expanded_url": "https://x.com/LanziiLove/status/1944971567395709439/video/1",
+          "media_key": "3_1944971496683618304",
+          "start": 37,
+          "url": "https://t.co/1AgjLQmQey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944971567395709439",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【雫と然の旅行Blog-成都篇】Day2 - ②出发！打车前往熊猫基地🐼 https://t.co/1AgjLQmQey"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1944971567395709439].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1944971567395709439",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1944971567395709439"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9700,
+        "height": 1280,
+        "media_key": "13_1944971496344182784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1944971496344182784/img/r438o3T-0kYSeR3j.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944971496344182784/vid/avc1/320x568/qpYYBYn4cmgeFzge.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944971496344182784/vid/avc1/480x852/ejNeXev_oA3DXmIW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944971496344182784/vid/avc1/720x1280/4Lhv4D0pZI4jTvCQ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1944971496344182784/pl/SCf5D1s_1HdX6Lmv.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1140,
+        "media_key": "3_1944971496319070208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv3tRWBbsAAG1-L.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1944971496335855616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv3tRWFb0AASYHM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1944971496683618304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv3tRXYWQAAmIMw.jpg",
+        "width": 1154
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "dexy0306"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17754,
+          "following_count": 830,
+          "like_count": 887,
+          "listed_count": 46,
+          "media_count": 223,
+          "tweet_count": 1276
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

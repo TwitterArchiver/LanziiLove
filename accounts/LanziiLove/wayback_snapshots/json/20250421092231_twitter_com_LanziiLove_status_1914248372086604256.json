@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914248359491350528",
+        "3_1914248359461924864"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1914248372086604256",
+    "created_at": "2025-04-21T09:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T10:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914248372086604256"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 41,
+          "tag": "男娘"
+        },
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "伪娘"
+        },
+        {
+          "end": 57,
+          "start": 49,
+          "tag": "cosplay"
+        },
+        {
+          "end": 65,
+          "start": 58,
+          "tag": "Femboy"
+        },
+        {
+          "end": 70,
+          "start": 66,
+          "tag": "男の娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HbEjgnDWU4",
+          "end": 94,
+          "expanded_url": "https://x.com/LanziiLove/status/1914248372086604256/photo/1",
+          "media_key": "3_1914248359491350528",
+          "start": 71,
+          "url": "https://t.co/HbEjgnDWU4"
+        },
+        {
+          "display_url": "pic.x.com/HbEjgnDWU4",
+          "end": 94,
+          "expanded_url": "https://x.com/LanziiLove/status/1914248372086604256/photo/1",
+          "media_key": "3_1914248359461924864",
+          "start": 71,
+          "url": "https://t.co/HbEjgnDWU4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914248372086604256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【补档】\n平均社恐照相POSE be like：\n✊🏻🎀🙂🌸 // ✌🏻🎀🙂🌸\n\n#男娘 #伪娘 #cosplay #Femboy #男の娘 https://t.co/HbEjgnDWU4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1914248359491350528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpDGvadbMAAnXvt.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1538,
+        "media_key": "3_1914248359461924864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpDGvaWaMAA0dK2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914248359491350528",
+            "3_1914248359461924864"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1914248372086604256",
+        "created_at": "2025-04-21T09:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T10:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914248372086604256"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "男娘"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "伪娘"
+            },
+            {
+              "end": 57,
+              "start": 49,
+              "tag": "cosplay"
+            },
+            {
+              "end": 65,
+              "start": 58,
+              "tag": "Femboy"
+            },
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HbEjgnDWU4",
+              "end": 94,
+              "expanded_url": "https://x.com/LanziiLove/status/1914248372086604256/photo/1",
+              "media_key": "3_1914248359491350528",
+              "start": 71,
+              "url": "https://t.co/HbEjgnDWU4"
+            },
+            {
+              "display_url": "pic.x.com/HbEjgnDWU4",
+              "end": 94,
+              "expanded_url": "https://x.com/LanziiLove/status/1914248372086604256/photo/1",
+              "media_key": "3_1914248359461924864",
+              "start": 71,
+              "url": "https://t.co/HbEjgnDWU4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914248372086604256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【补档】\n平均社恐照相POSE be like：\n✊🏻🎀🙂🌸 // ✌🏻🎀🙂🌸\n\n#男娘 #伪娘 #cosplay #Femboy #男の娘 https://t.co/HbEjgnDWU4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号@kitsunehashirao被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友 他叫然然～ 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "kitsunehashirao"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku（原号被盗 请转到该新号）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10812,
+          "following_count": 685,
+          "like_count": 259,
+          "listed_count": 25,
+          "media_count": 100,
+          "tweet_count": 392
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

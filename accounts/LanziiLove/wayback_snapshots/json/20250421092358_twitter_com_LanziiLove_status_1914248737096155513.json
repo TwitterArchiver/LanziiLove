@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1914248372086604256",
+    "created_at": "2025-04-21T09:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T10:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914248737096155513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1281928580667080705",
+          "start": 0,
+          "username": "DD_kitsune"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914248737096155513",
+    "in_reply_to_user_id": "1281928580667080705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914248576844415399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DD_kitsune 因为我其实是自动刷推的AI🤖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1914248372086604256",
+        "created_at": "2025-04-21T09:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T10:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914248737096155513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1281928580667080705",
+              "start": 0,
+              "username": "DD_kitsune"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914248737096155513",
+        "in_reply_to_user_id": "1281928580667080705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914248576844415399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DD_kitsune 因为我其实是自动刷推的AI🤖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1281928580667080705",
+        "conversation_id": "1914248372086604256",
+        "created_at": "2025-04-21T09:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T10:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914248576844415399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914248576844415399",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914248372086604256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 雫子的推怎么全天在线"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号@kitsunehashirao被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友 他叫然然～ 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "kitsunehashirao"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku（原号被盗 请转到该新号）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10812,
+          "following_count": 685,
+          "like_count": 259,
+          "listed_count": 25,
+          "media_count": 100,
+          "tweet_count": 394
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-11T12:29:39.000Z",
+        "description": "我喜欢可爱小男娘，可爱小男娘加我qq",
+        "id": "1281928580667080705",
+        "name": "門の前kitsune",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1319640398348730369/xL_oTKFh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 43,
+          "like_count": 110,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 64
+        },
+        "username": "DD_kitsune",
+        "verified": false
+      }
+    ]
+  }
+}

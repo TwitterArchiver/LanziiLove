@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2052686004893725057",
+    "created_at": "2026-05-08T09:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T10:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052689776416043103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1767868938657169408",
+          "start": 0,
+          "username": "shana_yowaino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052689776416043103",
+    "in_reply_to_user_id": "1767868938657169408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052689597726142502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shana_yowaino 好骂🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2052686004893725057",
+        "created_at": "2026-05-08T09:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052689776416043103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767868938657169408",
+              "start": 0,
+              "username": "shana_yowaino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052689776416043103",
+        "in_reply_to_user_id": "1767868938657169408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052689597726142502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shana_yowaino 好骂🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767868938657169408",
+        "conversation_id": "2052686004893725057",
+        "created_at": "2026-05-08T09:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052689597726142502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052689597726142502",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052686004893725057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 现实300的油腻大胖子，既没有女生喜欢它又没有男生喜欢它因而看到一个男生长得漂亮还很受欢迎直接破防，因为你一个人包含了两性的特征，这让身为loser的它受到的刺激更加深刻，可惜就算每天在网上狺狺狂吠也改变不了它是一个loser的事实"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！希望被称作She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23370,
+          "following_count": 1073,
+          "like_count": 2079,
+          "listed_count": 69,
+          "media_count": 415,
+          "tweet_count": 2117
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T11:03:17.000Z",
+        "description": "行尸走肉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shana_yowaino",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shana_yowaino",
+                "start": 0,
+                "url": "https://t.co/E90wC7OQa1"
+              }
+            ]
+          }
+        },
+        "id": "1767868938657169408",
+        "location": "酒馆",
+        "name": "shana🖊️🪶📚📖🍺🚬",
+        "pinned_tweet_id": "1897668478535962936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885755463402438656/YwgiN1sE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 188,
+          "like_count": 2213,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 2756
+        },
+        "url": "https://t.co/E90wC7OQa1",
+        "username": "shana_yowaino",
+        "verified": false
+      }
+    ]
+  }
+}

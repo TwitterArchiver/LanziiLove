@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068967507906715648"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068967517041906135",
+    "created_at": "2026-06-22T08:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T09:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068967517041906135"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RDO9VXpx32",
+          "end": 23,
+          "expanded_url": "https://x.com/LanziiLove/status/2068967517041906135/photo/1",
+          "media_key": "3_2068967507906715648",
+          "start": 0,
+          "url": "https://t.co/RDO9VXpx32"
+        },
+        {
+          "display_url": "x.com/lanziilove/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/lanziilove/status/2068712285779210404",
+          "start": 24,
+          "url": "https://t.co/SMvRe6mdrL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068967517041906135",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068712285779210404",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/RDO9VXpx32 https://t.co/SMvRe6mdrL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068967507906715648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZy_JCa4AA0K_m.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068967507906715648"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068967517041906135",
+        "created_at": "2026-06-22T08:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068967517041906135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RDO9VXpx32",
+              "end": 23,
+              "expanded_url": "https://x.com/LanziiLove/status/2068967517041906135/photo/1",
+              "media_key": "3_2068967507906715648",
+              "start": 0,
+              "url": "https://t.co/RDO9VXpx32"
+            },
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/lanziilove/status/2068712285779210404",
+              "start": 24,
+              "url": "https://t.co/SMvRe6mdrL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068967517041906135",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068712285779210404",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/RDO9VXpx32 https://t.co/SMvRe6mdrL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2068712285779210404",
+        "created_at": "2026-06-21T15:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068712285779210404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068712285779210404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 20906,
+          "like_count": 112,
+          "quote_count": 1,
+          "reply_count": 65,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "srs术后批理论上有可能能容下4.3cm吗（心虚）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫 本名杜澄溪 💕平时会发各种各样的日常～高P 没有任何盈利内容 所以不要相信骗子哦 目前只营B站和X🏠@dexy0306这是我的男友然桑 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25806,
+          "following_count": 1282,
+          "like_count": 3226,
+          "listed_count": 79,
+          "media_count": 451,
+          "tweet_count": 2769
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

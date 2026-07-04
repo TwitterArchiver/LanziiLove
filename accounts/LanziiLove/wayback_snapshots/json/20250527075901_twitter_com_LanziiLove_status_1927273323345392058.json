@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1926968400540033153",
+    "created_at": "2025-05-27T07:59:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T08:59:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927273323345392058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "943439286287851520",
+          "start": 0,
+          "username": "KagurazakaSenba"
+        },
+        {
+          "end": 29,
+          "id": "1681716872415440896",
+          "start": 17,
+          "username": "Kirayoumiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927273323345392058",
+    "in_reply_to_user_id": "943439286287851520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927273107951173749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaSenba @Kirayoumiya 是滴是滴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1926968400540033153",
+        "created_at": "2025-05-27T07:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T08:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927273323345392058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "943439286287851520",
+              "start": 0,
+              "username": "KagurazakaSenba"
+            },
+            {
+              "end": 29,
+              "id": "1681716872415440896",
+              "start": 17,
+              "username": "Kirayoumiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927273323345392058",
+        "in_reply_to_user_id": "943439286287851520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927273107951173749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaSenba @Kirayoumiya 是滴是滴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "943439286287851520",
+        "conversation_id": "1926968400540033153",
+        "created_at": "2025-05-27T07:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T08:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927273107951173749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1681716872415440896",
+              "start": 0,
+              "username": "Kirayoumiya"
+            },
+            {
+              "end": 24,
+              "id": "1510447851507261445",
+              "start": 13,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927273107951173749",
+        "in_reply_to_user_id": "1681716872415440896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926970870540402954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirayoumiya @LanziiLove 是这样，碳水非常重要虽然每个减肥的人都会说要控碳水。但没人说不吃碳水。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机 来自🇨🇳成都｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和拍可爱的照片！喜欢各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "dexy0306"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15522,
+          "following_count": 725,
+          "like_count": 556,
+          "listed_count": 42,
+          "media_count": 178,
+          "tweet_count": 926
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-20T11:13:48.000Z",
+        "description": "请与我交往•盼来盼去盼不尽天涯何处是归处•为了没有眼泪的明天•希望大家都可以幸福•我们都在努力活着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "apple.com/hk",
+                "end": 23,
+                "expanded_url": "https://apple.com/hk",
+                "start": 0,
+                "url": "https://t.co/QmZlMHewkB"
+              }
+            ]
+          }
+        },
+        "id": "943439286287851520",
+        "location": "来自夏莱的老师",
+        "name": "💮西行寺　千羽🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864885438613458948/CrYxyfg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2997,
+          "following_count": 5304,
+          "like_count": 99068,
+          "listed_count": 10,
+          "media_count": 2075,
+          "tweet_count": 26851
+        },
+        "url": "https://t.co/QmZlMHewkB",
+        "username": "KagurazakaSenba",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-19T17:25:30.000Z",
+        "description": "可以把这里当树洞哦  头像来自@PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kirayoumiya1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kirayoumiya1",
+                "start": 0,
+                "url": "https://t.co/M01koGznLh"
+              }
+            ]
+          }
+        },
+        "id": "1681716872415440896",
+        "name": "Kirayoumiya",
+        "pinned_tweet_id": "1880843039654211614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909534662948687872/vW4fhq51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 822,
+          "like_count": 11249,
+          "listed_count": 2,
+          "media_count": 306,
+          "tweet_count": 9664
+        },
+        "url": "https://t.co/M01koGznLh",
+        "username": "Kirayoumiya",
+        "verified": false
+      }
+    ]
+  }
+}

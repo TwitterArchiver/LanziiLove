@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1926346407490859055",
+    "created_at": "2025-05-25T04:03:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T05:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926489154830864794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1087431644913508352",
+          "start": 0,
+          "username": "yunluoluo4573"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926489154830864794",
+    "in_reply_to_user_id": "1087431644913508352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926481609026310153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunluoluo4573 谢谢！៸៸᳐&gt;⩊&lt;៸៸᳐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1926346407490859055",
+        "created_at": "2025-05-25T04:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T05:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926489154830864794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1087431644913508352",
+              "start": 0,
+              "username": "yunluoluo4573"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926489154830864794",
+        "in_reply_to_user_id": "1087431644913508352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926481609026310153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunluoluo4573 谢谢！៸៸᳐&gt;⩊&lt;៸៸᳐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1087431644913508352",
+        "conversation_id": "1926346407490859055",
+        "created_at": "2025-05-25T03:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T04:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926481609026310153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926481609026310153",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926346407490859055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 可爱就足够了🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "19岁🇨🇳可以叫咱小雫哦w｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜爱好是写歌画画和拍可爱的照片！喜欢各种可爱的东西！｜理智爱国 不喜欢见证哦呜呜｜备用小号@hosh1no_sh1zuku｜涩涩是不可以的！不接任何委托！｜喜欢和善良的孩子做朋友～｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "dexy0306"
+              },
+              {
+                "end": 117,
+                "start": 101,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15444,
+          "following_count": 722,
+          "like_count": 496,
+          "listed_count": 42,
+          "media_count": 175,
+          "tweet_count": 879
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-21T19:28:02.000Z",
+        "description": "一只小透明而已",
+        "id": "1087431644913508352",
+        "name": "云落落",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1669260033052528642/o7zwwJ4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 747,
+          "like_count": 2849,
+          "listed_count": 8,
+          "media_count": 18,
+          "tweet_count": 1526
+        },
+        "username": "yunluoluo4573",
+        "verified": false
+      }
+    ]
+  }
+}

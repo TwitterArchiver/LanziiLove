@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1915425430217347485",
+    "created_at": "2025-04-25T10:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T11:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915714797527810055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1439306335",
+          "start": 0,
+          "username": "60Mohan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915714797527810055",
+    "in_reply_to_user_id": "1439306335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915425430217347485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@60Mohan 补药哇😭又考一次半期\n又跑一次体测"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 769,
+        "media_key": "3_1915425425880473600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpT1RsdbYAA3sHl.jpg",
+        "width": 705
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1915425430217347485",
+        "created_at": "2025-04-25T10:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T11:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915714797527810055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1439306335",
+              "start": 0,
+              "username": "60Mohan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915714797527810055",
+        "in_reply_to_user_id": "1439306335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915425430217347485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@60Mohan 补药哇😭又考一次半期\n又跑一次体测"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915425425880473600"
+          ]
+        },
+        "author_id": "1439306335",
+        "conversation_id": "1915425430217347485",
+        "created_at": "2025-04-24T15:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T16:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915425430217347485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ntEP5ro40g",
+              "end": 137,
+              "expanded_url": "https://x.com/60Mohan/status/1915425430217347485/photo/1",
+              "media_key": "3_1915425425880473600",
+              "start": 114,
+              "url": "https://t.co/ntEP5ro40g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915425430217347485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "您好，您于5月6日购买的“穿越回五一前”套餐已经生效，现在是4月24日，由于本公司的服务发生偏差导致您多回了六天，对于这多余的六天本公司需要向您收取额外的手续费，总共五十元整，请您及时缴纳，祝您生活愉快，享受马上到来的五一假期 https://t.co/ntEP5ro40g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "dexy0306"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11585,
+          "following_count": 700,
+          "like_count": 293,
+          "listed_count": 27,
+          "media_count": 114,
+          "tweet_count": 517
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-18T19:51:12.000Z",
+        "description": "只是一个什么都做不好还被人嫌弃的笨蛋女生｜🪜 https://t.co/3tSBo8e9vt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xyz004.damoplane.xyz/#/register?cod…",
+                "end": 46,
+                "expanded_url": "https://xyz004.damoplane.xyz/#/register?code=VAxKtzay",
+                "start": 23,
+                "url": "https://t.co/3tSBo8e9vt"
+              }
+            ]
+          }
+        },
+        "id": "1439306335",
+        "location": "伦敦",
+        "name": "🇬🇧Rosalie🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858489299047682048/adL6E4-x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2308,
+          "following_count": 486,
+          "like_count": 6025,
+          "listed_count": 9,
+          "media_count": 250,
+          "tweet_count": 4218
+        },
+        "username": "60Mohan",
+        "verified": false
+      }
+    ]
+  }
+}

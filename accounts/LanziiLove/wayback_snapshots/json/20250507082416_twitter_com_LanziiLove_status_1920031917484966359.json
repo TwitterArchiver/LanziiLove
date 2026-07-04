@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1919986718456893849",
+    "created_at": "2025-05-07T08:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T09:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920031917484966359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1702989845076037632",
+          "start": 0,
+          "username": "mmyouli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920031917484966359",
+    "in_reply_to_user_id": "1702989845076037632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920029141774238055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmyouli 谢谢喵w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1919986718456893849",
+        "created_at": "2025-05-07T08:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T09:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920031917484966359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1702989845076037632",
+              "start": 0,
+              "username": "mmyouli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920031917484966359",
+        "in_reply_to_user_id": "1702989845076037632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920029141774238055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmyouli 谢谢喵w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702989845076037632",
+        "conversation_id": "1919986718456893849",
+        "created_at": "2025-05-07T08:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T09:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920029141774238055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920029141774238055",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919986718456893849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 美美哒，爱了爱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "dexy0306"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12489,
+          "following_count": 714,
+          "like_count": 377,
+          "listed_count": 30,
+          "media_count": 136,
+          "tweet_count": 632
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T10:16:42.000Z",
+        "description": "🍥95后/MTF/温柔开朗，不搞黄色，有稳定工作，只想做一个普普通通女娃娃",
+        "id": "1702989845076037632",
+        "name": "沫沫不幽默🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917604405714796544/w6E6KhPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2765,
+          "following_count": 52,
+          "like_count": 152,
+          "listed_count": 8,
+          "media_count": 211,
+          "tweet_count": 821
+        },
+        "username": "mmyouli",
+        "verified": false
+      }
+    ]
+  }
+}

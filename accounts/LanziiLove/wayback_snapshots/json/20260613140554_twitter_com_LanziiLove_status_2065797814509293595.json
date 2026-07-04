@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2064739628717093239",
+    "created_at": "2026-06-13T14:05:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065797814509293595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545300185169166336",
+          "start": 0,
+          "username": "JessicaLee9974"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065797814509293595",
+    "in_reply_to_user_id": "1545300185169166336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065781263676723535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JessicaLee9974 好滴！了解了！QwQ\n谢谢姐姐！！\n\n目前基本上考虑的就是去Dr Burin那里做皮瓣了 比较在意的事情一个是整个流程下来所有的花费QwQ主要家里条件不是很充裕 但是看网上说的总花费也是众说纷纭 不太确定到时候需要准备多少钱\n\n另一个的话是关于手术的下限和意外这方面 会坏到什么程度呢qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2064739628717093239",
+        "created_at": "2026-06-13T14:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065797814509293595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545300185169166336",
+              "start": 0,
+              "username": "JessicaLee9974"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065797814509293595",
+        "in_reply_to_user_id": "1545300185169166336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065781263676723535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JessicaLee9974 好滴！了解了！QwQ\n谢谢姐姐！！\n\n目前基本上考虑的就是去Dr Burin那里做皮瓣了 比较在意的事情一个是整个流程下来所有的花费QwQ主要家里条件不是很充裕 但是看网上说的总花费也是众说纷纭 不太确定到时候需要准备多少钱\n\n另一个的话是关于手术的下限和意外这方面 会坏到什么程度呢qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545300185169166336",
+        "conversation_id": "2064739628717093239",
+        "created_at": "2026-06-13T13:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065781263676723535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065781263676723535",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065583756652495222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 其實我覺得妳想問可以直接問我@@\"...因為有時候外面的錯誤訊息還真的不少...然後我還需要重新解釋@@"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25509,
+          "following_count": 1259,
+          "like_count": 3106,
+          "listed_count": 78,
+          "media_count": 460,
+          "tweet_count": 2767
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T06:54:16.000Z",
+        "description": "吃糖9年多的MTF//泰國手術翻譯陪護//PAI診所義務諮詢人員/一星美食獵人//ISTJ-T//",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jessica99.com",
+                "end": 23,
+                "expanded_url": "https://jessica99.com/",
+                "start": 0,
+                "url": "https://t.co/hdMsFcDZ0x"
+              }
+            ]
+          }
+        },
+        "id": "1545300185169166336",
+        "location": "Singapore",
+        "name": "~嘉嘉~Aka Jessica",
+        "pinned_tweet_id": "1785958413970862544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731677121901178880/9tf20fwq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3679,
+          "following_count": 153,
+          "like_count": 14,
+          "listed_count": 14,
+          "media_count": 1165,
+          "tweet_count": 5635
+        },
+        "url": "https://t.co/hdMsFcDZ0x",
+        "username": "JessicaLee9974",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2057435200918077564",
+    "created_at": "2026-05-21T13:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057452647528153184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1724823970346885120",
+          "start": 0,
+          "username": "yngwnxun173305"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057452647528153184",
+    "in_reply_to_user_id": "1724823970346885120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057446632279650529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yngwnxun173305 揉揉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2057435200918077564",
+        "created_at": "2026-05-21T13:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057452647528153184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1724823970346885120",
+              "start": 0,
+              "username": "yngwnxun173305"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057452647528153184",
+        "in_reply_to_user_id": "1724823970346885120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057446632279650529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yngwnxun173305 揉揉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724823970346885120",
+        "conversation_id": "2057435200918077564",
+        "created_at": "2026-05-21T13:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057446632279650529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057446632279650529",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057435200918077564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 不得不羡慕了，我扭曲爬行羡慕嫉妒恨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24616,
+          "following_count": 1189,
+          "like_count": 2560,
+          "listed_count": 75,
+          "media_count": 435,
+          "tweet_count": 2406
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-15T16:18:57.000Z",
+        "description": "企鹅：3408328419\n成都西华周边，希望有同好能帮我化妆拍摄",
+        "id": "1724823970346885120",
+        "location": "United States",
+        "name": "栖紫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029361146231439362/OPSgdm0x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 53,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 24
+        },
+        "username": "yngwnxun173305",
+        "verified": false
+      }
+    ]
+  }
+}

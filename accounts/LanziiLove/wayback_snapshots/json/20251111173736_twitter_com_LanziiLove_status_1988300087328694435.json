@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1988163678185943302",
+    "created_at": "2025-11-11T17:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T18:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988300087328694435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1898057960330498048",
+          "start": 0,
+          "username": "xinyu20040412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988300087328694435",
+    "in_reply_to_user_id": "1898057960330498048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988297172987900012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinyu20040412 hhhhhh\n这个也确实必吃一吃\nhhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1988163678185943302",
+        "created_at": "2025-11-11T17:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T18:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988300087328694435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1898057960330498048",
+              "start": 0,
+              "username": "xinyu20040412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988300087328694435",
+        "in_reply_to_user_id": "1898057960330498048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988297172987900012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinyu20040412 hhhhhh\n这个也确实必吃一吃\nhhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898057960330498048",
+        "conversation_id": "1988163678185943302",
+        "created_at": "2025-11-11T17:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T18:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988297172987900012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988297172987900012",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988163678185943302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 这不得去吃一个正宗的长沙臭豆腐（玩笑_(´ཀ`」 ∠)__"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 不是跨 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好：编曲 画画 3DCG Cos//985大二计算机科学与技术 二学位数学//B站6.5万粉丝同名//因社恐不扩列sry 偶尔酌情回fo// 音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1986478231625810336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20671,
+          "following_count": 951,
+          "like_count": 1331,
+          "listed_count": 54,
+          "media_count": 329,
+          "tweet_count": 1626
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T17:07:55.000Z",
+        "description": "「空の星々」意为天空的群星，想和星星一样，平凡而又璀璨。\n常驻太原，悲催的电工大学生，欢迎贴贴",
+        "id": "1898057960330498048",
+        "location": "山西太原",
+        "name": "星宇「空の星々」",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898061605948342272/Ebggu1lY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 171,
+          "like_count": 298,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 197
+        },
+        "username": "xinyu20040412",
+        "verified": false
+      }
+    ]
+  }
+}

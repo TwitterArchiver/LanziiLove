@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2056686530488586649",
+    "created_at": "2026-05-19T10:40:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T11:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056686530488586649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lanziilove/sta…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/lanziilove/status/2056646672021897287",
+          "start": 29,
+          "url": "https://t.co/CC5XAGuSBu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056686530488586649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056646672021897287",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感谢大家的关心❤️\n好消息是不是气胸\n坏消息是——炸柜了 https://t.co/CC5XAGuSBu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2056686530488586649",
+        "created_at": "2026-05-19T10:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056686530488586649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/lanziilove/status/2056646672021897287",
+              "start": 29,
+              "url": "https://t.co/CC5XAGuSBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056686530488586649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056646672021897287",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢大家的关心❤️\n好消息是不是气胸\n坏消息是——炸柜了 https://t.co/CC5XAGuSBu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2056646672021897287",
+        "created_at": "2026-05-19T08:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056646672021897287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056646672021897287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 6065,
+          "like_count": 117,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完蛋了 早上起来胸痛一直没缓解\n下午和我妈一起去医院检查医生说可能是气胸🥲\n更完蛋的是还做了胸部ct\nct一做完医生就问我“是男的吧？”🥹\n救命🆘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku（tg上的是骗子⚠️）",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24416,
+          "following_count": 1178,
+          "like_count": 2453,
+          "listed_count": 75,
+          "media_count": 432,
+          "tweet_count": 2327
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

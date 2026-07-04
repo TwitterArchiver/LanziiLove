@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912771226608758784",
+        "3_1912771226608758785"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1912771237828522434",
+    "created_at": "2025-04-17T07:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T08:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912771237828522434"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "男娘"
+        },
+        {
+          "end": 34,
+          "start": 31,
+          "tag": "伪娘"
+        },
+        {
+          "end": 42,
+          "start": 35,
+          "tag": "Femboy"
+        },
+        {
+          "end": 47,
+          "start": 43,
+          "tag": "男の娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x8uybIzDem",
+          "end": 71,
+          "expanded_url": "https://x.com/LanziiLove/status/1912771237828522434/photo/1",
+          "media_key": "3_1912771226608758784",
+          "start": 48,
+          "url": "https://t.co/x8uybIzDem"
+        },
+        {
+          "display_url": "pic.x.com/x8uybIzDem",
+          "end": 71,
+          "expanded_url": "https://x.com/LanziiLove/status/1912771237828522434/photo/1",
+          "media_key": "3_1912771226608758785",
+          "start": 48,
+          "url": "https://t.co/x8uybIzDem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912771237828522434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "准备约会时穿的小鞋鞋\n奶油蛋糕🧁\n然然最喜欢的一集\n\n#男娘 #伪娘 #Femboy #男の娘 https://t.co/x8uybIzDem"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1912771226608758784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GouHS9qacAAf6s2.jpg",
+        "width": 1560
+      },
+      {
+        "height": 720,
+        "media_key": "3_1912771226608758785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GouHS9qacAEuPLW.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912771226608758784",
+            "3_1912771226608758785"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1912771237828522434",
+        "created_at": "2025-04-17T07:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T08:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912771237828522434"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "男娘"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "伪娘"
+            },
+            {
+              "end": 42,
+              "start": 35,
+              "tag": "Femboy"
+            },
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x8uybIzDem",
+              "end": 71,
+              "expanded_url": "https://x.com/LanziiLove/status/1912771237828522434/photo/1",
+              "media_key": "3_1912771226608758784",
+              "start": 48,
+              "url": "https://t.co/x8uybIzDem"
+            },
+            {
+              "display_url": "pic.x.com/x8uybIzDem",
+              "end": 71,
+              "expanded_url": "https://x.com/LanziiLove/status/1912771237828522434/photo/1",
+              "media_key": "3_1912771226608758785",
+              "start": 48,
+              "url": "https://t.co/x8uybIzDem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912771237828522434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备约会时穿的小鞋鞋\n奶油蛋糕🧁\n然然最喜欢的一集\n\n#男娘 #伪娘 #Femboy #男の娘 https://t.co/x8uybIzDem"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号重生】19岁🇨🇳男娘小雫｜2万fo大号@hosh1no_shizuku被盗 本号为唯一真号 置顶查证｜纯清水无黄无福利无tg 其他账号均为假冒｜🥺求帮帮孩子新号重生 关注我就回fo 求转推（没回fo就是到上限了）｜已有男朋友 他叫然然～ 是纯爱哦｜不设门槛 同好可扩列｜新小号@hosh1no_sh1zuku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "hosh1no_shizuku"
+              },
+              {
+                "end": 157,
+                "start": 141,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku（新号复活中）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7338,
+          "following_count": 557,
+          "like_count": 248,
+          "listed_count": 16,
+          "media_count": 82,
+          "tweet_count": 283
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

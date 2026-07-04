@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1952639707545997327",
+    "created_at": "2025-08-05T11:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T12:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952694803541746103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "855755588856184832",
+          "start": 0,
+          "username": "IsharmlaFaith"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952694803541746103",
+    "in_reply_to_user_id": "855755588856184832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952686374311928195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IsharmlaFaith 来了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1952639707545997327",
+        "created_at": "2025-08-05T11:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T12:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952694803541746103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "855755588856184832",
+              "start": 0,
+              "username": "IsharmlaFaith"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952694803541746103",
+        "in_reply_to_user_id": "855755588856184832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952686374311928195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IsharmlaFaith 来了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "855755588856184832",
+        "conversation_id": "1952639707545997327",
+        "created_at": "2025-08-05T11:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T12:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952686374311928195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952686374311928195",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952639707545997327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 提醒我了\n说好的互fo呢😭（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "一个人类 // SNS当朋友圈发 照片高P // 男友@Dexy0306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952297088974462977/bue5f0ca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17935,
+          "following_count": 867,
+          "like_count": 988,
+          "listed_count": 45,
+          "media_count": 248,
+          "tweet_count": 1338
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-22T12:10:06.000Z",
+        "description": "A Chinese Mainland postgrad.\nsilver medalist in 32nd CChO\nlike social obsv\n♥Arknights♥\ncapable lang: JP, EN(main)|CN(native)\nnow busy\n日本語紹介は固定に\n中文简介见置顶",
+        "id": "855755588856184832",
+        "location": "ゴミ箱（燃える学術ゴミ）",
+        "name": "魯迅頭（返璞归真）",
+        "pinned_tweet_id": "1441597401261699073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880841521668481025/TXYmP1ha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 2652,
+          "like_count": 50458,
+          "listed_count": 20,
+          "media_count": 2487,
+          "tweet_count": 18684
+        },
+        "username": "IsharmlaFaith",
+        "verified": false
+      }
+    ]
+  }
+}

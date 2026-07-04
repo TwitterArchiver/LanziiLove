@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1929914963315044634",
+    "created_at": "2025-06-03T15:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T16:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929918881415737462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1318091051312193537",
+          "start": 0,
+          "username": "ookamiriru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929918881415737462",
+    "in_reply_to_user_id": "1318091051312193537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929914963315044634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ookamiriru 可愛すぎる！\nエッチな顔素晴らしい"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1580,
+        "media_key": "3_1929914765767520258",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GshvQRxasAIcctc.jpg",
+        "width": 1233
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1929914963315044634",
+        "created_at": "2025-06-03T15:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T16:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929918881415737462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1318091051312193537",
+              "start": 0,
+              "username": "ookamiriru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929918881415737462",
+        "in_reply_to_user_id": "1318091051312193537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929914963315044634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ookamiriru 可愛すぎる！\nエッチな顔素晴らしい"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929914765767520258"
+          ]
+        },
+        "author_id": "1318091051312193537",
+        "conversation_id": "1929914963315044634",
+        "created_at": "2025-06-03T14:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T15:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929914963315044634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VBtcBDsHr5",
+              "end": 26,
+              "expanded_url": "https://x.com/ookamiriru/status/1929914963315044634/photo/1",
+              "media_key": "3_1929914765767520258",
+              "start": 3,
+              "url": "https://t.co/VBtcBDsHr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929914963315044634",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 4489,
+          "like_count": 676,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "🐺🤚 https://t.co/VBtcBDsHr5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜ 是雫基米星人喵 来自🇨🇳成都｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "dexy0306"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16618,
+          "following_count": 736,
+          "like_count": 690,
+          "listed_count": 44,
+          "media_count": 191,
+          "tweet_count": 1096
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-19T07:26:17.000Z",
+        "description": "狼 \n画画 \nFANBOX : https://t.co/jEFA45cQaJ Skeb : https://t.co/fUCn22s3VA \n連絡先 ✉️ ookamiriru@gmail.com \n無断転載、AI学習禁止",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fanbox.cc/@ookamiriru",
+                "end": 39,
+                "expanded_url": "http://fanbox.cc/@ookamiriru",
+                "start": 16,
+                "url": "https://t.co/jEFA45cQaJ"
+              },
+              {
+                "display_url": "skeb.jp/@ookamiriru",
+                "end": 70,
+                "expanded_url": "http://skeb.jp/@ookamiriru",
+                "start": 47,
+                "url": "https://t.co/fUCn22s3VA"
+              }
+            ]
+          }
+        },
+        "id": "1318091051312193537",
+        "name": "りる。🐺",
+        "pinned_tweet_id": "1927611076977295760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866019779762638848/VhhaACg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105919,
+          "following_count": 863,
+          "like_count": 6849,
+          "listed_count": 775,
+          "media_count": 84,
+          "tweet_count": 5919
+        },
+        "username": "ookamiriru",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2072559663468658955",
+    "created_at": "2026-07-02T06:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T07:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072562735339213014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "973935307375587331",
+          "start": 0,
+          "username": "yukiricc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072562735339213014",
+    "in_reply_to_user_id": "973935307375587331",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072561682937966751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukiricc 嗯嗯！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2072559663468658955",
+        "created_at": "2026-07-02T06:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T07:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072562735339213014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "973935307375587331",
+              "start": 0,
+              "username": "yukiricc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072562735339213014",
+        "in_reply_to_user_id": "973935307375587331",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072561682937966751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukiricc 嗯嗯！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "973935307375587331",
+        "conversation_id": "2072559663468658955",
+        "created_at": "2026-07-02T06:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T07:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072561682937966751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072561682937966751",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072559663468658955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 有需要的话可以和我聊聊?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫 💕是女孩子！在为SRS努力🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠@dexy0306这是我的男友然桑 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "pinned_tweet_id": "2071825228649599113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26743,
+          "following_count": 1421,
+          "like_count": 3365,
+          "listed_count": 79,
+          "media_count": 462,
+          "tweet_count": 2920
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-14T14:54:06.000Z",
+        "description": "一个正在流浪的MTF部队重型虎式坦克\nA wandering Tiger Tank, currently deployed as an MTF unit.",
+        "id": "973935307375587331",
+        "location": "Earth",
+        "name": "Konno Yuuki",
+        "pinned_tweet_id": "1866731019988349242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808725503060422656/UzGChCv3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2604,
+          "following_count": 495,
+          "like_count": 15225,
+          "listed_count": 11,
+          "media_count": 491,
+          "tweet_count": 9042
+        },
+        "url": "",
+        "username": "yukiricc",
+        "verified": false
+      }
+    ]
+  }
+}

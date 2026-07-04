@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1927236419589648390",
+    "created_at": "2025-05-27T12:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T13:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927336921639813380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1666043243870720001",
+          "start": 0,
+          "username": "Littlecat111007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927336921639813380",
+    "in_reply_to_user_id": "1666043243870720001",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927331070099308868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Littlecat111007 wwww谢谢～៸៸᳐&gt;⩊&lt;៸៸᳐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1927236419589648390",
+        "created_at": "2025-05-27T12:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T13:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927336921639813380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1666043243870720001",
+              "start": 0,
+              "username": "Littlecat111007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927336921639813380",
+        "in_reply_to_user_id": "1666043243870720001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927331070099308868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Littlecat111007 wwww谢谢～៸៸᳐&gt;⩊&lt;៸៸᳐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666043243870720001",
+        "conversation_id": "1927236419589648390",
+        "created_at": "2025-05-27T11:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T12:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927331070099308868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927331070099308868",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927236419589648390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 手手好美！  （重点放错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机 来自🇨🇳成都｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和拍可爱的照片！喜欢各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "dexy0306"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15523,
+          "following_count": 725,
+          "like_count": 558,
+          "listed_count": 45,
+          "media_count": 179,
+          "tweet_count": 930
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T11:24:07.000Z",
+        "description": "你好(〃'▽'〃) 2009.4.7 本猫生日\n 169／48（本人无证含糖mtf)\n 主要打点游戏.電吉他\n 本人是学生没啥时间噢／互fo .喜欢聊天\n 最好最好的朋友\n@yyl0706\n@ringochichidim 這我弟🤓@sansJohnCarter",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 86,
+                "username": "yyl0706"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "ringochichidim"
+              },
+              {
+                "end": 130,
+                "start": 115,
+                "username": "sansJohnCarter"
+              }
+            ]
+          }
+        },
+        "id": "1666043243870720001",
+        "location": "Hong Kong",
+        "name": "小貓伊伊🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864690991741202432/AS1gKslr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 618,
+          "like_count": 3955,
+          "listed_count": 5,
+          "media_count": 59,
+          "tweet_count": 568
+        },
+        "username": "Littlecat111007",
+        "verified": false
+      }
+    ]
+  }
+}

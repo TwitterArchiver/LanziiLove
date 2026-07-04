@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1911783037450461342",
+    "created_at": "2025-04-14T16:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T17:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911825614061150255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1283016791132758018",
+          "start": 0,
+          "username": "Aybssus350"
+        },
+        {
+          "end": 28,
+          "id": "1878333765514346496",
+          "start": 12,
+          "username": "hosh1no_shizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911825614061150255",
+    "in_reply_to_user_id": "1283016791132758018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911825471236649243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aybssus350 @hosh1no_shizuku 谢谢🥺"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [hosh1no_shizuku].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "hosh1no_shizuku",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "hosh1no_shizuku"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1911783037450461342",
+        "created_at": "2025-04-14T16:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T17:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911825614061150255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1283016791132758018",
+              "start": 0,
+              "username": "Aybssus350"
+            },
+            {
+              "end": 28,
+              "id": "1878333765514346496",
+              "start": 12,
+              "username": "hosh1no_shizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911825614061150255",
+        "in_reply_to_user_id": "1283016791132758018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911825471236649243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aybssus350 @hosh1no_shizuku 谢谢🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1283016791132758018",
+        "conversation_id": "1911783037450461342",
+        "created_at": "2025-04-14T16:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T17:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911825471236649243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 28,
+              "id": "1878333765514346496",
+              "start": 12,
+              "username": "hosh1no_shizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911825471236649243",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911783037450461342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @hosh1no_shizuku 抱抱小雫，只能帮转了，试试找回吧🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "男娘小雫｜大号@hosh1no_shizuku被盗 本号为唯一真号 置顶查证｜纯清水无黄无福利无tg 其他账号均为假冒的骗子｜🥺求帮帮孩子新号重生 现在关注我就回fo 求转推（没回fo就是到上限了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "hosh1no_shizuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "映鏡R3-DMPT",
+        "name": "星野雫丶Shizuku（唯一真号 主页查证）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 315,
+          "like_count": 244,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 184
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-14T12:33:45.000Z",
+        "description": "这里是聆，25小时高强度发情的新晋魅魔小男娘喵🥺infp，缺爱缺安全感喜欢获得大家的喜欢和关注，欢迎关注互推互粉！🥰喜欢露出扩张和各种裤袜，以后会出cos和大家喜欢看的😈。私信基本都会认真看的喵，欢迎私信给咱你想看的题材和想法，咱会尽量实践和拍摄的。🥹\n如果可以的话可以点个关注把咱当养成系嘛😉",
+        "id": "1283016791132758018",
+        "name": "聆（求互推）",
+        "pinned_tweet_id": "1907044254763069633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898589743010795520/_taTpvIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 256,
+          "like_count": 309,
+          "listed_count": 3,
+          "media_count": 23,
+          "tweet_count": 266
+        },
+        "username": "Aybssus350",
+        "verified": false
+      }
+    ]
+  }
+}

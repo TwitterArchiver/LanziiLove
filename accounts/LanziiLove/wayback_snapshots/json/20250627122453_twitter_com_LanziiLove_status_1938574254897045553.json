@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1938292424792531110",
+    "created_at": "2025-06-27T12:24:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T13:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938574254897045553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1844424480539455491",
+          "start": 0,
+          "username": "RoosterBroost3r"
+        },
+        {
+          "end": 33,
+          "id": "1138842105856573445",
+          "start": 17,
+          "username": "NoContextHumans"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938574254897045553",
+    "in_reply_to_user_id": "1844424480539455491",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938293495074086926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RoosterBroost3r @NoContextHumans Nobody eats this shxt except your mother’s pssy you stupid shxt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 220,
+        "media_key": "16_1938293488866512896",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GuYzqJpXUAAe4cz.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GuYzqJpXUAAe4cz.mp4"
+          }
+        ],
+        "width": 164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1938292424792531110",
+        "created_at": "2025-06-27T12:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T13:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938574254897045553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1844424480539455491",
+              "start": 0,
+              "username": "RoosterBroost3r"
+            },
+            {
+              "end": 33,
+              "id": "1138842105856573445",
+              "start": 17,
+              "username": "NoContextHumans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938574254897045553",
+        "in_reply_to_user_id": "1844424480539455491",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938293495074086926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RoosterBroost3r @NoContextHumans Nobody eats this shxt except your mother’s pssy you stupid shxt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1938293488866512896"
+          ]
+        },
+        "author_id": "1844424480539455491",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286732523326717952",
+              "name": "Street food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1286732523326717952",
+              "name": "Street food"
+            }
+          }
+        ],
+        "conversation_id": "1938292424792531110",
+        "created_at": "2025-06-26T17:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T18:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938293495074086926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1138842105856573445",
+              "start": 0,
+              "username": "NoContextHumans"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fEoXdyDEvS",
+              "end": 77,
+              "expanded_url": "https://x.com/RoosterBroost3r/status/1938293495074086926/photo/1",
+              "media_key": "16_1938293488866512896",
+              "start": 54,
+              "url": "https://t.co/fEoXdyDEvS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938293495074086926",
+        "in_reply_to_user_id": "1138842105856573445",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 337,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938292424792531110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NoContextHumans also at a chinese street food stall. https://t.co/fEoXdyDEvS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜不是女孩子也不是男娘 是雫基米星人喵！｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "dexy0306"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17032,
+          "following_count": 787,
+          "like_count": 792,
+          "listed_count": 46,
+          "media_count": 208,
+          "tweet_count": 1206
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T17:07:23.000Z",
+        "description": "Team @0xSlapCoin | Creator of $SLAP & $BRIAN | Founder @AftermathPoker | Speaker, Brand Ambassador, & BD for various teams | #SpacesHost | DM for inquiries",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 35,
+                "start": 30,
+                "tag": "SLAP"
+              },
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "BRIAN"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 136,
+                "start": 125,
+                "tag": "SpacesHost"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "0xSlapCoin"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "AftermathPoker"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/WyJaNNeaAD",
+                "end": 23,
+                "expanded_url": "http://discord.gg/WyJaNNeaAD",
+                "start": 0,
+                "url": "https://t.co/30ZN3Vkpo9"
+              }
+            ]
+          }
+        },
+        "id": "1844424480539455491",
+        "name": "RoosterBrooster",
+        "pinned_tweet_id": "1938264420817203631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844424606091739148/lxZ--8vy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4615,
+          "following_count": 1173,
+          "like_count": 3922,
+          "listed_count": 10,
+          "media_count": 1256,
+          "tweet_count": 2728
+        },
+        "url": "https://t.co/30ZN3Vkpo9",
+        "username": "RoosterBroost3r",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-12T16:14:51.000Z",
+        "description": "The ORIGINAL Out of Context Human Race page! Subscribe to us for $1!↗️ No Copyright intended. Partnered with @Solcasinoio",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "Solcasinoio"
+              }
+            ]
+          }
+        },
+        "id": "1138842105856573445",
+        "location": "United Kingdom",
+        "name": "Out of Context Human Race",
+        "pinned_tweet_id": "1938371704197419099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1207636309508014081/hfA24vWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4136996,
+          "following_count": 292,
+          "like_count": 77,
+          "listed_count": 9595,
+          "media_count": 36098,
+          "tweet_count": 41522
+        },
+        "username": "NoContextHumans",
+        "verified": true
+      }
+    ]
+  }
+}

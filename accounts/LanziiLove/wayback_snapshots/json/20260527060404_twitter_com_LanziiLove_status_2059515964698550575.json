@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2059512424047562906",
+    "created_at": "2026-05-27T06:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T07:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059515964698550575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821581030211592192",
+          "start": 0,
+          "username": "1x163x1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059515964698550575",
+    "in_reply_to_user_id": "1821581030211592192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059514869825823137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1x163x1 是呀🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2059512424047562906",
+        "created_at": "2026-05-27T06:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059515964698550575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821581030211592192",
+              "start": 0,
+              "username": "1x163x1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059515964698550575",
+        "in_reply_to_user_id": "1821581030211592192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059514869825823137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1x163x1 是呀🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821581030211592192",
+        "conversation_id": "2059512424047562906",
+        "created_at": "2026-05-27T05:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059514869825823137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059514869825823137",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059512424047562906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 可是再小颠也会晃啊😫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24938,
+          "following_count": 1218,
+          "like_count": 2922,
+          "listed_count": 78,
+          "media_count": 445,
+          "tweet_count": 2623
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T16:16:00.000Z",
+        "description": "大概是个本身就讨厌第二性征+双相+创伤导致的mtx吧",
+        "id": "1821581030211592192",
+        "name": "夜鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051793279310782464/QPgrfP9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 974,
+          "like_count": 747,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 113
+        },
+        "username": "1x163x1",
+        "verified": false
+      }
+    ]
+  }
+}

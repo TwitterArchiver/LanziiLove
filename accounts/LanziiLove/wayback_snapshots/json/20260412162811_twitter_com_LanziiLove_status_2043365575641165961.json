@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2043231094406008937",
+    "created_at": "2026-04-12T16:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T17:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043365575641165961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1621915399955841024",
+          "start": 0,
+          "username": "CandyXQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043365575641165961",
+    "in_reply_to_user_id": "1621915399955841024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043356970527445258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CandyXQwQ 我也经常梦到qwq\n畏罪潜逃的时候老折磨了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2043231094406008937",
+        "created_at": "2026-04-12T16:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043365575641165961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1621915399955841024",
+              "start": 0,
+              "username": "CandyXQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043365575641165961",
+        "in_reply_to_user_id": "1621915399955841024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043356970527445258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CandyXQwQ 我也经常梦到qwq\n畏罪潜逃的时候老折磨了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621915399955841024",
+        "conversation_id": "2043231094406008937",
+        "created_at": "2026-04-12T15:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043356970527445258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043356970527445258",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043231094406008937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 我昨晚也做了一个梦，梦到自己杀人了..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫✨平时喜欢打打游戏玩玩cos发照片编曲画画写代码💻账号纯绿日常向🏠已经有对象啦@dexy0306❤️B站6.7w粉同名的是我本人号😉不定期直播打游戏 评论区混眼熟了会回fo 🥳 祝你生活愉快～☀️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21860,
+          "following_count": 1014,
+          "like_count": 1804,
+          "listed_count": 65,
+          "media_count": 378,
+          "tweet_count": 1913
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T16:55:48.000Z",
+        "description": "这里是糖果哦~ | 05.3 |欢迎互fo| 最喜欢的歌是Sprout| 小时候，糖果是兜里沉甸甸的宝藏，是哭过之后就能得到的奖赏。长大后才明白，生活不像剥糖纸那么简单，也没有谁会一直哄你开心。 但正因如此，我们才要学会在平淡的日子里，给自己买一份糖果吃 | 🍬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/SugarQWQ",
+                "end": 23,
+                "expanded_url": "https://lit.link/SugarQWQ",
+                "start": 0,
+                "url": "https://t.co/WxEkIYAVWq"
+              }
+            ]
+          }
+        },
+        "id": "1621915399955841024",
+        "location": "糖果的家",
+        "name": "糖果🍬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887910720861519876/_kxn5M6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 265,
+          "like_count": 826,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 398
+        },
+        "url": "https://t.co/WxEkIYAVWq",
+        "username": "CandyXQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

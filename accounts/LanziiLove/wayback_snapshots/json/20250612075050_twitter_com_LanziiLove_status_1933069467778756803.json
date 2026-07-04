@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1933069467778756803",
+    "created_at": "2025-06-12T07:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T08:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933069467778756803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dexy0306/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/dexy0306/status/1933069172407480398",
+          "start": 3,
+          "url": "https://t.co/Mq5p0pu51p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933069467778756803",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933069172407480398",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "❤️ https://t.co/Mq5p0pu51p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_1933069169303695367",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtOkKuqbMAcb7CE.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1933069467778756803",
+        "created_at": "2025-06-12T07:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T08:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933069467778756803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dexy0306/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/dexy0306/status/1933069172407480398",
+              "start": 3,
+              "url": "https://t.co/Mq5p0pu51p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933069467778756803",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933069172407480398",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "❤️ https://t.co/Mq5p0pu51p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933069169303695367"
+          ]
+        },
+        "author_id": "1915622690653954048",
+        "conversation_id": "1933069172407480398",
+        "created_at": "2025-06-12T07:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T08:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933069172407480398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1510447851507261445",
+              "start": 3,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+              "display_url": "infinityweet.me/love-calculato…",
+              "end": 53,
+              "expanded_url": "https://infinityweet.me/love-calculator?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1930538841036951552/CE7ezKyV?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1930538841036951552/CE7ezKyV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 30,
+              "status": 200,
+              "title": "Love Calculator • Infinitweet",
+              "unwound_url": "https://infinityweet.me/love-calculator?lang=zh",
+              "url": "https://t.co/vtOhbgHyTc"
+            },
+            {
+              "display_url": "pic.x.com/2P5kohGcFc",
+              "end": 77,
+              "expanded_url": "https://x.com/dexy0306/status/1933069172407480398/photo/1",
+              "media_key": "3_1933069169303695367",
+              "start": 54,
+              "url": "https://t.co/2P5kohGcFc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933069172407480398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我与 @Lanziilove 的爱兼容性为 80%\n\n➡️ https://t.co/vtOhbgHyTc https://t.co/2P5kohGcFc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜不是女孩子也不是男娘 是雫基米星人喵！｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "dexy0306"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16921,
+          "following_count": 751,
+          "like_count": 727,
+          "listed_count": 45,
+          "media_count": 201,
+          "tweet_count": 1137
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915673915411881988/qqYyNevC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 7,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 24
+        },
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

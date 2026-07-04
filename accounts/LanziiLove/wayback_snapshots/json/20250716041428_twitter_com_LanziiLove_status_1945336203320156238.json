@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945336195673714688"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1945336203320156238",
+    "created_at": "2025-07-16T04:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T05:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945336203320156238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mhsj67L9Ov",
+          "end": 25,
+          "expanded_url": "https://x.com/LanziiLove/status/1945336203320156238/photo/1",
+          "media_key": "3_1945336195673714688",
+          "start": 2,
+          "url": "https://t.co/mhsj67L9Ov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945336203320156238",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "💣 https://t.co/mhsj67L9Ov"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 657,
+        "media_key": "3_1945336195673714688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv849o_XcAAI9Xn.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945336195673714688"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1945336203320156238",
+        "created_at": "2025-07-16T04:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T05:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945336203320156238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mhsj67L9Ov",
+              "end": 25,
+              "expanded_url": "https://x.com/LanziiLove/status/1945336203320156238/photo/1",
+              "media_key": "3_1945336195673714688",
+              "start": 2,
+              "url": "https://t.co/mhsj67L9Ov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945336203320156238",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "💣 https://t.co/mhsj67L9Ov"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "dexy0306"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17771,
+          "following_count": 833,
+          "like_count": 892,
+          "listed_count": 46,
+          "media_count": 227,
+          "tweet_count": 1286
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

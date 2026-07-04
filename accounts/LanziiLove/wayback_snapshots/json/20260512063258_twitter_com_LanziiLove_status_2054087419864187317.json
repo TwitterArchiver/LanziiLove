@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2054028887362015495",
+    "created_at": "2026-05-12T06:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T07:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054087419864187317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1657584930531209216",
+          "start": 0,
+          "username": "xiaowangji22337"
+        },
+        {
+          "end": 26,
+          "id": "1828232004019638272",
+          "start": 17,
+          "username": "cnsm0523"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054087419864187317",
+    "in_reply_to_user_id": "1657584930531209216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054083818701877300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaowangji22337 @cnsm0523 嗯是滴是滴awa\n主要是比卡不好监测 一个是怕低剂量压不住\n另一个就是虽然整体肝损伤概率比cpa小但是它有可能会有爆发性肝衰 如果中招了的话后果确实更严重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2054028887362015495",
+        "created_at": "2026-05-12T06:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054087419864187317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1657584930531209216",
+              "start": 0,
+              "username": "xiaowangji22337"
+            },
+            {
+              "end": 26,
+              "id": "1828232004019638272",
+              "start": 17,
+              "username": "cnsm0523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054087419864187317",
+        "in_reply_to_user_id": "1657584930531209216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054083818701877300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaowangji22337 @cnsm0523 嗯是滴是滴awa\n主要是比卡不好监测 一个是怕低剂量压不住\n另一个就是虽然整体肝损伤概率比cpa小但是它有可能会有爆发性肝衰 如果中招了的话后果确实更严重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657584930531209216",
+        "conversation_id": "2054028887362015495",
+        "created_at": "2026-05-12T06:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054083818701877300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 21,
+              "id": "1828232004019638272",
+              "start": 12,
+              "username": "cnsm0523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054083818701877300",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054043647742726384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @cnsm0523 你可以再去了解一下，对比一下整体的风险概率，比卡是剂量越高，肝毒性越大，但是正常病人吃是50mg，我吃也就13mg左右（一片分三份甚至四份），就是说要根据剂量来谈毒性，这个剂量可以说几乎是完全可以被代谢没有什么危害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！希望被称作She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23966,
+          "following_count": 1145,
+          "like_count": 2275,
+          "listed_count": 73,
+          "media_count": 422,
+          "tweet_count": 2205
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-14T03:13:46.000Z",
+        "description": "",
+        "id": "1657584930531209216",
+        "name": "小鲨几",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657728267695316993/AdIBqOfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 177,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "username": "xiaowangji22337",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T00:44:37.000Z",
+        "description": "MTX/喜欢玩游戏/话废/山地车/C罩杯/NSFW🔞",
+        "id": "1828232004019638272",
+        "location": "在你心里",
+        "name": "和纱sama",
+        "pinned_tweet_id": "1876961517456826457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052352503526895616/RvfL9qo1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1865,
+          "following_count": 3360,
+          "like_count": 83559,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 4456
+        },
+        "username": "cnsm0523",
+        "verified": false
+      }
+    ]
+  }
+}

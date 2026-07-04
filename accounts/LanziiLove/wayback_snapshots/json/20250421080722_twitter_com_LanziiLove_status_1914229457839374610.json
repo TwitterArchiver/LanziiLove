@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1914229389983883264"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1914229457839374610",
+    "created_at": "2025-04-21T08:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T09:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914229457839374610"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tFLtG9QRdH",
+          "end": 31,
+          "expanded_url": "https://x.com/LanziiLove/status/1914229457839374610/video/1",
+          "media_key": "13_1914229389983883264",
+          "start": 8,
+          "url": "https://t.co/tFLtG9QRdH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914229457839374610",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "tmd是人我吃 https://t.co/tFLtG9QRdH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22333,
+        "height": 1280,
+        "media_key": "13_1914229389983883264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1914229389983883264/img/hVxId_AgYMFGTE12.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914229389983883264/vid/avc1/320x694/SDAyE0CQOKhqdAcQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914229389983883264/vid/avc1/480x1040/oMMaKAF_vixonGXA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914229389983883264/vid/avc1/590x1280/O9mbSQ03baCBenyN.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1914229389983883264/pl/SGkzdqqXXfWDGWjw.m3u8?tag=14"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1914229389983883264"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1914229457839374610",
+        "created_at": "2025-04-21T08:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T09:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914229457839374610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tFLtG9QRdH",
+              "end": 31,
+              "expanded_url": "https://x.com/LanziiLove/status/1914229457839374610/video/1",
+              "media_key": "13_1914229389983883264",
+              "start": 8,
+              "url": "https://t.co/tFLtG9QRdH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914229457839374610",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "tmd是人我吃 https://t.co/tFLtG9QRdH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号@kitsunehashirao被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友 他叫然然～ 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "kitsunehashirao"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku（原号被盗 请转到该新号）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10787,
+          "following_count": 684,
+          "like_count": 259,
+          "listed_count": 25,
+          "media_count": 98,
+          "tweet_count": 384
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

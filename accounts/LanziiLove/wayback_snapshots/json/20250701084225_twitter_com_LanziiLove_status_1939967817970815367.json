@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939642428627337216",
+        "3_1939642448440938496",
+        "3_1939642493517123584",
+        "3_1939642801056026624"
+      ],
+      "media_source_tweet_id": [
+        "1939642854722433061",
+        "1939642854722433061",
+        "1939642854722433061",
+        "1939642854722433061"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1939967817970815367",
+    "created_at": "2025-07-01T08:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T09:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939967817970815367"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 21,
+          "tag": "2025年自分が選ぶ今年上半期の4枚"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1023225318918647808",
+          "start": 3,
+          "username": "backbonecat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t9EBQuOUia",
+          "end": 64,
+          "expanded_url": "https://x.com/backbonecat/status/1939642854722433061/photo/1",
+          "media_key": "3_1939642428627337216",
+          "start": 41,
+          "url": "https://t.co/t9EBQuOUia"
+        },
+        {
+          "display_url": "pic.x.com/t9EBQuOUia",
+          "end": 64,
+          "expanded_url": "https://x.com/backbonecat/status/1939642854722433061/photo/1",
+          "media_key": "3_1939642448440938496",
+          "start": 41,
+          "url": "https://t.co/t9EBQuOUia"
+        },
+        {
+          "display_url": "pic.x.com/t9EBQuOUia",
+          "end": 64,
+          "expanded_url": "https://x.com/backbonecat/status/1939642854722433061/photo/1",
+          "media_key": "3_1939642493517123584",
+          "start": 41,
+          "url": "https://t.co/t9EBQuOUia"
+        },
+        {
+          "display_url": "pic.x.com/t9EBQuOUia",
+          "end": 64,
+          "expanded_url": "https://x.com/backbonecat/status/1939642854722433061/photo/1",
+          "media_key": "3_1939642801056026624",
+          "start": 41,
+          "url": "https://t.co/t9EBQuOUia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939967817970815367",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 320
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939642854722433061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @backbonecat: 💜💛💙\n#2025年自分が選ぶ今年上半期の4枚 https://t.co/t9EBQuOUia"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1931,
+        "media_key": "3_1939642428627337216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gur-gx2bwAAO3MG.jpg",
+        "width": 1317
+      },
+      {
+        "height": 1879,
+        "media_key": "3_1939642448440938496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gur-h7qXUAAr2VU.jpg",
+        "width": 1322
+      },
+      {
+        "height": 1845,
+        "media_key": "3_1939642493517123584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gur-kjlXUAAARvM.jpg",
+        "width": 1282
+      },
+      {
+        "height": 1836,
+        "media_key": "3_1939642801056026624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gur-2dQWkAATtda.jpg",
+        "width": 1378
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939642428627337216",
+            "3_1939642448440938496",
+            "3_1939642493517123584",
+            "3_1939642801056026624"
+          ],
+          "media_source_tweet_id": [
+            "1939642854722433061",
+            "1939642854722433061",
+            "1939642854722433061",
+            "1939642854722433061"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1939967817970815367",
+        "created_at": "2025-07-01T08:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T09:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939967817970815367"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 21,
+              "tag": "2025年自分が選ぶ今年上半期の4枚"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1023225318918647808",
+              "start": 3,
+              "username": "backbonecat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t9EBQuOUia",
+              "end": 64,
+              "expanded_url": "https://x.com/backbonecat/status/1939642854722433061/photo/1",
+              "media_key": "3_1939642428627337216",
+              "start": 41,
+              "url": "https://t.co/t9EBQuOUia"
+            },
+            {
+              "display_url": "pic.x.com/t9EBQuOUia",
+              "end": 64,
+              "expanded_url": "https://x.com/backbonecat/status/1939642854722433061/photo/1",
+              "media_key": "3_1939642448440938496",
+              "start": 41,
+              "url": "https://t.co/t9EBQuOUia"
+            },
+            {
+              "display_url": "pic.x.com/t9EBQuOUia",
+              "end": 64,
+              "expanded_url": "https://x.com/backbonecat/status/1939642854722433061/photo/1",
+              "media_key": "3_1939642493517123584",
+              "start": 41,
+              "url": "https://t.co/t9EBQuOUia"
+            },
+            {
+              "display_url": "pic.x.com/t9EBQuOUia",
+              "end": 64,
+              "expanded_url": "https://x.com/backbonecat/status/1939642854722433061/photo/1",
+              "media_key": "3_1939642801056026624",
+              "start": 41,
+              "url": "https://t.co/t9EBQuOUia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939967817970815367",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 320
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939642854722433061",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @backbonecat: 💜💛💙\n#2025年自分が選ぶ今年上半期の4枚 https://t.co/t9EBQuOUia"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939642428627337216",
+            "3_1939642448440938496",
+            "3_1939642493517123584",
+            "3_1939642801056026624"
+          ]
+        },
+        "author_id": "1023225318918647808",
+        "conversation_id": "1939642854722433061",
+        "created_at": "2025-06-30T11:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T12:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939642854722433061"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 4,
+              "tag": "2025年自分が選ぶ今年上半期の4枚"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t9EBQuOUia",
+              "end": 47,
+              "expanded_url": "https://x.com/backbonecat/status/1939642854722433061/photo/1",
+              "media_key": "3_1939642428627337216",
+              "start": 24,
+              "url": "https://t.co/t9EBQuOUia"
+            },
+            {
+              "display_url": "pic.x.com/t9EBQuOUia",
+              "end": 47,
+              "expanded_url": "https://x.com/backbonecat/status/1939642854722433061/photo/1",
+              "media_key": "3_1939642448440938496",
+              "start": 24,
+              "url": "https://t.co/t9EBQuOUia"
+            },
+            {
+              "display_url": "pic.x.com/t9EBQuOUia",
+              "end": 47,
+              "expanded_url": "https://x.com/backbonecat/status/1939642854722433061/photo/1",
+              "media_key": "3_1939642493517123584",
+              "start": 24,
+              "url": "https://t.co/t9EBQuOUia"
+            },
+            {
+              "display_url": "pic.x.com/t9EBQuOUia",
+              "end": 47,
+              "expanded_url": "https://x.com/backbonecat/status/1939642854722433061/photo/1",
+              "media_key": "3_1939642801056026624",
+              "start": 24,
+              "url": "https://t.co/t9EBQuOUia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939642854722433061",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 680,
+          "impression_count": 82157,
+          "like_count": 4084,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 320
+        },
+        "reply_settings": "everyone",
+        "text": "💜💛💙\n#2025年自分が選ぶ今年上半期の4枚 https://t.co/t9EBQuOUia"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "dexy0306"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17075,
+          "following_count": 809,
+          "like_count": 810,
+          "listed_count": 46,
+          "media_count": 208,
+          "tweet_count": 1211
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-28T15:15:01.000Z",
+        "description": "イラストと漫画を描いています。オリジナル漫画制作中！\nAI学習禁止。\n◆Fanbox：https://t.co/KYtGDJ09V2\n◆FB : backbonecats\n◆Bluesky：https://t.co/rwBoNr9e2F\n\n✉️ご依頼 : backbonecat@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "backbonecat.fanbox.cc",
+                "end": 66,
+                "expanded_url": "https://backbonecat.fanbox.cc/",
+                "start": 43,
+                "url": "https://t.co/KYtGDJ09V2"
+              },
+              {
+                "display_url": "reurl.cc/XRMqm7",
+                "end": 118,
+                "expanded_url": "https://reurl.cc/XRMqm7",
+                "start": 95,
+                "url": "https://t.co/rwBoNr9e2F"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/33217935",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/33217935",
+                "start": 0,
+                "url": "https://t.co/3vxrnP3okX"
+              }
+            ]
+          }
+        },
+        "id": "1023225318918647808",
+        "location": "Taiwan",
+        "name": "せぼねーこ",
+        "pinned_tweet_id": "1880534304389988535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707320227686694912/gt3tU9Je_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67966,
+          "following_count": 1999,
+          "like_count": 31621,
+          "listed_count": 446,
+          "media_count": 199,
+          "tweet_count": 5398
+        },
+        "url": "https://t.co/3vxrnP3okX",
+        "username": "backbonecat",
+        "verified": true
+      }
+    ]
+  }
+}

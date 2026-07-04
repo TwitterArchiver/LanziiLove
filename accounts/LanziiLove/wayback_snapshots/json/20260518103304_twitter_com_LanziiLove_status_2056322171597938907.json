@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056322159140843520"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2056322171597938907",
+    "created_at": "2026-05-18T10:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T11:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056322171597938907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NFNjLsxLEW",
+          "end": 51,
+          "expanded_url": "https://x.com/LanziiLove/status/2056322171597938907/photo/1",
+          "media_key": "3_2056322159140843520",
+          "start": 28,
+          "url": "https://t.co/NFNjLsxLEW"
+        },
+        {
+          "display_url": "x.com/lanziilove/sta…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/lanziilove/status/2056308064039674019",
+          "start": 52,
+          "url": "https://t.co/anODOAnd8S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056322171597938907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056308064039674019",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢大家！这么快就爆破成功了（喜）\n谢谢大家喵喵喵！🍾 https://t.co/NFNjLsxLEW https://t.co/anODOAnd8S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056322159140843520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImGG99asAAAblO.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056322159140843520"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2056322171597938907",
+        "created_at": "2026-05-18T10:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056322171597938907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NFNjLsxLEW",
+              "end": 51,
+              "expanded_url": "https://x.com/LanziiLove/status/2056322171597938907/photo/1",
+              "media_key": "3_2056322159140843520",
+              "start": 28,
+              "url": "https://t.co/NFNjLsxLEW"
+            },
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/lanziilove/status/2056308064039674019",
+              "start": 52,
+              "url": "https://t.co/anODOAnd8S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056322171597938907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056308064039674019",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢大家！这么快就爆破成功了（喜）\n谢谢大家喵喵喵！🍾 https://t.co/NFNjLsxLEW https://t.co/anODOAnd8S"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2056307455693566305",
+        "created_at": "2026-05-18T09:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056308064039674019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can view and join @xyxywoairanr right away.",
+              "display_url": "t.me/xyxywoairanr",
+              "end": 50,
+              "expanded_url": "https://t.me/xyxywoairanr",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2056298995556003840/hX3_g1uX?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2056298995556003840/hX3_g1uX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 27,
+              "status": 200,
+              "title": "然and星",
+              "unwound_url": "https://t.me/xyxywoairanr",
+              "url": "https://t.co/LvC6i9AHmM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056308064039674019",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056307455693566305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "假冒骗子账号：tg lanziilove\n骗人频道 ：https://t.co/LvC6i9AHmM\n推友们帮忙给这爆破了点个举报谢谢喵\n帮忙了的推友全部回fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her💕账号纯绿日常向 无任何盈利项目 仅B站推特抖音有号 tg上的是骗子！🏠我终生的爱人然然@dexy0306 是纯爱哦❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku（tg上的是骗子⚠️）",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24306,
+          "following_count": 1169,
+          "like_count": 2393,
+          "listed_count": 75,
+          "media_count": 432,
+          "tweet_count": 2301
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

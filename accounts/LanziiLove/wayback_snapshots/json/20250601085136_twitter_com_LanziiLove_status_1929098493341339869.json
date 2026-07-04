@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1928639558226166259",
+    "created_at": "2025-06-01T08:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T09:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929098493341339869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1891728370121179137",
+          "start": 0,
+          "username": "kyuusanngyou36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929098493341339869",
+    "in_reply_to_user_id": "1891728370121179137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929090180868350150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyuusanngyou36 安康～w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1928639558226166259",
+        "created_at": "2025-06-01T08:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T09:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929098493341339869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1891728370121179137",
+              "start": 0,
+              "username": "kyuusanngyou36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929098493341339869",
+        "in_reply_to_user_id": "1891728370121179137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929090180868350150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyuusanngyou36 安康～w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891728370121179137",
+        "conversation_id": "1928639558226166259",
+        "created_at": "2025-06-01T08:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T09:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929090180868350150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929090180868350150",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928639558226166259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 有點像瑞希:3\n端午安康🙂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜ 是雫基米星人喵 来自🇨🇳成都｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "dexy0306"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16250,
+          "following_count": 731,
+          "like_count": 681,
+          "listed_count": 44,
+          "media_count": 189,
+          "tweet_count": 1072
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T05:56:21.000Z",
+        "description": "17y♂️|把推特當可以發瘋(發情)的地方☝️🤓|當男娘好像也不錯但我不是🈸😬|腦迴路異常還沒報修🤯|我只有167☹️|53公斤我很驕傲🙂|如果有私訊看到就會回(通常沒有🥲|努力存錢中😐|在這裡不談政治👍|粉色魔爪擁護者💖|一日音游人終身吟遊詩人🎵|打中二不戴手套🧤|重生一次🖕😄🖕",
+        "id": "1891728370121179137",
+        "name": "宮三 曉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892148178037968896/F8j9L9K6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 989,
+          "like_count": 12560,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 1335
+        },
+        "username": "kyuusanngyou36",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1915183896649773186",
+    "created_at": "2025-04-24T03:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T04:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915243550104756655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1071734449220374530",
+          "start": 0,
+          "username": "xns241"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915243550104756655",
+    "in_reply_to_user_id": "1071734449220374530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915243228946932125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xns241 确实w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1915183896649773186",
+        "created_at": "2025-04-24T03:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T04:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915243550104756655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1071734449220374530",
+              "start": 0,
+              "username": "xns241"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915243550104756655",
+        "in_reply_to_user_id": "1071734449220374530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915243228946932125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xns241 确实w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1071734449220374530",
+        "conversation_id": "1915183896649773186",
+        "created_at": "2025-04-24T03:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T04:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915243228946932125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915243228946932125",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915183896649773186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 没事，不影响毕业的都可以翘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号@kitsunehashirao被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友 他叫然然～ 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "kitsunehashirao"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku（原号被盗 请转到该新号）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11460,
+          "following_count": 694,
+          "like_count": 278,
+          "listed_count": 26,
+          "media_count": 107,
+          "tweet_count": 484
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-09T11:52:59.000Z",
+        "description": "",
+        "id": "1071734449220374530",
+        "name": "xns241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1182734177923297283/6vOtnChA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 222,
+          "like_count": 2167,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 289
+        },
+        "username": "xns241",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1984112183417225259",
+    "created_at": "2025-10-31T10:38:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T11:38:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984208325089894495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1712759769659068416",
+          "start": 0,
+          "username": "DoxXin97340"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984208325089894495",
+    "in_reply_to_user_id": "1712759769659068416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984204672350220611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DoxXin97340 谢谢ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1984112183417225259",
+        "created_at": "2025-10-31T10:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T11:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984208325089894495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1712759769659068416",
+              "start": 0,
+              "username": "DoxXin97340"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984208325089894495",
+        "in_reply_to_user_id": "1712759769659068416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984204672350220611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoxXin97340 谢谢ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712759769659068416",
+        "conversation_id": "1984112183417225259",
+        "created_at": "2025-10-31T10:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T11:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984204672350220611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984204672350220611",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984112183417225259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 恭喜ヾ ^_^♪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 不是跨 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好：编曲 画画 3DCG Cos//985大二计算机科学与技术 二学位数学//B站6.5万粉丝同名//因社恐不扩列sry 偶尔酌情回fo// 音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20148,
+          "following_count": 933,
+          "like_count": 1263,
+          "listed_count": 53,
+          "media_count": 316,
+          "tweet_count": 1552
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-13T09:19:14.000Z",
+        "description": "哥们，你是在看简介嘛😝\n生产日期2012.2.22 保质期未知 已出柜\n幽默静步男-无名 主打一个幽默 政治立场你觉得呢 😜💜💖💙 三角洲国际服玩家-爱玩鸟兽兽 intel志强垃圾佬epyc热爱者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nas-gp.fucku.top",
+                "end": 23,
+                "expanded_url": "http://nas-gp.fucku.top",
+                "start": 0,
+                "url": "https://t.co/UMTZOik325"
+              }
+            ]
+          }
+        },
+        "id": "1712759769659068416",
+        "location": "精神病院",
+        "name": "Gpong🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950134691547533315/WvkqnHVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 226,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 264
+        },
+        "url": "https://t.co/UMTZOik325",
+        "username": "DoxXin97340",
+        "verified": false
+      }
+    ]
+  }
+}

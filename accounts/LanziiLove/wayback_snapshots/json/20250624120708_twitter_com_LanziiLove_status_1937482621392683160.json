@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1937481183362977959",
+    "created_at": "2025-06-24T12:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T13:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937482621392683160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1615404813856178176",
+          "start": 0,
+          "username": "Lovemostmevius"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937482621392683160",
+    "in_reply_to_user_id": "1615404813856178176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937482481063858500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lovemostmevius 哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1937481183362977959",
+        "created_at": "2025-06-24T12:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T13:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937482621392683160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1615404813856178176",
+              "start": 0,
+              "username": "Lovemostmevius"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937482621392683160",
+        "in_reply_to_user_id": "1615404813856178176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937482481063858500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lovemostmevius 哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615404813856178176",
+        "conversation_id": "1937481183362977959",
+        "created_at": "2025-06-24T12:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T13:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937482481063858500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937482481063858500",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937481183362977959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove ？这是为小梅量身定做的专业啊（小声\n小梅生早了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜不是女孩子也不是男娘 是雫基米星人喵！｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "dexy0306"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17029,
+          "following_count": 773,
+          "like_count": 763,
+          "listed_count": 45,
+          "media_count": 205,
+          "tweet_count": 1168
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-17T17:45:10.000Z",
+        "description": "MTX |是狐娘～| 03老东西呜呜呜 | 最爱的兔兔的唯一+主人+对象+女朋友+比翼鸟+一直爱着守护陪伴的下去人+另一半+老婆+darling～+女王殿下 @MeviuslX_Xl｜最爱的大兔兔/姐姐@miya051223 |  如果需要帮助的地方可以私信哦～|提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "MeviuslX_Xl"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "miya051223"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovemostmevius",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovemostmevius",
+                "start": 0,
+                "url": "https://t.co/C1TsK7wibP"
+              }
+            ]
+          }
+        },
+        "id": "1615404813856178176",
+        "location": "ℳℯ𝓋𝒾𝓊𝓈 的心",
+        "name": "MXT",
+        "pinned_tweet_id": "1911630089382666727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873761540312313856/ltyDX-7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3495,
+          "following_count": 1037,
+          "like_count": 19037,
+          "listed_count": 4,
+          "media_count": 56,
+          "tweet_count": 6063
+        },
+        "url": "https://t.co/C1TsK7wibP",
+        "username": "Lovemostmevius",
+        "verified": false
+      }
+    ]
+  }
+}

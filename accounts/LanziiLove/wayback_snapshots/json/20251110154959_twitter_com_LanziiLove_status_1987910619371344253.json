@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1987250105129574427",
+    "created_at": "2025-11-10T15:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T16:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987910619371344253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1935317436917751808",
+          "start": 0,
+          "username": "Kizuna_no_Gei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987910619371344253",
+    "in_reply_to_user_id": "1935317436917751808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987899221878644968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kizuna_no_Gei 我都快20了🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1987250105129574427",
+        "created_at": "2025-11-10T15:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T16:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987910619371344253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1935317436917751808",
+              "start": 0,
+              "username": "Kizuna_no_Gei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987910619371344253",
+        "in_reply_to_user_id": "1935317436917751808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987899221878644968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kizuna_no_Gei 我都快20了🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935317436917751808",
+        "conversation_id": "1987250105129574427",
+        "created_at": "2025-11-10T15:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T16:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987899221878644968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987899221878644968",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987898686425502150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 我等着😡\n你喝四瓶不醉，我下次来5瓶\n未成年真的可以喝这么多吗（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 不是跨 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好：编曲 画画 3DCG Cos//985大二计算机科学与技术 二学位数学//B站6.5万粉丝同名//因社恐不扩列sry 偶尔酌情回fo// 音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1986478231625810336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20672,
+          "following_count": 952,
+          "like_count": 1323,
+          "listed_count": 54,
+          "media_count": 327,
+          "tweet_count": 1615
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T12:43:47.000Z",
+        "description": "Love is a perfect ache…………/高中生/友跨/后朋/民谣/特摄/ACG/酒蒙子/不键政/自由平等民主科学/日本語勉強中/希望认识所有国家的人/精神状态不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kizuna_no_Gei",
+                "end": 23,
+                "expanded_url": "http://t.me/Kizuna_no_Gei",
+                "start": 0,
+                "url": "https://t.co/xC2wyeBsMl"
+              }
+            ]
+          }
+        },
+        "id": "1935317436917751808",
+        "location": "Shanghai.PRC🇨🇳Main.ROC🇹🇼",
+        "name": "☦︎絆の芸⳩",
+        "pinned_tweet_id": "1973654165642760467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977013650000166913/sB48K8fe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 171,
+          "like_count": 1235,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 2037
+        },
+        "url": "https://t.co/xC2wyeBsMl",
+        "username": "Kizuna_no_Gei",
+        "verified": false
+      }
+    ]
+  }
+}

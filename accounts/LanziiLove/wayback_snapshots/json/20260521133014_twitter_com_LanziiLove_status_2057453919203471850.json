@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2057435200918077564",
+    "created_at": "2026-05-21T13:30:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057453919203471850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1838919691714322432",
+          "start": 0,
+          "username": "Neet_Urei2005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057453919203471850",
+    "in_reply_to_user_id": "1838919691714322432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057453699308662970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neet_Urei2005 谢谢！❤️祝生活快乐！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2057435200918077564",
+        "created_at": "2026-05-21T13:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057453919203471850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1838919691714322432",
+              "start": 0,
+              "username": "Neet_Urei2005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057453919203471850",
+        "in_reply_to_user_id": "1838919691714322432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057453699308662970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neet_Urei2005 谢谢！❤️祝生活快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838919691714322432",
+        "conversation_id": "2057435200918077564",
+        "created_at": "2026-05-21T13:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057453699308662970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057453699308662970",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057435200918077564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 羡慕捏，祝生活快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24617,
+          "following_count": 1190,
+          "like_count": 2567,
+          "listed_count": 75,
+          "media_count": 435,
+          "tweet_count": 2412
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T12:33:31.000Z",
+        "description": "躁郁加精分喵，主包是纯纯地雷，落魄设计师牛马喵，B站Neet_Urei自宅警備中desu，178cm常年125～140斤，过不了审的都会放这里",
+        "id": "1838919691714322432",
+        "location": "特雷森学园",
+        "name": "Neet_Urei自宅警備中！",
+        "pinned_tweet_id": "1838925611328499985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920227336525377536/iUjqRwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5888,
+          "following_count": 313,
+          "like_count": 8,
+          "listed_count": 7,
+          "media_count": 133,
+          "tweet_count": 875
+        },
+        "username": "Neet_Urei2005",
+        "verified": false
+      }
+    ]
+  }
+}

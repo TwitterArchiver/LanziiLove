@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922116955907227649"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1921824087564759441",
+    "created_at": "2025-05-13T02:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T03:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922116966791196961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1321996640358522880",
+          "start": 0,
+          "username": "nothosaur10"
+        },
+        {
+          "end": 24,
+          "id": "1245309782656823299",
+          "start": 13,
+          "username": "Akkarineko"
+        },
+        {
+          "end": 36,
+          "id": "1891355363372400640",
+          "start": 25,
+          "username": "xzs1436864"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sYVI7e0jH3",
+          "end": 66,
+          "expanded_url": "https://x.com/LanziiLove/status/1922116966791196961/photo/1",
+          "media_key": "3_1922116955907227649",
+          "start": 43,
+          "url": "https://t.co/sYVI7e0jH3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922116966791196961",
+    "in_reply_to_user_id": "1321996640358522880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922116737958375649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothosaur10 @Akkarineko @xzs1436864 官方真来了 https://t.co/sYVI7e0jH3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1922116955907227649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqy7MAWbAAE9cAE.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922116955907227649"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1921824087564759441",
+        "created_at": "2025-05-13T02:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T03:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922116966791196961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1321996640358522880",
+              "start": 0,
+              "username": "nothosaur10"
+            },
+            {
+              "end": 24,
+              "id": "1245309782656823299",
+              "start": 13,
+              "username": "Akkarineko"
+            },
+            {
+              "end": 36,
+              "id": "1891355363372400640",
+              "start": 25,
+              "username": "xzs1436864"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sYVI7e0jH3",
+              "end": 66,
+              "expanded_url": "https://x.com/LanziiLove/status/1922116966791196961/photo/1",
+              "media_key": "3_1922116955907227649",
+              "start": 43,
+              "url": "https://t.co/sYVI7e0jH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922116966791196961",
+        "in_reply_to_user_id": "1321996640358522880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922116737958375649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothosaur10 @Akkarineko @xzs1436864 官方真来了 https://t.co/sYVI7e0jH3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1321996640358522880",
+        "conversation_id": "1921824087564759441",
+        "created_at": "2025-05-13T02:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T03:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922116737958375649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1245309782656823299",
+              "start": 0,
+              "username": "Akkarineko"
+            },
+            {
+              "end": 23,
+              "id": "1510447851507261445",
+              "start": 12,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 35,
+              "id": "1891355363372400640",
+              "start": 24,
+              "username": "xzs1436864"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922116737958375649",
+        "in_reply_to_user_id": "1245309782656823299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922081056376733887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akkarineko @LanziiLove @xzs1436864 就是你把鬼子引进村的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "dexy0306"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13974,
+          "following_count": 719,
+          "like_count": 402,
+          "listed_count": 39,
+          "media_count": 150,
+          "tweet_count": 711
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-30T02:05:41.000Z",
+        "description": "“趁年轻，玩点色”\n一对一私人手工定制 ·定制专属你的玩具\nget ready for the crazy timex\n蝦皮：https://t.co/X7RaNQS1yp 幻龍客製社 \n京☞店：幻龙旗舰店\n🍑宝店：幻龙旗舰店\n周边店：幻龙趣玩社\n\n投稿转推格式：#幻龙 #趁年轻玩点色 @nothosaur10",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 135,
+                "start": 132,
+                "tag": "幻龙"
+              },
+              {
+                "end": 143,
+                "start": 136,
+                "tag": "趁年轻玩点色"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "nothosaur10"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "shopee.tw/nothosaur",
+                "end": 86,
+                "expanded_url": "http://shopee.tw/nothosaur",
+                "start": 63,
+                "url": "https://t.co/X7RaNQS1yp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop388597254.taobao.com",
+                "end": 23,
+                "expanded_url": "https://shop388597254.taobao.com/",
+                "start": 0,
+                "url": "https://t.co/ghgIA9iQ0v"
+              }
+            ]
+          }
+        },
+        "id": "1321996640358522880",
+        "location": "国内首家幻想系人外玩具厂家 ——🍑宝：幻龙定制",
+        "name": "Nothosaur幻龙定制（官方）",
+        "pinned_tweet_id": "1920412020718882896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522514121022787584/j7ZR5edJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268865,
+          "following_count": 146,
+          "like_count": 639,
+          "listed_count": 613,
+          "media_count": 2272,
+          "tweet_count": 8414
+        },
+        "url": "https://t.co/ghgIA9iQ0v",
+        "username": "nothosaur10",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-01T11:19:32.000Z",
+        "description": "每日想死",
+        "id": "1245309782656823299",
+        "name": "幽靈貓貓",
+        "pinned_tweet_id": "1830845646309367859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1444093490372100101/WU71Er1n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 95,
+          "like_count": 16171,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 5718
+        },
+        "username": "Akkarineko",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T05:14:14.000Z",
+        "description": "思维是无穷的",
+        "id": "1891355363372400640",
+        "name": "x zs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901802543220686848/EF4tGJ9k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 576,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 205
+        },
+        "username": "xzs1436864",
+        "verified": false
+      }
+    ]
+  }
+}

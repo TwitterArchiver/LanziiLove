@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2056080635312357548",
+    "created_at": "2026-05-17T18:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T19:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056086447346892843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1684175299536375811",
+          "start": 0,
+          "username": "Zhake197"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056086447346892843",
+    "in_reply_to_user_id": "1684175299536375811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056085390520660479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhake197 谢谢！🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2056080635312357548",
+        "created_at": "2026-05-17T18:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T19:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056086447346892843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1684175299536375811",
+              "start": 0,
+              "username": "Zhake197"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056086447346892843",
+        "in_reply_to_user_id": "1684175299536375811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056085390520660479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhake197 谢谢！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684175299536375811",
+        "conversation_id": "2056080635312357548",
+        "created_at": "2026-05-17T18:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T19:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056085390520660479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056085390520660479",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056082826270007689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 老大你要开心喔，不然就要被猫车拉走了¯꒳¯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24267,
+          "following_count": 1158,
+          "like_count": 2359,
+          "listed_count": 75,
+          "media_count": 427,
+          "tweet_count": 2277
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T12:14:25.000Z",
+        "description": "",
+        "id": "1684175299536375811",
+        "location": "近地轨道",
+        "name": "再找一次",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958593245321338880/JvcSk8kP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 324,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 91
+        },
+        "username": "Zhake197",
+        "verified": false
+      }
+    ]
+  }
+}

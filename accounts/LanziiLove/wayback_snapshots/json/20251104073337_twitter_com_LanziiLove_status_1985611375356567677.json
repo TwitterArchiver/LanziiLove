@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1984921998603211182",
+    "created_at": "2025-11-04T07:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T08:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985611375356567677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1952300016913227776",
+          "start": 0,
+          "username": "RebeccaHoshina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985611375356567677",
+    "in_reply_to_user_id": "1952300016913227776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985608776251294026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RebeccaHoshina 如果你想火或者不乐意生在中国我可以帮你火起来🤣等哪天警笛到你家楼下了我们再继续来乐呵嗷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1984921998603211182",
+        "created_at": "2025-11-04T07:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T08:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985611375356567677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1952300016913227776",
+              "start": 0,
+              "username": "RebeccaHoshina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985611375356567677",
+        "in_reply_to_user_id": "1952300016913227776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985608776251294026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RebeccaHoshina 如果你想火或者不乐意生在中国我可以帮你火起来🤣等哪天警笛到你家楼下了我们再继续来乐呵嗷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952300016913227776",
+        "conversation_id": "1984921998603211182",
+        "created_at": "2025-11-04T07:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T08:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985608776251294026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985608776251294026",
+        "in_reply_to_user_id": "1952300016913227776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984921998603211182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "各位掷那诸全来拉，多叫几个沙比"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 不是跨 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好：编曲 画画 3DCG Cos//985大二计算机科学与技术 二学位数学//B站6.5万粉丝同名//因社恐不扩列sry 偶尔酌情回fo// 音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20325,
+          "following_count": 942,
+          "like_count": 1288,
+          "listed_count": 53,
+          "media_count": 319,
+          "tweet_count": 1573
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T09:26:55.000Z",
+        "description": "喜欢如嘛中国人",
+        "id": "1952300016913227776",
+        "name": "阿米娜•阔依姆@8965代目",
+        "pinned_tweet_id": "1984921998603211182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975603205590630400/UGLcjucZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 76,
+          "like_count": 34,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 837
+        },
+        "username": "RebeccaHoshina",
+        "verified": false
+      }
+    ]
+  }
+}

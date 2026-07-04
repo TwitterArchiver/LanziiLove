@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2057301786831228955",
+    "created_at": "2026-05-21T04:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T05:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057322962542604445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1300706054225801216",
+          "start": 0,
+          "username": "Brynhild33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057322962542604445",
+    "in_reply_to_user_id": "1300706054225801216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057322432726487326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Brynhild33 啊 请问这个号这么少也有黄牛吗qwq\n这个的黄牛在哪里找呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2057301786831228955",
+        "created_at": "2026-05-21T04:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057322962542604445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1300706054225801216",
+              "start": 0,
+              "username": "Brynhild33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057322962542604445",
+        "in_reply_to_user_id": "1300706054225801216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057322432726487326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Brynhild33 啊 请问这个号这么少也有黄牛吗qwq\n这个的黄牛在哪里找呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300706054225801216",
+        "conversation_id": "2057301786831228955",
+        "created_at": "2026-05-21T04:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057322432726487326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057322432726487326",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057301786831228955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 真不行挂特需吧 或者找找黄牛，号都在牛哥手里呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku（tg上的是骗子⚠️）",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24559,
+          "following_count": 1187,
+          "like_count": 2548,
+          "listed_count": 75,
+          "media_count": 435,
+          "tweet_count": 2392
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T08:04:32.000Z",
+        "description": "日常系男娘～base UK～",
+        "id": "1300706054225801216",
+        "name": "Brynhild",
+        "pinned_tweet_id": "2028019602584715743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034529912921436160/-mr02j1U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 457,
+          "like_count": 156,
+          "listed_count": 8,
+          "media_count": 21,
+          "tweet_count": 53
+        },
+        "username": "Brynhild33",
+        "verified": false
+      }
+    ]
+  }
+}

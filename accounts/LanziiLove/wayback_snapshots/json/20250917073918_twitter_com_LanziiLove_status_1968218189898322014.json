@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968218179278393344",
+        "3_1968218179312009216",
+        "3_1968218179429339137"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1968218189898322014",
+    "created_at": "2025-09-17T07:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T08:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968218189898322014"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A7fPBoL875",
+          "end": 90,
+          "expanded_url": "https://x.com/LanziiLove/status/1968218189898322014/photo/1",
+          "media_key": "3_1968218179278393344",
+          "start": 67,
+          "url": "https://t.co/A7fPBoL875"
+        },
+        {
+          "display_url": "pic.x.com/A7fPBoL875",
+          "end": 90,
+          "expanded_url": "https://x.com/LanziiLove/status/1968218189898322014/photo/1",
+          "media_key": "3_1968218179312009216",
+          "start": 67,
+          "url": "https://t.co/A7fPBoL875"
+        },
+        {
+          "display_url": "pic.x.com/A7fPBoL875",
+          "end": 90,
+          "expanded_url": "https://x.com/LanziiLove/status/1968218189898322014/photo/1",
+          "media_key": "3_1968218179429339137",
+          "start": 67,
+          "url": "https://t.co/A7fPBoL875"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968218189898322014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我说怎么只是发张自拍就这么急\n原来都是麦的啊 那不奇怪了🤣\n别急 你爹不跟你抢客户没啥好眼红的\n可不敢拿爱好碰瓷mygo大人的职业🤭 https://t.co/A7fPBoL875"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 759,
+        "media_key": "3_1968218179278393344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CEAYha0AAXYQO.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1042,
+        "media_key": "3_1968218179312009216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CEAYpbwAADZ2u.jpg",
+        "width": 1179
+      },
+      {
+        "height": 380,
+        "media_key": "3_1968218179429339137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CEAZFaEAETOrv.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968218179278393344",
+            "3_1968218179312009216",
+            "3_1968218179429339137"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1968218189898322014",
+        "created_at": "2025-09-17T07:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T08:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968218189898322014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A7fPBoL875",
+              "end": 90,
+              "expanded_url": "https://x.com/LanziiLove/status/1968218189898322014/photo/1",
+              "media_key": "3_1968218179278393344",
+              "start": 67,
+              "url": "https://t.co/A7fPBoL875"
+            },
+            {
+              "display_url": "pic.x.com/A7fPBoL875",
+              "end": 90,
+              "expanded_url": "https://x.com/LanziiLove/status/1968218189898322014/photo/1",
+              "media_key": "3_1968218179312009216",
+              "start": 67,
+              "url": "https://t.co/A7fPBoL875"
+            },
+            {
+              "display_url": "pic.x.com/A7fPBoL875",
+              "end": 90,
+              "expanded_url": "https://x.com/LanziiLove/status/1968218189898322014/photo/1",
+              "media_key": "3_1968218179429339137",
+              "start": 67,
+              "url": "https://t.co/A7fPBoL875"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968218189898322014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说怎么只是发张自拍就这么急\n原来都是麦的啊 那不奇怪了🤣\n别急 你爹不跟你抢客户没啥好眼红的\n可不敢拿爱好碰瓷mygo大人的职业🤭 https://t.co/A7fPBoL875"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好 编曲&画画&3DCG//985大二计算机科学与技术 第二学位数学//B站6.2万粉丝同名//中立生物 不主动攻击 阴阳我会被我攻击// 音乐&绘画作品 音乐平台&Pixiv@LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962507406770155521/giP0winc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18196,
+          "following_count": 898,
+          "like_count": 1125,
+          "listed_count": 46,
+          "media_count": 281,
+          "tweet_count": 1448
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

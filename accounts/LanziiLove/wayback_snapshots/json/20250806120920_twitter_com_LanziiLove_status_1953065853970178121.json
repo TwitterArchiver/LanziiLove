@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1953065794906333184"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1953065853970178121",
+    "created_at": "2025-08-06T12:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T13:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953065853970178121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6zd9OFTGoR",
+          "end": 30,
+          "expanded_url": "https://x.com/LanziiLove/status/1953065853970178121/video/1",
+          "media_key": "13_1953065794906333184",
+          "start": 7,
+          "url": "https://t.co/6zd9OFTGoR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953065853970178121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猫儿这个受惊 https://t.co/6zd9OFTGoR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6066,
+        "height": 1280,
+        "media_key": "13_1953065794906333184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1953065794906333184/img/h4rTDE73AAAWLz1H.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953065794906333184/vid/avc1/320x568/zPLvKfBW-uLB2A-K.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953065794906333184/vid/avc1/480x852/h2aLLS_qk7z3nHO5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953065794906333184/vid/avc1/720x1280/X6io4Lh3wHhn39ke.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1953065794906333184/pl/LmZSGUD4OZ0mUWgF.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1953065794906333184"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1953065853970178121",
+        "created_at": "2025-08-06T12:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T13:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953065853970178121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6zd9OFTGoR",
+              "end": 30,
+              "expanded_url": "https://x.com/LanziiLove/status/1953065853970178121/video/1",
+              "media_key": "13_1953065794906333184",
+              "start": 7,
+              "url": "https://t.co/6zd9OFTGoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953065853970178121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫儿这个受惊 https://t.co/6zd9OFTGoR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "一个人类 // SNS当朋友圈发 照片高P // 男友@Dexy0306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952297088974462977/bue5f0ca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17954,
+          "following_count": 870,
+          "like_count": 988,
+          "listed_count": 45,
+          "media_count": 249,
+          "tweet_count": 1340
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

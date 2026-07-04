@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2067449764883669150",
+    "created_at": "2026-06-18T03:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T04:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067450252328878221"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067450252328878221",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067449764883669150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "截完图赶紧删了😩留我手机里都嫌晦气\n一会漏猪油了给我手机烧了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067449757803634688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEOmdTaYAAZP9P.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067449758009237505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEOmeEboAEwb4W.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2067449764883669150",
+        "created_at": "2026-06-18T03:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067450252328878221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067450252328878221",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067449764883669150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "截完图赶紧删了😩留我手机里都嫌晦气\n一会漏猪油了给我手机烧了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067449757803634688",
+            "3_2067449758009237505"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2067449764883669150",
+        "created_at": "2026-06-18T03:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067449764883669150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IXQ68agkoK",
+              "end": 69,
+              "expanded_url": "https://x.com/LanziiLove/status/2067449764883669150/photo/1",
+              "media_key": "3_2067449757803634688",
+              "start": 46,
+              "url": "https://t.co/IXQ68agkoK"
+            },
+            {
+              "display_url": "pic.x.com/IXQ68agkoK",
+              "end": 69,
+              "expanded_url": "https://x.com/LanziiLove/status/2067449764883669150/photo/1",
+              "media_key": "3_2067449758009237505",
+              "start": 46,
+              "url": "https://t.co/IXQ68agkoK"
+            },
+            {
+              "display_url": "x.com/jvltgilleasbai…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/jvltgilleasbaig/status/2067317909458964857",
+              "start": 70,
+              "url": "https://t.co/nKS9HtxaKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067449764883669150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067317909458964857",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥴原来是如此高颜值的大肥猪才能高高在上地对别人的外貌发表这种言论呐\n\n我们回民求你别发了😭 https://t.co/IXQ68agkoK https://t.co/nKS9HtxaKs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！直女w💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人！🏠我永生挚爱的男友然桑@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25607,
+          "following_count": 1268,
+          "like_count": 3149,
+          "listed_count": 79,
+          "media_count": 467,
+          "tweet_count": 2826
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1913900180753301889",
+    "created_at": "2025-04-20T10:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T11:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913900180753301889"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1913900180753301889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "算了 还是换个文明点的说法吧：\n\n各位小可爱们～因为关注数量太大 X还有关注频率限制 此前承诺的无条件回fo难度实在太大 此外我个人对任何见证内容都十分反感 所以以后将只回fo经过查成分的男娘/画师（记得DM我回fo）谢谢喵w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1913900180753301889",
+        "created_at": "2025-04-20T10:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T11:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913900180753301889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913900180753301889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算了 还是换个文明点的说法吧：\n\n各位小可爱们～因为关注数量太大 X还有关注频率限制 此前承诺的无条件回fo难度实在太大 此外我个人对任何见证内容都十分反感 所以以后将只回fo经过查成分的男娘/画师（记得DM我回fo）谢谢喵w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 见证死吗｜2万fo大号@kitsunehashirao被盗 随时可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友 他叫然然～ 是纯爱哦｜不设门槛 同好可扩列｜新小号@hosh1no_sh1zuku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "kitsunehashirao"
+              },
+              {
+                "end": 141,
+                "start": 125,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku（原号被盗 请转到该新号）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10465,
+          "following_count": 649,
+          "like_count": 256,
+          "listed_count": 24,
+          "media_count": 95,
+          "tweet_count": 364
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

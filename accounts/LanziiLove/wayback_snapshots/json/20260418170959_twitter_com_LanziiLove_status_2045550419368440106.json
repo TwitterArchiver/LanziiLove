@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2045550419368440106",
+    "created_at": "2026-04-18T17:09:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T18:09:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045550419368440106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 55,
+          "id": "1915622690653954048",
+          "start": 46,
+          "username": "dexy0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045550419368440106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的梦想就是为你穿上婚纱 和你一起去看星空和日出 然后今生今世的每一天都这样和你在一起相爱着@dexy0306 \n\n我永远爱你❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2045550419368440106",
+        "created_at": "2026-04-18T17:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045550419368440106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 55,
+              "id": "1915622690653954048",
+              "start": 46,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045550419368440106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的梦想就是为你穿上婚纱 和你一起去看星空和日出 然后今生今世的每一天都这样和你在一起相爱着@dexy0306 \n\n我永远爱你❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫✨平时喜欢打打游戏玩玩cos发照片编曲画画写代码💻账号纯绿日常向🏠已经有对象啦@dexy0306❤️B站6.7w粉同名的是我本人号😉不定期直播打游戏 评论区混眼熟了会回fo 🥳 祝你生活愉快～☀️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21956,
+          "following_count": 1019,
+          "like_count": 1868,
+          "listed_count": 64,
+          "media_count": 386,
+          "tweet_count": 1975
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915673915411881988/qqYyNevC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 7,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 92
+        },
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

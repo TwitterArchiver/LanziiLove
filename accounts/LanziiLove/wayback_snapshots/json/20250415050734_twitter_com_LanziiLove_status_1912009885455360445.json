@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1911783037450461342",
+    "created_at": "2025-04-15T05:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T06:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912009885455360445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1644567522031853570",
+          "start": 0,
+          "username": "Kirara_Miku"
+        },
+        {
+          "end": 29,
+          "id": "1878333765514346496",
+          "start": 13,
+          "username": "hosh1no_shizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912009885455360445",
+    "in_reply_to_user_id": "1644567522031853570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912003072328605726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirara_Miku @hosh1no_shizuku 详见另一条贴文qwq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [hosh1no_shizuku].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "hosh1no_shizuku",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "hosh1no_shizuku"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1911783037450461342",
+        "created_at": "2025-04-15T05:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T06:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912009885455360445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1644567522031853570",
+              "start": 0,
+              "username": "Kirara_Miku"
+            },
+            {
+              "end": 29,
+              "id": "1878333765514346496",
+              "start": 13,
+              "username": "hosh1no_shizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912009885455360445",
+        "in_reply_to_user_id": "1644567522031853570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912003072328605726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirara_Miku @hosh1no_shizuku 详见另一条贴文qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644567522031853570",
+        "conversation_id": "1911783037450461342",
+        "created_at": "2025-04-15T04:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T05:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912003072328605726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 28,
+              "id": "1878333765514346496",
+              "start": 12,
+              "username": "hosh1no_shizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912003072328605726",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911783037450461342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @hosh1no_shizuku 咋炸的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "19岁🇨🇳男娘小雫｜2万fo大号@hosh1no_shizuku被盗 本号为唯一真号 置顶查证｜纯清水无黄无福利无tg 其他账号均为假冒的骗子｜🥺求帮帮孩子新号重生 现在关注我就回fo 求转推（没回fo就是到上限了）｜已有男朋友 他叫然然～ 是纯爱哦｜不设门槛 同好可扩列｜新小号@hosh1no_sh1zuku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "hosh1no_shizuku"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "映鏡R3-DMPT",
+        "name": "星野雫丶Shizuku（唯一真号 主页查证）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2767,
+          "following_count": 421,
+          "like_count": 244,
+          "listed_count": 7,
+          "media_count": 66,
+          "tweet_count": 210
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T05:07:14.000Z",
+        "description": "起飞吧，和大家一起。| osu 5 digit player | 偽中國語努力中✨ |\n男，音游，galgame | 互fo随缘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/13928307",
+                "end": 23,
+                "expanded_url": "http://osu.ppy.sh/users/13928307",
+                "start": 0,
+                "url": "https://t.co/n91ct8aC9h"
+              }
+            ]
+          }
+        },
+        "id": "1644567522031853570",
+        "location": "雲母の星",
+        "name": "雲母ミク",
+        "pinned_tweet_id": "1906720128693113327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784620826220007424/r2J4Sxz4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2077,
+          "following_count": 1268,
+          "like_count": 71442,
+          "listed_count": 8,
+          "media_count": 1091,
+          "tweet_count": 11563
+        },
+        "url": "https://t.co/n91ct8aC9h",
+        "username": "Kirara_Miku",
+        "verified": false
+      }
+    ]
+  }
+}

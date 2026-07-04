@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1932393767283363840"
+      ],
+      "media_source_tweet_id": [
+        "1932393866222875024"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1932653799740748129",
+    "created_at": "2025-06-11T04:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T05:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932653799740748129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1574354323529924608",
+          "start": 3,
+          "username": "doremifaso64"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pg4EDNYSHw",
+          "end": 41,
+          "expanded_url": "https://x.com/doremifaso64/status/1932393866222875024/video/1",
+          "media_key": "13_1932393767283363840",
+          "start": 18,
+          "url": "https://t.co/Pg4EDNYSHw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932653799740748129",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4121
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932393866222875024",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doremifaso64: https://t.co/Pg4EDNYSHw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13166,
+        "height": 720,
+        "media_key": "13_1932393767283363840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1932393767283363840/img/w_sIaThood6FDf0N.jpg",
+        "public_metrics": {
+          "view_count": 263821
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932393767283363840/vid/avc1/302x270/UIHwIe6houYAAGDq.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932393767283363840/vid/avc1/404x360/YTh9WOZdxj2AOBDi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932393767283363840/vid/avc1/808x720/knFVdssg1SHmJy3c.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1932393767283363840/pl/5NvZCp53gCA232KC.m3u8?v=cfc"
+          }
+        ],
+        "width": 808
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1932393767283363840"
+          ],
+          "media_source_tweet_id": [
+            "1932393866222875024"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1932653799740748129",
+        "created_at": "2025-06-11T04:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T05:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932653799740748129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1574354323529924608",
+              "start": 3,
+              "username": "doremifaso64"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pg4EDNYSHw",
+              "end": 41,
+              "expanded_url": "https://x.com/doremifaso64/status/1932393866222875024/video/1",
+              "media_key": "13_1932393767283363840",
+              "start": 18,
+              "url": "https://t.co/Pg4EDNYSHw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932653799740748129",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4121
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932393866222875024",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doremifaso64: https://t.co/Pg4EDNYSHw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1932393767283363840"
+          ]
+        },
+        "author_id": "1574354323529924608",
+        "conversation_id": "1932393866222875024",
+        "created_at": "2025-06-10T11:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T12:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932393866222875024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pg4EDNYSHw",
+              "end": 23,
+              "expanded_url": "https://x.com/doremifaso64/status/1932393866222875024/video/1",
+              "media_key": "13_1932393767283363840",
+              "start": 0,
+              "url": "https://t.co/Pg4EDNYSHw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932393866222875024",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12436,
+          "impression_count": 537643,
+          "like_count": 58361,
+          "quote_count": 52,
+          "reply_count": 62,
+          "retweet_count": 4121
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Pg4EDNYSHw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜不是女孩子也不是男娘 是雫基米星人喵！｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "dexy0306"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16900,
+          "following_count": 743,
+          "like_count": 720,
+          "listed_count": 44,
+          "media_count": 200,
+          "tweet_count": 1133
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T11:05:09.000Z",
+        "description": "ケモナーイラストと背景を描きます！ コミッションはハイライトをご覧ください😸😸是非ご支援いただけると嬉しいです！BOOTH→https://t.co/BRo295w5Yu →https://t.co/rXZttO9Zzx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "doremifaso64.booth.pm",
+                "end": 85,
+                "expanded_url": "https://doremifaso64.booth.pm/",
+                "start": 62,
+                "url": "https://t.co/BRo295w5Yu"
+              },
+              {
+                "display_url": "patreon.com/doremifaso64",
+                "end": 110,
+                "expanded_url": "http://patreon.com/doremifaso64",
+                "start": 87,
+                "url": "https://t.co/rXZttO9Zzx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@mikeneko64321…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@mikeneko64321?si=2WW6FDPKBXr0qgZr",
+                "start": 0,
+                "url": "https://t.co/7lovCu4Frp"
+              }
+            ]
+          }
+        },
+        "id": "1574354323529924608",
+        "name": "ミケの人😸",
+        "pinned_tweet_id": "1896135037088883148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893697906617495552/FXbXiugG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256112,
+          "following_count": 329,
+          "like_count": 8668,
+          "listed_count": 615,
+          "media_count": 465,
+          "tweet_count": 3311
+        },
+        "url": "https://t.co/7lovCu4Frp",
+        "username": "doremifaso64",
+        "verified": true
+      }
+    ]
+  }
+}

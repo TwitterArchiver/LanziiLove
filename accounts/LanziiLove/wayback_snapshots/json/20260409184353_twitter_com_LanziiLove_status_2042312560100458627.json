@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042312552034811904"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2042312020717089195",
+    "created_at": "2026-04-09T18:43:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T19:43:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042312560100458627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1435809501517533185",
+          "start": 0,
+          "username": "xxccxxcici"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YOaTWCxctl",
+          "end": 144,
+          "expanded_url": "https://x.com/LanziiLove/status/2042312560100458627/photo/1",
+          "media_key": "3_2042312552034811904",
+          "start": 121,
+          "url": "https://t.co/YOaTWCxctl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042312560100458627",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042312020717089195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxccxxcici 这条就是他妈最近的一条有种他妈大脑发育不完全小脑完全不发育的美😅给人一种义务教育全部拿去喂狗了的美感常识一点没有素质一点没有智力低下还他妈天天上推找白骨精人妖月抛你他妈哪来的资格指指点点了你是哪来的路边野狗啊我请问了 https://t.co/YOaTWCxctl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042312552034811904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFfAcghbQAAf6Pr.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042312552034811904"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2042312020717089195",
+        "created_at": "2026-04-09T18:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T19:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042312560100458627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1435809501517533185",
+              "start": 0,
+              "username": "xxccxxcici"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YOaTWCxctl",
+              "end": 144,
+              "expanded_url": "https://x.com/LanziiLove/status/2042312560100458627/photo/1",
+              "media_key": "3_2042312552034811904",
+              "start": 121,
+              "url": "https://t.co/YOaTWCxctl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042312560100458627",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042312020717089195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxccxxcici 这条就是他妈最近的一条有种他妈大脑发育不完全小脑完全不发育的美😅给人一种义务教育全部拿去喂狗了的美感常识一点没有素质一点没有智力低下还他妈天天上推找白骨精人妖月抛你他妈哪来的资格指指点点了你是哪来的路边野狗啊我请问了 https://t.co/YOaTWCxctl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2042312020717089195",
+        "created_at": "2026-04-09T18:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T19:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042312020717089195"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042312020717089195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真他妈野狗遍地走啊操你妈的一群傻逼我也是够神人了操你妈比的现实生活够充实了还他妈闲的没事干上网了伺候不知道哪里冒出来的傻逼他妈的踢这帮阳痿的野狗都春他妈浪费老子的时间真是他妈搞笑真的怀疑人类素质和智商的下限到底在哪里感叹互联网的牛逼之处让我看见了这些唐氏野狗全部活生生出现在我面前"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫✨平时喜欢打打游戏玩玩cos发照片编曲画画写代码💻账号纯绿日常向🏠已经有对象啦@dexy0306❤️B站6.7w粉同名的是我本人号😉不定期直播打游戏 评论区混眼熟了会回fo 🥳 祝你生活愉快～☀️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21971,
+          "following_count": 1010,
+          "like_count": 1773,
+          "listed_count": 64,
+          "media_count": 374,
+          "tweet_count": 1900
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-09T03:37:36.000Z",
+        "description": "",
+        "id": "1435809501517533185",
+        "name": "riri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970110262406721537/HcbmNKhp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 59,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "xxccxxcici",
+        "verified": false
+      }
+    ]
+  }
+}

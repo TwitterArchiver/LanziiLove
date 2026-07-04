@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1914233638474203365",
+    "created_at": "2025-04-21T15:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T16:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914337727241392562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1515153921836478467",
+          "start": 0,
+          "username": "kamisato_ataki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914337727241392562",
+    "in_reply_to_user_id": "1515153921836478467",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914337148872081805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kamisato_ataki ៸៸᳐&gt;⩊&lt;៸៸᳐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1914233638474203365",
+        "created_at": "2025-04-21T15:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T16:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914337727241392562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1515153921836478467",
+              "start": 0,
+              "username": "kamisato_ataki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914337727241392562",
+        "in_reply_to_user_id": "1515153921836478467",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914337148872081805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kamisato_ataki ៸៸᳐&gt;⩊&lt;៸៸᳐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515153921836478467",
+        "conversation_id": "1914233638474203365",
+        "created_at": "2025-04-21T15:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T16:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914337148872081805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914337148872081805",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914233638474203365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 哎纯爱\n雫姐可爱捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号@kitsunehashirao被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友 他叫然然～ 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "kitsunehashirao"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku（原号被盗 请转到该新号）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10932,
+          "following_count": 685,
+          "like_count": 264,
+          "listed_count": 26,
+          "media_count": 101,
+          "tweet_count": 441
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T02:23:56.000Z",
+        "description": "学生/femboy/数码爱好者/photograph/anime/穷鬼/常年发送废话条/友跨/不喜欢鉴政/音游/ISFP/X绝不赞营业中/OSU!player/tg:@kamisato_GAN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "kamisato_GAN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/32856987",
+                "end": 23,
+                "expanded_url": "https://osu.ppy.sh/users/32856987",
+                "start": 0,
+                "url": "https://t.co/oi24eu4blh"
+              }
+            ]
+          }
+        },
+        "id": "1515153921836478467",
+        "location": "大湾区",
+        "name": "taki",
+        "pinned_tweet_id": "1896048698729410943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892522008077828096/8F6-jB7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 917,
+          "like_count": 1374,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 1237
+        },
+        "url": "https://t.co/oi24eu4blh",
+        "username": "kamisato_ataki",
+        "verified": false
+      }
+    ]
+  }
+}

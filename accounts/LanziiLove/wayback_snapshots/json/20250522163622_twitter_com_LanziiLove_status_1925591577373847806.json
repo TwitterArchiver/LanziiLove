@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1925591577373847806",
+    "created_at": "2025-05-22T16:36:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T17:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925591577373847806"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lanziilove/sta…",
+          "end": 170,
+          "expanded_url": "https://twitter.com/lanziilove/status/1925588518803591249",
+          "start": 147,
+          "url": "https://t.co/uIHz3YjfZ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925591577373847806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925588518803591249",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦对 提到造谣的事顺便说一下\n很早就知道有很多人造我谣了\n\n我声明一下：我从来 我做过的事情就是做过 没做过的事情就是没做过\n\n你如果说我：拿学校引流，拿985引流，早期推特发擦边图，喜欢骂人 那我包承认的 我确实干过 有什么不敢当\n问题是你要说一些我自己都不知道的“黑料”那哥们确实无语了😓 https://t.co/uIHz3YjfZ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1925588508955308032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrkQi_Pa8AACXFd.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1925591577373847806",
+        "created_at": "2025-05-22T16:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T17:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925591577373847806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/lanziilove/status/1925588518803591249",
+              "start": 147,
+              "url": "https://t.co/uIHz3YjfZ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925591577373847806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925588518803591249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦对 提到造谣的事顺便说一下\n很早就知道有很多人造我谣了\n\n我声明一下：我从来 我做过的事情就是做过 没做过的事情就是没做过\n\n你如果说我：拿学校引流，拿985引流，早期推特发擦边图，喜欢骂人 那我包承认的 我确实干过 有什么不敢当\n问题是你要说一些我自己都不知道的“黑料”那哥们确实无语了😓 https://t.co/uIHz3YjfZ6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925588508955308032"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1925588518803591249",
+        "created_at": "2025-05-22T16:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T17:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925588518803591249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E7tn4xizrl",
+              "end": 160,
+              "expanded_url": "https://x.com/LanziiLove/status/1925588518803591249/photo/1",
+              "media_key": "3_1925588508955308032",
+              "start": 137,
+              "url": "https://t.co/E7tn4xizrl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925588518803591249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 481,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂 被造谣之后 真的好好奇造谣成啥了 有种看同人文的感觉（x\n\n唯一红温的是对面是个阴谋论谜语人中二小孩哥 问半天就一句“你自己做了啥还不清楚吗”的语气 (｡･ω･｡) 但是哥们是真好奇啊我艹\n\n我就一刚脱离苦海的中式做题曲 我真的好奇这是意淫出我干出了什么辉煌事业出来 https://t.co/E7tn4xizrl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "19岁 无🍬🇨🇳男娘 可以叫咱小雫哦w｜最爱的人是妈妈和老公｜男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜理智爱国 不见证 ｜纯清水 无黄无福利 无任何业务 私信骚扰等着挨骂吧｜无门槛 同好可酌情扩列｜备用小号@hosh1no_sh1zuku｜全网同名 只有B站/X/抖音有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "dexy0306"
+              },
+              {
+                "end": 130,
+                "start": 114,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15186,
+          "following_count": 721,
+          "like_count": 469,
+          "listed_count": 41,
+          "media_count": 174,
+          "tweet_count": 839
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

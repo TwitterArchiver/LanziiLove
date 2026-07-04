@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2052686004893725057",
+    "created_at": "2026-05-09T10:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053064863170298000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1538522512392220672",
+          "start": 0,
+          "username": "Nekoiuo_zzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053064863170298000",
+    "in_reply_to_user_id": "1538522512392220672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053062657754952116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nekoiuo_zzz 谢谢🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2052686004893725057",
+        "created_at": "2026-05-09T10:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053064863170298000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1538522512392220672",
+              "start": 0,
+              "username": "Nekoiuo_zzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053064863170298000",
+        "in_reply_to_user_id": "1538522512392220672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053062657754952116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nekoiuo_zzz 谢谢🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538522512392220672",
+        "conversation_id": "2052686004893725057",
+        "created_at": "2026-05-09T10:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053062657754952116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053062657754952116",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052929009529565234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 宝宝抱抱🤍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！希望被称作She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23689,
+          "following_count": 1117,
+          "like_count": 2145,
+          "listed_count": 71,
+          "media_count": 416,
+          "tweet_count": 2143
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-19T14:02:15.000Z",
+        "description": "˚.♡ ⁺ 𝐵𝒶𝓃𝒹𝒶𝑔𝑒 𝒜𝓃𝑔𝑒𝓁 𝐻𝑒𝒶𝓇𝓉 𓏴˚⊹",
+        "id": "1538522512392220672",
+        "name": "緒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989749688602693632/cHwkBQGw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9147,
+          "following_count": 670,
+          "like_count": 19092,
+          "listed_count": 17,
+          "media_count": 99,
+          "tweet_count": 2745
+        },
+        "username": "Nekoiuo_zzz",
+        "verified": false
+      }
+    ]
+  }
+}

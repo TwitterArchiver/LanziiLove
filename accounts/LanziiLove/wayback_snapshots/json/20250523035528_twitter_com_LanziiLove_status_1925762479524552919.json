@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925762436411314176"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1925762479524552919",
+    "created_at": "2025-05-23T03:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T04:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925762479524552919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UkzSvwlGSa",
+          "end": 77,
+          "expanded_url": "https://x.com/LanziiLove/status/1925762479524552919/photo/1",
+          "media_key": "3_1925762436411314176",
+          "start": 54,
+          "url": "https://t.co/UkzSvwlGSa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925762479524552919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和我家老公的抽象日常\n「饿…」\n「乖～今晚上吃巧克力」\n「好～」\n「作业写完没有！」\n「😭嗯哼呜呜呜呜呜」 https://t.co/UkzSvwlGSa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925762436411314176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grmuu5gWUAAsNyr.jpg",
+        "width": 482
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925762436411314176"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1925762479524552919",
+        "created_at": "2025-05-23T03:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T04:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925762479524552919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UkzSvwlGSa",
+              "end": 77,
+              "expanded_url": "https://x.com/LanziiLove/status/1925762479524552919/photo/1",
+              "media_key": "3_1925762436411314176",
+              "start": 54,
+              "url": "https://t.co/UkzSvwlGSa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925762479524552919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和我家老公的抽象日常\n「饿…」\n「乖～今晚上吃巧克力」\n「好～」\n「作业写完没有！」\n「😭嗯哼呜呜呜呜呜」 https://t.co/UkzSvwlGSa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "19岁 无🍬🇨🇳男娘 可以叫咱小雫哦w｜最爱的人是妈妈和老公｜男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜理智爱国 不见证 ｜纯清水 无黄无福利 无任何业务 私信骚扰等着挨骂吧｜无门槛 同好可酌情扩列｜备用小号@hosh1no_sh1zuku｜全网同名 只有B站/X/抖音有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "dexy0306"
+              },
+              {
+                "end": 130,
+                "start": 114,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15319,
+          "following_count": 721,
+          "like_count": 470,
+          "listed_count": 42,
+          "media_count": 174,
+          "tweet_count": 845
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

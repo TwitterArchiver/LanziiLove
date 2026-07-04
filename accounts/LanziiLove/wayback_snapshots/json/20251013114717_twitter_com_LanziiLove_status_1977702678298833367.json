@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1977578091418616121",
+    "created_at": "2025-10-13T11:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T12:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977702678298833367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1377860792599519237",
+          "start": 0,
+          "username": "alexder51947745"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977702678298833367",
+    "in_reply_to_user_id": "1377860792599519237",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977646427053674789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alexder51947745 谢谢w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1977578091418616121",
+        "created_at": "2025-10-13T11:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T12:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977702678298833367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1377860792599519237",
+              "start": 0,
+              "username": "alexder51947745"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977702678298833367",
+        "in_reply_to_user_id": "1377860792599519237",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977646427053674789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alexder51947745 谢谢w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1377860792599519237",
+        "conversation_id": "1977578091418616121",
+        "created_at": "2025-10-13T08:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T09:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977646427053674789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977646427053674789",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977578091418616121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 可爱www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 不是跨 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好：编曲 画画 3DCG Cos//985大二计算机科学与技术 第二学位数学//B站6.2万粉丝同名//中立生物 不主动攻击 阴阳我会被我攻击// 音乐&绘画作品 音乐平台&Pixiv@LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962507406770155521/giP0winc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18995,
+          "following_count": 912,
+          "like_count": 1198,
+          "listed_count": 49,
+          "media_count": 303,
+          "tweet_count": 1491
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-02T05:49:54.000Z",
+        "description": "自由意志主义者 友跨 支持平权 想要成为一个可爱的人 mtx",
+        "id": "1377860792599519237",
+        "name": "糖渍胡萝卜🏳️‍⚧️🇺🇦",
+        "pinned_tweet_id": "1742408171870953829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725356277973520384/Qu66uhAC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 3078,
+          "like_count": 188758,
+          "listed_count": 4,
+          "media_count": 61,
+          "tweet_count": 9669
+        },
+        "username": "alexder51947745",
+        "verified": false
+      }
+    ]
+  }
+}

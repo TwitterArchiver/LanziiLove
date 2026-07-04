@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "username": "@LanziiLove",
+  "bio": "",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 52,
+        "start": 41,
+        "username": "LanziiLove"
+      },
+      {
+        "end": 94,
+        "start": 83,
+        "username": "LanziiLove"
+      }
+    ]
+  }
+}

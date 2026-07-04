@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1927658391067078945",
+    "created_at": "2025-05-28T12:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T13:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927709854749098077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1710297804558499840",
+          "start": 0,
+          "username": "ws_xbd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927709854749098077",
+    "in_reply_to_user_id": "1710297804558499840",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 49,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927707205953806409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ws_xbd ៸៸᳐&gt;⩊&lt;៸៸᳐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1927658391067078945",
+        "created_at": "2025-05-28T12:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T13:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927709854749098077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1710297804558499840",
+              "start": 0,
+              "username": "ws_xbd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927709854749098077",
+        "in_reply_to_user_id": "1710297804558499840",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927707205953806409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ws_xbd ៸៸᳐&gt;⩊&lt;៸៸᳐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710297804558499840",
+        "conversation_id": "1927658391067078945",
+        "created_at": "2025-05-28T12:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T13:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927707205953806409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927707205953806409",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927658391067078945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 可爱的\n小！笼！包！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜ 是雫基米星人喵 来自🇨🇳成都｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "dexy0306"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨（LanziiLove）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15591,
+          "following_count": 724,
+          "like_count": 588,
+          "listed_count": 44,
+          "media_count": 181,
+          "tweet_count": 965
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-06T14:15:58.000Z",
+        "description": "05.11 | 24.04HRT | 24.08小证 | 小范围出柜 | 同类随机互 fo | INFP | 偶尔GD | 日常 | 超大只（Max）猫猫 | 节假日地点随机刷新 | 天蝎坐 | CS2 Vitality | 欢迎同类互关哦",
+        "id": "1710297804558499840",
+        "location": "啊巴啊巴省啊巴啊巴大学",
+        "name": "冬の霜芽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788375447656685568/uv1YPM00_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 2786,
+          "like_count": 15076,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 725
+        },
+        "username": "ws_xbd",
+        "verified": false
+      }
+    ]
+  }
+}

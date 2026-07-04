@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237004504219828224",
+          "name": "Computer hardware"
+        }
+      }
+    ],
+    "conversation_id": "2002050430210351213",
+    "created_at": "2025-12-19T16:16:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T17:16:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002050430210351213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yagaodirac/sta…",
+          "end": 152,
+          "expanded_url": "https://twitter.com/yagaodirac/status/2002047494482780269",
+          "start": 129,
+          "url": "https://t.co/trZaZueaVN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002050430210351213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002047494482780269",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你不如去街上抓一个坐在婴儿车里的半岁小孩指着他笑说“不把屎拉在兜里不是基操吗，要我这个大人给你拉一坨看看吗？”\n\n你19岁的时候要是不会从头到尾用Verilog写一个完整的五级流水线CPU那你四个麻线\n\n你出生的时候要是不会微积分线性代数那你全家都升天吧🤣 https://t.co/trZaZueaVN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2002050430210351213",
+        "created_at": "2025-12-19T16:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T17:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002050430210351213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yagaodirac/sta…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/yagaodirac/status/2002047494482780269",
+              "start": 129,
+              "url": "https://t.co/trZaZueaVN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002050430210351213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002047494482780269",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你不如去街上抓一个坐在婴儿车里的半岁小孩指着他笑说“不把屎拉在兜里不是基操吗，要我这个大人给你拉一坨看看吗？”\n\n你19岁的时候要是不会从头到尾用Verilog写一个完整的五级流水线CPU那你四个麻线\n\n你出生的时候要是不会微积分线性代数那你全家都升天吧🤣 https://t.co/trZaZueaVN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4683402619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2002047494482780269",
+        "created_at": "2025-12-19T16:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T17:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002047494482780269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LanziiLove/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/LanziiLove/status/2001730430731759763",
+              "start": 29,
+              "url": "https://t.co/6cf43xOoWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002047494482780269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001730430731759763",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5段流水线不是基操吗，要我这个学服装的给你画一个看看吗？ https://t.co/6cf43xOoWE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 非跨无药不是男娘是男的 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好编曲 画画 3DCG cos//985大二计算机科学与技术第二学位数学//B站6.6万粉丝同名//无差别block所有见证傻狗//音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 156,
+                "start": 145,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "世界和平☮️World Peace",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1946772875698110774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22350,
+          "following_count": 970,
+          "like_count": 1542,
+          "listed_count": 69,
+          "media_count": 346,
+          "tweet_count": 1731
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-31T13:45:08.000Z",
+        "description": "Freelance researcher in deep learning and related fields. Solving learning on Boolean value system, and also all discrete systems. Creativity and productivity.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/yagaoDirac/",
+                "end": 23,
+                "expanded_url": "http://github.com/yagaoDirac/",
+                "start": 0,
+                "url": "https://t.co/N09EqRVilB"
+              }
+            ]
+          }
+        },
+        "id": "4683402619",
+        "location": "SW undevelopped area in China",
+        "name": "Yagao Dirac",
+        "pinned_tweet_id": "1773911592004149669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1436324450102747139/VK4eZO1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 714,
+          "like_count": 2158,
+          "listed_count": 1,
+          "media_count": 371,
+          "tweet_count": 5125
+        },
+        "url": "https://t.co/N09EqRVilB",
+        "username": "YagaoDirac",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2069969294159659318",
+    "created_at": "2026-06-26T04:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T05:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070356740399583440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1420205241404772352",
+          "start": 0,
+          "username": "yanbo2004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070356740399583440",
+    "in_reply_to_user_id": "1420205241404772352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070355279393235233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanbo2004 是这样的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2070355269310197760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLthJfIXsAAxRYM.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2069969294159659318",
+        "created_at": "2026-06-26T04:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070356740399583440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1420205241404772352",
+              "start": 0,
+              "username": "yanbo2004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070356740399583440",
+        "in_reply_to_user_id": "1420205241404772352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070355279393235233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanbo2004 是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070355269310197760"
+          ]
+        },
+        "author_id": "1420205241404772352",
+        "conversation_id": "2069969294159659318",
+        "created_at": "2026-06-26T03:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070355279393235233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0P36qf03p",
+              "end": 48,
+              "expanded_url": "https://x.com/yanbo2004/status/2070355279393235233/photo/1",
+              "media_key": "3_2070355269310197760",
+              "start": 25,
+              "url": "https://t.co/r0P36qf03p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070355279393235233",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069969294159659318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove bur这么少吗…… 2% https://t.co/r0P36qf03p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫 💕是女孩子！在为SRS努力🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠@dexy0306这是我的男友然桑 我一生的挚爱🥰蓝V必回fo 祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨（蓝V互关）",
+        "pinned_tweet_id": "2070032227883528481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26328,
+          "following_count": 1384,
+          "like_count": 3291,
+          "listed_count": 78,
+          "media_count": 456,
+          "tweet_count": 2854
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-28T02:11:40.000Z",
+        "description": "21 yo.｜prev. DevRel & Now building @WorkWorkOrg｜Drop out｜Digital Nomad & Ordinary Trader & Writer & Photoghapher｜Backpacking trip to 20 countries & all of China",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "WorkWorkOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yanbowa.ng",
+                "end": 23,
+                "expanded_url": "http://yanbowa.ng",
+                "start": 0,
+                "url": "https://t.co/LIctNgXeI8"
+              }
+            ]
+          }
+        },
+        "id": "1420205241404772352",
+        "location": "Remote everywhere, Born in 延边.",
+        "name": "烟波 Yanbo🍡",
+        "pinned_tweet_id": "2047564211480351043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058876241566928896/lTiQJnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6429,
+          "following_count": 1894,
+          "like_count": 113988,
+          "listed_count": 41,
+          "media_count": 2859,
+          "tweet_count": 23301
+        },
+        "url": "https://t.co/LIctNgXeI8",
+        "username": "yanbo2004",
+        "verified": true
+      }
+    ]
+  }
+}

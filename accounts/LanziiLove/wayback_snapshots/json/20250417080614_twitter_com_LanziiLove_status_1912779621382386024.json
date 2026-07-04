@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1912779621382386024",
+    "created_at": "2025-04-17T08:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T09:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912779621382386024"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mokosamurai777…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/mokosamurai777/status/1912622817310642585",
+          "start": 8,
+          "url": "https://t.co/FivdE0j56u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912779621382386024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912622817310642585",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "山羊小伙立正了 https://t.co/FivdE0j56u"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 65633,
+        "height": 1280,
+        "media_key": "7_1868960959714426880",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1868960959714426880/pu/img/NtXhzqmKdch_IPlO.jpg",
+        "public_metrics": {
+          "view_count": 1707201
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1868960959714426880/pu/vid/avc1/320x568/9F6E7WvCHsVv2CZw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1868960959714426880/pu/vid/avc1/480x852/uZlcicGtJpMxNwdP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1868960959714426880/pu/vid/avc1/720x1280/9BtO5WWYvpyXQ0ee.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1868960959714426880/pu/pl/19Yclp9Nk6JQ5Ep3.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1912779621382386024",
+        "created_at": "2025-04-17T08:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T09:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912779621382386024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mokosamurai777…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/mokosamurai777/status/1912622817310642585",
+              "start": 8,
+              "url": "https://t.co/FivdE0j56u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912779621382386024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912622817310642585",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "山羊小伙立正了 https://t.co/FivdE0j56u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1868960959714426880"
+          ],
+          "media_source_tweet_id": [
+            "1868961087766642759"
+          ]
+        },
+        "author_id": "993591231870418944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1912622817310642585",
+        "created_at": "2025-04-16T21:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T22:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912622817310642585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qszuYfkQ2J",
+              "end": 153,
+              "expanded_url": "https://x.com/i/status/1868961087766642759/video/1",
+              "media_key": "7_1868960959714426880",
+              "start": 130,
+              "url": "https://t.co/qszuYfkQ2J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912622817310642585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1938,
+          "impression_count": 3125963,
+          "like_count": 8405,
+          "quote_count": 117,
+          "reply_count": 60,
+          "retweet_count": 752
+        },
+        "reply_settings": "everyone",
+        "text": "驚くと「硬直」する品種のヤギ。\n\n急崖を駆け上がるなど、その身体能力の高さが特徴のヤギ。\nしかし、一風変わっているのが「ミオトニック・ゴート」。驚くと脚を伸ばして硬直し、10秒ほど倒れてしまいます。\nこれは遺伝的な性質が原因で、人為的に生み出された品種です。\nhttps://t.co/qszuYfkQ2J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号重生】19岁🇨🇳男娘小雫｜2万fo大号@hosh1no_shizuku被盗 本号为唯一真号 置顶查证｜纯清水无黄无福利无tg 其他账号均为假冒｜🥺求帮帮孩子新号重生 关注我就回fo 求转推（没回fo就是到上限了）｜已有男朋友 他叫然然～ 是纯爱哦｜不设门槛 同好可扩列｜新小号@hosh1no_sh1zuku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "hosh1no_shizuku"
+              },
+              {
+                "end": 157,
+                "start": 141,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku（新号复活中）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7343,
+          "following_count": 557,
+          "like_count": 249,
+          "listed_count": 16,
+          "media_count": 82,
+          "tweet_count": 286
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-07T20:39:44.000Z",
+        "description": "地理は楽しく、わかりやすい！世界を見る解像度が上がる情報を発信。目の前の「何か」は全て世界と繋がっている｜日本地域地理研究所 理事長、私立高・NHK学園・よみうりカルチャー講師、地理プロ講師、防災士、ワールドクリエイター、早実、早大教育学部OB、群馬県人｜著作『ゼロから学び直す　知らないことだらけの日本地理』",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ync.ne.jp/kinshicho/kouz…",
+                "end": 23,
+                "expanded_url": "https://www.ync.ne.jp/kinshicho/kouza/202501-18010044.htm",
+                "start": 0,
+                "url": "https://t.co/MmkIaCKCul"
+              }
+            ]
+          }
+        },
+        "id": "993591231870418944",
+        "name": "瀧波 一誠 | 地理と珈琲を愛する人",
+        "pinned_tweet_id": "1912093815793729998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1432498000484388866/8xPKfPsX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49944,
+          "following_count": 1510,
+          "like_count": 96748,
+          "listed_count": 435,
+          "media_count": 5722,
+          "tweet_count": 40819
+        },
+        "url": "https://t.co/MmkIaCKCul",
+        "username": "mokosamurai777",
+        "verified": true
+      }
+    ]
+  }
+}

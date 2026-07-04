@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1994637461843317173",
+    "created_at": "2025-11-29T17:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T18:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994825240128754157"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1994825240128754157",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994637461843317173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这次没露脸主要是因为假发没买好\n买到个特别垃圾的毛胚 根本修剪不好\n那个假发一点都不像羽毛笔所以就不露头了\n下次拍泳装羽毛笔的时候再露脸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994637453542690816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G65gMioaEAA8Q4z.jpg",
+        "width": 1146
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1994637461843317173",
+        "created_at": "2025-11-29T17:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T18:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994825240128754157"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994825240128754157",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994637461843317173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这次没露脸主要是因为假发没买好\n买到个特别垃圾的毛胚 根本修剪不好\n那个假发一点都不像羽毛笔所以就不露头了\n下次拍泳装羽毛笔的时候再露脸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994637453542690816"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1994637461843317173",
+        "created_at": "2025-11-29T05:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994637461843317173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/33fwSZofSc",
+              "end": 23,
+              "expanded_url": "https://x.com/LanziiLove/status/1994637461843317173/photo/1",
+              "media_key": "3_1994637453542690816",
+              "start": 0,
+              "url": "https://t.co/33fwSZofSc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994637461843317173",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 732,
+          "impression_count": 102360,
+          "like_count": 5646,
+          "quote_count": 3,
+          "reply_count": 27,
+          "retweet_count": 214
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/33fwSZofSc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 非跨无药不是男娘是男的 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好编曲 画画 3DCG cos//985大二计算机科学与技术第二学位数学//B站6.6万粉丝同名//玩明日方舟 喜欢羽毛笔//音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "世界和平☮️World Peace",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1986478231625810336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21216,
+          "following_count": 964,
+          "like_count": 1419,
+          "listed_count": 60,
+          "media_count": 340,
+          "tweet_count": 1692
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

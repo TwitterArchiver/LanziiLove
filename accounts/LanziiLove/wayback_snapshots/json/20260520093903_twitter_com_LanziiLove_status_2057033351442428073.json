@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2056988399471591639",
+    "created_at": "2026-05-20T09:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T10:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057033351442428073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1612447609305825280",
+          "start": 0,
+          "username": "Auroranightglw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057033351442428073",
+    "in_reply_to_user_id": "1612447609305825280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057033109544345710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Auroranightglw 谢谢❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2056988399471591639",
+        "created_at": "2026-05-20T09:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057033351442428073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1612447609305825280",
+              "start": 0,
+              "username": "Auroranightglw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057033351442428073",
+        "in_reply_to_user_id": "1612447609305825280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057033109544345710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Auroranightglw 谢谢❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612447609305825280",
+        "conversation_id": "2056988399471591639",
+        "created_at": "2026-05-20T09:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057033109544345710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057033109544345710",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056988399471591639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 祝顺利"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku（tg上的是骗子⚠️）",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24524,
+          "following_count": 1184,
+          "like_count": 2518,
+          "listed_count": 75,
+          "media_count": 434,
+          "tweet_count": 2367
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T13:54:11.000Z",
+        "description": "alone\n我爱生物学",
+        "id": "1612447609305825280",
+        "location": "广东",
+        "name": "Aurora Borealis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612447909706084355/aDRLL-LZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 345,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 28
+        },
+        "username": "Auroranightglw",
+        "verified": false
+      }
+    ]
+  }
+}

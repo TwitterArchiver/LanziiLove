@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2053829758639825026",
+    "created_at": "2026-05-12T01:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T02:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054017364229009868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2012441556251238400",
+          "start": 0,
+          "username": "ba_da47419"
+        },
+        {
+          "end": 20,
+          "id": "1899682374679760896",
+          "start": 12,
+          "username": "minGxw_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054017364229009868",
+    "in_reply_to_user_id": "2012441556251238400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054012604201550032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ba_da47419 @minGxw_ 线下认识的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2053829758639825026",
+        "created_at": "2026-05-12T01:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T02:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054017364229009868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2012441556251238400",
+              "start": 0,
+              "username": "ba_da47419"
+            },
+            {
+              "end": 20,
+              "id": "1899682374679760896",
+              "start": 12,
+              "username": "minGxw_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054017364229009868",
+        "in_reply_to_user_id": "2012441556251238400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054012604201550032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ba_da47419 @minGxw_ 线下认识的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012441556251238400",
+        "conversation_id": "2053829758639825026",
+        "created_at": "2026-05-12T01:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T02:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054012604201550032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1899682374679760896",
+              "start": 0,
+              "username": "minGxw_"
+            },
+            {
+              "end": 20,
+              "id": "1510447851507261445",
+              "start": 9,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054012604201550032",
+        "in_reply_to_user_id": "1899682374679760896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053848034161926393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minGxw_ @LanziiLove 给人家开了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！希望被称作She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23928,
+          "following_count": 1143,
+          "like_count": 2271,
+          "listed_count": 73,
+          "media_count": 422,
+          "tweet_count": 2196
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T08:27:25.000Z",
+        "description": "",
+        "id": "2012441556251238400",
+        "name": "巴德大卫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012441616833773568/QkCGhnNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "ba_da47419",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T04:42:40.000Z",
+        "description": "成年男性，单纯喜欢穿可爱的小裙子，被夸夸会很开心┋铁血舟批所以是足控，单推Mon3tr┋除此之外的爱好大概就是吃美食、做美食和打游戏（以音游为主）┋现于成都读书ing┋174/130减肥中┋很少看私信请求所以有话最好发评论区",
+        "id": "1899682374679760896",
+        "name": "冥消亡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899682553889734656/NqWWUSTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 61,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 72
+        },
+        "username": "minGxw_",
+        "verified": false
+      }
+    ]
+  }
+}

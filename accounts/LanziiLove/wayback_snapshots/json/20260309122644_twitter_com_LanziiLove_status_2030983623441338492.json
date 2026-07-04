@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2030911090184651158",
+    "created_at": "2026-03-09T12:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T13:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030983623441338492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1648144386772070400",
+          "start": 0,
+          "username": "NoContextArkn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030983623441338492",
+    "in_reply_to_user_id": "1648144386772070400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030911090184651158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NoContextArkn 经典看见AI就应激哈气 自己创作水平不如三岁儿童的也够一个二个就跟着抵制上AI了\n建议和抓住AI时代大机遇的坐一桌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2030911087596695552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8-37qacAA5Ll6.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2030911090184651158",
+        "created_at": "2026-03-09T12:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T13:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030983623441338492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1648144386772070400",
+              "start": 0,
+              "username": "NoContextArkn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030983623441338492",
+        "in_reply_to_user_id": "1648144386772070400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030911090184651158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NoContextArkn 经典看见AI就应激哈气 自己创作水平不如三岁儿童的也够一个二个就跟着抵制上AI了\n建议和抓住AI时代大机遇的坐一桌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030911087596695552"
+          ]
+        },
+        "author_id": "1648144386772070400",
+        "conversation_id": "2030911090184651158",
+        "created_at": "2026-03-09T07:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T08:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030911090184651158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OwT8EMPSAC",
+              "end": 23,
+              "expanded_url": "https://x.com/NoContextArkn/status/2030911090184651158/photo/1",
+              "media_key": "3_2030911087596695552",
+              "start": 0,
+              "url": "https://t.co/OwT8EMPSAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030911090184651158",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 46272,
+          "like_count": 2200,
+          "quote_count": 8,
+          "reply_count": 25,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OwT8EMPSAC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 非跨无药不是男娘 只是爱穿可爱衣服和cos 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好编曲 画画 3DCG cos//985大二计算机科学与技术第二学位数学//B站6.6万粉丝同名//音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 150,
+                "start": 139,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22396,
+          "following_count": 989,
+          "like_count": 1712,
+          "listed_count": 69,
+          "media_count": 362,
+          "tweet_count": 1847
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-18T02:00:28.000Z",
+        "description": "Arknights Memes,why so serious ❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wisadel.com",
+                "end": 23,
+                "expanded_url": "http://wisadel.com",
+                "start": 0,
+                "url": "https://t.co/s0GAqoYEQP"
+              }
+            ]
+          }
+        },
+        "id": "1648144386772070400",
+        "location": "Reunion Coalition",
+        "name": "No Context Arknights",
+        "pinned_tweet_id": "2028076158726950956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026928472824885252/xMhJIvdq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54495,
+          "following_count": 741,
+          "like_count": 75700,
+          "listed_count": 73,
+          "media_count": 2712,
+          "tweet_count": 2994
+        },
+        "url": "https://t.co/s0GAqoYEQP",
+        "username": "NoContextArkn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1926968400540033153",
+    "created_at": "2025-05-26T13:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T14:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927001433062215748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1731900703919230976",
+          "start": 0,
+          "username": "shinoaAwA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927001433062215748",
+    "in_reply_to_user_id": "1731900703919230976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927001363004678422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shinoaAwA 谢谢ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1926968400540033153",
+        "created_at": "2025-05-26T13:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T14:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927001433062215748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1731900703919230976",
+              "start": 0,
+              "username": "shinoaAwA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927001433062215748",
+        "in_reply_to_user_id": "1731900703919230976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927001363004678422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shinoaAwA 谢谢ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731900703919230976",
+        "conversation_id": "1926968400540033153",
+        "created_at": "2025-05-26T13:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T14:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927001363004678422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927001363004678422",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926968400540033153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 加油ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁 来自🇨🇳成都｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和拍可爱的照片！喜欢各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "dexy0306"
+              },
+              {
+                "end": 122,
+                "start": 106,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15507,
+          "following_count": 725,
+          "like_count": 529,
+          "listed_count": 42,
+          "media_count": 177,
+          "tweet_count": 904
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T04:58:33.000Z",
+        "description": "@所有人 请fo我₍˄·͈༝·͈˄*₎◞ ̑̑|\n@所有人 請fo我|\n@everyone plz follow me|\n@みんなフォロミ|\n碎碎念清水|双流一学校本科在读|性向保密|我喜欢你|友跨|jpop/ボカロはいいのに|计算机科学与技术",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "everyone"
+              }
+            ]
+          }
+        },
+        "id": "1731900703919230976",
+        "location": "地球🌏",
+        "name": "shinoaAwA",
+        "pinned_tweet_id": "1843339927888769299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824989288523841536/X2YE8f6z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 2933,
+          "like_count": 9404,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 1651
+        },
+        "username": "shinoaAwA",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1927643782163693858",
+    "created_at": "2025-05-28T08:51:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T09:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927648991430533353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1846264453463236608",
+          "start": 0,
+          "username": "sinokitatokyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927648991430533353",
+    "in_reply_to_user_id": "1846264453463236608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 65,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927647500779016342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sinokitatokyo 饮食 作息 锻炼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1927643782163693858",
+        "created_at": "2025-05-28T08:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T09:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927648991430533353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1846264453463236608",
+              "start": 0,
+              "username": "sinokitatokyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927648991430533353",
+        "in_reply_to_user_id": "1846264453463236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927647500779016342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sinokitatokyo 饮食 作息 锻炼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846264453463236608",
+        "conversation_id": "1927643782163693858",
+        "created_at": "2025-05-28T08:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T09:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927647500779016342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927647500779016342",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927643782163693858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 在什么方面自律？\n好奇🐱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜ 是雫基米星人喵 来自🇨🇳成都｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "dexy0306"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨（LanziiLove）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15555,
+          "following_count": 724,
+          "like_count": 571,
+          "listed_count": 43,
+          "media_count": 181,
+          "tweet_count": 949
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T18:58:52.000Z",
+        "description": "形态复杂 | 基本友好 | 不定上推 | 干活机器 | 熬夜笨蛋 | 魔爪依赖 |查成分fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/eDNrHxaiMk"
+              }
+            ]
+          }
+        },
+        "id": "1846264453463236608",
+        "location": "site-300，或俄罗斯克拉斯诺亚尔斯克边疆区",
+        "name": "篠北みれい😺（白魔爪重度依赖）",
+        "pinned_tweet_id": "1903207666731847833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903186990201487360/wRTdmbfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 618,
+          "like_count": 200,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1004
+        },
+        "url": "https://t.co/eDNrHxaiMk",
+        "username": "sinokitatokyo",
+        "verified": false
+      }
+    ]
+  }
+}

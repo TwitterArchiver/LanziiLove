@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1927236419589648390",
+    "created_at": "2025-05-27T06:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T07:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927251596993298618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1643877169754521601",
+          "start": 0,
+          "username": "tornq147194"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927251596993298618",
+    "in_reply_to_user_id": "1643877169754521601",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927250181696688580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tornq147194 谢谢w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1927236419589648390",
+        "created_at": "2025-05-27T06:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T07:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927251596993298618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1643877169754521601",
+              "start": 0,
+              "username": "tornq147194"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927251596993298618",
+        "in_reply_to_user_id": "1643877169754521601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927250181696688580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tornq147194 谢谢w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643877169754521601",
+        "conversation_id": "1927236419589648390",
+        "created_at": "2025-05-27T06:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T07:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927250181696688580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927250181696688580",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927236419589648390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机 来自🇨🇳成都｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和拍可爱的照片！喜欢各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "dexy0306"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15521,
+          "following_count": 725,
+          "like_count": 549,
+          "listed_count": 42,
+          "media_count": 178,
+          "tweet_count": 920
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T07:24:06.000Z",
+        "description": "一个普通的历史爱好者，坚定的保守右派。专注于中日朝三国历史研究。中国史最近研究集中在西晋断限，日本史现在集中在武士的概念。朝鲜史现在围绕现代两班后裔展开探究。",
+        "id": "1643877169754521601",
+        "name": "陶仁齐",
+        "pinned_tweet_id": "1901194127473324359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828968004631035904/rBKb5LnN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 106,
+          "like_count": 1603,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1164
+        },
+        "username": "tornq147194",
+        "verified": false
+      }
+    ]
+  }
+}

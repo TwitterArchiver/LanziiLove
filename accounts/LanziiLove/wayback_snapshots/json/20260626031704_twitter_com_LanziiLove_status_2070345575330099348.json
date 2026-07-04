@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069969287058731008"
+      ],
+      "media_source_tweet_id": [
+        "2069969294159659318"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2070345575330099348",
+    "created_at": "2026-06-26T03:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T04:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070345575330099348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1510447851507261445",
+          "start": 3,
+          "username": "LanziiLove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iGh88ukKFz",
+          "end": 72,
+          "expanded_url": "https://x.com/LanziiLove/status/2069969294159659318/photo/1",
+          "media_key": "3_2069969287058731008",
+          "start": 49,
+          "url": "https://t.co/iGh88ukKFz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070345575330099348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069969294159659318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LanziiLove: 活爹们 差44个\n蓝V互关 秒回关\n\n如果是同类蓝V就更好了（x https://t.co/iGh88ukKFz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069969287058731008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoCGXMasAAKRAO.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069969287058731008"
+          ],
+          "media_source_tweet_id": [
+            "2069969294159659318"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2070345575330099348",
+        "created_at": "2026-06-26T03:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070345575330099348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1510447851507261445",
+              "start": 3,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iGh88ukKFz",
+              "end": 72,
+              "expanded_url": "https://x.com/LanziiLove/status/2069969294159659318/photo/1",
+              "media_key": "3_2069969287058731008",
+              "start": 49,
+              "url": "https://t.co/iGh88ukKFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070345575330099348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069969294159659318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LanziiLove: 活爹们 差44个\n蓝V互关 秒回关\n\n如果是同类蓝V就更好了（x https://t.co/iGh88ukKFz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069969287058731008"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2069969294159659318",
+        "created_at": "2026-06-25T02:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T03:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069969294159659318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iGh88ukKFz",
+              "end": 56,
+              "expanded_url": "https://x.com/LanziiLove/status/2069969294159659318/photo/1",
+              "media_key": "3_2069969287058731008",
+              "start": 33,
+              "url": "https://t.co/iGh88ukKFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069969294159659318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3801,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "活爹们 差44个\n蓝V互关 秒回关\n\n如果是同类蓝V就更好了（x https://t.co/iGh88ukKFz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫 本名杜澄溪 💕是女孩子🏳️‍⚧️平时会发各种各样的日常～ 没有任何盈利内容 不要相信骗子哦 目前只营B站和X🏠@dexy0306这是我的男友然桑 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨（蓝V互fo）",
+        "pinned_tweet_id": "2070032227883528481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26328,
+          "following_count": 1384,
+          "like_count": 3291,
+          "listed_count": 78,
+          "media_count": 456,
+          "tweet_count": 2853
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      }
+    ]
+  }
+}

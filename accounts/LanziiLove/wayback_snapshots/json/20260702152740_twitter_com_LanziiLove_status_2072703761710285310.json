@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2072696924550078686",
+    "created_at": "2026-07-02T15:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072703761710285310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1244543552652054528",
+          "start": 0,
+          "username": "Greenfish_111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072703761710285310",
+    "in_reply_to_user_id": "1244543552652054528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072696924550078686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Greenfish_111 左图是因为例图水印是ai跑的\n右图是因为背景是ai跑的\n你想看原图我可以发给你再拉一次\n\n鞋子我是直接照着参考图描的 那个我确实没仔细看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_2072696910083923969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOy26yaIAEalel.jpg",
+        "width": 1165
+      },
+      {
+        "height": 1192,
+        "media_key": "3_2072696910075539457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOy26waMAETaji.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2072696924550078686",
+        "created_at": "2026-07-02T15:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072703761710285310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Greenfish_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072703761710285310",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072696924550078686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greenfish_111 左图是因为例图水印是ai跑的\n右图是因为背景是ai跑的\n你想看原图我可以发给你再拉一次\n\n鞋子我是直接照着参考图描的 那个我确实没仔细看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072696910083923969",
+            "3_2072696910075539457"
+          ]
+        },
+        "author_id": "1244543552652054528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2072696924550078686",
+        "created_at": "2026-07-02T15:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072696924550078686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RZE8NRJaHt",
+              "end": 167,
+              "expanded_url": "https://x.com/Greenfish_111/status/2072696924550078686/photo/1",
+              "media_key": "3_2072696910083923969",
+              "start": 144,
+              "url": "https://t.co/RZE8NRJaHt"
+            },
+            {
+              "display_url": "pic.x.com/RZE8NRJaHt",
+              "end": 167,
+              "expanded_url": "https://x.com/Greenfish_111/status/2072696924550078686/photo/1",
+              "media_key": "3_2072696910075539457",
+              "start": 144,
+              "url": "https://t.co/RZE8NRJaHt"
+            },
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/lanziilove/status/2072603346385670290",
+              "start": 168,
+              "url": "https://t.co/8E6S7R7edE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072696924550078686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072603346385670290",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "作品是否存在ai描改？画风像ai常见模型，眼睛等多处存在粘连，不过这些都可能是液化问题，平台压画质严重拉曲线也没参考意义\n但鞋子画的很精细却有如此奇怪的逻辑错误？评论区的q版与此立绘水平差异也很大\n说实话这个价格在现在绘圈算贵，愿意约的也都是真心支持你的粉丝，隐瞒使用ai的行为不太好吧 https://t.co/RZE8NRJaHt https://t.co/8E6S7R7edE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫 💕是女孩子！在为SRS努力🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠@dexy0306这是我的男友然桑 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "pinned_tweet_id": "2071825228649599113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26767,
+          "following_count": 1424,
+          "like_count": 3375,
+          "listed_count": 79,
+          "media_count": 463,
+          "tweet_count": 2930
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "糖在风中无力地裂开\nbpd/日常号@flyfrog_222/我的画@woyaosleep444",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "flyfrog_222"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "woyaosleep444"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fiiiish",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fiiiish",
+                "start": 0,
+                "url": "https://t.co/V2GB3spiAO"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "非同类私信请先过🚪888",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "2069292400196125097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066084271341842432/5hKNs9Kr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5067,
+          "following_count": 556,
+          "like_count": 13305,
+          "listed_count": 8,
+          "media_count": 1078,
+          "tweet_count": 14351
+        },
+        "url": "https://t.co/V2GB3spiAO",
+        "username": "Greenfish_111",
+        "verified": false
+      }
+    ]
+  }
+}

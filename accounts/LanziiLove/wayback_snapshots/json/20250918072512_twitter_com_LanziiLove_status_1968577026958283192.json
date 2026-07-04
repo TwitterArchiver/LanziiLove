@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968577015591878656"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1968577026958283192",
+    "created_at": "2025-09-18T07:25:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T08:25:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968577026958283192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 79,
+          "id": "1915622690653954048",
+          "start": 70,
+          "username": "dexy0306"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XGcN8eBUrc",
+          "end": 111,
+          "expanded_url": "https://x.com/LanziiLove/status/1968577026958283192/photo/1",
+          "media_key": "3_1968577015591878656",
+          "start": 88,
+          "url": "https://t.co/XGcN8eBUrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968577026958283192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "旗袍修身 气质文雅 勾勒身材曲线 集玲珑可爱与高淑之气 尽显古今交融之美\n\n坏处是鼓大包的时候容易被发现⛺️\n\nPhoto shot by @dexy0306\nPos：武侯祠 https://t.co/XGcN8eBUrc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968577015591878656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1HKXZ9aQAAiX6_.jpg",
+        "width": 1550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968577015591878656"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1968577026958283192",
+        "created_at": "2025-09-18T07:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T08:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968577026958283192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 79,
+              "id": "1915622690653954048",
+              "start": 70,
+              "username": "dexy0306"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XGcN8eBUrc",
+              "end": 111,
+              "expanded_url": "https://x.com/LanziiLove/status/1968577026958283192/photo/1",
+              "media_key": "3_1968577015591878656",
+              "start": 88,
+              "url": "https://t.co/XGcN8eBUrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968577026958283192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "旗袍修身 气质文雅 勾勒身材曲线 集玲珑可爱与高淑之气 尽显古今交融之美\n\n坏处是鼓大包的时候容易被发现⛺️\n\nPhoto shot by @dexy0306\nPos：武侯祠 https://t.co/XGcN8eBUrc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好 编曲&画画&3DCG//985大二计算机科学与技术 第二学位数学//B站6.2万粉丝同名//中立生物 不主动攻击 阴阳我会被我攻击// 音乐&绘画作品 音乐平台&Pixiv@LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962507406770155521/giP0winc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18207,
+          "following_count": 895,
+          "like_count": 1131,
+          "listed_count": 46,
+          "media_count": 283,
+          "tweet_count": 1450
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915673915411881988/qqYyNevC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 2,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 39
+        },
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

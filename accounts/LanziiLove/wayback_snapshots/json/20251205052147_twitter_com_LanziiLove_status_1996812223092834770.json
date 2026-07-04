@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1996612910202970121",
+    "created_at": "2025-12-05T05:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T06:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996812223092834770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1401590863948435460",
+          "start": 0,
+          "username": "Mirs_Madeus"
+        },
+        {
+          "end": 29,
+          "id": "1821785283861606402",
+          "start": 13,
+          "username": "ichijinijika233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996812223092834770",
+    "in_reply_to_user_id": "1401590863948435460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996747191361429849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mirs_Madeus @ichijinijika233 是这样的😢\n优化一下做成常驻模式我什么都会做的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1996612910202970121",
+        "created_at": "2025-12-05T05:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T06:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996812223092834770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1401590863948435460",
+              "start": 0,
+              "username": "Mirs_Madeus"
+            },
+            {
+              "end": 29,
+              "id": "1821785283861606402",
+              "start": 13,
+              "username": "ichijinijika233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996812223092834770",
+        "in_reply_to_user_id": "1401590863948435460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996747191361429849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mirs_Madeus @ichijinijika233 是这样的😢\n优化一下做成常驻模式我什么都会做的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401590863948435460",
+        "conversation_id": "1996612910202970121",
+        "created_at": "2025-12-05T01:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T02:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996747191361429849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 28,
+              "id": "1821785283861606402",
+              "start": 12,
+              "username": "ichijinijika233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996747191361429849",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996664747652260219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @ichijinijika233 这个模式的底子是真的不错，但是细节设计一坨蛆😅属于是又骂又吃的东西🤣所以能不能快点更新啊😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 非跨无药不是男娘是男的 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好编曲 画画 3DCG cos//985大二计算机科学与技术第二学位数学//B站6.6万粉丝同名//无差别block所有见证傻狗//音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 156,
+                "start": 145,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "世界和平☮️World Peace",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1946772875698110774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21798,
+          "following_count": 974,
+          "like_count": 1438,
+          "listed_count": 63,
+          "media_count": 342,
+          "tweet_count": 1712
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-06T17:24:43.000Z",
+        "description": "★フリーライター★\n「ネットレディ(仮)」\nHomines possunt historiam condonare. Sed deus non vult.",
+        "id": "1401590863948435460",
+        "location": "Neo Yokohama",
+        "name": "Lighieria",
+        "pinned_tweet_id": "1769780591103475786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980894093602410496/SBaRZkW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 273,
+          "like_count": 512,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 472
+        },
+        "username": "Mirs_Madeus",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T05:47:21.000Z",
+        "description": "是一个天天转发别人插画或者漫画的家伙🤓。还有，🥰我喜欢你🥰。\n\n下面的链接可以匿名给我发送问题，我会回答的😎大概吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ichijinijika233",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ichijinijika233",
+                "start": 0,
+                "url": "https://t.co/F2Au4wt1u3"
+              }
+            ]
+          }
+        },
+        "id": "1821785283861606402",
+        "location": "Tokyo-to, Japan",
+        "name": "伊地知 にじか",
+        "pinned_tweet_id": "1913381416097964293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875388099460788227/exO9pwr__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 3917,
+          "like_count": 35553,
+          "listed_count": 2,
+          "media_count": 265,
+          "tweet_count": 8548
+        },
+        "url": "https://t.co/F2Au4wt1u3",
+        "username": "ichijinijika233",
+        "verified": false
+      }
+    ]
+  }
+}

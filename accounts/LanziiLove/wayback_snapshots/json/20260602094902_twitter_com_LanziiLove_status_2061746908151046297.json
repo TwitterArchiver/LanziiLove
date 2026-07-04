@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2061745376387059822",
+    "created_at": "2026-06-02T09:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T10:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061746908151046297"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061746908151046297",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061746110558019727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很多人会说什么“没必要”之类的话 可是为什么很多人不能想想 为什么代价如此之大 我却还是如此渴望着srs呢 如果“没必要” 谁又愿意去受这些苦\n我只是想让我的心理和精神得到解脱，以我真正的、本来的模样好好的在这个世界上默默无闻过好我平凡的生活。仅此而已。但是的确，真的好难。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2061745376387059822",
+        "created_at": "2026-06-02T09:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061746908151046297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061746908151046297",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061746110558019727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很多人会说什么“没必要”之类的话 可是为什么很多人不能想想 为什么代价如此之大 我却还是如此渴望着srs呢 如果“没必要” 谁又愿意去受这些苦\n我只是想让我的心理和精神得到解脱，以我真正的、本来的模样好好的在这个世界上默默无闻过好我平凡的生活。仅此而已。但是的确，真的好难。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2061745376387059822",
+        "created_at": "2026-06-02T09:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061746110558019727"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061746110558019727",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061745820958109949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "除了大证还没开出来 理论上要一年 411那边赵博估计预约也得排一年 恢复期少说半年 改学籍也得一学期 加上来三年了 除非我休学两年不然也不够"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25334,
+          "following_count": 1239,
+          "like_count": 3057,
+          "listed_count": 78,
+          "media_count": 455,
+          "tweet_count": 2708
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

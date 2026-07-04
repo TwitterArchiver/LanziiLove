@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2048575580585754674",
+    "created_at": "2026-04-27T01:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T02:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048575580585754674"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lanziilove/sta…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/lanziilove/status/1942985346045874380",
+          "start": 43,
+          "url": "https://t.co/SV7cp7FHRi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048575580585754674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942985346045874380",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "旧事重提：\n“姐姐 姐姐！你好漂亮请问可以和你拍张照吗！”\n\n哎呀真给老阿姨长脸☺️ https://t.co/SV7cp7FHRi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1942985329260290048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvbe3NJa4AAtqmA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2048575580585754674",
+        "created_at": "2026-04-27T01:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048575580585754674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/lanziilove/status/1942985346045874380",
+              "start": 43,
+              "url": "https://t.co/SV7cp7FHRi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048575580585754674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942985346045874380",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "旧事重提：\n“姐姐 姐姐！你好漂亮请问可以和你拍张照吗！”\n\n哎呀真给老阿姨长脸☺️ https://t.co/SV7cp7FHRi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942985329260290048"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1942985346045874380",
+        "created_at": "2025-07-09T16:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T17:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942985346045874380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nWrIGWLuiy",
+              "end": 171,
+              "expanded_url": "https://x.com/LanziiLove/status/1942985346045874380/photo/1",
+              "media_key": "3_1942985329260290048",
+              "start": 148,
+              "url": "https://t.co/nWrIGWLuiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942985346045874380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 27008,
+          "like_count": 269,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "reply_settings": "following",
+        "text": "穿Lolita去春熙路玩 遇到了很开心的事w\n和然然在拍照时 突然遇到两个超级可爱超有礼貌的小妹妹（像是上小学的年纪）跑上来问我：「姐姐！姐姐！请问可以和你拍张照吗！」一下子懵了 好开心好激动 连忙点点头然后蹲下来和她合照 拍完之后还很大声地和我说了声「谢谢姐姐！」超开心的说w 也是得到认可了 https://t.co/nWrIGWLuiy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！希望被称作She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意平台公益捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22739,
+          "following_count": 1048,
+          "like_count": 1998,
+          "listed_count": 66,
+          "media_count": 394,
+          "tweet_count": 2053
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

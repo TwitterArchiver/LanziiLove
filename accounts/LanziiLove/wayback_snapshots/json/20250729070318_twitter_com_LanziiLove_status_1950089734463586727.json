@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1944707595878687035",
+    "created_at": "2025-07-29T07:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T08:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950089734463586727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1891355598",
+          "start": 0,
+          "username": "Mayor_Fuglycool"
+        },
+        {
+          "end": 30,
+          "id": "1382263864033644548",
+          "start": 17,
+          "username": "commiepommie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950089734463586727",
+    "in_reply_to_user_id": "1891355598",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944821769019277383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mayor_Fuglycool @commiepommie Typical dumbass white pig\nJust let this mf enjoy its mental masturbating"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 846,
+        "media_key": "3_1944821724152778752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv1lDdOW0AAkEsn.jpg",
+        "width": 1252
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1944707595878687035",
+        "created_at": "2025-07-29T07:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T08:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950089734463586727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1891355598",
+              "start": 0,
+              "username": "Mayor_Fuglycool"
+            },
+            {
+              "end": 30,
+              "id": "1382263864033644548",
+              "start": 17,
+              "username": "commiepommie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950089734463586727",
+        "in_reply_to_user_id": "1891355598",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944821769019277383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mayor_Fuglycool @commiepommie Typical dumbass white pig\nJust let this mf enjoy its mental masturbating"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944821724152778752"
+          ]
+        },
+        "author_id": "1891355598",
+        "conversation_id": "1944707595878687035",
+        "created_at": "2025-07-14T18:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T19:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944821769019277383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1382263864033644548",
+              "start": 0,
+              "username": "commiepommie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5AlnOGWMV4",
+              "end": 70,
+              "expanded_url": "https://x.com/Mayor_Fuglycool/status/1944821769019277383/photo/1",
+              "media_key": "3_1944821724152778752",
+              "start": 47,
+              "url": "https://t.co/5AlnOGWMV4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944821769019277383",
+        "in_reply_to_user_id": "1382263864033644548",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 18359,
+          "like_count": 603,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944707595878687035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@commiepommie LOOOOOOOOOOOOOOOOOL ! NO...  😂😂😂 https://t.co/5AlnOGWMV4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "dexy0306"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17915,
+          "following_count": 860,
+          "like_count": 969,
+          "listed_count": 46,
+          "media_count": 241,
+          "tweet_count": 1317
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-21T20:34:54.000Z",
+        "description": "Acclaimed YouTuber.\r\n\r\nMayor Fuglycool",
+        "id": "1891355598",
+        "location": "Texas",
+        "name": "Mayor Fuglycool",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1020438390167093248/r7occh9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 342,
+          "like_count": 71789,
+          "listed_count": 14,
+          "media_count": 2067,
+          "tweet_count": 20916
+        },
+        "username": "Mayor_Fuglycool",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-14T09:26:23.000Z",
+        "description": "British-Australian living in China 🇨🇳 | Geopolitical Analyst | Published Writer | Showing You The Real China!\n\nRead more below 👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/commiepommie",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/commiepommie",
+                "start": 0,
+                "url": "https://t.co/0KWdPcJbUM"
+              }
+            ]
+          }
+        },
+        "id": "1382263864033644548",
+        "location": "People's Republic of China",
+        "name": "James Wood 武杰士",
+        "pinned_tweet_id": "1859433651341307956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900565858889670656/UE3kyqC5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22736,
+          "following_count": 425,
+          "like_count": 7022,
+          "listed_count": 147,
+          "media_count": 1098,
+          "tweet_count": 9196
+        },
+        "url": "https://t.co/0KWdPcJbUM",
+        "username": "commiepommie",
+        "verified": true
+      }
+    ]
+  }
+}

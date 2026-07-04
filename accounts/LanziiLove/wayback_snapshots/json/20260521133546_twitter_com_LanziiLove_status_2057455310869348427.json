@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2057301786831228955",
+    "created_at": "2026-05-21T13:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057455310869348427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1775730566731894784",
+          "start": 0,
+          "username": "Ff_c09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057455310869348427",
+    "in_reply_to_user_id": "1775730566731894784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057342149163954677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ff_c09 哇qwq 辛苦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2057301786831228955",
+        "created_at": "2026-05-21T13:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057455310869348427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1775730566731894784",
+              "start": 0,
+              "username": "Ff_c09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057455310869348427",
+        "in_reply_to_user_id": "1775730566731894784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057342149163954677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ff_c09 哇qwq 辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775730566731894784",
+        "conversation_id": "2057301786831228955",
+        "created_at": "2026-05-21T06:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057342149163954677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057342149163954677",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 193,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057301786831228955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 研究过了……这东西加密做得很好，还有签名，token也是一次性的，还有请求计数器，对不上就拒绝了。脚本基本没希望。然后就是自动点击试过了，通过精确对时，卡时间瞬间点击预约，但是这个系统一定要等你选完时间读完须知才算是抢到号，而且抢号还不用预付款，导致很多人不管如何先抢再说……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24615,
+          "following_count": 1193,
+          "like_count": 2603,
+          "listed_count": 75,
+          "media_count": 435,
+          "tweet_count": 2428
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T03:42:19.000Z",
+        "description": "",
+        "id": "1775730566731894784",
+        "name": "羽梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775730792041472000/H3Rj6AFE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 103,
+          "like_count": 791,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 105
+        },
+        "username": "Ff_c09",
+        "verified": false
+      }
+    ]
+  }
+}

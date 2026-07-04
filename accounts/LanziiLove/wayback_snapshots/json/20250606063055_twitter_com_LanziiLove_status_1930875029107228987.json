@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1930861773147787359",
+    "created_at": "2025-06-06T06:30:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T07:30:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930875029107228987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1675486338509074432",
+          "start": 0,
+          "username": "HirasawaOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930875029107228987",
+    "in_reply_to_user_id": "1675486338509074432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930861773147787359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HirasawaOvO 草 好恶毒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 202,
+        "media_key": "3_1930861770366910464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsvMjM0aAAAy2Rb.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1930861773147787359",
+        "created_at": "2025-06-06T06:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T07:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930875029107228987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1675486338509074432",
+              "start": 0,
+              "username": "HirasawaOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930875029107228987",
+        "in_reply_to_user_id": "1675486338509074432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930861773147787359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HirasawaOvO 草 好恶毒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930861770366910464"
+          ]
+        },
+        "author_id": "1675486338509074432",
+        "conversation_id": "1930861773147787359",
+        "created_at": "2025-06-06T05:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T06:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930861773147787359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VOXPte14Eo",
+              "end": 23,
+              "expanded_url": "https://x.com/HirasawaOvO/status/1930861773147787359/photo/1",
+              "media_key": "3_1930861770366910464",
+              "start": 0,
+              "url": "https://t.co/VOXPte14Eo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930861773147787359",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VOXPte14Eo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜不是女孩子也不是男娘 是雫基米星人喵！｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "dexy0306"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16768,
+          "following_count": 738,
+          "like_count": 697,
+          "listed_count": 44,
+          "media_count": 193,
+          "tweet_count": 1108
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T12:47:39.000Z",
+        "description": "一个热衷于逃避现实的胆小鬼",
+        "id": "1675486338509074432",
+        "location": "第三新东京市旧仙石原高原五丁目",
+        "name": "Pochiiiii 2.0",
+        "pinned_tweet_id": "1801092119035293830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899113707885797376/wly-KKYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 400,
+          "like_count": 7880,
+          "listed_count": 5,
+          "media_count": 121,
+          "tweet_count": 2165
+        },
+        "username": "HirasawaOvO",
+        "verified": false
+      }
+    ]
+  }
+}

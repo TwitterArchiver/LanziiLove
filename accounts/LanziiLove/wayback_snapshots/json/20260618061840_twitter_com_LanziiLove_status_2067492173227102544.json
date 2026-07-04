@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2067492173227102544",
+    "created_at": "2026-06-18T06:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067492173227102544"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067492173227102544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉 算了\n双相发作的时候确实不该上推\n就当长个教训了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2067492173227102544",
+        "created_at": "2026-06-18T06:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067492173227102544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067492173227102544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉 算了\n双相发作的时候确实不该上推\n就当长个教训了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "",
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25608,
+          "following_count": 1268,
+          "like_count": 3158,
+          "listed_count": 79,
+          "media_count": 447,
+          "tweet_count": 2766
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

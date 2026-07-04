@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053160977399681024"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2053160989781324286",
+    "created_at": "2026-05-09T17:11:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T18:11:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053160989781324286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1915622690653954048",
+          "start": 5,
+          "username": "dexy0306"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/45XfCGicTQ",
+          "end": 53,
+          "expanded_url": "https://x.com/LanziiLove/status/2053160989781324286/photo/1",
+          "media_key": "3_2053160977399681024",
+          "start": 30,
+          "url": "https://t.co/45XfCGicTQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053160989781324286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和我家然桑@dexy0306 一起带啊噗噜派到丹霞的山顶～ https://t.co/45XfCGicTQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 886,
+        "media_key": "3_2053160977399681024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH5LB-SaEAAMcse.jpg",
+        "width": 1572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053160977399681024"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2053160989781324286",
+        "created_at": "2026-05-09T17:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053160989781324286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1915622690653954048",
+              "start": 5,
+              "username": "dexy0306"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/45XfCGicTQ",
+              "end": 53,
+              "expanded_url": "https://x.com/LanziiLove/status/2053160989781324286/photo/1",
+              "media_key": "3_2053160977399681024",
+              "start": 30,
+              "url": "https://t.co/45XfCGicTQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053160989781324286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和我家然桑@dexy0306 一起带啊噗噜派到丹霞的山顶～ https://t.co/45XfCGicTQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！希望被称作She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23749,
+          "following_count": 1124,
+          "like_count": 2173,
+          "listed_count": 71,
+          "media_count": 417,
+          "tweet_count": 2147
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915673915411881988/qqYyNevC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 7,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 92
+        },
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1955518592226897992",
+    "created_at": "2025-08-14T11:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T12:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955952288494969163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1802297456065126400",
+          "start": 0,
+          "username": "awaso43378"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955952288494969163",
+    "in_reply_to_user_id": "1802297456065126400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955939442067431509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@awaso43378 谢谢w\n已经好多啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1955518592226897992",
+        "created_at": "2025-08-14T11:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T12:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955952288494969163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1802297456065126400",
+              "start": 0,
+              "username": "awaso43378"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955952288494969163",
+        "in_reply_to_user_id": "1802297456065126400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955939442067431509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@awaso43378 谢谢w\n已经好多啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802297456065126400",
+        "conversation_id": "1955518592226897992",
+        "created_at": "2025-08-14T10:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T11:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955939442067431509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955939442067431509",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955518592226897992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 怎么了嘛 是不开心嘛 🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年国产人类🇨🇳//X当朋友圈发 照片高P//男友@Dexy0306//一个除了高考674分以外没有任何过人之处的做题区//爱好 编曲&画画&3DCG//985大二计算机科学与技术 第二学位辅修数学//B站6.2万粉丝同名// 音乐&绘画作品 音乐平台&Pixiv@LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952297088974462977/bue5f0ca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17969,
+          "following_count": 883,
+          "like_count": 1036,
+          "listed_count": 45,
+          "media_count": 255,
+          "tweet_count": 1376
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-16T11:09:47.000Z",
+        "description": "高三生（谁说政史生好学的）//初次见面比较面瘫 熟了之后会发现其实是脑瘫//爱玩明日方舟 鸣潮 钢铁雄心四//羽毛球又菜又爱玩//听音乐听上瘾//",
+        "id": "1802297456065126400",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "云苓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945498525103456256/-c3IAppN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 1369,
+          "like_count": 4727,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1747
+        },
+        "username": "awaso43378",
+        "verified": false
+      }
+    ]
+  }
+}

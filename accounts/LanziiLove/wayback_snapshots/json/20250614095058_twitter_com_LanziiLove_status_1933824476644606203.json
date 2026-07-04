@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1933536613902282845",
+    "created_at": "2025-06-14T09:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T10:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933824476644606203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1738293024701214720",
+          "start": 0,
+          "username": "CheapNightbot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933824476644606203",
+    "in_reply_to_user_id": "1738293024701214720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933769525012598966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CheapNightbot 哇ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 206,
+        "media_key": "3_1933769521816612864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtYhInFbMAApYSJ.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1933536613902282845",
+        "created_at": "2025-06-14T09:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T10:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933824476644606203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1738293024701214720",
+              "start": 0,
+              "username": "CheapNightbot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933824476644606203",
+        "in_reply_to_user_id": "1738293024701214720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933769525012598966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CheapNightbot 哇ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933769521816612864"
+          ]
+        },
+        "author_id": "1738293024701214720",
+        "conversation_id": "1933536613902282845",
+        "created_at": "2025-06-14T06:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T07:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933769525012598966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JJ0oSgCTRz",
+              "end": 72,
+              "expanded_url": "https://x.com/CheapNightbot/status/1933769525012598966/photo/1",
+              "media_key": "3_1933769521816612864",
+              "start": 49,
+              "url": "https://t.co/JJ0oSgCTRz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933769525012598966",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933536613902282845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove got notification, 喵  (⁠´⁠⊙⁠ω⁠⊙⁠`⁠)⁠！ https://t.co/JJ0oSgCTRz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜不是女孩子也不是男娘 是雫基米星人喵！｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "dexy0306"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16928,
+          "following_count": 749,
+          "like_count": 731,
+          "listed_count": 44,
+          "media_count": 205,
+          "tweet_count": 1152
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T20:20:53.000Z",
+        "description": "⚠️ Archived ~ ヾ(≧へ≦)〃 | 🦋: https://t.co/6tfm9uCmgJ | DMs closed, use email provided in the GitHub profile to contact ↓(⁠๑⁠¯⁠◡⁠¯⁠๑⁠).",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/cheapn…",
+                "end": 50,
+                "expanded_url": "https://bsky.app/profile/cheapnightbot.bsky.social",
+                "start": 27,
+                "url": "https://t.co/6tfm9uCmgJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cheapnightbot.me",
+                "end": 23,
+                "expanded_url": "https://cheapnightbot.me",
+                "start": 0,
+                "url": "https://t.co/xtgOacHc0z"
+              }
+            ]
+          }
+        },
+        "id": "1738293024701214720",
+        "name": "Cheap Nightbot",
+        "pinned_tweet_id": "1865998659898548441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856075659040436224/m4VL07Dl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 94,
+          "like_count": 5424,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 366
+        },
+        "url": "https://t.co/xtgOacHc0z",
+        "username": "CheapNightbot",
+        "verified": false
+      }
+    ]
+  }
+}

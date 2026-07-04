@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2002778374515868149",
+    "created_at": "2025-12-21T17:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T18:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002788358330925189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1684992983970779138",
+          "start": 0,
+          "username": "Aragaki_Miharu"
+        },
+        {
+          "end": 25,
+          "id": "1915622690653954048",
+          "start": 16,
+          "username": "dexy0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002788358330925189",
+    "in_reply_to_user_id": "1684992983970779138",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002787968730493326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aragaki_Miharu @dexy0306 谢谢ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2002778374515868149",
+        "created_at": "2025-12-21T17:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T18:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002788358330925189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1684992983970779138",
+              "start": 0,
+              "username": "Aragaki_Miharu"
+            },
+            {
+              "end": 25,
+              "id": "1915622690653954048",
+              "start": 16,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002788358330925189",
+        "in_reply_to_user_id": "1684992983970779138",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002787968730493326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aragaki_Miharu @dexy0306 谢谢ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684992983970779138",
+        "conversation_id": "2002778374515868149",
+        "created_at": "2025-12-21T17:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T18:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002787968730493326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 21,
+              "id": "1915622690653954048",
+              "start": 12,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002787968730493326",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002778374515868149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @dexy0306 雫生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 非跨无药不是男娘是男的 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好编曲 画画 3DCG cos//985大二计算机科学与技术第二学位数学//B站6.6万粉丝同名//无差别block所有见证傻狗//音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 156,
+                "start": 145,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "世界和平☮️World Peace",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1946772875698110774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22377,
+          "following_count": 974,
+          "like_count": 1560,
+          "listed_count": 69,
+          "media_count": 347,
+          "tweet_count": 1741
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T18:23:38.000Z",
+        "description": "我是什么",
+        "id": "1684992983970779138",
+        "location": "梅尔赫尔",
+        "name": "晴.",
+        "pinned_tweet_id": "1709944157836607615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685158903636742144/2p5lQlfW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 269,
+          "like_count": 8004,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 569
+        },
+        "username": "Aragaki_Miharu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915673915411881988/qqYyNevC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 5,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 66
+        },
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

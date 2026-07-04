@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1952377641740448237",
+    "created_at": "2025-08-05T10:47:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T11:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952682786768507246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1310947830018772992",
+          "start": 0,
+          "username": "attackdogX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952682786768507246",
+    "in_reply_to_user_id": "1310947830018772992",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952377641740448237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@attackdogX ngl white pigs also look the same"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_1952377638250594304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxg9HitXwAAPT-D.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1952377641740448237",
+        "created_at": "2025-08-05T10:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T11:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952682786768507246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1310947830018772992",
+              "start": 0,
+              "username": "attackdogX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952682786768507246",
+        "in_reply_to_user_id": "1310947830018772992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952377641740448237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@attackdogX ngl white pigs also look the same"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952377638250594304"
+          ]
+        },
+        "author_id": "1310947830018772992",
+        "conversation_id": "1952377641740448237",
+        "created_at": "2025-08-04T14:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T15:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952377641740448237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m2LgvKhOJN",
+              "end": 62,
+              "expanded_url": "https://x.com/attackdogX/status/1952377641740448237/photo/1",
+              "media_key": "3_1952377638250594304",
+              "start": 39,
+              "url": "https://t.co/m2LgvKhOJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952377641740448237",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 711,
+          "impression_count": 609622,
+          "like_count": 10665,
+          "quote_count": 38,
+          "reply_count": 95,
+          "retweet_count": 522
+        },
+        "reply_settings": "everyone",
+        "text": "I love my Asian friends, but this is 🤣 https://t.co/m2LgvKhOJN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "一个人类 // SNS当朋友圈发 照片高P // 男友@Dexy0306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952297088974462977/bue5f0ca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17933,
+          "following_count": 865,
+          "like_count": 986,
+          "listed_count": 45,
+          "media_count": 248,
+          "tweet_count": 1336
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-29T14:21:47.000Z",
+        "description": "Death by 2 viral tweets. married Conservative Bitch, chronic roaster. God bless our Veterans 🙏🇺🇸 MAGA, Jesus is King",
+        "id": "1310947830018772992",
+        "location": "CAT 5",
+        "name": "Mrs B",
+        "pinned_tweet_id": "1853803526733861268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868629274464337920/4mZqeKtT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66413,
+          "following_count": 42388,
+          "like_count": 333909,
+          "listed_count": 43,
+          "media_count": 20723,
+          "tweet_count": 254876
+        },
+        "username": "attackdogX",
+        "verified": true
+      }
+    ]
+  }
+}

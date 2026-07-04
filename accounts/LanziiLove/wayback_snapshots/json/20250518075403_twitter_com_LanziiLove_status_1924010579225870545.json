@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1923789763557064743",
+    "created_at": "2025-05-18T07:54:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T08:54:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924010579225870545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1731999601706840064",
+          "start": 0,
+          "username": "li1561750899"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924010579225870545",
+    "in_reply_to_user_id": "1731999601706840064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924009389372866630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li1561750899 不是我 我男友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1923789763557064743",
+        "created_at": "2025-05-18T07:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T08:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924010579225870545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1731999601706840064",
+              "start": 0,
+              "username": "li1561750899"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924010579225870545",
+        "in_reply_to_user_id": "1731999601706840064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924009389372866630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li1561750899 不是我 我男友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731999601706840064",
+        "conversation_id": "1923789763557064743",
+        "created_at": "2025-05-18T07:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T08:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924009389372866630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924009389372866630",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923789763557064743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 不是，牢雫你几把这么粗吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "19岁 不含🍬🇨🇳男娘 可以叫咱小雫哦w｜已有男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜理智爱国 不见证 ｜纯清水 无黄无福利 不接任何业务 私信骚扰的等着挨骂吧｜无门槛 同好可酌情扩列｜备用小号@hosh1no_sh1zuku｜全网同名 只有B站/X/抖音有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "dexy0306"
+              },
+              {
+                "end": 124,
+                "start": 108,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14609,
+          "following_count": 719,
+          "like_count": 426,
+          "listed_count": 39,
+          "media_count": 165,
+          "tweet_count": 761
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T11:31:10.000Z",
+        "description": "。",
+        "id": "1731999601706840064",
+        "location": "Los Angeles, CA",
+        "name": "li",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885917165867728896/-8OCDqeH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 527,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 94
+        },
+        "username": "li1561750899",
+        "verified": false
+      }
+    ]
+  }
+}

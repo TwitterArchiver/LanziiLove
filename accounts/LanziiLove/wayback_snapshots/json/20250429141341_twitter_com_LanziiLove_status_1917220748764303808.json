@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917220730389057536",
+        "3_1917220730397483008"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1917220748764303808",
+    "created_at": "2025-04-29T14:13:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T15:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917220748764303808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1915622690653954048",
+          "start": 4,
+          "username": "dexy0306"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cHFbXIcnJR",
+          "end": 70,
+          "expanded_url": "https://x.com/LanziiLove/status/1917220748764303808/photo/1",
+          "media_key": "3_1917220730389057536",
+          "start": 47,
+          "url": "https://t.co/cHFbXIcnJR"
+        },
+        {
+          "display_url": "pic.x.com/cHFbXIcnJR",
+          "end": 70,
+          "expanded_url": "https://x.com/LanziiLove/status/1917220748764303808/photo/1",
+          "media_key": "3_1917220730397483008",
+          "start": 47,
+          "url": "https://t.co/cHFbXIcnJR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917220748764303808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "然然老公@dexy0306 100fo了\n是不是应该让他发点什么～w\n\n比如——丝袜美腿照？ https://t.co/cHFbXIcnJR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1288,
+        "media_key": "3_1917220730389057536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GptWGK7a0AAs9YA.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1243,
+        "media_key": "3_1917220730397483008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GptWGK9bYAAECGA.jpg",
+        "width": 1384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917220730389057536",
+            "3_1917220730397483008"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1917220748764303808",
+        "created_at": "2025-04-29T14:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T15:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917220748764303808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1915622690653954048",
+              "start": 4,
+              "username": "dexy0306"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cHFbXIcnJR",
+              "end": 70,
+              "expanded_url": "https://x.com/LanziiLove/status/1917220748764303808/photo/1",
+              "media_key": "3_1917220730389057536",
+              "start": 47,
+              "url": "https://t.co/cHFbXIcnJR"
+            },
+            {
+              "display_url": "pic.x.com/cHFbXIcnJR",
+              "end": 70,
+              "expanded_url": "https://x.com/LanziiLove/status/1917220748764303808/photo/1",
+              "media_key": "3_1917220730397483008",
+              "start": 47,
+              "url": "https://t.co/cHFbXIcnJR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917220748764303808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "然然老公@dexy0306 100fo了\n是不是应该让他发点什么～w\n\n比如——丝袜美腿照？ https://t.co/cHFbXIcnJR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "dexy0306"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11826,
+          "following_count": 712,
+          "like_count": 321,
+          "listed_count": 30,
+          "media_count": 126,
+          "tweet_count": 552
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915673915411881988/qqYyNevC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 1,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 10
+        },
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

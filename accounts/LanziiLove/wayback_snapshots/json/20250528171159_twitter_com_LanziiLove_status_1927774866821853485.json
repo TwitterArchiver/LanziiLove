@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1927658391067078945",
+    "created_at": "2025-05-28T17:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T18:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927774866821853485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1884519981527998464",
+          "start": 0,
+          "username": "MiaoSi38160"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927774866821853485",
+    "in_reply_to_user_id": "1884519981527998464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927770811961577772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiaoSi38160 谢谢！៸៸᳐&gt;⩊&lt;៸៸᳐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1927658391067078945",
+        "created_at": "2025-05-28T17:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T18:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927774866821853485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1884519981527998464",
+              "start": 0,
+              "username": "MiaoSi38160"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927774866821853485",
+        "in_reply_to_user_id": "1884519981527998464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927770811961577772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiaoSi38160 谢谢！៸៸᳐&gt;⩊&lt;៸៸᳐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884519981527998464",
+        "conversation_id": "1927658391067078945",
+        "created_at": "2025-05-28T16:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T17:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927770811961577772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927770811961577772",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927658391067078945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 可爱🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜ 是雫基米星人喵 来自🇨🇳成都｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "dexy0306"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨（LanziiLove）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15588,
+          "following_count": 724,
+          "like_count": 587,
+          "listed_count": 44,
+          "media_count": 181,
+          "tweet_count": 965
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T08:32:49.000Z",
+        "description": "🇨🇳/19/大学在读/男/ 女装  Cosplay只是业余爱好/是喜欢打战争雷霆  瓦 明日方舟/不定期上X/日常喜欢涩涩/喜欢可爱的事物和人😊   老婆：@VeranellDukas（小男娘想扩列可以私信捏）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "VeranellDukas"
+              }
+            ]
+          }
+        },
+        "id": "1884519981527998464",
+        "location": "罗德岛剑桥",
+        "name": "低温无糖可口可乐ヾ( ･`⌓´･)ﾉﾞ",
+        "pinned_tweet_id": "1923738490598195327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915788358250606592/e8GbylTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 379,
+          "like_count": 4460,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 1453
+        },
+        "username": "MiaoSi38160",
+        "verified": false
+      }
+    ]
+  }
+}

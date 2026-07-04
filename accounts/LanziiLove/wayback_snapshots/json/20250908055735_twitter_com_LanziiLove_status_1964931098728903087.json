@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1964929928060928000"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1964931098728903087",
+    "created_at": "2025-09-08T05:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T06:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964931098728903087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1915622690653954048",
+          "start": 8,
+          "username": "dexy0306"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UCBn3YirtS",
+          "end": 54,
+          "expanded_url": "https://x.com/LanziiLove/status/1964931098728903087/video/1",
+          "media_key": "13_1964929928060928000",
+          "start": 31,
+          "url": "https://t.co/UCBn3YirtS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964931098728903087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "穿白丝旗袍和然然@dexy0306 一起去吃日式和牛放题烧肉 https://t.co/UCBn3YirtS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 224000,
+        "height": 712,
+        "media_key": "13_1964929928060928000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1964929928060928000/img/eUlcb9Kn0qNfqHfz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964929928060928000/vid/avc1/484x270/Lab7p_5QoOC9yGt5.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964929928060928000/vid/avc1/646x360/D8g6AmEdL1yBs2Nm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964929928060928000/vid/avc1/1280x712/2UTOzVk8wAy684m3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1964929928060928000/pl/pR_TMKsgo991luTl.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1964929928060928000"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1964931098728903087",
+        "created_at": "2025-09-08T05:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T06:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964931098728903087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1915622690653954048",
+              "start": 8,
+              "username": "dexy0306"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UCBn3YirtS",
+              "end": 54,
+              "expanded_url": "https://x.com/LanziiLove/status/1964931098728903087/video/1",
+              "media_key": "13_1964929928060928000",
+              "start": 31,
+              "url": "https://t.co/UCBn3YirtS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964931098728903087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "穿白丝旗袍和然然@dexy0306 一起去吃日式和牛放题烧肉 https://t.co/UCBn3YirtS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年国产人类🇨🇳//X当朋友圈发 照片高P//男友@Dexy0306//一个除了高考674分以外没有任何过人之处的做题区//爱好 编曲&画画&3DCG//985大二计算机科学与技术 第二学位辅修数学//B站6.2万粉丝同名// 音乐&绘画作品 音乐平台&Pixiv@LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962507406770155521/giP0winc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17998,
+          "following_count": 891,
+          "like_count": 1101,
+          "listed_count": 45,
+          "media_count": 276,
+          "tweet_count": 1422
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915673915411881988/qqYyNevC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 3,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 38
+        },
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

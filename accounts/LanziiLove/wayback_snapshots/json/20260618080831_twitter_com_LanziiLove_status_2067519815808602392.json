@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2067519815808602392",
+    "created_at": "2026-06-18T08:08:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:08:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067519815808602392"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067519815808602392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我会好好的\n\n以后不会再让任何在乎我的人担心\n\n也不会再让任何人感到冒犯\n\n我会控制好我的情绪\n\n对不起\n\n但我也会好好的\n\n大家不用担心\n\n谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2067519815808602392",
+        "created_at": "2026-06-18T08:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067519815808602392"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067519815808602392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我会好好的\n\n以后不会再让任何在乎我的人担心\n\n也不会再让任何人感到冒犯\n\n我会控制好我的情绪\n\n对不起\n\n但我也会好好的\n\n大家不用担心\n\n谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "",
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25663,
+          "following_count": 1268,
+          "like_count": 3158,
+          "listed_count": 79,
+          "media_count": 447,
+          "tweet_count": 2748
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

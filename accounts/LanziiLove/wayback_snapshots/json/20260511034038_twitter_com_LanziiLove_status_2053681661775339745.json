@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2053662944756683035",
+    "created_at": "2026-05-11T03:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T04:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053681661775339745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "779338919859019776",
+          "start": 0,
+          "username": "recycleXu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053681661775339745",
+    "in_reply_to_user_id": "779338919859019776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053675098440401271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@recycleXu 但确实有点难（\n主要是在学校里没有第三卫/无性别卫确实没办法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2053662944756683035",
+        "created_at": "2026-05-11T03:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053681661775339745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "779338919859019776",
+              "start": 0,
+              "username": "recycleXu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053681661775339745",
+        "in_reply_to_user_id": "779338919859019776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053675098440401271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@recycleXu 但确实有点难（\n主要是在学校里没有第三卫/无性别卫确实没办法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "779338919859019776",
+        "conversation_id": "2053662944756683035",
+        "created_at": "2026-05-11T03:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053675098440401271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053675098440401271",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053662944756683035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 我经常告诉我家那位：“你得确保自己素颜男装也像个男的，才能不吓到任何人，而不是只是换了身男装。”\n不然这种事情以后不少。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！希望被称作She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23797,
+          "following_count": 1133,
+          "like_count": 2217,
+          "listed_count": 73,
+          "media_count": 420,
+          "tweet_count": 2168
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-23T15:17:32.000Z",
+        "description": "这里是老熊，极地森林的团长兼职策划。有事&合作请私聊。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ps2cpc.site",
+                "end": 23,
+                "expanded_url": "https://ps2cpc.site/",
+                "start": 0,
+                "url": "https://t.co/hSZRfSILXA"
+              }
+            ]
+          }
+        },
+        "id": "779338919859019776",
+        "location": "熊心山，冰海群岛",
+        "name": "茶馆老熊🍵🍃",
+        "pinned_tweet_id": "1950142826555035752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044141566479216640/uvZSuPk-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 576,
+          "like_count": 5435,
+          "listed_count": 2,
+          "media_count": 335,
+          "tweet_count": 3672
+        },
+        "url": "https://t.co/hSZRfSILXA",
+        "username": "recycleXu",
+        "verified": false
+      }
+    ]
+  }
+}

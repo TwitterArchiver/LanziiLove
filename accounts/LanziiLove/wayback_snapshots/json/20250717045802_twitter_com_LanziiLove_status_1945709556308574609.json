@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1945657204754829690",
+    "created_at": "2025-07-17T04:58:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T05:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945709556308574609"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1945709556308574609",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945657204754829690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "X压音质太严重了 宝子们可以到B站/网易云/QQ音乐听"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 335680,
+        "height": 720,
+        "media_key": "13_1945604036717170688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1945604036717170688/img/O0rNujSkk6zgj86K.jpg",
+        "public_metrics": {
+          "view_count": 205
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945604036717170688/vid/avc1/480x270/a_if9yvAiySkS8f3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945604036717170688/vid/avc1/640x360/5cmOqOVfOJPf6n0-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945604036717170688/vid/avc1/1280x720/wR1DFsjf9If2PgkN.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1945604036717170688/pl/kTbq-8k-VV00d_pD.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1945657204754829690",
+        "created_at": "2025-07-17T04:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T05:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945709556308574609"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945709556308574609",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945657204754829690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "X压音质太严重了 宝子们可以到B站/网易云/QQ音乐听"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1945604036717170688"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Electronic",
+              "id": "849684313704611840",
+              "name": "Electronic music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1219712196600418304",
+              "name": "House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1285999703704743938",
+              "name": "Dance & electronic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1219712196600418304",
+              "name": "House"
+            }
+          }
+        ],
+        "conversation_id": "1945657204754829690",
+        "created_at": "2025-07-17T01:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T02:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945657204754829690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 135,
+              "id": "1915622690653954048",
+              "start": 126,
+              "username": "dexy0306"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YIDRKVprHW",
+              "end": 228,
+              "expanded_url": "https://x.com/LanziiLove/status/1945657204754829690/video/1",
+              "media_key": "13_1945604036717170688",
+              "start": 205,
+              "url": "https://t.co/YIDRKVprHW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945657204754829690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 626,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【自己编曲+作词+演唱给然桑写了一首歌w❤】\n《All I See Is You - LanziiLove(aka.星野雫)》\nGenre：EDM Progressive House\nThis song dedicated to my beloved.@dexy0306 \n谨以此曲 献给我的所爱之人\n\nPS：各大音乐平台搜索我“LanziiLove”的最新专辑《All I See Is You》即可收听！ https://t.co/YIDRKVprHW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "dexy0306"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17807,
+          "following_count": 839,
+          "like_count": 898,
+          "listed_count": 46,
+          "media_count": 229,
+          "tweet_count": 1290
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056773609906147328",
+        "3_2056773609910362112",
+        "3_2056773609910374401"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2056773624150044883",
+    "created_at": "2026-05-19T16:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056773624150044883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 66,
+          "id": "1915622690653954048",
+          "start": 57,
+          "username": "dexy0306"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y3meMcCEfK",
+          "end": 141,
+          "expanded_url": "https://x.com/LanziiLove/status/2056773624150044883/photo/1",
+          "media_key": "3_2056773609906147328",
+          "start": 118,
+          "url": "https://t.co/Y3meMcCEfK"
+        },
+        {
+          "display_url": "pic.x.com/Y3meMcCEfK",
+          "end": 141,
+          "expanded_url": "https://x.com/LanziiLove/status/2056773624150044883/photo/1",
+          "media_key": "3_2056773609910362112",
+          "start": 118,
+          "url": "https://t.co/Y3meMcCEfK"
+        },
+        {
+          "display_url": "pic.x.com/Y3meMcCEfK",
+          "end": 141,
+          "expanded_url": "https://x.com/LanziiLove/status/2056773624150044883/photo/1",
+          "media_key": "3_2056773609910374401",
+          "start": 118,
+          "url": "https://t.co/Y3meMcCEfK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056773624150044883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "following",
+    "text": "2025.7成都➡️2026.1长沙➡️2026.5兰州\n\n再下一次520时 我们就不再是异地了\n\n我永远爱你❤️@dexy0306 \n\n最近发生了很多事 谢谢有你始终陪着我\n\n同时也感谢一直陪伴我鼓励我的推友 祝大家都能生活幸福顺利 https://t.co/Y3meMcCEfK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2056773609906147328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsgs3HakAA6ZWv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1146,
+        "media_key": "3_2056773609910362112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsgs3Ia4AAxsGP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1160,
+        "media_key": "3_2056773609910374401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsgs3IbEAE2-4_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056773609906147328",
+            "3_2056773609910362112",
+            "3_2056773609910374401"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2056773624150044883",
+        "created_at": "2026-05-19T16:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056773624150044883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 66,
+              "id": "1915622690653954048",
+              "start": 57,
+              "username": "dexy0306"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y3meMcCEfK",
+              "end": 141,
+              "expanded_url": "https://x.com/LanziiLove/status/2056773624150044883/photo/1",
+              "media_key": "3_2056773609906147328",
+              "start": 118,
+              "url": "https://t.co/Y3meMcCEfK"
+            },
+            {
+              "display_url": "pic.x.com/Y3meMcCEfK",
+              "end": 141,
+              "expanded_url": "https://x.com/LanziiLove/status/2056773624150044883/photo/1",
+              "media_key": "3_2056773609910362112",
+              "start": 118,
+              "url": "https://t.co/Y3meMcCEfK"
+            },
+            {
+              "display_url": "pic.x.com/Y3meMcCEfK",
+              "end": 141,
+              "expanded_url": "https://x.com/LanziiLove/status/2056773624150044883/photo/1",
+              "media_key": "3_2056773609910374401",
+              "start": 118,
+              "url": "https://t.co/Y3meMcCEfK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056773624150044883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "2025.7成都➡️2026.1长沙➡️2026.5兰州\n\n再下一次520时 我们就不再是异地了\n\n我永远爱你❤️@dexy0306 \n\n最近发生了很多事 谢谢有你始终陪着我\n\n同时也感谢一直陪伴我鼓励我的推友 祝大家都能生活幸福顺利 https://t.co/Y3meMcCEfK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku（tg上的是骗子⚠️）",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24469,
+          "following_count": 1178,
+          "like_count": 2467,
+          "listed_count": 75,
+          "media_count": 433,
+          "tweet_count": 2329
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915673915411881988/qqYyNevC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 7,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 92
+        },
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

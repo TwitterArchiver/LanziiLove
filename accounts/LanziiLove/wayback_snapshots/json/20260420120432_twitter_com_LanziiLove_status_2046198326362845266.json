@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2046198326362845266",
+    "created_at": "2026-04-20T12:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T13:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046198326362845266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lanziilove/sta…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/lanziilove/status/1994637461843317173",
+          "start": 57,
+          "url": "https://t.co/SoxNxeiVbG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046198326362845266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994637461843317173",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这张图挂置顶了就没管了才发现流量居然那么高（\n而且居然有好几个语言区的评论\n舟的流量还是高 等有钱了多出点cos https://t.co/SoxNxeiVbG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994637453542690816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G65gMioaEAA8Q4z.jpg",
+        "width": 1146
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2046198326362845266",
+        "created_at": "2026-04-20T12:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046198326362845266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/lanziilove/status/1994637461843317173",
+              "start": 57,
+              "url": "https://t.co/SoxNxeiVbG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046198326362845266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994637461843317173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这张图挂置顶了就没管了才发现流量居然那么高（\n而且居然有好几个语言区的评论\n舟的流量还是高 等有钱了多出点cos https://t.co/SoxNxeiVbG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994637453542690816"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1994637461843317173",
+        "created_at": "2025-11-29T05:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994637461843317173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/33fwSZofSc",
+              "end": 23,
+              "expanded_url": "https://x.com/LanziiLove/status/1994637461843317173/photo/1",
+              "media_key": "3_1994637453542690816",
+              "start": 0,
+              "url": "https://t.co/33fwSZofSc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994637461843317173",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1121,
+          "impression_count": 271041,
+          "like_count": 9535,
+          "quote_count": 7,
+          "reply_count": 47,
+          "retweet_count": 339
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/33fwSZofSc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫✨平时喜欢打打游戏玩玩cos发照片编曲画画写代码💻账号纯绿日常向🏠已经有对象啦 我终生的爱人然然@dexy0306❤️B站6.7w粉同名的是我本人😉评论区混眼熟了会回fo 🥳 祝你生活愉快～☀️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 58,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22120,
+          "following_count": 1024,
+          "like_count": 1888,
+          "listed_count": 64,
+          "media_count": 387,
+          "tweet_count": 1988
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

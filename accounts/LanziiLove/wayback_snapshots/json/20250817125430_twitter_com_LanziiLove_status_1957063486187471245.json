@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1957052025151353278",
+    "created_at": "2025-08-17T12:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T13:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957063486187471245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1678688720126627841",
+          "start": 0,
+          "username": "xianjing_youhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957063486187471245",
+    "in_reply_to_user_id": "1678688720126627841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957052025151353278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xianjing_youhu 其实是因为赛季初 大家段位都重置了hhh\n上赛季钻这赛季直接定成青铜\n现在在黄金和大师哥互殴（x）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1957052016775307265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyjYcLraoAELrBJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1957052025151353278",
+        "created_at": "2025-08-17T12:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T13:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957063486187471245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1678688720126627841",
+              "start": 0,
+              "username": "xianjing_youhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957063486187471245",
+        "in_reply_to_user_id": "1678688720126627841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957052025151353278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xianjing_youhu 其实是因为赛季初 大家段位都重置了hhh\n上赛季钻这赛季直接定成青铜\n现在在黄金和大师哥互殴（x）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957052016775307265"
+          ]
+        },
+        "author_id": "1678688720126627841",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1957052025151353278",
+        "created_at": "2025-08-17T12:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T13:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957052025151353278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nmIoEqXwPL",
+              "end": 69,
+              "expanded_url": "https://x.com/xianjing_youhu/status/1957052025151353278/photo/1",
+              "media_key": "3_1957052016775307265",
+              "start": 46,
+              "url": "https://t.co/nmIoEqXwPL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957052025151353278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个赛季疑似有点强度了\n白银感觉没以前那种纯真的感觉了（x\n上个赛季还能和对象打个立锤（） https://t.co/nmIoEqXwPL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年国产人类🇨🇳//X当朋友圈发 照片高P//男友@Dexy0306//一个除了高考674分以外没有任何过人之处的做题区//爱好 编曲&画画&3DCG//985大二计算机科学与技术 第二学位辅修数学//B站6.2万粉丝同名// 音乐&绘画作品 音乐平台&Pixiv@LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952297088974462977/bue5f0ca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17964,
+          "following_count": 886,
+          "like_count": 1054,
+          "listed_count": 46,
+          "media_count": 258,
+          "tweet_count": 1388
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T08:53:09.000Z",
+        "description": "可以叫我狐狐喵〜 | 07.02.22 | INFJ | HRT 24.10.10- | JLPT N1 | 长居 上海 重庆 东京 | 泛性恋 | 术力口 | 火车迷 飞友 交通吃 | 想要变得可爱 | 喜欢涩涩 | 求fo喵(⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ⁠♡ | ♥️ @hcrk862",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 137,
+                "username": "hcrk862"
+              }
+            ]
+          }
+        },
+        "id": "1678688720126627841",
+        "name": "仙境幽狐🍦🐧",
+        "pinned_tweet_id": "1935324322262040712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945393296508846080/SqD1ggeD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 854,
+          "like_count": 19746,
+          "listed_count": 2,
+          "media_count": 974,
+          "tweet_count": 2734
+        },
+        "username": "xianjing_youhu",
+        "verified": false
+      }
+    ]
+  }
+}

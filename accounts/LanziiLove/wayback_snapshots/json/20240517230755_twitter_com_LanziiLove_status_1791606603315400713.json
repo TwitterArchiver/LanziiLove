@@ -1,0 +1,612 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1787675005830205440"
+      ],
+      "media_source_tweet_id": [
+        "1787678784780742841"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1234945774347112448",
+          "name": "VALORANT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1234945774347112448",
+          "name": "VALORANT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898252936970260",
+          "name": "Free-to-play games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Two of the best teams in the world will fight to become the 2023 VALORANT Champions. #VALORANTChampions",
+          "id": "1694474463650230272",
+          "name": "VALORANT Champions 2023"
+        }
+      }
+    ],
+    "conversation_id": "1791606603315400713",
+    "created_at": "2024-05-17T23:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-18T00:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791606603315400713"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 45,
+          "tag": "VALORANT"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "759459947344175104",
+          "start": 3,
+          "username": "ValorantUpdated"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/taEicSXLcH",
+          "end": 44,
+          "expanded_url": "https://twitter.com/AoShylt/status/1787678784780742841/video/1",
+          "media_key": "7_1787675005830205440",
+          "start": 21,
+          "url": "https://t.co/taEicSXLcH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791606603315400713",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791546491699441852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ValorantUpdated: https://t.co/taEicSXLcH\n#VALORANT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17100,
+        "height": 1502,
+        "media_key": "7_1787675005830205440",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1787675005830205440/pu/img/afXwzSavyzo8Yr47.jpg",
+        "public_metrics": {
+          "view_count": 201261
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1787675005830205440/pu/vid/avc1/320x444/u7TNgEL8nIenDsBc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1787675005830205440/pu/vid/avc1/480x666/Psdgbb8VtTX6mGlD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1787675005830205440/pu/vid/avc1/720x1000/ooW-KZEM0s6njTBo.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1787675005830205440/pu/pl/qIxHl2TEMf05X_C5.m3u8?tag=12&container=cmaf"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1787675005830205440"
+          ],
+          "media_source_tweet_id": [
+            "1787678784780742841"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Two of the best teams in the world will fight to become the 2023 VALORANT Champions. #VALORANTChampions",
+              "id": "1694474463650230272",
+              "name": "VALORANT Champions 2023"
+            }
+          }
+        ],
+        "conversation_id": "1791606603315400713",
+        "created_at": "2024-05-17T23:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T00:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791606603315400713"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 45,
+              "tag": "VALORANT"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "759459947344175104",
+              "start": 3,
+              "username": "ValorantUpdated"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/taEicSXLcH",
+              "end": 44,
+              "expanded_url": "https://twitter.com/AoShylt/status/1787678784780742841/video/1",
+              "media_key": "7_1787675005830205440",
+              "start": 21,
+              "url": "https://t.co/taEicSXLcH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791606603315400713",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791546491699441852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ValorantUpdated: https://t.co/taEicSXLcH\n#VALORANT"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1787675005830205440"
+          ],
+          "media_source_tweet_id": [
+            "1787678784780742841"
+          ]
+        },
+        "author_id": "759459947344175104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Two of the best teams in the world will fight to become the 2023 VALORANT Champions. #VALORANTChampions",
+              "id": "1694474463650230272",
+              "name": "VALORANT Champions 2023"
+            }
+          }
+        ],
+        "conversation_id": "1791546491699441852",
+        "created_at": "2024-05-17T19:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T20:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791546491699441852"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 24,
+              "tag": "VALORANT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/taEicSXLcH",
+              "end": 23,
+              "expanded_url": "https://twitter.com/AoShylt/status/1787678784780742841/video/1",
+              "media_key": "7_1787675005830205440",
+              "start": 0,
+              "url": "https://t.co/taEicSXLcH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791546491699441852",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 442,
+          "impression_count": 79029,
+          "like_count": 764,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/taEicSXLcH\n#VALORANT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "My Music Works♪：Spotify/SoundCloud/Youtube @LanziiLove My Illustrations：Pixiv/Twitter @LanziiLove 中文母语 English Mastered 日本語を勉強している",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "LanziiLove"
+              },
+              {
+                "end": 97,
+                "start": 86,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "映鏡R3-DMPT",
+        "name": "ランジーロブ",
+        "pinned_tweet_id": "1773369407219040626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756276667683889152/T34jRFSA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 66,
+          "like_count": 260,
+          "listed_count": 0,
+          "tweet_count": 175
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-30T18:45:36.000Z",
+        "description": "Updated Valorant News, Guides, Leaks, and everything in between for your entertainment and enjoyment. Feel free to contact us for promotional opportunities.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "esportsdriven.com",
+                "end": 23,
+                "expanded_url": "https://esportsdriven.com",
+                "start": 0,
+                "url": "https://t.co/qnKi4Ji608"
+              }
+            ]
+          }
+        },
+        "id": "759459947344175104",
+        "location": "United States",
+        "name": "Valorant Updates",
+        "pinned_tweet_id": "1742290465955963127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673765462751191041/5XUiT2E8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517560,
+          "following_count": 172,
+          "like_count": 255,
+          "listed_count": 810,
+          "tweet_count": 5194
+        },
+        "url": "https://t.co/qnKi4Ji608",
+        "username": "ValorantUpdated",
+        "verified": true
+      }
+    ]
+  }
+}

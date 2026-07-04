@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1929914963315044634",
+    "created_at": "2025-06-05T13:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T14:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930625486687965297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1846501727392215040",
+          "start": 0,
+          "username": "DYaoshi13257"
+        },
+        {
+          "end": 25,
+          "id": "1318091051312193537",
+          "start": 14,
+          "username": "ookamiriru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930625486687965297",
+    "in_reply_to_user_id": "1846501727392215040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930622343128211907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DYaoshi13257 @ookamiriru 三脚猫N5级别塑料日语qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1929914963315044634",
+        "created_at": "2025-06-05T13:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T14:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930625486687965297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1846501727392215040",
+              "start": 0,
+              "username": "DYaoshi13257"
+            },
+            {
+              "end": 25,
+              "id": "1318091051312193537",
+              "start": 14,
+              "username": "ookamiriru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930625486687965297",
+        "in_reply_to_user_id": "1846501727392215040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930622343128211907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DYaoshi13257 @ookamiriru 三脚猫N5级别塑料日语qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846501727392215040",
+        "conversation_id": "1929914963315044634",
+        "created_at": "2025-06-05T13:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T14:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930622343128211907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 23,
+              "id": "1318091051312193537",
+              "start": 12,
+              "username": "ookamiriru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930622343128211907",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929918881415737462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @ookamiriru 楼主还会日文吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜不是女孩子也不是男娘 是雫基米星人喵！｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "dexy0306"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16735,
+          "following_count": 737,
+          "like_count": 697,
+          "listed_count": 44,
+          "media_count": 193,
+          "tweet_count": 1106
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T10:41:45.000Z",
+        "description": "",
+        "id": "1846501727392215040",
+        "name": "dou yaoshi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911309117416751105/ESooQkdj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 64,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "DYaoshi13257",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-19T07:26:17.000Z",
+        "description": "狼 \n画画 \nFANBOX : https://t.co/jEFA45cQaJ Skeb : https://t.co/fUCn22s3VA \n連絡先 ✉️ ookamiriru@gmail.com \n無断転載、AI学習禁止",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fanbox.cc/@ookamiriru",
+                "end": 39,
+                "expanded_url": "http://fanbox.cc/@ookamiriru",
+                "start": 16,
+                "url": "https://t.co/jEFA45cQaJ"
+              },
+              {
+                "display_url": "skeb.jp/@ookamiriru",
+                "end": 70,
+                "expanded_url": "http://skeb.jp/@ookamiriru",
+                "start": 47,
+                "url": "https://t.co/fUCn22s3VA"
+              }
+            ]
+          }
+        },
+        "id": "1318091051312193537",
+        "name": "りる。🐺",
+        "pinned_tweet_id": "1929914963315044634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866019779762638848/VhhaACg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107161,
+          "following_count": 863,
+          "like_count": 6850,
+          "listed_count": 777,
+          "media_count": 84,
+          "tweet_count": 5919
+        },
+        "username": "ookamiriru",
+        "verified": true
+      }
+    ]
+  }
+}

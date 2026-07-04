@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050790894543241216",
+        "3_2050790894266421248"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2050790904877973701",
+    "created_at": "2026-05-03T04:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T05:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050790904877973701"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kYtBKW5t7x",
+          "end": 29,
+          "expanded_url": "https://x.com/LanziiLove/status/2050790904877973701/photo/1",
+          "media_key": "3_2050790894543241216",
+          "start": 6,
+          "url": "https://t.co/kYtBKW5t7x"
+        },
+        {
+          "display_url": "pic.x.com/kYtBKW5t7x",
+          "end": 29,
+          "expanded_url": "https://x.com/LanziiLove/status/2050790904877973701/photo/1",
+          "media_key": "3_2050790894266421248",
+          "start": 6,
+          "url": "https://t.co/kYtBKW5t7x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050790904877973701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "依旧优衣库 https://t.co/kYtBKW5t7x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050790894543241216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXfc_nbAAAqH2e.jpg",
+        "width": 1168
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050790894266421248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXfc-lbEAAOGRe.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050790894543241216",
+            "3_2050790894266421248"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2050790904877973701",
+        "created_at": "2026-05-03T04:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T05:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050790904877973701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kYtBKW5t7x",
+              "end": 29,
+              "expanded_url": "https://x.com/LanziiLove/status/2050790904877973701/photo/1",
+              "media_key": "3_2050790894543241216",
+              "start": 6,
+              "url": "https://t.co/kYtBKW5t7x"
+            },
+            {
+              "display_url": "pic.x.com/kYtBKW5t7x",
+              "end": 29,
+              "expanded_url": "https://x.com/LanziiLove/status/2050790904877973701/photo/1",
+              "media_key": "3_2050790894266421248",
+              "start": 6,
+              "url": "https://t.co/kYtBKW5t7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050790904877973701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧优衣库 https://t.co/kYtBKW5t7x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！希望被称作She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意平台公益捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23002,
+          "following_count": 1065,
+          "like_count": 2045,
+          "listed_count": 68,
+          "media_count": 407,
+          "tweet_count": 2095
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

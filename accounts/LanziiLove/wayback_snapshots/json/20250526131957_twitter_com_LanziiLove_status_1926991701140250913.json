@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1926987836332412963",
+    "created_at": "2025-05-26T13:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T14:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926991701140250913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1664619442905677830",
+          "start": 0,
+          "username": "9dthwbmb95259"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926991701140250913",
+    "in_reply_to_user_id": "1664619442905677830",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926989501127073881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9dthwbmb95259 どうもありがとうございました！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1926987836332412963",
+        "created_at": "2025-05-26T13:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T14:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926991701140250913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1664619442905677830",
+              "start": 0,
+              "username": "9dthwbmb95259"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926991701140250913",
+        "in_reply_to_user_id": "1664619442905677830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926989501127073881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9dthwbmb95259 どうもありがとうございました！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664619442905677830",
+        "conversation_id": "1926987836332412963",
+        "created_at": "2025-05-26T13:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T14:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926989501127073881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926989501127073881",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926987836332412963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 我相信雫一定可以的！\n虽然生活中会遇到各种各样的事情，但请一定要坚持下去。\n你已经很棒了，接下来也请继续加油，我会一直支持你的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁 来自🇨🇳成都｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和拍可爱的照片！喜欢各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "dexy0306"
+              },
+              {
+                "end": 122,
+                "start": 106,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15508,
+          "following_count": 725,
+          "like_count": 526,
+          "listed_count": 42,
+          "media_count": 177,
+          "tweet_count": 902
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T13:06:29.000Z",
+        "description": "校内治安維持部員",
+        "id": "1664619442905677830",
+        "name": "レイ_9d",
+        "pinned_tweet_id": "1792911545589977418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1692692342053220352/0KlagTjY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 133,
+          "like_count": 3911,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 823
+        },
+        "username": "9dthwbmb95259",
+        "verified": false
+      }
+    ]
+  }
+}

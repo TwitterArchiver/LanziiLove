@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953721514102337536"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1953721524273467761",
+    "created_at": "2025-08-08T07:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T08:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953721524273467761"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F30mJACE5t",
+          "end": 27,
+          "expanded_url": "https://x.com/LanziiLove/status/1953721524273467761/photo/1",
+          "media_key": "3_1953721514102337536",
+          "start": 4,
+          "url": "https://t.co/F30mJACE5t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953721524273467761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "白丝街 https://t.co/F30mJACE5t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1953721514102337536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx0DXaYbsAAN6Xo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953721514102337536"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1953721524273467761",
+        "created_at": "2025-08-08T07:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T08:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953721524273467761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F30mJACE5t",
+              "end": 27,
+              "expanded_url": "https://x.com/LanziiLove/status/1953721524273467761/photo/1",
+              "media_key": "3_1953721514102337536",
+              "start": 4,
+              "url": "https://t.co/F30mJACE5t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953721524273467761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白丝街 https://t.co/F30mJACE5t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "一个人类 // SNS当朋友圈发 照片高P // 男友@Dexy0306",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952297088974462977/bue5f0ca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17963,
+          "following_count": 873,
+          "like_count": 991,
+          "listed_count": 45,
+          "media_count": 249,
+          "tweet_count": 1342
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

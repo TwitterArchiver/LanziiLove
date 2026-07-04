@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921479607452127232",
+        "3_1921479607670263808"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1921479684702785542",
+    "created_at": "2025-05-11T08:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T09:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921479684702785542"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/56dhm166DZ",
+          "end": 159,
+          "expanded_url": "https://x.com/LanziiLove/status/1921479684702785542/photo/1",
+          "media_key": "3_1921479607452127232",
+          "start": 136,
+          "url": "https://t.co/56dhm166DZ"
+        },
+        {
+          "display_url": "pic.x.com/56dhm166DZ",
+          "end": 159,
+          "expanded_url": "https://x.com/LanziiLove/status/1921479684702785542/photo/1",
+          "media_key": "3_1921479607670263808",
+          "start": 136,
+          "url": "https://t.co/56dhm166DZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921479684702785542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "祝全天下的妈妈们母亲节快乐！\n昨天请全家人吃了火锅，今天请妈妈吃了高级西餐ww\n虽然是下了血本 但是只要能和爱的人一起吃饭 这种幸福是无论多少钱都是值得的\n\n下次约会的时候俺还要带然然也来吃\n\n毕竟妈妈和然然是世界上我最爱的两个人w\n\n能爱那些同样爱我的人 真的很难幸福 https://t.co/56dhm166DZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1921479607452127232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqp3hcVXUAAcXIL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1921479607670263808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqp3hdJX0AAuQCn.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921479607452127232",
+            "3_1921479607670263808"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1921479684702785542",
+        "created_at": "2025-05-11T08:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T09:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921479684702785542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/56dhm166DZ",
+              "end": 159,
+              "expanded_url": "https://x.com/LanziiLove/status/1921479684702785542/photo/1",
+              "media_key": "3_1921479607452127232",
+              "start": 136,
+              "url": "https://t.co/56dhm166DZ"
+            },
+            {
+              "display_url": "pic.x.com/56dhm166DZ",
+              "end": 159,
+              "expanded_url": "https://x.com/LanziiLove/status/1921479684702785542/photo/1",
+              "media_key": "3_1921479607670263808",
+              "start": 136,
+              "url": "https://t.co/56dhm166DZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921479684702785542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝全天下的妈妈们母亲节快乐！\n昨天请全家人吃了火锅，今天请妈妈吃了高级西餐ww\n虽然是下了血本 但是只要能和爱的人一起吃饭 这种幸福是无论多少钱都是值得的\n\n下次约会的时候俺还要带然然也来吃\n\n毕竟妈妈和然然是世界上我最爱的两个人w\n\n能爱那些同样爱我的人 真的很难幸福 https://t.co/56dhm166DZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "dexy0306"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13778,
+          "following_count": 718,
+          "like_count": 399,
+          "listed_count": 39,
+          "media_count": 148,
+          "tweet_count": 699
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

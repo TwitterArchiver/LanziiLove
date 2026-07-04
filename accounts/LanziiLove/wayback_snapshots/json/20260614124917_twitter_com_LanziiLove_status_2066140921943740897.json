@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2066140857078878208"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2066140921943740897",
+    "created_at": "2026-06-14T12:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066140921943740897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dV8rRQdWGU",
+          "end": 23,
+          "expanded_url": "https://x.com/LanziiLove/status/2066140921943740897/video/1",
+          "media_key": "13_2066140857078878208",
+          "start": 0,
+          "url": "https://t.co/dV8rRQdWGU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066140921943740897",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/dV8rRQdWGU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9625,
+        "height": 720,
+        "media_key": "13_2066140857078878208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066140857078878208/img/qSZ_LsT6E6NBDw8Y.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066140857078878208/vid/avc1/480x270/YoRD8UnnGAp93Vk8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066140857078878208/vid/avc1/640x360/UAyOTEga_gNzgLeJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066140857078878208/vid/avc1/1280x720/GM2LDAWGo0gWBYK5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066140857078878208/pl/swfAs0fiffK7b-Pp.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066140857078878208"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2066140921943740897",
+        "created_at": "2026-06-14T12:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066140921943740897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dV8rRQdWGU",
+              "end": 23,
+              "expanded_url": "https://x.com/LanziiLove/status/2066140921943740897/video/1",
+              "media_key": "13_2066140857078878208",
+              "start": 0,
+              "url": "https://t.co/dV8rRQdWGU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066140921943740897",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dV8rRQdWGU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25509,
+          "following_count": 1259,
+          "like_count": 3110,
+          "listed_count": 78,
+          "media_count": 461,
+          "tweet_count": 2772
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2056040365644525921",
+    "created_at": "2026-05-17T15:53:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056040365644525921"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/celestialsayuk…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/celestialsayuki/status/2056040170789741024",
+          "start": 21,
+          "url": "https://t.co/U7VrIXlNkK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056040365644525921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056040170789741024",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🀄️\n\n不过我的发质确实该改善一下了（x https://t.co/U7VrIXlNkK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2056040154650034176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiFoJXawAARBXk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2056040365644525921",
+        "created_at": "2026-05-17T15:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056040365644525921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/celestialsayuk…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/celestialsayuki/status/2056040170789741024",
+              "start": 21,
+              "url": "https://t.co/U7VrIXlNkK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056040365644525921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056040170789741024",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🀄️\n\n不过我的发质确实该改善一下了（x https://t.co/U7VrIXlNkK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056040154650034176"
+          ]
+        },
+        "author_id": "1877920276316585984",
+        "conversation_id": "2056040170789741024",
+        "created_at": "2026-05-17T15:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056040170789741024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1510447851507261445",
+              "start": 17,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DGcRrhSwW7",
+              "end": 52,
+              "expanded_url": "https://x.com/CelestialSayuki/status/2056040170789741024/photo/1",
+              "media_key": "3_2056040154650034176",
+              "start": 29,
+              "url": "https://t.co/DGcRrhSwW7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056040170789741024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "索尼大法好，索尼大法好呀\n\n主角 @LanziiLove https://t.co/DGcRrhSwW7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24259,
+          "following_count": 1155,
+          "like_count": 2332,
+          "listed_count": 75,
+          "media_count": 427,
+          "tweet_count": 2252
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T03:27:49.000Z",
+        "description": "A cat gazing into the bewitching abyss ⋆ Dreaming of an astral utopia ⋆ Sister @Ixoryss · 中文 / English",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 79,
+                "username": "Ixoryss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "infodrop.cn",
+                "end": 23,
+                "expanded_url": "http://infodrop.cn/",
+                "start": 0,
+                "url": "https://t.co/H6wcSAzDya"
+              }
+            ]
+          }
+        },
+        "id": "1877920276316585984",
+        "location": "Celestial Atelier",
+        "name": "Celestial紗雪",
+        "pinned_tweet_id": "1973418421938532376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879836377480900608/zKNfkNH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 119,
+          "like_count": 1486,
+          "listed_count": 3,
+          "media_count": 240,
+          "tweet_count": 2479
+        },
+        "url": "https://t.co/H6wcSAzDya",
+        "username": "CelestialSayuki",
+        "verified": false
+      }
+    ]
+  }
+}

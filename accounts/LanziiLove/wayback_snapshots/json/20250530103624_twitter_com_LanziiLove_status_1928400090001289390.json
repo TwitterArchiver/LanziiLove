@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1928375754691084717",
+    "created_at": "2025-05-30T10:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T11:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928400090001289390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1908086926391033856",
+          "start": 0,
+          "username": "AutismBerry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928400090001289390",
+    "in_reply_to_user_id": "1908086926391033856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928387079014097038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AutismBerry 谢谢！៸៸᳐&gt;⩊&lt;៸៸᳐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1928375754691084717",
+        "created_at": "2025-05-30T10:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T11:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928400090001289390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1908086926391033856",
+              "start": 0,
+              "username": "AutismBerry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928400090001289390",
+        "in_reply_to_user_id": "1908086926391033856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928387079014097038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AutismBerry 谢谢！៸៸᳐&gt;⩊&lt;៸៸᳐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908086926391033856",
+        "conversation_id": "1928375754691084717",
+        "created_at": "2025-05-30T09:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T10:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928387079014097038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928387079014097038",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928375754691084717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 可爱喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜ 是雫基米星人喵 来自🇨🇳成都｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "dexy0306"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15715,
+          "following_count": 727,
+          "like_count": 621,
+          "listed_count": 44,
+          "media_count": 185,
+          "tweet_count": 1002
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "Depression//Social Anxiety Disorder丨跨性别友好🏳️‍⚧️丨不介意私聊丨Telegram: https://t.co/LOY0rE9FR7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+rhFVzMLCYsw2M…",
+                "end": 86,
+                "expanded_url": "https://t.me/+rhFVzMLCYsw2MDI1",
+                "start": 63,
+                "url": "https://t.co/LOY0rE9FR7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/BgYtllH",
+                "end": 23,
+                "expanded_url": "https://b23.tv/BgYtllH",
+                "start": 0,
+                "url": "https://t.co/W4UmUAk9cg"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "location": "東京 中野区",
+        "name": "奶莓Berry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924891658023534592/hfbEow4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 932,
+          "like_count": 10231,
+          "listed_count": 0,
+          "media_count": 305,
+          "tweet_count": 1085
+        },
+        "url": "https://t.co/W4UmUAk9cg",
+        "username": "AutismBerry",
+        "verified": true
+      }
+    ]
+  }
+}

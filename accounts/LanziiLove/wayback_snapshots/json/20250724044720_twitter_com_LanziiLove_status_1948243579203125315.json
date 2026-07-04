@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948243570433159168",
+        "3_1948243570449842176"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1948243579203125315",
+    "created_at": "2025-07-24T04:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T05:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948243579203125315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wq5XlQ6rb8",
+          "end": 43,
+          "expanded_url": "https://x.com/LanziiLove/status/1948243579203125315/photo/1",
+          "media_key": "3_1948243570433159168",
+          "start": 20,
+          "url": "https://t.co/wq5XlQ6rb8"
+        },
+        {
+          "display_url": "pic.x.com/wq5XlQ6rb8",
+          "end": 43,
+          "expanded_url": "https://x.com/LanziiLove/status/1948243579203125315/photo/1",
+          "media_key": "3_1948243570449842176",
+          "start": 20,
+          "url": "https://t.co/wq5XlQ6rb8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948243579203125315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不会画手的画手只能照着自己的手画来画手 https://t.co/wq5XlQ6rb8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1948243570433159168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwmNNH-bcAALg4h.jpg",
+        "width": 1448
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1948243570449842176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwmNNICaAAA5VxD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948243570433159168",
+            "3_1948243570449842176"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1948243579203125315",
+        "created_at": "2025-07-24T04:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T05:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948243579203125315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wq5XlQ6rb8",
+              "end": 43,
+              "expanded_url": "https://x.com/LanziiLove/status/1948243579203125315/photo/1",
+              "media_key": "3_1948243570433159168",
+              "start": 20,
+              "url": "https://t.co/wq5XlQ6rb8"
+            },
+            {
+              "display_url": "pic.x.com/wq5XlQ6rb8",
+              "end": 43,
+              "expanded_url": "https://x.com/LanziiLove/status/1948243579203125315/photo/1",
+              "media_key": "3_1948243570449842176",
+              "start": 20,
+              "url": "https://t.co/wq5XlQ6rb8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948243579203125315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不会画手的画手只能照着自己的手画来画手 https://t.co/wq5XlQ6rb8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "dexy0306"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17851,
+          "following_count": 857,
+          "like_count": 959,
+          "listed_count": 46,
+          "media_count": 238,
+          "tweet_count": 1307
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

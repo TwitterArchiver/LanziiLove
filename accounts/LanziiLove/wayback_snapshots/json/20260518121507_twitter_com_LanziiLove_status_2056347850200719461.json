@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2056322171597938907",
+    "created_at": "2026-05-18T12:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056347850200719461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1816473247892078592",
+          "start": 0,
+          "username": "liu_shi62873"
+        },
+        {
+          "end": 25,
+          "id": "1300706054225801216",
+          "start": 14,
+          "username": "Brynhild33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056347850200719461",
+    "in_reply_to_user_id": "1816473247892078592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056347342089957674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu_shi62873 @Brynhild33 我倒是希望是（悲）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2056322171597938907",
+        "created_at": "2026-05-18T12:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056347850200719461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1816473247892078592",
+              "start": 0,
+              "username": "liu_shi62873"
+            },
+            {
+              "end": 25,
+              "id": "1300706054225801216",
+              "start": 14,
+              "username": "Brynhild33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056347850200719461",
+        "in_reply_to_user_id": "1816473247892078592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056347342089957674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu_shi62873 @Brynhild33 我倒是希望是（悲）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816473247892078592",
+        "conversation_id": "2056322171597938907",
+        "created_at": "2026-05-18T12:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056347342089957674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 23,
+              "id": "1300706054225801216",
+              "start": 12,
+              "username": "Brynhild33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056347342089957674",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056326194401046692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @Brynhild33 这么看来，主播还是未成年呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her 🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku（tg上的是骗子⚠️）",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24312,
+          "following_count": 1173,
+          "like_count": 2409,
+          "listed_count": 75,
+          "media_count": 431,
+          "tweet_count": 2304
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T13:59:56.000Z",
+        "description": "",
+        "id": "1816473247892078592",
+        "name": "氏名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054427979107991553/LDv8GPvr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 30,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 64
+        },
+        "username": "liu_shi62873",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T08:04:32.000Z",
+        "description": "日常系男娘～base UK～",
+        "id": "1300706054225801216",
+        "name": "Brynhild",
+        "pinned_tweet_id": "2028019602584715743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034529912921436160/-mr02j1U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 453,
+          "like_count": 148,
+          "listed_count": 7,
+          "media_count": 19,
+          "tweet_count": 40
+        },
+        "username": "Brynhild33",
+        "verified": false
+      }
+    ]
+  }
+}

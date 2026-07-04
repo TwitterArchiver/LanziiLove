@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2071136862249664917",
+    "created_at": "2026-06-28T15:56:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T16:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071261420604547156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1426614422546518017",
+          "start": 0,
+          "username": "rabbit_2333"
+        },
+        {
+          "end": 24,
+          "id": "1368426852071567364",
+          "start": 13,
+          "username": "Wolfloral1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071261420604547156",
+    "in_reply_to_user_id": "1426614422546518017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071237689689743858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rabbit_2333 @Wolfloral1 👍\n泥电需要更多的xyn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2071136862249664917",
+        "created_at": "2026-06-28T15:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071261420604547156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1426614422546518017",
+              "start": 0,
+              "username": "rabbit_2333"
+            },
+            {
+              "end": 24,
+              "id": "1368426852071567364",
+              "start": 13,
+              "username": "Wolfloral1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071261420604547156",
+        "in_reply_to_user_id": "1426614422546518017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071237689689743858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rabbit_2333 @Wolfloral1 👍\n泥电需要更多的xyn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426614422546518017",
+        "conversation_id": "2071136862249664917",
+        "created_at": "2026-06-28T14:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071237689689743858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1368426852071567364",
+              "start": 0,
+              "username": "Wolfloral1"
+            },
+            {
+              "end": 23,
+              "id": "1510447851507261445",
+              "start": 12,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071237689689743858",
+        "in_reply_to_user_id": "1368426852071567364",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071136862249664917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wolfloral1 @LanziiLove"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫 💕是女孩子！在为SRS努力🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠@dexy0306这是我的男友然桑 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "pinned_tweet_id": "2070032227883528481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26591,
+          "following_count": 1416,
+          "like_count": 3329,
+          "listed_count": 79,
+          "media_count": 460,
+          "tweet_count": 2873
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-14T18:39:34.000Z",
+        "description": "A normal rabbit, nothing special",
+        "id": "1426614422546518017",
+        "name": "rabbit",
+        "pinned_tweet_id": "1737892653143064904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567977506367770625/-b5Hbkjm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2501,
+          "following_count": 192,
+          "like_count": 523,
+          "listed_count": 14,
+          "media_count": 44,
+          "tweet_count": 389
+        },
+        "url": "",
+        "username": "rabbit_2333",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-07T05:02:52.000Z",
+        "description": "✨In night, we glow✨\n\n🍥 HRT始于：2025.03\n🏳️‍⚧️ 实例属性：156/47 (小小只？)",
+        "id": "1368426852071567364",
+        "location": "活力大湾区",
+        "name": "狐尾粉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936964182315773952/hs5xpZsm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 2467,
+          "like_count": 9254,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "Wolfloral1",
+        "verified": false
+      }
+    ]
+  }
+}

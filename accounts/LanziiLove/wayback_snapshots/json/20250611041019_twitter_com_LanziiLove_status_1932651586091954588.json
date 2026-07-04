@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1932295474188353536"
+      ],
+      "media_source_tweet_id": [
+        "1932295510238388400"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1932651586091954588",
+    "created_at": "2025-06-11T04:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T05:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932651586091954588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2828212668",
+          "start": 3,
+          "username": "AMAZlNGNATURE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MursX40DDj",
+          "end": 72,
+          "expanded_url": "https://x.com/AMAZlNGNATURE/status/1932295510238388400/video/1",
+          "media_key": "7_1932295474188353536",
+          "start": 49,
+          "url": "https://t.co/MursX40DDj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932651586091954588",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27736
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932295510238388400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AMAZlNGNATURE: I can't stop watching this 😂😂 https://t.co/MursX40DDj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39284,
+        "height": 1024,
+        "media_key": "7_1932295474188353536",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1932295474188353536/pu/img/4bEfPMbQTVPZBzmj.jpg",
+        "public_metrics": {
+          "view_count": 1723612
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932295474188353536/pu/vid/avc1/320x568/8IjKYBPpTxWDQZR8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932295474188353536/pu/vid/avc1/480x852/772ZNI810uxQvaCl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932295474188353536/pu/vid/avc1/576x1024/0ohmOVfocXB-Iijj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1932295474188353536/pu/pl/8yTId3kAUwd06k9d.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1932295474188353536"
+          ],
+          "media_source_tweet_id": [
+            "1932295510238388400"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1932651586091954588",
+        "created_at": "2025-06-11T04:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T05:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932651586091954588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2828212668",
+              "start": 3,
+              "username": "AMAZlNGNATURE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MursX40DDj",
+              "end": 72,
+              "expanded_url": "https://x.com/AMAZlNGNATURE/status/1932295510238388400/video/1",
+              "media_key": "7_1932295474188353536",
+              "start": 49,
+              "url": "https://t.co/MursX40DDj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932651586091954588",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27736
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932295510238388400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AMAZlNGNATURE: I can't stop watching this 😂😂 https://t.co/MursX40DDj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1932295474188353536"
+          ]
+        },
+        "author_id": "2828212668",
+        "conversation_id": "1932295510238388400",
+        "created_at": "2025-06-10T04:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T05:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932295510238388400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MursX40DDj",
+              "end": 53,
+              "expanded_url": "https://x.com/AMAZlNGNATURE/status/1932295510238388400/video/1",
+              "media_key": "7_1932295474188353536",
+              "start": 30,
+              "url": "https://t.co/MursX40DDj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932295510238388400",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22619,
+          "impression_count": 4437424,
+          "like_count": 177989,
+          "quote_count": 1518,
+          "reply_count": 740,
+          "retweet_count": 27736
+        },
+        "reply_settings": "everyone",
+        "text": "I can't stop watching this 😂😂 https://t.co/MursX40DDj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜不是女孩子也不是男娘 是雫基米星人喵！｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "dexy0306"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16900,
+          "following_count": 743,
+          "like_count": 719,
+          "listed_count": 44,
+          "media_count": 200,
+          "tweet_count": 1132
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-23T15:27:26.000Z",
+        "description": "Animals 🐿️ Nature 🦋 Discovery 🦖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/amazlng.nature",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/amazlng.nature",
+                "start": 0,
+                "url": "https://t.co/eLQP37nHde"
+              }
+            ]
+          }
+        },
+        "id": "2828212668",
+        "location": "🌍",
+        "name": "Nature is Amazing ☘️",
+        "pinned_tweet_id": "1917939518000210352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/992795937574604802/FMGk7GZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5586716,
+          "following_count": 48,
+          "like_count": 1379,
+          "listed_count": 11149,
+          "media_count": 20487,
+          "tweet_count": 21942
+        },
+        "url": "https://t.co/eLQP37nHde",
+        "username": "AMAZlNGNATURE",
+        "verified": true
+      }
+    ]
+  }
+}

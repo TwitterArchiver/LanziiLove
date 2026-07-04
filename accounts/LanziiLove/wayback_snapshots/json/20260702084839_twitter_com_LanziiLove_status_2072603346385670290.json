@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072603338982760448"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Graphic Design",
+          "id": "1046580793848418305",
+          "name": "Graphic design"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Graphic Design",
+          "id": "1046580793848418305",
+          "name": "Graphic design"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2072603346385670290",
+    "created_at": "2026-07-02T08:48:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T09:48:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072603346385670290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kF4aqHmtnk",
+          "end": 159,
+          "expanded_url": "https://x.com/LanziiLove/status/2072603346385670290/photo/1",
+          "media_key": "3_2072603338982760448",
+          "start": 136,
+          "url": "https://t.co/kF4aqHmtnk"
+        },
+        {
+          "display_url": "x.com/lanziilove/sta…",
+          "end": 183,
+          "expanded_url": "https://twitter.com/lanziilove/status/2071825228649599113",
+          "start": 160,
+          "url": "https://t.co/nVABNaM5z5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072603346385670290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071825228649599113",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "主包的绘画接稿例图来啦！（新鲜出炉w）\n主要画二次元人物图！\n默认按单人价格收 多人需要加钱喵\n高完成度等比立绘在300-400之间\nQ版在50-100之间\n头像/半身在150-250之间\n\n私信主包排单喵\n同时还有编曲约稿、平面设计约稿、家教、伪音教学服务可供购买欧～ https://t.co/kF4aqHmtnk https://t.co/nVABNaM5z5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1472,
+        "media_key": "3_2072603338982760448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNdwXRbIAAcFGr.jpg",
+        "width": 1069
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072603338982760448"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2072603346385670290",
+        "created_at": "2026-07-02T08:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072603346385670290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kF4aqHmtnk",
+              "end": 159,
+              "expanded_url": "https://x.com/LanziiLove/status/2072603346385670290/photo/1",
+              "media_key": "3_2072603338982760448",
+              "start": 136,
+              "url": "https://t.co/kF4aqHmtnk"
+            },
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/lanziilove/status/2071825228649599113",
+              "start": 160,
+              "url": "https://t.co/nVABNaM5z5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072603346385670290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071825228649599113",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主包的绘画接稿例图来啦！（新鲜出炉w）\n主要画二次元人物图！\n默认按单人价格收 多人需要加钱喵\n高完成度等比立绘在300-400之间\nQ版在50-100之间\n头像/半身在150-250之间\n\n私信主包排单喵\n同时还有编曲约稿、平面设计约稿、家教、伪音教学服务可供购买欧～ https://t.co/kF4aqHmtnk https://t.co/nVABNaM5z5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2071825228649599113",
+        "created_at": "2026-06-30T05:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071825228649599113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071825228649599113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【置顶帖/为SRS攒手术费接单】\n为了攒手术费在网上接点单子，有需要的朋友可以直接私信我或者在这个帖子下评论获取相应项目具体细节☎️\n【接单项目】\n1️⃣二次元人物插画/立绘/头像/表情包/设计 💰¥50-¥400  💼经历：游戏工作室立绘外包\n2️⃣编曲/作曲/作词 主要曲风：流行、电子、日系轻音乐、Lo-Fi、Hip-Hop、BGM 💰¥100-¥400（网易云/QQ音乐：LanziiLove）💼经历：网易云编曲接稿、同人游戏曲师\n3️⃣平面设计：海报/PPT/LOGO/传单/P图/cos图精修 💰P图精修¥2/张 10张起接 其余平面设计¥50-¥250 💼经历：工作室平面设计美工\n4️⃣中小学辅导：2024年高考674分 电子科技大学计算机专业 可辅导中小学生语数外物化生以及C++、算法，高三仅辅导英语。💰¥100/小时 成都本地可线下 线上可酌情降价\n5️⃣教学类：以上任意技能的辅导与教学，除此之外可辅导伪音嗓音训练（ps：仅传授个人方法，不保证专业性）💰价格可仪"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 43356,
+          "like_count": 296,
+          "quote_count": 6,
+          "reply_count": 61,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "【置顶帖/为SRS攒手术费接单】\n为了攒手术费在网上接点单子，有需要的朋友可以直接私信我或者在这个帖子下评论获取相应项目具体细节☎️\n【接单项目】\n1️⃣二次元人物插画/立绘/头像/表情包/设计 💰¥50-¥400  💼经历：游戏工作室立绘外包\n2️⃣编曲/作曲/作词"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫 💕是女孩子！在为SRS努力🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠@dexy0306这是我的男友然桑 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "pinned_tweet_id": "2071825228649599113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26749,
+          "following_count": 1421,
+          "like_count": 3366,
+          "listed_count": 79,
+          "media_count": 463,
+          "tweet_count": 2921
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      }
+    ]
+  }
+}

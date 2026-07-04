@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1929424910251696408",
+    "created_at": "2025-06-02T17:05:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T18:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929585061323534656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1385262131352797185",
+          "start": 0,
+          "username": "Rezedaisy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929585061323534656",
+    "in_reply_to_user_id": "1385262131352797185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929584799842275508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rezedaisy 嘿嘿～(&gt;^ω^&lt;)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1929424910251696408",
+        "created_at": "2025-06-02T17:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T18:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929585061323534656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1385262131352797185",
+              "start": 0,
+              "username": "Rezedaisy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929585061323534656",
+        "in_reply_to_user_id": "1385262131352797185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929584799842275508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rezedaisy 嘿嘿～(&gt;^ω^&lt;)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385262131352797185",
+        "conversation_id": "1929424910251696408",
+        "created_at": "2025-06-02T17:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T18:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929584799842275508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929584799842275508",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929424910251696408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 🖐️😫🖐️我投降别杀我喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜ 是雫基米星人喵 来自🇨🇳成都｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "dexy0306"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16572,
+          "following_count": 735,
+          "like_count": 690,
+          "listed_count": 44,
+          "media_count": 190,
+          "tweet_count": 1091
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-22T16:01:39.000Z",
+        "description": "哈基米叮咚鸡老爷爷CCB一段一段~",
+        "id": "1385262131352797185",
+        "name": "雪夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929255520981913600/5Z2tr9tl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 566,
+          "like_count": 611,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 32
+        },
+        "username": "Rezedaisy",
+        "verified": false
+      }
+    ]
+  }
+}

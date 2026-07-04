@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2060375892455784597",
+    "created_at": "2026-05-30T23:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T00:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060862082191654935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "915981989227905025",
+          "start": 0,
+          "username": "Chaoshuai11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060862082191654935",
+    "in_reply_to_user_id": "915981989227905025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060760060654137790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chaoshuai11 成年了的话其实不会问家长什么问题吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2060375892455784597",
+        "created_at": "2026-05-30T23:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T00:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060862082191654935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "915981989227905025",
+              "start": 0,
+              "username": "Chaoshuai11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060862082191654935",
+        "in_reply_to_user_id": "915981989227905025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060760060654137790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chaoshuai11 成年了的话其实不会问家长什么问题吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "915981989227905025",
+        "conversation_id": "2060375892455784597",
+        "created_at": "2026-05-30T16:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060760060654137790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060760060654137790",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060375892455784597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 请问刘烨要是和家长沟通会问什么问题啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25235,
+          "following_count": 1235,
+          "like_count": 3027,
+          "listed_count": 77,
+          "media_count": 452,
+          "tweet_count": 2688
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-05T16:48:19.000Z",
+        "description": "男女混血",
+        "id": "915981989227905025",
+        "name": "一头大美女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920126698521346049/xoiA4PAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 253,
+          "like_count": 196,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 306
+        },
+        "username": "Chaoshuai11",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1914261117167345813",
+    "created_at": "2025-04-22T02:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T03:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914505493151932809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1201164825226661888",
+          "start": 0,
+          "username": "6Rmj0FclEsKGdMk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914505493151932809",
+    "in_reply_to_user_id": "1201164825226661888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914482221156851731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6Rmj0FclEsKGdMk 啊 原来是这样吗qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1914261117167345813",
+        "created_at": "2025-04-22T02:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T03:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914505493151932809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1201164825226661888",
+              "start": 0,
+              "username": "6Rmj0FclEsKGdMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914505493151932809",
+        "in_reply_to_user_id": "1201164825226661888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914482221156851731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6Rmj0FclEsKGdMk 啊 原来是这样吗qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1201164825226661888",
+        "conversation_id": "1914261117167345813",
+        "created_at": "2025-04-22T00:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T01:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914482221156851731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914482221156851731",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914261117167345813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 唯一解决办法就是多看黄推/男娘/🍥，X的简中大数据是WW做的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号@kitsunehashirao被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友 他叫然然～ 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "kitsunehashirao"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku（原号被盗 请转到该新号）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11109,
+          "following_count": 688,
+          "like_count": 264,
+          "listed_count": 26,
+          "media_count": 102,
+          "tweet_count": 453
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-01T15:43:18.000Z",
+        "description": "（Zhuhai&Macao）UM Postgraduate, MDS-AIA, coser&coder&gamer, Touhou/Arknights/Music Games",
+        "id": "1201164825226661888",
+        "name": "Shiromizu Asashimo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677162719575937029/E95fCMRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 424,
+          "like_count": 296,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 419
+        },
+        "username": "6Rmj0FclEsKGdMk",
+        "verified": false
+      }
+    ]
+  }
+}

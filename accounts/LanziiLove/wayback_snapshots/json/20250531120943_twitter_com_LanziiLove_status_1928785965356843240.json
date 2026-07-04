@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1928785781063024722",
+    "created_at": "2025-05-31T12:09:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T13:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928785965356843240"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1928785965356843240",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928785781063024722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要熬夜 考前尽量不要熬夜 就算失眠也没关系 我高考前也失眠但是肯定不会影响考试 反而会更兴奋 就算带病考试也不要有心理压力 \n3.尽量早到考场 排干袅袅 坐进考场调整心态 开卷后冷静作答 稳健地专注于基础分 把会做的题尽量全部做对 不要太过于追求难题 时间要安排合理"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1194,
+        "media_key": "3_1928785773635264512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsRscSVbYAAiMzz.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1928785781063024722",
+        "created_at": "2025-05-31T12:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T13:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928785965356843240"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928785965356843240",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928785781063024722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要熬夜 考前尽量不要熬夜 就算失眠也没关系 我高考前也失眠但是肯定不会影响考试 反而会更兴奋 就算带病考试也不要有心理压力 \n3.尽量早到考场 排干袅袅 坐进考场调整心态 开卷后冷静作答 稳健地专注于基础分 把会做的题尽量全部做对 不要太过于追求难题 时间要安排合理"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928785773635264512"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1928785781063024722",
+        "created_at": "2025-05-31T12:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T13:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928785781063024722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MH5NpUAU4Y",
+              "end": 173,
+              "expanded_url": "https://x.com/LanziiLove/status/1928785781063024722/photo/1",
+              "media_key": "3_1928785773635264512",
+              "start": 150,
+              "url": "https://t.co/MH5NpUAU4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928785781063024722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个po认真一把 还剩一周高考\n给马上要高考的推友一些建议叭：\n\n1.放松心态 沉着冷静应考 考一科放一科 只有极少一部分人能够每一科都发挥好 出现失误和没考好的科目是正常现象 牢记总分为第一目标\n2.调整作息 保证身体健康 考前正常饮食 不要暴饮暴食or绝食or吃辛辣油腻的食物 早睡早起（待续） https://t.co/MH5NpUAU4Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜ 是雫基米星人喵 来自🇨🇳成都｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "dexy0306"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15819,
+          "following_count": 731,
+          "like_count": 663,
+          "listed_count": 44,
+          "media_count": 188,
+          "tweet_count": 1046
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

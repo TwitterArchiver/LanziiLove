@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1914261117167345813",
+    "created_at": "2025-04-21T10:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T11:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914261117167345813"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1914261117167345813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "操你妈逼\n老子他妈到底要取关多少人 block多少号 点多少个“帖子不感兴趣”才能让我主页这帮见证的死吗弱智彻底消失啊😅\n\n死吗X也是nmd阴魂不散地给我推这帮低能，没完没了了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1914261117167345813",
+        "created_at": "2025-04-21T10:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T11:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914261117167345813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914261117167345813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈逼\n老子他妈到底要取关多少人 block多少号 点多少个“帖子不感兴趣”才能让我主页这帮见证的死吗弱智彻底消失啊😅\n\n死吗X也是nmd阴魂不散地给我推这帮低能，没完没了了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号@kitsunehashirao被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友 他叫然然～ 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "kitsunehashirao"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku（原号被盗 请转到该新号）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10820,
+          "following_count": 673,
+          "like_count": 260,
+          "listed_count": 25,
+          "media_count": 100,
+          "tweet_count": 397
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

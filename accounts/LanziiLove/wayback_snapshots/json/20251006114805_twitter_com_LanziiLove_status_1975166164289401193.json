@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975166156605706240"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1975166164289401193",
+    "created_at": "2025-10-06T11:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T12:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975166164289401193"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d6T1oaV4Bu",
+          "end": 33,
+          "expanded_url": "https://x.com/LanziiLove/status/1975166164289401193/photo/1",
+          "media_key": "3_1975166156605706240",
+          "start": 10,
+          "url": "https://t.co/d6T1oaV4Bu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975166164289401193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我跟然然聊天就这样 https://t.co/d6T1oaV4Bu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975166156605706240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2kzJ5DbUAAPPgE.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975166156605706240"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975166164289401193",
+        "created_at": "2025-10-06T11:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T12:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975166164289401193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d6T1oaV4Bu",
+              "end": 33,
+              "expanded_url": "https://x.com/LanziiLove/status/1975166164289401193/photo/1",
+              "media_key": "3_1975166156605706240",
+              "start": 10,
+              "url": "https://t.co/d6T1oaV4Bu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975166164289401193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我跟然然聊天就这样 https://t.co/d6T1oaV4Bu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好：编曲 画画 3DCG Cos//985大二计算机科学与技术 第二学位数学//B站6.2万粉丝同名//中立生物 不主动攻击 阴阳我会被我攻击// 音乐&绘画作品 音乐平台&Pixiv@LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962507406770155521/giP0winc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18793,
+          "following_count": 911,
+          "like_count": 1191,
+          "listed_count": 48,
+          "media_count": 297,
+          "tweet_count": 1480
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

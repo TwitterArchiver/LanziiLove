@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1990686387998503040",
+    "created_at": "2025-11-19T03:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T04:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990981375676330379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1476914249146404871",
+          "start": 0,
+          "username": "huanghou95"
+        },
+        {
+          "end": 26,
+          "id": "1936016316382822403",
+          "start": 12,
+          "username": "Magiclatex712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990981375676330379",
+    "in_reply_to_user_id": "1476914249146404871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990964289608515626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huanghou95 @Magiclatex712 好滴好滴！谢谢ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1990686387998503040",
+        "created_at": "2025-11-19T03:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T04:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990981375676330379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1476914249146404871",
+              "start": 0,
+              "username": "huanghou95"
+            },
+            {
+              "end": 26,
+              "id": "1936016316382822403",
+              "start": 12,
+              "username": "Magiclatex712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990981375676330379",
+        "in_reply_to_user_id": "1476914249146404871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990964289608515626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanghou95 @Magiclatex712 好滴好滴！谢谢ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476914249146404871",
+        "conversation_id": "1990686387998503040",
+        "created_at": "2025-11-19T02:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T03:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990964289608515626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 48,
+              "id": "1936016316382822403",
+              "start": 34,
+              "username": "Magiclatex712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990964289608515626",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990686387998503040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 这个月llya打折啊，刚好有活动，可以直接搜@magiclatex712，可以看看完整一套的只要八百多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 不是跨 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好：编曲 画画 3DCG Cos//985大二计算机科学与技术 二学位数学//B站6.5万粉丝同名//因社恐不扩列sry 偶尔酌情回fo// 音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1986478231625810336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20823,
+          "following_count": 958,
+          "like_count": 1375,
+          "listed_count": 55,
+          "media_count": 335,
+          "tweet_count": 1668
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T13:53:09.000Z",
+        "description": "坐标025，女装乳胶爱好者，为了impart疯狂减肥，终于找打了减肥的核心动力，daddy型的puppy，每天都在写论文中焦虑\n小说：https://t.co/kmDntgA0X0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/79773439",
+                "end": 90,
+                "expanded_url": "https://www.pixiv.net/users/79773439",
+                "start": 67,
+                "url": "https://t.co/kmDntgA0X0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+651ZpY4r2bA1Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+651ZpY4r2bA1YjVl",
+                "start": 0,
+                "url": "https://t.co/0uJQncpn8o"
+              }
+            ]
+          }
+        },
+        "id": "1476914249146404871",
+        "location": "jiangsu",
+        "name": "凰天帝",
+        "pinned_tweet_id": "1910202723422920807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939506653201661952/CD9DHpjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 635,
+          "like_count": 8095,
+          "listed_count": 7,
+          "media_count": 95,
+          "tweet_count": 1084
+        },
+        "url": "https://t.co/0uJQncpn8o",
+        "username": "huanghou95",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-20T11:01:06.000Z",
+        "description": "Magic Latex | 高端乳胶时尚定制与沉浸式体验 LIya旗下先锋品牌Magic Latex，全国首家Magic Latex线下体验馆落户南京，汇聚丰富乳胶制品，打造沉浸式感官之旅。\n定制/体验 加v:moxian518 或加Q:3657710581",
+        "id": "1936016316382822403",
+        "location": "南京",
+        "name": "Magic Latex",
+        "pinned_tweet_id": "1987772946535104932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936099369264222209/0EqZ1W4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3150,
+          "following_count": 44,
+          "like_count": 73,
+          "listed_count": 18,
+          "media_count": 32,
+          "tweet_count": 80
+        },
+        "username": "Magiclatex712",
+        "verified": false
+      }
+    ]
+  }
+}

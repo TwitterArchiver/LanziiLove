@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2045730473373278601",
+    "created_at": "2026-04-19T06:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T07:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045745770209718388"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045745770209718388",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045730473373278601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“而且你这发型一这么弄，就更像女生了”\n“为啥？”\n“你这本来长得就秀气，不像那些五大三粗的。你这样你看现在那些女生对象怎么找哦，男生都要被男生抢起走了。”\n*苦笑*"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2045730464481316864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPlBMmakAA8586.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2045730473373278601",
+        "created_at": "2026-04-19T06:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T07:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045745770209718388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045745770209718388",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045730473373278601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“而且你这发型一这么弄，就更像女生了”\n“为啥？”\n“你这本来长得就秀气，不像那些五大三粗的。你这样你看现在那些女生对象怎么找哦，男生都要被男生抢起走了。”\n*苦笑*"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045730464481316864"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045730473373278601",
+        "created_at": "2026-04-19T05:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045730473373278601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MosigIlswo",
+              "end": 60,
+              "expanded_url": "https://x.com/LanziiLove/status/2045730473373278601/photo/1",
+              "media_key": "3_2045730464481316864",
+              "start": 37,
+              "url": "https://t.co/MosigIlswo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045730473373278601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 688,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "周天我妈来学校这边陪我吃火锅\n我妈再次发出感叹：你真的长得越来越像女生了 https://t.co/MosigIlswo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫✨平时喜欢打打游戏玩玩cos发照片编曲画画写代码💻账号纯绿日常向🏠已经有对象啦 我终生的爱人然然@dexy0306❤️B站6.7w粉同名的是我本人😉评论区混眼熟了会回fo 🥳 祝你生活愉快～☀️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 58,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22009,
+          "following_count": 1021,
+          "like_count": 1874,
+          "listed_count": 64,
+          "media_count": 387,
+          "tweet_count": 1979
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

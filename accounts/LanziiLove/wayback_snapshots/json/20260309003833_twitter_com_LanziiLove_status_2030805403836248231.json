@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2030794550969569771",
+    "created_at": "2026-03-09T00:38:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T01:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030805403836248231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1120767538714021888",
+          "start": 0,
+          "username": "starxo5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030805403836248231",
+    "in_reply_to_user_id": "1120767538714021888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030794550969569771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@starxo5 场上像条也够一样到处乱编\n打完了又装上纯良了\n不打逆风局这一块\n也够好似"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1271,
+        "media_key": "3_2030794532560789505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC7U3iUXYAEQJiD.jpg",
+        "width": 1906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2030794550969569771",
+        "created_at": "2026-03-09T00:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T01:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030805403836248231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1120767538714021888",
+              "start": 0,
+              "username": "starxo5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030805403836248231",
+        "in_reply_to_user_id": "1120767538714021888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030794550969569771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@starxo5 场上像条也够一样到处乱编\n打完了又装上纯良了\n不打逆风局这一块\n也够好似"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030794532560789505"
+          ]
+        },
+        "author_id": "1120767538714021888",
+        "conversation_id": "2030794550969569771",
+        "created_at": "2026-03-08T23:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T00:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030794550969569771"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 59,
+              "normalized_text": "AG",
+              "probability": 0.3175,
+              "start": 58,
+              "type": "Other"
+            },
+            {
+              "end": 104,
+              "normalized_text": "Chile",
+              "probability": 0.86,
+              "start": 100,
+              "type": "Place"
+            },
+            {
+              "end": 166,
+              "normalized_text": "LATAM",
+              "probability": 0.4223,
+              "start": 162,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1wNd85ifsd",
+              "end": 303,
+              "expanded_url": "https://x.com/starxo5/status/2030794550969569771/photo/1",
+              "media_key": "3_2030794532560789505",
+              "start": 280,
+              "url": "https://t.co/1wNd85ifsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030794550969569771",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 590,
+                "start": 584,
+                "tag": "M8WIN"
+              }
+            ]
+          },
+          "text": "Didnt live up to expectations in playoffs, well played to AG.\n\nSucks but what an experience to get, Chile you were amazing and you deserve to have more events in LATAM ♥️\n\nFor the fans online, thank you so much for all the support you give us, im sorry to disappoint but want you to know that Gentle Mates is going to work much harder from now on because we want to be on that stage very soon.\n\nI love my boys and i will fight for every one from the team, everyone played big part in our path to Santiago and everyone deserved to be here today.\n\nLove y’all and we’ll be back soon ♥️\n\n#M8WIN"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 29431,
+          "like_count": 1821,
+          "quote_count": 5,
+          "reply_count": 209,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "Didnt live up to expectations in playoffs, well played to AG.\n\nSucks but what an experience to get, Chile you were amazing and you deserve to have more events in LATAM ♥️\n\nFor the fans online, thank you so much for all the support you give us, im sorry to disappoint but want you https://t.co/1wNd85ifsd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 非跨无药不是男娘 只是爱穿可爱衣服和cos 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好编曲 画画 3DCG cos//985大二计算机科学与技术第二学位数学//B站6.6万粉丝同名//音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 150,
+                "start": 139,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22401,
+          "following_count": 989,
+          "like_count": 1712,
+          "listed_count": 69,
+          "media_count": 362,
+          "tweet_count": 1846
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-23T19:12:58.000Z",
+        "description": "Valorant IGL for @gentlemates i won champs once",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "gentlemates"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/starxito/",
+                "end": 23,
+                "expanded_url": "http://www.instagram.com/starxito/",
+                "start": 0,
+                "url": "https://t.co/CmRCnULQnW"
+              }
+            ]
+          }
+        },
+        "id": "1120767538714021888",
+        "location": "Poland",
+        "name": "M8 starxo",
+        "pinned_tweet_id": "2022799221255213454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029386419043549184/sYdK4373_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53565,
+          "following_count": 550,
+          "like_count": 8702,
+          "listed_count": 202,
+          "media_count": 453,
+          "tweet_count": 3051
+        },
+        "url": "https://t.co/CmRCnULQnW",
+        "username": "starxo5",
+        "verified": true
+      }
+    ]
+  }
+}

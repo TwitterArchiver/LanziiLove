@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944607506732355584",
+        "3_1944607506577424384",
+        "3_1944607506610913280",
+        "3_1944607506585817088"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1944607537409503470",
+    "created_at": "2025-07-14T03:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T04:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944607537409503470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C4R3jt5zXL",
+          "end": 95,
+          "expanded_url": "https://x.com/LanziiLove/status/1944607537409503470/photo/1",
+          "media_key": "3_1944607506732355584",
+          "start": 72,
+          "url": "https://t.co/C4R3jt5zXL"
+        },
+        {
+          "display_url": "pic.x.com/C4R3jt5zXL",
+          "end": 95,
+          "expanded_url": "https://x.com/LanziiLove/status/1944607537409503470/photo/1",
+          "media_key": "3_1944607506577424384",
+          "start": 72,
+          "url": "https://t.co/C4R3jt5zXL"
+        },
+        {
+          "display_url": "pic.x.com/C4R3jt5zXL",
+          "end": 95,
+          "expanded_url": "https://x.com/LanziiLove/status/1944607537409503470/photo/1",
+          "media_key": "3_1944607506610913280",
+          "start": 72,
+          "url": "https://t.co/C4R3jt5zXL"
+        },
+        {
+          "display_url": "pic.x.com/C4R3jt5zXL",
+          "end": 95,
+          "expanded_url": "https://x.com/LanziiLove/status/1944607537409503470/photo/1",
+          "media_key": "3_1944607506585817088",
+          "start": 72,
+          "url": "https://t.co/C4R3jt5zXL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944607537409503470",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【雫と然の旅行Blog-成都篇】Day2 - ①出发前的装束 地雷系！\n\n因为然桑说过我穿地雷系很好看很喜欢 所以专门又买了一套衣服穿给他看w https://t.co/C4R3jt5zXL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1944607506732355584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvyiOXJXEAA-G3r.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1944607506577424384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvyiOWkbAAA0x_e.jpg",
+        "width": 1154
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1944607506610913280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvyiOWsaAAAMowZ.jpg",
+        "width": 1154
+      },
+      {
+        "height": 1154,
+        "media_key": "3_1944607506585817088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvyiOWmbEAAc4Sq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944607506732355584",
+            "3_1944607506577424384",
+            "3_1944607506610913280",
+            "3_1944607506585817088"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1944607537409503470",
+        "created_at": "2025-07-14T03:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T04:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944607537409503470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C4R3jt5zXL",
+              "end": 95,
+              "expanded_url": "https://x.com/LanziiLove/status/1944607537409503470/photo/1",
+              "media_key": "3_1944607506732355584",
+              "start": 72,
+              "url": "https://t.co/C4R3jt5zXL"
+            },
+            {
+              "display_url": "pic.x.com/C4R3jt5zXL",
+              "end": 95,
+              "expanded_url": "https://x.com/LanziiLove/status/1944607537409503470/photo/1",
+              "media_key": "3_1944607506577424384",
+              "start": 72,
+              "url": "https://t.co/C4R3jt5zXL"
+            },
+            {
+              "display_url": "pic.x.com/C4R3jt5zXL",
+              "end": 95,
+              "expanded_url": "https://x.com/LanziiLove/status/1944607537409503470/photo/1",
+              "media_key": "3_1944607506610913280",
+              "start": 72,
+              "url": "https://t.co/C4R3jt5zXL"
+            },
+            {
+              "display_url": "pic.x.com/C4R3jt5zXL",
+              "end": 95,
+              "expanded_url": "https://x.com/LanziiLove/status/1944607537409503470/photo/1",
+              "media_key": "3_1944607506585817088",
+              "start": 72,
+              "url": "https://t.co/C4R3jt5zXL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944607537409503470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【雫と然の旅行Blog-成都篇】Day2 - ①出发前的装束 地雷系！\n\n因为然桑说过我穿地雷系很好看很喜欢 所以专门又买了一套衣服穿给他看w https://t.co/C4R3jt5zXL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "dexy0306"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17725,
+          "following_count": 830,
+          "like_count": 878,
+          "listed_count": 46,
+          "media_count": 221,
+          "tweet_count": 1265
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

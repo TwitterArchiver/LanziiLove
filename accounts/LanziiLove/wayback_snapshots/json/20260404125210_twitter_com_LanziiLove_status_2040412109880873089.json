@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2040318464813081053",
+    "created_at": "2026-04-04T12:52:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T13:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040412109880873089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771476725966532608",
+          "start": 0,
+          "username": "LSEQI146422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040412109880873089",
+    "in_reply_to_user_id": "1771476725966532608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040411354054733931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LSEQI146422 可以先找参考 然后用化妆品定个位 然后先用修眉刀刮 大致型确定之后可以用镊子拔杂毛了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2040318464813081053",
+        "created_at": "2026-04-04T12:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T13:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040412109880873089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771476725966532608",
+              "start": 0,
+              "username": "LSEQI146422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040412109880873089",
+        "in_reply_to_user_id": "1771476725966532608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040411354054733931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LSEQI146422 可以先找参考 然后用化妆品定个位 然后先用修眉刀刮 大致型确定之后可以用镊子拔杂毛了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771476725966532608",
+        "conversation_id": "2040318464813081053",
+        "created_at": "2026-04-04T12:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T13:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040411354054733931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040411354054733931",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040408277771800674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 修眉是怎么修的🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫 平时喜欢打打游戏玩玩cos发照片 账号纯绿日常向 已经有对象啦@dexy0306 B站6.7w粉同名的是我本人号 不定期直播打游戏 祝你生活愉快～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22137,
+          "following_count": 996,
+          "like_count": 1744,
+          "listed_count": 64,
+          "media_count": 367,
+          "tweet_count": 1867
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T09:59:06.000Z",
+        "description": "I hide my tears can’t find.Forever\n\nAbout 18 years in this world\n🕗UTC+8 \n🎮project sekai player\n\nwelcome to chat with me! \n日本語を学んでいます",
+        "id": "1771476725966532608",
+        "location": "Taoyuan County, Taiwan",
+        "name": "LSEQI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037711519476293632/CbSCKEFc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 31,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "username": "LSEQI146422",
+        "verified": false
+      }
+    ]
+  }
+}

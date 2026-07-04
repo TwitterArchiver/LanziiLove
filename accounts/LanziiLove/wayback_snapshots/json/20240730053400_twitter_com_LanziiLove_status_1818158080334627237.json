@@ -1,0 +1,103 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1818158080334627237",
+    "created_at": "2024-07-30T05:34:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-30T06:34:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1818158080334627237"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1818158080334627237",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近4週間は毎日4時間続く日本語の授業を受けた後で、本当にだんだんちょっと上手になったと思う！まあ、一番簡単なN5レベルだったけど、こんな勉強の感じが素敵だね(*^▽^*)✨✨あのー言葉が全然易しくないけど(｡･ω･｡)それは真面目に難しい。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1818158080334627237",
+        "created_at": "2024-07-30T05:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T06:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818158080334627237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1818158080334627237",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近4週間は毎日4時間続く日本語の授業を受けた後で、本当にだんだんちょっと上手になったと思う！まあ、一番簡単なN5レベルだったけど、こんな勉強の感じが素敵だね(*^▽^*)✨✨あのー言葉が全然易しくないけど(｡･ω･｡)それは真面目に難しい。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "My Music Works♪：Spotify/SoundCloud/Youtube @LanziiLove My Illustrations：Pixiv/Twitter @LanziiLove 中文母语 English Mastered 日本語を勉強している",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "LanziiLove"
+              },
+              {
+                "end": 97,
+                "start": 86,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "映鏡R3-DMPT",
+        "name": "ランジーロブ",
+        "pinned_tweet_id": "1773369407219040626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756276667683889152/T34jRFSA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 66,
+          "like_count": 262,
+          "listed_count": 0,
+          "tweet_count": 178
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1917975374837043652",
+    "created_at": "2025-05-01T16:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T17:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917975374837043652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 21,
+          "id": "1915622690653954048",
+          "start": 12,
+          "username": "dexy0306"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/cldeop/status/…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/cldeop/status/1917820847332679721",
+          "start": 22,
+          "url": "https://t.co/OQ8838IXzf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917975374837043652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917820847332679721",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉像我们会干出来的事情@dexy0306 https://t.co/OQ8838IXzf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1145,
+        "media_key": "3_1917820836918280192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp13499bQAAXaEu.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1917975374837043652",
+        "created_at": "2025-05-01T16:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T17:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917975374837043652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1915622690653954048",
+              "start": 12,
+              "username": "dexy0306"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/cldeop/status/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/cldeop/status/1917820847332679721",
+              "start": 22,
+              "url": "https://t.co/OQ8838IXzf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917975374837043652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917820847332679721",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉像我们会干出来的事情@dexy0306 https://t.co/OQ8838IXzf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917820836918280192"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1917820847332679721",
+        "created_at": "2025-05-01T05:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T06:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917820847332679721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jtWUWhjq7B",
+              "end": 27,
+              "expanded_url": "https://x.com/Cldeop/status/1917820847332679721/photo/1",
+              "media_key": "3_1917820836918280192",
+              "start": 4,
+              "url": "https://t.co/jtWUWhjq7B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917820847332679721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4906,
+          "like_count": 91,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "啊？！ https://t.co/jtWUWhjq7B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "dexy0306"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11979,
+          "following_count": 710,
+          "like_count": 331,
+          "listed_count": 30,
+          "media_count": 128,
+          "tweet_count": 562
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915673915411881988/qqYyNevC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 2,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 10
+        },
+        "username": "dexy0306",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63258,
+          "following_count": 568,
+          "like_count": 28480,
+          "listed_count": 216,
+          "media_count": 9314,
+          "tweet_count": 13283
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

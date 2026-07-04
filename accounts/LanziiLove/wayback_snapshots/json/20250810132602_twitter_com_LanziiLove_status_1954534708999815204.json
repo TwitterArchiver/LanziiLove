@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1954223636342099977",
+    "created_at": "2025-08-10T13:26:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T14:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954534708999815204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "89016917",
+          "start": 0,
+          "username": "cheriemisfits"
+        },
+        {
+          "end": 28,
+          "id": "1528992774233944064",
+          "start": 15,
+          "username": "longdepzai_n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954534708999815204",
+    "in_reply_to_user_id": "89016917",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954373555438903704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cheriemisfits @longdepzai_n Easy question.\nIf you said they’re Japanese then they just believe\nIf you said they’re Chinese they’ll just say “propaganda”\n\nDon’t expect so much\nWhite pigs’ brain works with only single core"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1954223636342099977",
+        "created_at": "2025-08-10T13:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T14:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954534708999815204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "89016917",
+              "start": 0,
+              "username": "cheriemisfits"
+            },
+            {
+              "end": 28,
+              "id": "1528992774233944064",
+              "start": 15,
+              "username": "longdepzai_n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954534708999815204",
+        "in_reply_to_user_id": "89016917",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954373555438903704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cheriemisfits @longdepzai_n Easy question.\nIf you said they’re Japanese then they just believe\nIf you said they’re Chinese they’ll just say “propaganda”\n\nDon’t expect so much\nWhite pigs’ brain works with only single core"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "89016917",
+        "conversation_id": "1954223636342099977",
+        "created_at": "2025-08-10T02:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T03:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954373555438903704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1528992774233944064",
+              "start": 0,
+              "username": "longdepzai_n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954373555438903704",
+        "in_reply_to_user_id": "1528992774233944064",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 96690,
+          "like_count": 135,
+          "quote_count": 5,
+          "reply_count": 98,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954223636342099977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longdepzai_n Umm how can you identify them as Japanese just by looking at them? Could be Chinese or Korean people as well - what kinda Japanese fetish do you have 🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年国产人类🇨🇳//X当朋友圈发 照片高P//男友@Dexy0306//一个除了高考674分以外没有任何过人之处的做题区//爱好 编曲&画画&3DCG//985大二计算机科学与技术 第二学位辅修数学//B站6.2万粉丝同名// 音乐&绘画作品 音乐平台&Pixiv@LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952297088974462977/bue5f0ca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17967,
+          "following_count": 873,
+          "like_count": 996,
+          "listed_count": 45,
+          "media_count": 251,
+          "tweet_count": 1348
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-10T20:44:28.000Z",
+        "description": "Tweets about my life in China + Food + Fitness + Scuba + Puppy posts ✦ AI design @Microsoft 🫡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "Microsoft"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/meksharma",
+                "end": 23,
+                "expanded_url": "https://bento.me/meksharma",
+                "start": 0,
+                "url": "https://t.co/zwMfKG2D5m"
+              }
+            ]
+          }
+        },
+        "id": "89016917",
+        "location": "China/India/EU",
+        "name": "Mek 🌸",
+        "pinned_tweet_id": "1882348124313936320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938617050034995201/k9TWb0gD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3057,
+          "following_count": 364,
+          "like_count": 11267,
+          "listed_count": 23,
+          "media_count": 705,
+          "tweet_count": 5590
+        },
+        "url": "https://t.co/zwMfKG2D5m",
+        "username": "cheriemisfits",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-24T06:54:29.000Z",
+        "description": "Spreading kindness with a touch of wild humor. Let's make the world a better place, one laugh at a time! 😊🦌",
+        "id": "1528992774233944064",
+        "name": "Nina Deer",
+        "pinned_tweet_id": "1951832478253248832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928810897876848640/44b4xVQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54945,
+          "following_count": 4882,
+          "like_count": 7971,
+          "listed_count": 43,
+          "media_count": 826,
+          "tweet_count": 6125
+        },
+        "username": "longdepzai_n",
+        "verified": true
+      }
+    ]
+  }
+}

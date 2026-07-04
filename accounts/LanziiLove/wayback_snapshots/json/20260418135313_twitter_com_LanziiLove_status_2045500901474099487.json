@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2045461822451642754",
+    "created_at": "2026-04-18T13:53:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T14:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045500901474099487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1504273495605198855",
+          "start": 0,
+          "username": "cfgzb123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045500901474099487",
+    "in_reply_to_user_id": "1504273495605198855",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045499196384686361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cfgzb123 (｡･ω･｡)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2045461822451642754",
+        "created_at": "2026-04-18T13:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045500901474099487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1504273495605198855",
+              "start": 0,
+              "username": "cfgzb123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045500901474099487",
+        "in_reply_to_user_id": "1504273495605198855",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045499196384686361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cfgzb123 (｡･ω･｡)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504273495605198855",
+        "conversation_id": "2045461822451642754",
+        "created_at": "2026-04-18T13:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045499196384686361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045499196384686361",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045461822451642754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 《小pass》"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫✨平时喜欢打打游戏玩玩cos发照片编曲画画写代码💻账号纯绿日常向🏠已经有对象啦@dexy0306❤️B站6.7w粉同名的是我本人号😉不定期直播打游戏 评论区混眼熟了会回fo 🥳 祝你生活愉快～☀️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21947,
+          "following_count": 1019,
+          "like_count": 1864,
+          "listed_count": 64,
+          "media_count": 386,
+          "tweet_count": 1971
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T01:48:55.000Z",
+        "description": "",
+        "id": "1504273495605198855",
+        "location": "Jakarta, Indonesia🌏",
+        "name": "拔累拔累",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895123931973197824/u3OgXbat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 54,
+          "like_count": 5679,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 425
+        },
+        "username": "cfgzb123",
+        "verified": false
+      }
+    ]
+  }
+}

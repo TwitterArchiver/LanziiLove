@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1943879446282596352",
+        "13_1943879446278418432",
+        "13_1943879446668148736",
+        "3_1943879446609489920"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1943879534362624265",
+    "created_at": "2025-07-12T03:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T04:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943879534362624265"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F1McH7pf9l",
+          "end": 165,
+          "expanded_url": "https://x.com/LanziiLove/status/1943879534362624265/video/1",
+          "media_key": "13_1943879446282596352",
+          "start": 142,
+          "url": "https://t.co/F1McH7pf9l"
+        },
+        {
+          "display_url": "pic.x.com/F1McH7pf9l",
+          "end": 165,
+          "expanded_url": "https://x.com/LanziiLove/status/1943879534362624265/video/1",
+          "media_key": "13_1943879446278418432",
+          "start": 142,
+          "url": "https://t.co/F1McH7pf9l"
+        },
+        {
+          "display_url": "pic.x.com/F1McH7pf9l",
+          "end": 165,
+          "expanded_url": "https://x.com/LanziiLove/status/1943879534362624265/video/1",
+          "media_key": "13_1943879446668148736",
+          "start": 142,
+          "url": "https://t.co/F1McH7pf9l"
+        },
+        {
+          "display_url": "pic.x.com/F1McH7pf9l",
+          "end": 165,
+          "expanded_url": "https://x.com/LanziiLove/status/1943879534362624265/video/1",
+          "media_key": "3_1943879446609489920",
+          "start": 142,
+          "url": "https://t.co/F1McH7pf9l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943879534362624265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【雫と然の旅行Blog-成都篇】Day1 - ①初次见面前的准备\n为了和然然的第一次见面，雫基米也是提前准备了很久很久。穿上水手服画上妆。结果因为为了不引人耳目，穿上厚厚的外套、裤子和口罩提着超重箱子走出学校。找了个没人的地方脱下裤子。导致满头大汗浑身湿透，妆也花掉头发也乱掉qwq https://t.co/F1McH7pf9l"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7616,
+        "height": 1280,
+        "media_key": "13_1943879446282596352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1943879446282596352/img/1rrh4yHgJ5zxFjwa.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943879446282596352/vid/avc1/320x568/8YODCWufCU2lbSNR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943879446282596352/vid/avc1/480x852/ji8MzWBUumlItrT3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943879446282596352/vid/avc1/720x1280/m-njw_FLoPfjClht.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1943879446282596352/pl/Q7JOA7wTFE4ScgNQ.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 16125,
+        "height": 720,
+        "media_key": "13_1943879446278418432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1943879446278418432/img/V_wLRusEB9wVy8DA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943879446278418432/vid/avc1/480x270/AytfK3aalVw9aK6L.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943879446278418432/vid/avc1/640x360/qNl87hsoLgCUGiEC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943879446278418432/vid/avc1/1280x720/ZNKTMyXpJm4277QM.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1943879446278418432/pl/Hq6aPRDsEAWmAZEx.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 7416,
+        "height": 1280,
+        "media_key": "13_1943879446668148736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1943879446668148736/img/H_q1iuwEyLsN5wq2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943879446668148736/vid/avc1/320x568/PehQh12pR_U1Ei7R.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943879446668148736/vid/avc1/480x852/oi-cZ1dy7ebFz9b2.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943879446668148736/vid/avc1/720x1280/VKQ7HWLt822-690q.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1943879446668148736/pl/ru6EC4VmroUu63Ch.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943879446609489920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvoMDr1XcAA4fWB.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1943879446282596352",
+            "13_1943879446278418432",
+            "13_1943879446668148736",
+            "3_1943879446609489920"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1943879534362624265",
+        "created_at": "2025-07-12T03:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T04:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943879534362624265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F1McH7pf9l",
+              "end": 165,
+              "expanded_url": "https://x.com/LanziiLove/status/1943879534362624265/video/1",
+              "media_key": "13_1943879446282596352",
+              "start": 142,
+              "url": "https://t.co/F1McH7pf9l"
+            },
+            {
+              "display_url": "pic.x.com/F1McH7pf9l",
+              "end": 165,
+              "expanded_url": "https://x.com/LanziiLove/status/1943879534362624265/video/1",
+              "media_key": "13_1943879446278418432",
+              "start": 142,
+              "url": "https://t.co/F1McH7pf9l"
+            },
+            {
+              "display_url": "pic.x.com/F1McH7pf9l",
+              "end": 165,
+              "expanded_url": "https://x.com/LanziiLove/status/1943879534362624265/video/1",
+              "media_key": "13_1943879446668148736",
+              "start": 142,
+              "url": "https://t.co/F1McH7pf9l"
+            },
+            {
+              "display_url": "pic.x.com/F1McH7pf9l",
+              "end": 165,
+              "expanded_url": "https://x.com/LanziiLove/status/1943879534362624265/video/1",
+              "media_key": "3_1943879446609489920",
+              "start": 142,
+              "url": "https://t.co/F1McH7pf9l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943879534362624265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【雫と然の旅行Blog-成都篇】Day1 - ①初次见面前的准备\n为了和然然的第一次见面，雫基米也是提前准备了很久很久。穿上水手服画上妆。结果因为为了不引人耳目，穿上厚厚的外套、裤子和口罩提着超重箱子走出学校。找了个没人的地方脱下裤子。导致满头大汗浑身湿透，妆也花掉头发也乱掉qwq https://t.co/F1McH7pf9l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "dexy0306"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17724,
+          "following_count": 823,
+          "like_count": 865,
+          "listed_count": 46,
+          "media_count": 218,
+          "tweet_count": 1260
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

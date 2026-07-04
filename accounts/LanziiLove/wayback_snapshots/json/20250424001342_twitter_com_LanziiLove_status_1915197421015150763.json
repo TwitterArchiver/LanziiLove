@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1915183896649773186",
+    "created_at": "2025-04-24T00:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T01:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915197421015150763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1898774053378293760",
+          "start": 0,
+          "username": "ChushouGuandao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915197421015150763",
+    "in_reply_to_user_id": "1898774053378293760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915194581869863188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChushouGuandao 今天早上起来人差点没了🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1915183896649773186",
+        "created_at": "2025-04-24T00:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T01:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915197421015150763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898774053378293760",
+              "start": 0,
+              "username": "ChushouGuandao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915197421015150763",
+        "in_reply_to_user_id": "1898774053378293760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915194581869863188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChushouGuandao 今天早上起来人差点没了🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898774053378293760",
+        "conversation_id": "1915183896649773186",
+        "created_at": "2025-04-24T00:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T01:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915194581869863188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915194581869863188",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915184124173967754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 太惨了 我四天早八都上的想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号@kitsunehashirao被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友 他叫然然～ 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "kitsunehashirao"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku（原号被盗 请转到该新号）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11455,
+          "following_count": 694,
+          "like_count": 278,
+          "listed_count": 26,
+          "media_count": 106,
+          "tweet_count": 481
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T16:33:24.000Z",
+        "description": "喜欢水色系和蕾服，不接线下，只是发涩涩的图片或者日常\n🚪100过滤用",
+        "id": "1898774053378293760",
+        "location": "小于1km",
+        "name": "触手管道",
+        "pinned_tweet_id": "1915084984941264961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898774555130216449/--j2TlFh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 65,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 91
+        },
+        "username": "ChushouGuandao",
+        "verified": false
+      }
+    ]
+  }
+}

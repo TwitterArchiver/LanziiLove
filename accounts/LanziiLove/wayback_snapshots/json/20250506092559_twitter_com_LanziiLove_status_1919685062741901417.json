@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919685051429826561"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1919685062741901417",
+    "created_at": "2025-05-06T09:25:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T10:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919685062741901417"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5ID46cgIQN",
+          "end": 96,
+          "expanded_url": "https://x.com/LanziiLove/status/1919685062741901417/photo/1",
+          "media_key": "3_1919685051429826561",
+          "start": 73,
+          "url": "https://t.co/5ID46cgIQN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919685062741901417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雫雫提醒您，本周天是母亲节哦～\n可以给自己的妈妈送上礼物～\n或是请她吃一顿饭～\n或是一个电话&amp;一句祝福哦～\n（别搞抽象喵 网上认的不算） https://t.co/5ID46cgIQN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1919685051429826561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqQXYiMaMAEzYGA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919685051429826561"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1919685062741901417",
+        "created_at": "2025-05-06T09:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T10:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919685062741901417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ID46cgIQN",
+              "end": 96,
+              "expanded_url": "https://x.com/LanziiLove/status/1919685062741901417/photo/1",
+              "media_key": "3_1919685051429826561",
+              "start": 73,
+              "url": "https://t.co/5ID46cgIQN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919685062741901417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雫雫提醒您，本周天是母亲节哦～\n可以给自己的妈妈送上礼物～\n或是请她吃一顿饭～\n或是一个电话&amp;一句祝福哦～\n（别搞抽象喵 网上认的不算） https://t.co/5ID46cgIQN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "dexy0306"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12318,
+          "following_count": 710,
+          "like_count": 364,
+          "listed_count": 31,
+          "media_count": 133,
+          "tweet_count": 605
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

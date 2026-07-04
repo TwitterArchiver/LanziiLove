@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1919995627238523294",
+    "created_at": "2025-05-07T07:17:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T08:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920015199500734722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1422521161934643216",
+          "start": 0,
+          "username": "younstark3000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920015199500734722",
+    "in_reply_to_user_id": "1422521161934643216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919995627238523294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@younstark3000 好好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1919995618224979968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqUx15qbQAAgCzy.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1919995627238523294",
+        "created_at": "2025-05-07T07:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T08:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920015199500734722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1422521161934643216",
+              "start": 0,
+              "username": "younstark3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920015199500734722",
+        "in_reply_to_user_id": "1422521161934643216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919995627238523294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@younstark3000 好好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919995618224979968"
+          ]
+        },
+        "author_id": "1422521161934643216",
+        "conversation_id": "1919995627238523294",
+        "created_at": "2025-05-07T06:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T07:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919995627238523294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CZyh07Us3P",
+              "end": 40,
+              "expanded_url": "https://x.com/younstark3000/status/1919995627238523294/photo/1",
+              "media_key": "3_1919995618224979968",
+              "start": 17,
+              "url": "https://t.co/CZyh07Us3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919995627238523294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1101,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你关注的推文博主正在办公室当🐮🐴 https://t.co/CZyh07Us3P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "dexy0306"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12477,
+          "following_count": 714,
+          "like_count": 376,
+          "listed_count": 30,
+          "media_count": 136,
+          "tweet_count": 631
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T11:34:20.000Z",
+        "description": "infj ｜🚪188/288/520/1314口令（纯聊感谢支持）｜只在推更新｜未术MTF｜🉑定制原味｜ 推广自辨真假｜涉及💰请私信我｜二代目@younstark3000_｜生活号@zero1one0_（眼熟🉑申请互关｜盗图替我挡灾｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "younstark3000_"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "zero1one0_"
+              }
+            ]
+          }
+        },
+        "id": "1422521161934643216",
+        "location": "臺南",
+        "name": "豆奶不含糖",
+        "pinned_tweet_id": "1914707643970805924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875525818748973056/jHsZAx94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20081,
+          "following_count": 972,
+          "like_count": 36012,
+          "listed_count": 54,
+          "media_count": 398,
+          "tweet_count": 4021
+        },
+        "username": "younstark3000",
+        "verified": false
+      }
+    ]
+  }
+}

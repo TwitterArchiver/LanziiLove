@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2039278329317220559",
+    "created_at": "2026-04-01T13:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T14:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039331212733632807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911765295452344320",
+          "start": 0,
+          "username": "error332233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039331212733632807",
+    "in_reply_to_user_id": "1911765295452344320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039330634724978935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@error332233 社交媒体平台"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2039278329317220559",
+        "created_at": "2026-04-01T13:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039331212733632807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911765295452344320",
+              "start": 0,
+              "username": "error332233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039331212733632807",
+        "in_reply_to_user_id": "1911765295452344320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039330634724978935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@error332233 社交媒体平台"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911765295452344320",
+        "conversation_id": "2039278329317220559",
+        "created_at": "2026-04-01T13:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039330634724978935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039330634724978935",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039278329317220559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove sns是什么啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫 平时喜欢打打游戏玩玩cos发照片 账号纯绿日常向 已经有对象啦@dexy0306 B站6.7w粉同名的是我本人号 不定期直播打游戏 祝你生活愉快～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22131,
+          "following_count": 991,
+          "like_count": 1733,
+          "listed_count": 65,
+          "media_count": 366,
+          "tweet_count": 1861
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T12:55:51.000Z",
+        "description": "这个人非常非常懒，但是他还是写了简介",
+        "id": "1911765295452344320",
+        "name": "QAQ2333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911765458346205184/vHzUzRmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 59,
+          "like_count": 3446,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 450
+        },
+        "username": "error332233",
+        "verified": false
+      }
+    ]
+  }
+}

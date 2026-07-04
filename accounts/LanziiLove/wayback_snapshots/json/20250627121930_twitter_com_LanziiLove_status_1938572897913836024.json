@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1938292424792531110",
+    "created_at": "2025-06-27T12:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T13:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938572897913836024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2256971286",
+          "start": 0,
+          "username": "jkillmer1"
+        },
+        {
+          "end": 21,
+          "id": "1807508544645742592",
+          "start": 11,
+          "username": "talkmetax"
+        },
+        {
+          "end": 38,
+          "id": "1138842105856573445",
+          "start": 22,
+          "username": "NoContextHumans"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938572897913836024",
+    "in_reply_to_user_id": "2256971286",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938353451626373348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jkillmer1 @talkmetax @NoContextHumans If you’d never tried then just stfu🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1938292424792531110",
+        "created_at": "2025-06-27T12:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T13:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938572897913836024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2256971286",
+              "start": 0,
+              "username": "jkillmer1"
+            },
+            {
+              "end": 21,
+              "id": "1807508544645742592",
+              "start": 11,
+              "username": "talkmetax"
+            },
+            {
+              "end": 38,
+              "id": "1138842105856573445",
+              "start": 22,
+              "username": "NoContextHumans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938572897913836024",
+        "in_reply_to_user_id": "2256971286",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938353451626373348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jkillmer1 @talkmetax @NoContextHumans If you’d never tried then just stfu🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2256971286",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286732523326717952",
+              "name": "Street food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1286732523326717952",
+              "name": "Street food"
+            }
+          }
+        ],
+        "conversation_id": "1938292424792531110",
+        "created_at": "2025-06-26T21:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T22:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938353451626373348"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 91,
+              "normalized_text": "China",
+              "probability": 0.9825,
+              "start": 87,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1807508544645742592",
+              "start": 0,
+              "username": "talkmetax"
+            },
+            {
+              "end": 27,
+              "id": "1138842105856573445",
+              "start": 11,
+              "username": "NoContextHumans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938353451626373348",
+        "in_reply_to_user_id": "1807508544645742592",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938348523147190746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@talkmetax @NoContextHumans I’d advise you look at what real street food looks like in China"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜不是女孩子也不是男娘 是雫基米星人喵！｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "dexy0306"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17032,
+          "following_count": 787,
+          "like_count": 792,
+          "listed_count": 46,
+          "media_count": 208,
+          "tweet_count": 1204
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-21T21:55:28.000Z",
+        "description": "",
+        "id": "2256971286",
+        "name": "El Jefe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893386078780039171/ceNgbGtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 173,
+          "like_count": 3251,
+          "listed_count": 0,
+          "media_count": 2244,
+          "tweet_count": 8766
+        },
+        "username": "jkillmer1",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-30T20:16:47.000Z",
+        "description": "@doginaldogsx / Film Student / Crypto / Web3 / Co-host 🎙️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "doginaldogsx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "doginaldogs.com",
+                "end": 23,
+                "expanded_url": "http://doginaldogs.com",
+                "start": 0,
+                "url": "https://t.co/dRCJ15C4EU"
+              }
+            ]
+          }
+        },
+        "id": "1807508544645742592",
+        "location": "Mississippi, USA",
+        "name": "Talk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914713270910390272/U_FujgTh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 958,
+          "like_count": 8400,
+          "listed_count": 3,
+          "media_count": 276,
+          "tweet_count": 3109
+        },
+        "url": "https://t.co/dRCJ15C4EU",
+        "username": "talkmetax",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-12T16:14:51.000Z",
+        "description": "The ORIGINAL Out of Context Human Race page! Subscribe to us for $1!↗️ No Copyright intended. Partnered with @Solcasinoio",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "Solcasinoio"
+              }
+            ]
+          }
+        },
+        "id": "1138842105856573445",
+        "location": "United Kingdom",
+        "name": "Out of Context Human Race",
+        "pinned_tweet_id": "1938371704197419099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1207636309508014081/hfA24vWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4136996,
+          "following_count": 292,
+          "like_count": 77,
+          "listed_count": 9595,
+          "media_count": 36098,
+          "tweet_count": 41522
+        },
+        "username": "NoContextHumans",
+        "verified": true
+      }
+    ]
+  }
+}

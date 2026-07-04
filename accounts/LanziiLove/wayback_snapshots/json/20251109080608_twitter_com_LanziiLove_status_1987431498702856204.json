@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1987431380918411266"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1987431498702856204",
+    "created_at": "2025-11-09T08:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T09:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987431498702856204"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aZMnJUfY5v",
+          "end": 36,
+          "expanded_url": "https://x.com/LanziiLove/status/1987431498702856204/video/1",
+          "media_key": "13_1987431380918411266",
+          "start": 13,
+          "url": "https://t.co/aZMnJUfY5v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987431498702856204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "星野雫和科比打篮球被肘飞 https://t.co/aZMnJUfY5v"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 65600,
+        "height": 1280,
+        "media_key": "13_1987431380918411266",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1987431380918411266/img/OvUmXtEFb4SyS0SX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987431380918411266/vid/avc1/320x580/RWDGmmZbThJ9NduK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987431380918411266/vid/avc1/480x872/KNp2GlmWhhH_MlUS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987431380918411266/vid/avc1/704x1280/kUeJS-zEYy-kXeA1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1987431380918411266/pl/XeNEIWynaVU5K3_x.m3u8"
+          }
+        ],
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987431380918411266"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1987431498702856204",
+        "created_at": "2025-11-09T08:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T09:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987431498702856204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aZMnJUfY5v",
+              "end": 36,
+              "expanded_url": "https://x.com/LanziiLove/status/1987431498702856204/video/1",
+              "media_key": "13_1987431380918411266",
+              "start": 13,
+              "url": "https://t.co/aZMnJUfY5v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987431498702856204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "星野雫和科比打篮球被肘飞 https://t.co/aZMnJUfY5v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 不是跨 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好：编曲 画画 3DCG Cos//985大二计算机科学与技术 二学位数学//B站6.5万粉丝同名//因社恐不扩列sry 偶尔酌情回fo// 音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1986478231625810336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20680,
+          "following_count": 951,
+          "like_count": 1318,
+          "listed_count": 54,
+          "media_count": 327,
+          "tweet_count": 1611
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

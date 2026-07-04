@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2056350004290466071",
+    "created_at": "2026-05-18T12:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056353631465873672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1736715013555892224",
+          "start": 0,
+          "username": "Mere_passerby"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056353631465873672",
+    "in_reply_to_user_id": "1736715013555892224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056351122714251733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mere_passerby shizuku是日文“雫”的罗马音"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056351120310890496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImgcuubcAAM7nQ.jpg",
+        "width": 927
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2056350004290466071",
+        "created_at": "2026-05-18T12:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056353631465873672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1736715013555892224",
+              "start": 0,
+              "username": "Mere_passerby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056353631465873672",
+        "in_reply_to_user_id": "1736715013555892224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056351122714251733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mere_passerby shizuku是日文“雫”的罗马音"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056351120310890496"
+          ]
+        },
+        "author_id": "1736715013555892224",
+        "conversation_id": "2056350004290466071",
+        "created_at": "2026-05-18T12:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056351122714251733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oedhlbASWD",
+              "end": 51,
+              "expanded_url": "https://x.com/Mere_passerby/status/2056351122714251733/photo/1",
+              "media_key": "3_2056351120310890496",
+              "start": 28,
+              "url": "https://t.co/oedhlbASWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056351122714251733",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056350004290466071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 那shizuku呢？是这个吗😅 https://t.co/oedhlbASWD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her 🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku（tg上的是骗子⚠️）",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24309,
+          "following_count": 1173,
+          "like_count": 2411,
+          "listed_count": 75,
+          "media_count": 432,
+          "tweet_count": 2307
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T11:48:33.000Z",
+        "description": "伪娘/男娘爱好者 | 反差美欣赏分享\nzn不女装，钟爱男娘的优雅反差风格",
+        "id": "1736715013555892224",
+        "location": "America",
+        "name": "一名无关紧要的路人",
+        "pinned_tweet_id": "2054575897261531615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054491074719322112/mk5WyyjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 351,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 454
+        },
+        "username": "Mere_passerby",
+        "verified": false
+      }
+    ]
+  }
+}

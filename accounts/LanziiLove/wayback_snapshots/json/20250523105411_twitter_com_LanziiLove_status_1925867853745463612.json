@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1925836665458766095",
+    "created_at": "2025-05-23T10:54:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T11:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925867853745463612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "47955870",
+          "start": 0,
+          "username": "kasuga_iz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925867853745463612",
+    "in_reply_to_user_id": "47955870",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925836665458766095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasuga_iz 可愛すぎる！！！🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2592,
+        "media_key": "3_1925836519417274368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrnyHGNXYAALp3i.jpg",
+        "width": 1944
+      },
+      {
+        "height": 1944,
+        "media_key": "3_1925836527742910464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrnyHlOWgAAeYOk.jpg",
+        "width": 2592
+      },
+      {
+        "height": 1944,
+        "media_key": "3_1925836538698518528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrnyIOCX0AA38KM.jpg",
+        "width": 2592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1925836665458766095",
+        "created_at": "2025-05-23T10:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T11:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925867853745463612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "47955870",
+              "start": 0,
+              "username": "kasuga_iz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925867853745463612",
+        "in_reply_to_user_id": "47955870",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925836665458766095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasuga_iz 可愛すぎる！！！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925836519417274368",
+            "3_1925836527742910464",
+            "3_1925836538698518528"
+          ]
+        },
+        "author_id": "47955870",
+        "conversation_id": "1925836665458766095",
+        "created_at": "2025-05-23T08:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T09:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925836665458766095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/415NxLJ0J6",
+              "end": 35,
+              "expanded_url": "https://x.com/kasuga_iz/status/1925836665458766095/photo/1",
+              "media_key": "3_1925836519417274368",
+              "start": 12,
+              "url": "https://t.co/415NxLJ0J6"
+            },
+            {
+              "display_url": "pic.x.com/415NxLJ0J6",
+              "end": 35,
+              "expanded_url": "https://x.com/kasuga_iz/status/1925836665458766095/photo/1",
+              "media_key": "3_1925836527742910464",
+              "start": 12,
+              "url": "https://t.co/415NxLJ0J6"
+            },
+            {
+              "display_url": "pic.x.com/415NxLJ0J6",
+              "end": 35,
+              "expanded_url": "https://x.com/kasuga_iz/status/1925836665458766095/photo/1",
+              "media_key": "3_1925836538698518528",
+              "start": 12,
+              "url": "https://t.co/415NxLJ0J6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925836665458766095",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 11252,
+          "like_count": 760,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "水着ホシノかわい～！！ https://t.co/415NxLJ0J6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "19岁 无🍬🇨🇳男娘 可以叫咱小雫哦w｜最爱的人是妈妈和老公｜男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜理智爱国 不见证 ｜纯清水 无黄无福利 无任何业务 私信骚扰等着挨骂吧｜无门槛 同好可酌情扩列｜备用小号@hosh1no_sh1zuku｜全网同名 只有B站/X/抖音有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "dexy0306"
+              },
+              {
+                "end": 130,
+                "start": 114,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15389,
+          "following_count": 721,
+          "like_count": 471,
+          "listed_count": 42,
+          "media_count": 174,
+          "tweet_count": 851
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-17T13:16:03.000Z",
+        "description": "春日いづれです。エモとかわいいを描きたいです！最近はブルアカを遊んでいます。Fanbox：https://t.co/qo2sDpuDVW / Skeb : https://t.co/LMnBwJQPdx / Sub：@sub_kasuga ⚠Do not use my art.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sub_kasuga"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kasuga-iz.fanbox.cc",
+                "end": 68,
+                "expanded_url": "https://kasuga-iz.fanbox.cc",
+                "start": 45,
+                "url": "https://t.co/qo2sDpuDVW"
+              },
+              {
+                "display_url": "skeb.jp/@kasuga_iz",
+                "end": 101,
+                "expanded_url": "http://skeb.jp/@kasuga_iz",
+                "start": 78,
+                "url": "https://t.co/LMnBwJQPdx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kasugaizure",
+                "end": 23,
+                "expanded_url": "https://lit.link/kasugaizure",
+                "start": 0,
+                "url": "https://t.co/1YnOM7NVFC"
+              }
+            ]
+          }
+        },
+        "id": "47955870",
+        "location": "ご依頼はlit.link記載の連絡先からどうぞ！",
+        "name": "春日 / kasuga",
+        "pinned_tweet_id": "1921441220678549577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1325441442353852417/CkHPS4KU_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66415,
+          "following_count": 1077,
+          "like_count": 25183,
+          "listed_count": 664,
+          "media_count": 2569,
+          "tweet_count": 57643
+        },
+        "url": "https://t.co/1YnOM7NVFC",
+        "username": "kasuga_iz",
+        "verified": true
+      }
+    ]
+  }
+}

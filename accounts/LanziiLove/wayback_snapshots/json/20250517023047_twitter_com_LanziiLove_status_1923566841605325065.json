@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1923565401998532781",
+    "created_at": "2025-05-17T02:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T03:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923566841605325065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1664619442905677830",
+          "start": 0,
+          "username": "9dthwbmb95259"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923566841605325065",
+    "in_reply_to_user_id": "1664619442905677830",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923566705374265537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9dthwbmb95259 ありがとうww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1923565401998532781",
+        "created_at": "2025-05-17T02:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T03:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923566841605325065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1664619442905677830",
+              "start": 0,
+              "username": "9dthwbmb95259"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923566841605325065",
+        "in_reply_to_user_id": "1664619442905677830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923566705374265537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9dthwbmb95259 ありがとうww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664619442905677830",
+        "conversation_id": "1923565401998532781",
+        "created_at": "2025-05-17T02:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T03:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923566705374265537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923566705374265537",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923565557691056406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 你真是个从里到外都很可爱的女孩呢！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "19岁 不含🍬🇨🇳男娘 可以叫咱小雫哦w｜已有男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜理智爱国 不见证 ｜纯清水 无黄无福利 不接任何业务 私信骚扰的等着挨骂吧｜无门槛 同好可酌情扩列｜备用小号@hosh1no_sh1zuku｜全网同名 只有B站/X/抖音有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "dexy0306"
+              },
+              {
+                "end": 124,
+                "start": 108,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14491,
+          "following_count": 719,
+          "like_count": 416,
+          "listed_count": 39,
+          "media_count": 156,
+          "tweet_count": 735
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T13:06:29.000Z",
+        "description": "校内治安維持部員",
+        "id": "1664619442905677830",
+        "name": "レイ_9d",
+        "pinned_tweet_id": "1792911545589977418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1692692342053220352/0KlagTjY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 131,
+          "like_count": 3802,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 819
+        },
+        "username": "9dthwbmb95259",
+        "verified": false
+      }
+    ]
+  }
+}

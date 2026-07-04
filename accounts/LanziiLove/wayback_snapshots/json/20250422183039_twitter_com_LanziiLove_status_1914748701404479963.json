@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1914267809124876323",
+    "created_at": "2025-04-22T18:30:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T19:30:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914748701404479963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "891910347677851648",
+          "start": 0,
+          "username": "mikuwangmiku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914748701404479963",
+    "in_reply_to_user_id": "891910347677851648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914738816499535949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikuwangmiku wow这个好wwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1914267809124876323",
+        "created_at": "2025-04-22T18:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T19:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914748701404479963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "891910347677851648",
+              "start": 0,
+              "username": "mikuwangmiku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914748701404479963",
+        "in_reply_to_user_id": "891910347677851648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914738816499535949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikuwangmiku wow这个好wwww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "891910347677851648",
+        "conversation_id": "1914267809124876323",
+        "created_at": "2025-04-22T17:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T18:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914738816499535949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/dj_Maud0210/st…",
+              "end": 35,
+              "expanded_url": "https://x.com/dj_Maud0210/status/1910952012604420174",
+              "start": 12,
+              "url": "https://t.co/MzyRTEE1RP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914738816499535949",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910952012604420174",
+            "type": "quoted"
+          },
+          {
+            "id": "1914267809124876323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove https://t.co/MzyRTEE1RP\n贫乳初音赛高🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号@kitsunehashirao被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友 他叫然然～ 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "kitsunehashirao"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku（原号被盗 请转到该新号）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11304,
+          "following_count": 692,
+          "like_count": 270,
+          "listed_count": 25,
+          "media_count": 103,
+          "tweet_count": 461
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-31T06:36:12.000Z",
+        "description": "中国語と英語OK／日本語勉強中\n漫画・アニメ・ボカロ・J-POPが好き\n推しは初音ミク✨\n（最近ハマり：ヨアソビ/ヅタマヨ/ヨルシカ）",
+        "id": "891910347677851648",
+        "location": "太阳系中离太阳距离第三近的星球",
+        "name": "未来初始之音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670097904068100098/J7YlevK__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 232,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 105
+        },
+        "username": "mikuwangmiku",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1911783730135359488",
+        "3_1911783730147983360"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1911783742106214731",
+    "created_at": "2025-04-14T14:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T15:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1911783742106214731"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "男娘"
+        },
+        {
+          "end": 50,
+          "start": 47,
+          "tag": "伪娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1wStB0dBux",
+          "end": 74,
+          "expanded_url": "https://x.com/LanziiLove/status/1911783742106214731/photo/1",
+          "media_key": "3_1911783730135359488",
+          "start": 51,
+          "url": "https://t.co/1wStB0dBux"
+        },
+        {
+          "display_url": "pic.x.com/1wStB0dBux",
+          "end": 74,
+          "expanded_url": "https://x.com/LanziiLove/status/1911783742106214731/photo/1",
+          "media_key": "3_1911783730147983360",
+          "start": 51,
+          "url": "https://t.co/1wStB0dBux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911783742106214731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【补档】大号被盗 被人冒充\n本号为唯一本人真号 主页置顶查证\n求宝子们转推救一救🥲\n\n#男娘 #伪娘 https://t.co/1wStB0dBux"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1911783730135359488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GogFLGoW4AAOdQ5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1538,
+        "media_key": "3_1911783730147983360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GogFLGrXgAAk_uc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911783730135359488",
+            "3_1911783730147983360"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1911783742106214731",
+        "created_at": "2025-04-14T14:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T15:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911783742106214731"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "男娘"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1wStB0dBux",
+              "end": 74,
+              "expanded_url": "https://x.com/LanziiLove/status/1911783742106214731/photo/1",
+              "media_key": "3_1911783730135359488",
+              "start": 51,
+              "url": "https://t.co/1wStB0dBux"
+            },
+            {
+              "display_url": "pic.x.com/1wStB0dBux",
+              "end": 74,
+              "expanded_url": "https://x.com/LanziiLove/status/1911783742106214731/photo/1",
+              "media_key": "3_1911783730147983360",
+              "start": 51,
+              "url": "https://t.co/1wStB0dBux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911783742106214731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【补档】大号被盗 被人冒充\n本号为唯一本人真号 主页置顶查证\n求宝子们转推救一救🥲\n\n#男娘 #伪娘 https://t.co/1wStB0dBux"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "大号@hosh1no_shizuku被盗了 这个是之前大号简介@的小号 看我主页证明 求宝子们转推 冒充狗@FuturistBa51980帮忙举报一下谢谢！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "hosh1no_shizuku"
+              },
+              {
+                "end": 69,
+                "start": 53,
+                "username": "FuturistBa51980"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "映鏡R3-DMPT",
+        "name": "星野雫丶Shizuku（唯一真号 主页查证）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 71,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 161
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

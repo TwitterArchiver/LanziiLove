@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2066257989263089732",
+    "created_at": "2026-06-15T14:26:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T15:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066527681639067677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1430254057998925824",
+          "start": 0,
+          "username": "BBLReactions"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066527681639067677",
+    "in_reply_to_user_id": "1430254057998925824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066257989263089732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BBLReactions 傻逼 哪来的野狗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2066257989263089732",
+        "created_at": "2026-06-15T14:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066527681639067677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1430254057998925824",
+              "start": 0,
+              "username": "BBLReactions"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066527681639067677",
+        "in_reply_to_user_id": "1430254057998925824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066257989263089732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BBLReactions 傻逼 哪来的野狗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430254057998925824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          }
+        ],
+        "conversation_id": "2066257989263089732",
+        "created_at": "2026-06-14T20:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T21:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066257989263089732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/valorantesport…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/valorantesports/status/2066230952217674208",
+              "start": 49,
+              "url": "https://t.co/ZaxQ50rhrd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066257989263089732",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 85358,
+          "like_count": 1059,
+          "quote_count": 0,
+          "reply_count": 107,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066230952217674208",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Çinliler olmayınca Valorant'ın güzellik seviyesi https://t.co/ZaxQ50rhrd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！直女w💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人！🏠我永生挚爱的男友然桑@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25507,
+          "following_count": 1260,
+          "like_count": 3126,
+          "listed_count": 78,
+          "media_count": 463,
+          "tweet_count": 2778
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T19:42:03.000Z",
+        "description": "BBL'e dair her şey! • Fan account \n📂 @VCTReaction",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "VCTReaction"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "SefaaBaskann.framer.ai",
+                "end": 23,
+                "expanded_url": "https://SefaaBaskann.framer.ai/",
+                "start": 0,
+                "url": "https://t.co/OTbsVPMO5C"
+              }
+            ]
+          }
+        },
+        "id": "1430254057998925824",
+        "name": "BBL Reactions",
+        "pinned_tweet_id": "2061829151137358051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997613236326191104/qRsODt2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6949,
+          "following_count": 17,
+          "like_count": 7212,
+          "listed_count": 7,
+          "media_count": 2203,
+          "tweet_count": 3227
+        },
+        "url": "https://t.co/OTbsVPMO5C",
+        "username": "BBLReactions",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1928375754691084717",
+    "created_at": "2025-06-02T05:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T06:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929415189805613149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1652682477134299136",
+          "start": 0,
+          "username": "jjj532517296068"
+        },
+        {
+          "end": 27,
+          "id": "1852361850782179328",
+          "start": 17,
+          "username": "gugugulou"
+        },
+        {
+          "end": 44,
+          "id": "1459490226095943685",
+          "start": 33,
+          "username": "miratsu169"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929415189805613149",
+    "in_reply_to_user_id": "1652682477134299136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929413858957070550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jjj532517296068 @gugugulou 这位老师的@miratsu169"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1928375754691084717",
+        "created_at": "2025-06-02T05:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T06:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929415189805613149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1652682477134299136",
+              "start": 0,
+              "username": "jjj532517296068"
+            },
+            {
+              "end": 27,
+              "id": "1852361850782179328",
+              "start": 17,
+              "username": "gugugulou"
+            },
+            {
+              "end": 44,
+              "id": "1459490226095943685",
+              "start": 33,
+              "username": "miratsu169"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929415189805613149",
+        "in_reply_to_user_id": "1652682477134299136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929413858957070550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jjj532517296068 @gugugulou 这位老师的@miratsu169"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652682477134299136",
+        "conversation_id": "1928375754691084717",
+        "created_at": "2025-06-02T05:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T06:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929413858957070550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 22,
+              "id": "1852361850782179328",
+              "start": 12,
+              "username": "gugugulou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929413858957070550",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928414455429316738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @gugugulou 还有这样初音的表情包吗好可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜ 是雫基米星人喵 来自🇨🇳成都｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "dexy0306"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16529,
+          "following_count": 733,
+          "like_count": 685,
+          "listed_count": 44,
+          "media_count": 189,
+          "tweet_count": 1080
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T14:33:23.000Z",
+        "description": "",
+        "id": "1652682477134299136",
+        "name": "文红",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929414007964000256/41FcClvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 36,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "jjj532517296068",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T14:47:46.000Z",
+        "description": "🖤将你拖入堕落的炼狱里🖤\n\n双性/from:？\n私信概率掉落门牌，有门52。",
+        "id": "1852361850782179328",
+        "location": "hell",
+        "name": "♡cat♡",
+        "pinned_tweet_id": "1907303963483091292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901278823892889600/x2AxYGzo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1410,
+          "following_count": 11,
+          "like_count": 17,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 44
+        },
+        "username": "gugugulou",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-13T11:56:07.000Z",
+        "description": "AI🚫 \nKR/JP \nemail seet100r@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/miratsu169",
+                "end": 23,
+                "expanded_url": "https://lit.link/miratsu169",
+                "start": 0,
+                "url": "https://t.co/kkI42PSvxE"
+              }
+            ]
+          }
+        },
+        "id": "1459490226095943685",
+        "location": "HP",
+        "name": "みらつ/밋다다@依頼停止中",
+        "pinned_tweet_id": "1929336868119740763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929224207055126528/BVuHXFDU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82617,
+          "following_count": 72,
+          "like_count": 823,
+          "listed_count": 215,
+          "media_count": 511,
+          "tweet_count": 592
+        },
+        "url": "https://t.co/kkI42PSvxE",
+        "username": "miratsu169",
+        "verified": true
+      }
+    ]
+  }
+}

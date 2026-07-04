@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2053800337207963728",
+    "created_at": "2026-05-11T14:49:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T15:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053849937549602899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1899682374679760896",
+          "start": 0,
+          "username": "minGxw_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053849937549602899",
+    "in_reply_to_user_id": "1899682374679760896",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053800337207963728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minGxw_ ⚡️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053800334787751936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICQheKaMAA8-t0.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2053800337207963728",
+        "created_at": "2026-05-11T14:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053849937549602899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1899682374679760896",
+              "start": 0,
+              "username": "minGxw_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053849937549602899",
+        "in_reply_to_user_id": "1899682374679760896",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053800337207963728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minGxw_ ⚡️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053800334787751936"
+          ]
+        },
+        "author_id": "1899682374679760896",
+        "conversation_id": "2053800337207963728",
+        "created_at": "2026-05-11T11:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053800337207963728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z3VUmdBUCc",
+              "end": 151,
+              "expanded_url": "https://x.com/minGxw_/status/2053800337207963728/photo/1",
+              "media_key": "3_2053800334787751936",
+              "start": 128,
+              "url": "https://t.co/Z3VUmdBUCc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053800337207963728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识，森亚露露卡是1983年生人，今年43岁，正是当我妈妈的年纪\n剧中露露卡16岁，就已经成了这么多大友们的萝莉妈妈，那么同为16岁的长崎素世自然也是萝莉妈妈（实则是露露卡c服流团了于是选择换另一位妈妈cos）\n哦不过我宿舍里没有落地镜，只能等暑假再拍 https://t.co/Z3VUmdBUCc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！希望被称作She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23849,
+          "following_count": 1142,
+          "like_count": 2263,
+          "listed_count": 73,
+          "media_count": 422,
+          "tweet_count": 2194
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T04:42:40.000Z",
+        "description": "成年男性，单纯喜欢穿可爱的小裙子，被夸夸会很开心┋铁血舟批所以是足控，单推Mon3tr┋除此之外的爱好大概就是吃美食、做美食和打游戏（以音游为主）┋现于成都读书ing┋174/130减肥中┋很少看私信请求所以有话最好发评论区",
+        "id": "1899682374679760896",
+        "name": "冥消亡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899682553889734656/NqWWUSTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 61,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 72
+        },
+        "username": "minGxw_",
+        "verified": false
+      }
+    ]
+  }
+}

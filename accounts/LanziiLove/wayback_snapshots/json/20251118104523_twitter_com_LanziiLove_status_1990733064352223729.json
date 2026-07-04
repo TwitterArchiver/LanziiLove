@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1990686387998503040",
+    "created_at": "2025-11-18T10:45:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T11:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990733064352223729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1962134873906479104",
+          "start": 0,
+          "username": "Ethereumresiden"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990733064352223729",
+    "in_reply_to_user_id": "1962134873906479104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990709426022690914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ethereumresiden 好滴好滴！感谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1990686387998503040",
+        "created_at": "2025-11-18T10:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T11:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990733064352223729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1962134873906479104",
+              "start": 0,
+              "username": "Ethereumresiden"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990733064352223729",
+        "in_reply_to_user_id": "1962134873906479104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990709426022690914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ethereumresiden 好滴好滴！感谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962134873906479104",
+        "conversation_id": "1990686387998503040",
+        "created_at": "2025-11-18T09:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T10:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990709426022690914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "v.douyin.com/kjEQqs_GRQs/",
+              "end": 84,
+              "expanded_url": "https://v.douyin.com/kjEQqs_GRQs/",
+              "start": 61,
+              "status": 200,
+              "unwound_url": "https://www.iesdouyin.com/share/user/MS4wLjABAAAAG8HOYT-gBAbDCybCa5iW7oHZ4nDObzI94eqQgAQOM08?did=MS4wLjABAAAAewNQTPjmCjRJ8H5c7dnt1jOvZO5FY_-ZIDY6-FOJ7J52s9WD-yPe33MdwLSfHWqf&iid=MS4wLjABAAAAnpUJ5pK_ZfZojmrIW-IUsZ40OF_Ib3PHABydyE7kqo4&with_sec_did=1&sec_uid=MS4wLjABAAAAG8HOYT-gBAbDCybCa5iW7oHZ4nDObzI94eqQgAQOM08&from_ssr=1&from_aid=1128&u_code=1ii28g8d8j34&timestamp=1763457019&ecom_share_track_params=%7B%22is_ec_shopping%22%3A%221%22%2C%22secuid%22%3A%22MS4wLjABAAAAYhdZYpmInjmFLzZptlRSGA9gzvreuBJ0o-OJTdkrHcqVxqbbP-xELeGlqxQokY1W%22%2C%22enter_from%22%3A%22others_homepage%22%2C%22share_previous_page%22%3A%22others_homepage%22%2C%22share_action_type%22%3A%22click%22%7D&utm_source=copy&utm_campaign=client_share&utm_medium=android&app=aweme&life_share_ext=%7B%22life_share_id%22%3A%2203379c01e93b426bad81523c0ad87a47%22%2C%22from_user_id%22%3A1731093992050442%2C%22enter_from%22%3A%22others_homepage%22%2C%22personal_enter_page%22%3A%22personal_homepage%22%2C%22personal_enter_method%22%3A%22click_avatar%22%7D&ug_share_id=28393809911513871763457023052&activity_info=%7B%22social_author_id%22%3A%22105558692017%22%2C%22social_share_id%22%3A%221731093992050442_1763457019207%22%2C%22social_share_time%22%3A%221763457019%22%2C%22social_share_user_id%22%3A%221731093992050442%22%7D",
+              "url": "https://t.co/qKGonweYNl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990709426022690914",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990686387998503040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 这个抖音博主很懂胶衣，可以了解一下\n\n1- 长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://t.co/qKGonweYNl 1@9.com :4pm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 不是跨 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好：编曲 画画 3DCG Cos//985大二计算机科学与技术 二学位数学//B站6.5万粉丝同名//因社恐不扩列sry 偶尔酌情回fo// 音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1986478231625810336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20794,
+          "following_count": 956,
+          "like_count": 1365,
+          "listed_count": 56,
+          "media_count": 335,
+          "tweet_count": 1655
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T12:46:43.000Z",
+        "description": "要避雷我请趁早，总比日久见人心那种幻灭感要温柔的多",
+        "id": "1962134873906479104",
+        "name": "汐",
+        "pinned_tweet_id": "1980496399109353728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986815557270994944/aEvlrr3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 248,
+          "like_count": 5607,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1121
+        },
+        "username": "Ethereumresiden",
+        "verified": false
+      }
+    ]
+  }
+}

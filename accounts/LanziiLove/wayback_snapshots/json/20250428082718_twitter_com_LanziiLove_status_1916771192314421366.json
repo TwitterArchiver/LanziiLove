@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1916769611363569978",
+    "created_at": "2025-04-28T08:27:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T09:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916771192314421366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1510896056694829061",
+          "start": 0,
+          "username": "HydrazineW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916771192314421366",
+    "in_reply_to_user_id": "1510896056694829061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916769611363569978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HydrazineW 哇 是大雷吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 204,
+        "media_key": "3_1916769600005644288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpm7y7SaoAApErX.jpg",
+        "width": 360
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1916769607450566656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpm7zXBbIAA-7NW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 204,
+        "media_key": "3_1916769600014065664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpm7y7UbIAAoq4_.jpg",
+        "width": 360
+      },
+      {
+        "height": 206,
+        "media_key": "3_1916769600815218688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpm7y-TbwAAe_mU.jpg",
+        "width": 416
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1916769611363569978",
+        "created_at": "2025-04-28T08:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T09:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916771192314421366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510896056694829061",
+              "start": 0,
+              "username": "HydrazineW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916771192314421366",
+        "in_reply_to_user_id": "1510896056694829061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916769611363569978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HydrazineW 哇 是大雷吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916769600005644288",
+            "3_1916769607450566656",
+            "3_1916769600014065664",
+            "3_1916769600815218688"
+          ]
+        },
+        "author_id": "1510896056694829061",
+        "conversation_id": "1916769611363569978",
+        "created_at": "2025-04-28T08:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T09:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916769611363569978"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "菜上菜",
+              "probability": 0.3475,
+              "start": 1,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "男娘"
+            },
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "男の娘"
+            },
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "Femboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pL78d0rupQ",
+              "end": 47,
+              "expanded_url": "https://x.com/HydrazineW/status/1916769611363569978/photo/1",
+              "media_key": "3_1916769600005644288",
+              "start": 24,
+              "url": "https://t.co/pL78d0rupQ"
+            },
+            {
+              "display_url": "pic.x.com/pL78d0rupQ",
+              "end": 47,
+              "expanded_url": "https://x.com/HydrazineW/status/1916769611363569978/photo/1",
+              "media_key": "3_1916769607450566656",
+              "start": 24,
+              "url": "https://t.co/pL78d0rupQ"
+            },
+            {
+              "display_url": "pic.x.com/pL78d0rupQ",
+              "end": 47,
+              "expanded_url": "https://x.com/HydrazineW/status/1916769611363569978/photo/1",
+              "media_key": "3_1916769600014065664",
+              "start": 24,
+              "url": "https://t.co/pL78d0rupQ"
+            },
+            {
+              "display_url": "pic.x.com/pL78d0rupQ",
+              "end": 47,
+              "expanded_url": "https://x.com/HydrazineW/status/1916769611363569978/photo/1",
+              "media_key": "3_1916769600815218688",
+              "start": 24,
+              "url": "https://t.co/pL78d0rupQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916769611363569978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 568,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上菜上菜~🥰\n#男娘 #男の娘 #Femboy https://t.co/pL78d0rupQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "dexy0306"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11767,
+          "following_count": 707,
+          "like_count": 309,
+          "listed_count": 30,
+          "media_count": 122,
+          "tweet_count": 540
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-04T08:24:39.000Z",
+        "description": "是可爱阿楠哦😘16碎/184㎝/56㎏                                              中文○ English○ 日本語✕#男娘 #Femboy            \n涩涩阿楠video9.9缘 丘丘🚪52",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 82,
+                "tag": "男娘"
+              },
+              {
+                "end": 93,
+                "start": 86,
+                "tag": "Femboy"
+              }
+            ]
+          }
+        },
+        "id": "1510896056694829061",
+        "name": "Hydrazine涟阿楠",
+        "pinned_tweet_id": "1882339439852278228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881330491238006784/446564LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 24,
+          "like_count": 17,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 28
+        },
+        "username": "HydrazineW",
+        "verified": false
+      }
+    ]
+  }
+}

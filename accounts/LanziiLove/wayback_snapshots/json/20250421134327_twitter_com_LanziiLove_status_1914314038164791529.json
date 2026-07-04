@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1914233638474203365",
+    "created_at": "2025-04-21T13:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T14:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914314038164791529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1685784710285266944",
+          "start": 0,
+          "username": "mhtqwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "e.tb.cn/h.6jGnOUeweq6h…",
+          "end": 43,
+          "expanded_url": "https://e.tb.cn/h.6jGnOUeweq6htdf?tk=lrrcVXFXc9m",
+          "start": 20,
+          "status": 200,
+          "unwound_url": "https://e.tb.cn/h.6jGnOUeweq6htdf?tk=lrrcVXFXc9m",
+          "url": "https://t.co/JWrmSzBV5o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914314038164791529",
+    "in_reply_to_user_id": "1685784710285266944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914313539923353913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mhtqwq 【淘宝】7天无理由退货 https://t.co/JWrmSzBV5o HU071 「蕾丝睡衣女夏季薄款2025年新款公主风超仙性感吊带胸垫睡裙两件套」\n点击链接直接打开 或者 淘宝搜索直接打开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1914233638474203365",
+        "created_at": "2025-04-21T13:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T14:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914314038164791529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1685784710285266944",
+              "start": 0,
+              "username": "mhtqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "e.tb.cn/h.6jGnOUeweq6h…",
+              "end": 43,
+              "expanded_url": "https://e.tb.cn/h.6jGnOUeweq6htdf?tk=lrrcVXFXc9m",
+              "start": 20,
+              "status": 200,
+              "unwound_url": "https://e.tb.cn/h.6jGnOUeweq6htdf?tk=lrrcVXFXc9m",
+              "url": "https://t.co/JWrmSzBV5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914314038164791529",
+        "in_reply_to_user_id": "1685784710285266944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914313539923353913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mhtqwq 【淘宝】7天无理由退货 https://t.co/JWrmSzBV5o HU071 「蕾丝睡衣女夏季薄款2025年新款公主风超仙性感吊带胸垫睡裙两件套」\n点击链接直接打开 或者 淘宝搜索直接打开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685784710285266944",
+        "conversation_id": "1914233638474203365",
+        "created_at": "2025-04-21T13:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T14:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914313539923353913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914313539923353913",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914233638474203365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 想要裙子链接QwQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号@kitsunehashirao被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友 他叫然然～ 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "kitsunehashirao"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku（原号被盗 请转到该新号）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10894,
+          "following_count": 683,
+          "like_count": 264,
+          "listed_count": 26,
+          "media_count": 101,
+          "tweet_count": 431
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T22:49:53.000Z",
+        "description": "mtf，infp｜友善对待所有人｜正式出柜前处理大量事务ing｜不建政｜Minecraft｜玩格雷的m｜p社战犯｜杂鱼😈@Alxiaz_｜其余忘了...咱总该写点东西",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "Alxiaz_"
+              }
+            ]
+          }
+        },
+        "id": "1685784710285266944",
+        "location": "天津四,联合",
+        "name": "🍓草莓棉花糖🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895128785860665344/EGkQqjL8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 334,
+          "like_count": 3283,
+          "listed_count": 3,
+          "media_count": 285,
+          "tweet_count": 2707
+        },
+        "username": "mhtqwq",
+        "verified": true
+      }
+    ]
+  }
+}

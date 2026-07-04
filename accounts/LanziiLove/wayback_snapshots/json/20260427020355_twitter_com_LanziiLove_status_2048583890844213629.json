@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2048519419832508570",
+    "created_at": "2026-04-27T02:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T03:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048583890844213629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945314547126185984",
+          "start": 0,
+          "username": "pysimpom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048583890844213629",
+    "in_reply_to_user_id": "1945314547126185984",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048578547091214617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pysimpom 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2048519419832508570",
+        "created_at": "2026-04-27T02:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048583890844213629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945314547126185984",
+              "start": 0,
+              "username": "pysimpom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048583890844213629",
+        "in_reply_to_user_id": "1945314547126185984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048578547091214617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pysimpom 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945314547126185984",
+        "conversation_id": "2048519419832508570",
+        "created_at": "2026-04-27T01:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048578547091214617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048578547091214617",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048519419832508570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 洗完澡之后发现自己被叮\n穿短袖发现自己被叮\n半夜耳边雷鸣\n半夜驱赶了蚊子一次过一会耳边又雷鸣\n把头缩在被子里耳边还是雷鸣\n喷花露水耳边还是雷鸣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！希望被称作She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意平台公益捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22739,
+          "following_count": 1048,
+          "like_count": 1999,
+          "listed_count": 66,
+          "media_count": 394,
+          "tweet_count": 2055
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T02:48:34.000Z",
+        "description": "特摄厨，BA厨，美漫厨 | blender和绘画在学 | 现在南京 | vibe，古法两手抓中\ngithub:https://t.co/GbsMIU43kQ|\nNGL:https://t.co/v8WRYGH0ZI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/evilmordy",
+                "end": 78,
+                "expanded_url": "http://github.com/evilmordy",
+                "start": 55,
+                "url": "https://t.co/GbsMIU43kQ"
+              },
+              {
+                "display_url": "ngl.link/yuchaosong791",
+                "end": 107,
+                "expanded_url": "https://ngl.link/yuchaosong791",
+                "start": 84,
+                "url": "https://t.co/v8WRYGH0ZI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/hFP8V8t",
+                "end": 23,
+                "expanded_url": "https://b23.tv/hFP8V8t",
+                "start": 0,
+                "url": "https://t.co/9W4RGXWEkT"
+              }
+            ]
+          }
+        },
+        "id": "1945314547126185984",
+        "name": "fake sensei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042548764972564480/-U2cGKZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 1151,
+          "like_count": 5851,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1372
+        },
+        "url": "https://t.co/9W4RGXWEkT",
+        "username": "pysimpom",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2040417992857751743",
+    "created_at": "2026-04-04T23:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T00:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040579381345845258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2026738322887016449",
+          "start": 0,
+          "username": "Cup765"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040579381345845258",
+    "in_reply_to_user_id": "2026738322887016449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040496690365599752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cup765 是滴hhh\n里面全是巨大化零食"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2040417992857751743",
+        "created_at": "2026-04-04T23:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T00:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040579381345845258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2026738322887016449",
+              "start": 0,
+              "username": "Cup765"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040579381345845258",
+        "in_reply_to_user_id": "2026738322887016449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040496690365599752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cup765 是滴hhh\n里面全是巨大化零食"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026738322887016449",
+        "conversation_id": "2040417992857751743",
+        "created_at": "2026-04-04T18:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T19:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040496690365599752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040496690365599752",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040417992857751743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 长沙零食很忙吗，有辛见过一次，可惜没买"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫 平时喜欢打打游戏玩玩cos发照片 账号纯绿日常向 已经有对象啦@dexy0306 B站6.7w粉同名的是我本人号 不定期直播打游戏 评论区混眼熟了会回fo 祝你生活愉快～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22168,
+          "following_count": 996,
+          "like_count": 1745,
+          "listed_count": 64,
+          "media_count": 368,
+          "tweet_count": 1872
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T19:18:23.000Z",
+        "description": "一个臭画画的大啥比，不稳定产出低质量同人\n太鼓是恋人，菜鸟菜鸟\n爱碎碎念，发发牢骚\n可以找我交朋友（没人鸟😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cjdgrevival.com",
+                "end": 23,
+                "expanded_url": "http://cjdgrevival.com",
+                "start": 0,
+                "url": "https://t.co/mjjA1xx8Kj"
+              }
+            ]
+          }
+        },
+        "id": "2026738322887016449",
+        "location": "初星学園",
+        "name": "熊野滨智",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040464490920284160/mx-hnEha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 41,
+          "like_count": 1210,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 271
+        },
+        "url": "https://t.co/mjjA1xx8Kj",
+        "username": "Cup765",
+        "verified": false
+      }
+    ]
+  }
+}

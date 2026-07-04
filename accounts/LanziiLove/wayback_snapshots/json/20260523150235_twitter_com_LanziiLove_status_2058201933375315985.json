@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2058155138502795461",
+    "created_at": "2026-05-23T15:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058201933375315985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1968781057",
+          "start": 0,
+          "username": "kokurushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058201933375315985",
+    "in_reply_to_user_id": "1968781057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058201832732893448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokurushi 谢谢❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2058155138502795461",
+        "created_at": "2026-05-23T15:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058201933375315985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1968781057",
+              "start": 0,
+              "username": "kokurushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058201933375315985",
+        "in_reply_to_user_id": "1968781057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058201832732893448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokurushi 谢谢❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968781057",
+        "conversation_id": "2058155138502795461",
+        "created_at": "2026-05-23T15:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058201832732893448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058201832732893448",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058155138502795461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 祝顺利，加油👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24740,
+          "following_count": 1207,
+          "like_count": 2744,
+          "listed_count": 76,
+          "media_count": 439,
+          "tweet_count": 2508
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-18T12:08:01.000Z",
+        "description": "曲を作ってみる。\n孤独を謳え。\n\n神戸在住、音楽勉強中。\n\nbili: https://t.co/zjuBDkFfSs\nnico: mylist/21565530",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/2045542/",
+                "end": 59,
+                "expanded_url": "http://space.bilibili.com/2045542/",
+                "start": 36,
+                "url": "https://t.co/zjuBDkFfSs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kokurushi.lofter.com",
+                "end": 23,
+                "expanded_url": "http://kokurushi.lofter.com",
+                "start": 0,
+                "url": "https://t.co/sZJLabWM5o"
+              }
+            ]
+          }
+        },
+        "id": "1968781057",
+        "location": "三呑み屋",
+        "name": "琴南こどく@心地リハビリ中。",
+        "pinned_tweet_id": "802427456439234560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773652453034209280/r-ID8O87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2428,
+          "following_count": 6051,
+          "like_count": 8502,
+          "listed_count": 18,
+          "media_count": 277,
+          "tweet_count": 1532
+        },
+        "url": "https://t.co/sZJLabWM5o",
+        "username": "kokurushi",
+        "verified": false
+      }
+    ]
+  }
+}

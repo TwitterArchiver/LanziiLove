@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1927380916885680147",
+    "created_at": "2025-05-27T16:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T17:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927404471035797905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1844402381070663680",
+          "start": 0,
+          "username": "camellia_ayin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927404471035797905",
+    "in_reply_to_user_id": "1844402381070663680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927380916885680147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@camellia_ayin 看多了就会了喵\n①一眼丁真法：过于流行和烂大街的画风/图片风格，看多了就能看出来\n②扣细节：有很多细节是没有逻辑且很油腻、粘连的。比如眼睛、头发、背景中的小物件和细节。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1927380916885680147",
+        "created_at": "2025-05-27T16:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T17:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927404471035797905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1844402381070663680",
+              "start": 0,
+              "username": "camellia_ayin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927404471035797905",
+        "in_reply_to_user_id": "1844402381070663680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927380916885680147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@camellia_ayin 看多了就会了喵\n①一眼丁真法：过于流行和烂大街的画风/图片风格，看多了就能看出来\n②扣细节：有很多细节是没有逻辑且很油腻、粘连的。比如眼睛、头发、背景中的小物件和细节。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844402381070663680",
+        "conversation_id": "1927380916885680147",
+        "created_at": "2025-05-27T15:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T16:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927380916885680147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927380916885680147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人能教教我如何识别ai生成的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜ 是雫基米星人喵 来自🇨🇳成都｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "dexy0306"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨（LanziiLove）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15528,
+          "following_count": 725,
+          "like_count": 563,
+          "listed_count": 43,
+          "media_count": 180,
+          "tweet_count": 938
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T15:39:41.000Z",
+        "description": "English//中文//日本語#喜欢动漫，音乐，不站队，05年，喜欢cos，有时候会女装，中二病晚期，欢迎大家加我好友",
+        "id": "1844402381070663680",
+        "name": "かめりあ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877234716556013568/G6UMBCK4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 144,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 1400
+        },
+        "username": "camellia_ayin",
+        "verified": false
+      }
+    ]
+  }
+}

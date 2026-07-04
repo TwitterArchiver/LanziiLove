@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1928797133202747889",
+    "created_at": "2025-05-31T14:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T15:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928818507115827642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1580893568675106817",
+          "start": 0,
+          "username": "reveriennn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928818507115827642",
+    "in_reply_to_user_id": "1580893568675106817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928815551247520012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reveriennn 为了报计算机（\n同分数线的西交哈工不喜欢qwq\n华科擦线所以没敢报\n\n其实我们班最低分673最高分678\nqwq\n我们学校最好专业还有690+的qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1928797133202747889",
+        "created_at": "2025-05-31T14:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T15:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928818507115827642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1580893568675106817",
+              "start": 0,
+              "username": "reveriennn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928818507115827642",
+        "in_reply_to_user_id": "1580893568675106817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928815551247520012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reveriennn 为了报计算机（\n同分数线的西交哈工不喜欢qwq\n华科擦线所以没敢报\n\n其实我们班最低分673最高分678\nqwq\n我们学校最好专业还有690+的qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580893568675106817",
+        "conversation_id": "1928797133202747889",
+        "created_at": "2025-05-31T14:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T15:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928815551247520012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928815551247520012",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928797133202747889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 670为什么要去电科啊））"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜ 是雫基米星人喵 来自🇨🇳成都｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "dexy0306"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15837,
+          "following_count": 732,
+          "like_count": 669,
+          "listed_count": 44,
+          "media_count": 188,
+          "tweet_count": 1052
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T12:09:43.000Z",
+        "description": "这里什么也没有哦...",
+        "id": "1580893568675106817",
+        "name": "梦梦#心宿二",
+        "pinned_tweet_id": "1916116852817989637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581873239374319616/8uAOm084_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 1556,
+          "like_count": 20936,
+          "listed_count": 4,
+          "media_count": 82,
+          "tweet_count": 4337
+        },
+        "username": "reveriennn",
+        "verified": false
+      }
+    ]
+  }
+}

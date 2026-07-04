@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913483385638719489"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1913483397206270038",
+    "created_at": "2025-04-19T06:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T07:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913483397206270038"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "男娘"
+        },
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "伪娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TIFDn6uHFt",
+          "end": 53,
+          "expanded_url": "https://x.com/LanziiLove/status/1913483397206270038/photo/1",
+          "media_key": "3_1913483385638719489",
+          "start": 30,
+          "url": "https://t.co/TIFDn6uHFt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913483397206270038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新号也快万fo了！\n\n给大家发一张擦边图\n\n#男娘 #伪娘 https://t.co/TIFDn6uHFt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1913483397206270038].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1913483397206270038",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1913483397206270038"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1913483385638719489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go4PAEybkAE1vhX.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号@kitsunehashirao被盗 随时可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜🥺求帮帮孩子新号重生 关注我就回fo DM提醒我一下｜已有男朋友 他叫然然～ 是纯爱哦｜不设门槛 同好可扩列｜新小号@hosh1no_sh1zuku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "kitsunehashirao"
+              },
+              {
+                "end": 154,
+                "start": 138,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku（原号被盗 请转到该新号）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9611,
+          "following_count": 642,
+          "like_count": 251,
+          "listed_count": 22,
+          "media_count": 90,
+          "tweet_count": 343
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2018082967948857810",
+    "created_at": "2026-02-02T04:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T05:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018174574660309435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "211169616",
+          "start": 0,
+          "username": "jackwu10"
+        },
+        {
+          "end": 24,
+          "id": "1427306677414494210",
+          "start": 10,
+          "username": "KieHirako9700"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018174574660309435",
+    "in_reply_to_user_id": "211169616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018148657850437836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jackwu10 @KieHirako9700 确实 这位很明显就是小脑移植的受害者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2018082967948857810",
+        "created_at": "2026-02-02T04:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T05:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018174574660309435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "211169616",
+              "start": 0,
+              "username": "jackwu10"
+            },
+            {
+              "end": 24,
+              "id": "1427306677414494210",
+              "start": 10,
+              "username": "KieHirako9700"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018174574660309435",
+        "in_reply_to_user_id": "211169616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018148657850437836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jackwu10 @KieHirako9700 确实 这位很明显就是小脑移植的受害者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "211169616",
+        "conversation_id": "2018082967948857810",
+        "created_at": "2026-02-02T02:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T03:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018148657850437836"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 91,
+              "normalized_text": "Anglo-Zionost empire",
+              "probability": 0.5943,
+              "start": 72,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1427306677414494210",
+              "start": 0,
+              "username": "KieHirako9700"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018148657850437836",
+        "in_reply_to_user_id": "1427306677414494210",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 594,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018082967948857810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KieHirako9700 0yrs - 20yrs oragan harvesting corpo vs  pedophile-ruled Anglo-Zionost empire"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 非跨无药不是男娘 只是爱穿女装和cos 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好编曲 画画 3DCG cos//985大二计算机科学与技术第二学位数学//B站6.6万粉丝同名//音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 148,
+                "start": 137,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22057,
+          "following_count": 976,
+          "like_count": 1625,
+          "listed_count": 68,
+          "media_count": 359,
+          "tweet_count": 1794
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-02T14:31:14.000Z",
+        "description": "台灣囡仔。五毛的惡夢，小粉紅的肉中刺。",
+        "id": "211169616",
+        "name": "Hold this L~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639220835780292608/rUcPB7Hu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 158,
+          "like_count": 13123,
+          "listed_count": 12,
+          "media_count": 1579,
+          "tweet_count": 31230
+        },
+        "username": "jackwu10",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-16T16:30:21.000Z",
+        "description": "",
+        "id": "1427306677414494210",
+        "name": "Kie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1471116642494996486/3tQtzb0b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3102,
+          "following_count": 369,
+          "like_count": 9941,
+          "listed_count": 27,
+          "media_count": 404,
+          "tweet_count": 34146
+        },
+        "username": "KieHirako9700",
+        "verified": false
+      }
+    ]
+  }
+}

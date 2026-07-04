@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2056350004290466071",
+    "created_at": "2026-06-12T11:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065401363446779982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "971003340602486784",
+          "start": 0,
+          "username": "Ixoryss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065401363446779982",
+    "in_reply_to_user_id": "971003340602486784",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065393391542874474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ixoryss ✅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2056350004290466071",
+        "created_at": "2026-06-12T11:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065401363446779982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "971003340602486784",
+              "start": 0,
+              "username": "Ixoryss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065401363446779982",
+        "in_reply_to_user_id": "971003340602486784",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065393391542874474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ixoryss ✅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "971003340602486784",
+        "conversation_id": "2056350004290466071",
+        "created_at": "2026-06-12T11:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065393391542874474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065393391542874474",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056350004290466071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 这是什么， xyn 配色冰淇淋吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25505,
+          "following_count": 1258,
+          "like_count": 3101,
+          "listed_count": 78,
+          "media_count": 460,
+          "tweet_count": 2751
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-06T12:43:31.000Z",
+        "description": "硬件/嵌入式开发/摄影/产品工作室 | 苏州｜ Sister: @CelestialSayuki | \nnot a cat.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "CelestialSayuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ixoryss91199",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ixoryss91199",
+                "start": 0,
+                "url": "https://t.co/0a5rcjMkxs"
+              }
+            ]
+          }
+        },
+        "id": "971003340602486784",
+        "location": "Dusk-Kissed TrES-2b, Cygnus",
+        "name": "镜涟",
+        "pinned_tweet_id": "2017629909221605473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042862643762102272/_mIwOzB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 333,
+          "like_count": 877,
+          "listed_count": 1,
+          "media_count": 514,
+          "tweet_count": 1842
+        },
+        "url": "https://t.co/0a5rcjMkxs",
+        "username": "Ixoryss",
+        "verified": false
+      }
+    ]
+  }
+}

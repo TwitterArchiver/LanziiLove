@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020729646774689792"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Nature",
+          "id": "1103294729079349250",
+          "name": "Nature"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nature",
+          "id": "1103294729079349250",
+          "name": "Nature"
+        }
+      }
+    ],
+    "conversation_id": "2020729655909597307",
+    "created_at": "2026-02-09T05:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T06:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020729655909597307"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hBmIMzM5MX",
+          "end": 163,
+          "expanded_url": "https://x.com/LanziiLove/status/2020729655909597307/photo/1",
+          "media_key": "3_2020729646774689792",
+          "start": 140,
+          "url": "https://t.co/hBmIMzM5MX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020729655909597307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实变自信很简单\n24年我还只敢在宿舍床帘里偷偷穿裙子\n25年我第一次戴着口罩尝试出门 害怕得东张西望\n26年我摘下口罩大大方方地四处旅游而且自我感觉良好\n\n其实方法很简单，只需要画一手好看的妆穿一身自然好看的衣服然后找一个永远陪着你支持你夸你可爱和你一起玩耍旅行的男友就可以了 https://t.co/hBmIMzM5MX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1154,
+        "media_key": "3_2020729646774689792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAsS6E8bIAA1qDj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020729646774689792"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          }
+        ],
+        "conversation_id": "2020729655909597307",
+        "created_at": "2026-02-09T05:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T06:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020729655909597307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hBmIMzM5MX",
+              "end": 163,
+              "expanded_url": "https://x.com/LanziiLove/status/2020729655909597307/photo/1",
+              "media_key": "3_2020729646774689792",
+              "start": 140,
+              "url": "https://t.co/hBmIMzM5MX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020729655909597307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实变自信很简单\n24年我还只敢在宿舍床帘里偷偷穿裙子\n25年我第一次戴着口罩尝试出门 害怕得东张西望\n26年我摘下口罩大大方方地四处旅游而且自我感觉良好\n\n其实方法很简单，只需要画一手好看的妆穿一身自然好看的衣服然后找一个永远陪着你支持你夸你可爱和你一起玩耍旅行的男友就可以了 https://t.co/hBmIMzM5MX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 非跨无药不是男娘 只是爱穿女装和cos 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好编曲 画画 3DCG cos//985大二计算机科学与技术第二学位数学//B站6.6万粉丝同名//音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 148,
+                "start": 137,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22010,
+          "following_count": 980,
+          "like_count": 1644,
+          "listed_count": 68,
+          "media_count": 360,
+          "tweet_count": 1798
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

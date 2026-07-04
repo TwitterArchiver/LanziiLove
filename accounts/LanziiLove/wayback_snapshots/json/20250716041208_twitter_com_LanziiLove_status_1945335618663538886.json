@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1945088417018339629",
+    "created_at": "2025-07-16T04:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T05:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945335618663538886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1544883086441099264",
+          "start": 0,
+          "username": "RunwithProxima"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945335618663538886",
+    "in_reply_to_user_id": "1544883086441099264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945335105872097564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RunwithProxima 热鸭qwq\n这是真汗流浃背了\n那天给我男友晒伤了直接qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1945088417018339629",
+        "created_at": "2025-07-16T04:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T05:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945335618663538886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1544883086441099264",
+              "start": 0,
+              "username": "RunwithProxima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945335618663538886",
+        "in_reply_to_user_id": "1544883086441099264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945335105872097564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RunwithProxima 热鸭qwq\n这是真汗流浃背了\n那天给我男友晒伤了直接qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544883086441099264",
+        "conversation_id": "1945088417018339629",
+        "created_at": "2025-07-16T04:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T05:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945335105872097564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945335105872097564",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945088417018339629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 那边现在不热吗，怎么走的了的😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "dexy0306"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17771,
+          "following_count": 833,
+          "like_count": 892,
+          "listed_count": 46,
+          "media_count": 227,
+          "tweet_count": 1286
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T03:16:54.000Z",
+        "description": "",
+        "id": "1544883086441099264",
+        "location": "距离您12.5km",
+        "name": "小年yes！yes！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868974253040963584/bhMjgL5r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 214,
+          "like_count": 716,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 648
+        },
+        "username": "RunwithProxima",
+        "verified": false
+      }
+    ]
+  }
+}

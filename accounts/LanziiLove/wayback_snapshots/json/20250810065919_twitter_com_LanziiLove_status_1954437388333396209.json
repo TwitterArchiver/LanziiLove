@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954437381886734336"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1954437388333396209",
+    "created_at": "2025-08-10T06:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T07:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954437388333396209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jif4QavHrN",
+          "end": 62,
+          "expanded_url": "https://x.com/LanziiLove/status/1954437388333396209/photo/1",
+          "media_key": "3_1954437381886734336",
+          "start": 39,
+          "url": "https://t.co/jif4QavHrN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954437388333396209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1帧渲染一分钟 全片1000+帧🙂\n\n孩子买不起显卡 以后还是租云渲染叭（） https://t.co/jif4QavHrN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 427,
+        "media_key": "3_1954437381886734336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx-OcZsacAAVfbo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954437381886734336"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1954437388333396209",
+        "created_at": "2025-08-10T06:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T07:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954437388333396209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jif4QavHrN",
+              "end": 62,
+              "expanded_url": "https://x.com/LanziiLove/status/1954437388333396209/photo/1",
+              "media_key": "3_1954437381886734336",
+              "start": 39,
+              "url": "https://t.co/jif4QavHrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954437388333396209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1帧渲染一分钟 全片1000+帧🙂\n\n孩子买不起显卡 以后还是租云渲染叭（） https://t.co/jif4QavHrN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年国产人类🇨🇳//X当朋友圈发 照片高P//男友@Dexy0306//一个除了高考674分以外没有任何过人之处的做题区//爱好 编曲&画画&3DCG//985大二计算机科学与技术 第二学位辅修数学//B站6.2万粉丝同名// 音乐&绘画作品 音乐平台&Pixiv@LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952297088974462977/bue5f0ca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17971,
+          "following_count": 873,
+          "like_count": 994,
+          "listed_count": 45,
+          "media_count": 251,
+          "tweet_count": 1348
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

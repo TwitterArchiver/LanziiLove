@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931459200674320384"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1931459207880175719",
+    "created_at": "2025-06-07T21:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T22:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931459207880175719"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zcynBTGaJQ",
+          "end": 34,
+          "expanded_url": "https://x.com/LanziiLove/status/1931459207880175719/photo/1",
+          "media_key": "3_1931459200674320384",
+          "start": 11,
+          "url": "https://t.co/zcynBTGaJQ"
+        },
+        {
+          "display_url": "x.com/lanziilove/sta…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/lanziilove/status/1931445687499288750",
+          "start": 35,
+          "url": "https://t.co/0kcNnM0FTM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931459207880175719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931445687499288750",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "拿下睡觉\n(◐‿◑) https://t.co/zcynBTGaJQ https://t.co/0kcNnM0FTM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1931459200674320384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs3r6OJaUAA_FYM.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1931445671841947648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs3fmvUa4AA3BBB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931459200674320384"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1931459207880175719",
+        "created_at": "2025-06-07T21:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T22:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931459207880175719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zcynBTGaJQ",
+              "end": 34,
+              "expanded_url": "https://x.com/LanziiLove/status/1931459207880175719/photo/1",
+              "media_key": "3_1931459200674320384",
+              "start": 11,
+              "url": "https://t.co/zcynBTGaJQ"
+            },
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/lanziilove/status/1931445687499288750",
+              "start": 35,
+              "url": "https://t.co/0kcNnM0FTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931459207880175719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931445687499288750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拿下睡觉\n(◐‿◑) https://t.co/zcynBTGaJQ https://t.co/0kcNnM0FTM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931445671841947648"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1931445687499288750",
+        "created_at": "2025-06-07T20:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T21:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931445687499288750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p32CfuYjLy",
+              "end": 53,
+              "expanded_url": "https://x.com/LanziiLove/status/1931445687499288750/photo/1",
+              "media_key": "3_1931445671841947648",
+              "start": 30,
+              "url": "https://t.co/p32CfuYjLy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931445687499288750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赛点浪没 加时也没 进第三把睡觉点也没了\n让不让人睡觉了🥲 https://t.co/p32CfuYjLy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜不是女孩子也不是男娘 是雫基米星人喵！｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "dexy0306"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16804,
+          "following_count": 738,
+          "like_count": 706,
+          "listed_count": 44,
+          "media_count": 197,
+          "tweet_count": 1120
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

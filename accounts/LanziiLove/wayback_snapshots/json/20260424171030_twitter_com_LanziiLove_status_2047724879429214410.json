@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2047653254658727990",
+    "created_at": "2026-04-24T17:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T18:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047724879429214410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1641708055909011457",
+          "start": 0,
+          "username": "nanxun1993"
+        },
+        {
+          "end": 25,
+          "id": "1662293480486621184",
+          "start": 12,
+          "username": "dofees166639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047724879429214410",
+    "in_reply_to_user_id": "1641708055909011457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047721653506031734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanxun1993 @dofees166639 五个啃了挺久滴 很耐吃而且味道很香"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2047653254658727990",
+        "created_at": "2026-04-24T17:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047724879429214410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1641708055909011457",
+              "start": 0,
+              "username": "nanxun1993"
+            },
+            {
+              "end": 25,
+              "id": "1662293480486621184",
+              "start": 12,
+              "username": "dofees166639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047724879429214410",
+        "in_reply_to_user_id": "1641708055909011457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047721653506031734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanxun1993 @dofees166639 五个啃了挺久滴 很耐吃而且味道很香"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641708055909011457",
+        "conversation_id": "2047653254658727990",
+        "created_at": "2026-04-24T16:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047721653506031734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 25,
+              "id": "1662293480486621184",
+              "start": 12,
+              "username": "dofees166639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047721653506031734",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047661915770687943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @dofees166639 一个大概能啃多久捏 很耐吃吗还是 外地人没吃过想了解一下（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫✨喜欢cos拍照片编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名的是本人😉评论区混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意平台公益捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22191,
+          "following_count": 1035,
+          "like_count": 1974,
+          "listed_count": 64,
+          "media_count": 392,
+          "tweet_count": 2043
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T07:44:53.000Z",
+        "description": "En/中文   百合破坏suki\n安岛仙人 欢迎私信骚扰",
+        "id": "1641708055909011457",
+        "name": "Aoi37",
+        "pinned_tweet_id": "1891833998659232086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032895027068940288/434C7dph_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 119,
+          "like_count": 1989,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 751
+        },
+        "username": "nanxun1993",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T03:04:14.000Z",
+        "description": "是一个像薄荷叶一样的人\n忙碌。。。\n可以叫我薄荷叶\n代表されるのはごたえがないですね。\n話をはっきりさせることが大切にされています。\nJ'apprends le français et j'espère atteindre le niveau B2.",
+        "id": "1662293480486621184",
+        "location": "Ginowan-shi, Okinawa",
+        "name": "暮棠月",
+        "pinned_tweet_id": "2023288856897090001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004538362838089729/fwbMWls0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 3462,
+          "like_count": 92772,
+          "listed_count": 2,
+          "media_count": 328,
+          "tweet_count": 5616
+        },
+        "username": "dofees166639",
+        "verified": false
+      }
+    ]
+  }
+}

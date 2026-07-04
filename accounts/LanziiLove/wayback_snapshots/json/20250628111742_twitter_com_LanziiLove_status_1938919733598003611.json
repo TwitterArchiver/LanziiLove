@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1938919733598003611",
+    "created_at": "2025-06-28T11:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T12:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938919733598003611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds01/status/…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/hgds01/status/1938863233122869640",
+          "start": 79,
+          "url": "https://t.co/QAvqpCpjoJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938919733598003611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 393,
+      "like_count": 22,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938863233122869640",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是为什么我爱我妈妈\n她从来不强求我学习好分数高\n但我会愿意努力来以此让她放心我以后能让自己过得好 也能让她过得好 即便她在意的只有让我能够幸福而不求回报 https://t.co/QAvqpCpjoJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2001,
+        "media_key": "3_1938863223169744896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gug51DUaAAAMJjx.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1938919733598003611",
+        "created_at": "2025-06-28T11:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T12:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938919733598003611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds01/status/…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/hgds01/status/1938863233122869640",
+              "start": 79,
+              "url": "https://t.co/QAvqpCpjoJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938919733598003611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 393,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938863233122869640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是为什么我爱我妈妈\n她从来不强求我学习好分数高\n但我会愿意努力来以此让她放心我以后能让自己过得好 也能让她过得好 即便她在意的只有让我能够幸福而不求回报 https://t.co/QAvqpCpjoJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938863223169744896"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1938863233122869640",
+        "created_at": "2025-06-28T07:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T08:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938863233122869640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S5tkA76iuh",
+              "end": 30,
+              "expanded_url": "https://x.com/hgds01/status/1938863233122869640/photo/1",
+              "media_key": "3_1938863223169744896",
+              "start": 7,
+              "url": "https://t.co/S5tkA76iuh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938863233122869640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 10241,
+          "like_count": 407,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "我真的要哭了 https://t.co/S5tkA76iuh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜不是女孩子也不是男娘 是雫基米星人喵！｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "dexy0306"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1928639558226166259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17060,
+          "following_count": 790,
+          "like_count": 795,
+          "listed_count": 46,
+          "media_count": 208,
+          "tweet_count": 1208
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "推广自辩/感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1929579130711875675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83651,
+          "following_count": 2893,
+          "like_count": 43594,
+          "listed_count": 102,
+          "media_count": 2536,
+          "tweet_count": 6839
+        },
+        "username": "hgds01",
+        "verified": true
+      }
+    ]
+  }
+}

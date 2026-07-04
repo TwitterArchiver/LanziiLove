@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047667179567607808"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2047667191492071902",
+    "created_at": "2026-04-24T13:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T14:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047667191492071902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1uszmJywpe",
+          "end": 53,
+          "expanded_url": "https://x.com/LanziiLove/status/2047667191492071902/photo/1",
+          "media_key": "3_2047667179567607808",
+          "start": 30,
+          "url": "https://t.co/1uszmJywpe"
+        },
+        {
+          "display_url": "x.com/lanziilove/sta…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/lanziilove/status/2047653254658727990",
+          "start": 54,
+          "url": "https://t.co/7O9FQLbJ4Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047667191492071902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047653254658727990",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "活着真好 心情好\n奖励自己一手\n这才是生活啊（喝可乐）啊～ https://t.co/1uszmJywpe https://t.co/7O9FQLbJ4Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2047667179567607808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrGc2hacAAmauQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047667179567607808"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047667191492071902",
+        "created_at": "2026-04-24T13:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047667191492071902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1uszmJywpe",
+              "end": 53,
+              "expanded_url": "https://x.com/LanziiLove/status/2047667191492071902/photo/1",
+              "media_key": "3_2047667179567607808",
+              "start": 30,
+              "url": "https://t.co/1uszmJywpe"
+            },
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/lanziilove/status/2047653254658727990",
+              "start": 54,
+              "url": "https://t.co/7O9FQLbJ4Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047667191492071902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047653254658727990",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "活着真好 心情好\n奖励自己一手\n这才是生活啊（喝可乐）啊～ https://t.co/1uszmJywpe https://t.co/7O9FQLbJ4Q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2047653254658727990",
+        "created_at": "2026-04-24T12:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047653254658727990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047653254658727990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1299,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被出柜了 我妈早猜出来了原来（\n她不反对 也尝试理解我\n说出去玩的时候想咋穿都行 在学校里尽量穿得像个男孩子就行 保护好自己就行\n甚至提醒我和然住酒店小心针孔摄像头，做爱别被偷拍了（\n\n活着真好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫✨喜欢cos拍照片编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名的是本人😉评论区混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意平台公益捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22139,
+          "following_count": 1031,
+          "like_count": 1944,
+          "listed_count": 64,
+          "media_count": 392,
+          "tweet_count": 2036
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

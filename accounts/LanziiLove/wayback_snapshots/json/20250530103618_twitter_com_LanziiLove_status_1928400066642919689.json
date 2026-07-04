@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1928375754691084717",
+    "created_at": "2025-05-30T10:36:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T11:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928400066642919689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1648489172234293252",
+          "start": 0,
+          "username": "xiaokemeiyouai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928400066642919689",
+    "in_reply_to_user_id": "1648489172234293252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928390443131162847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaokemeiyouai 实际上没瘦多少呜呜\n只是美颜参数拉大了T^T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1928375754691084717",
+        "created_at": "2025-05-30T10:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T11:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928400066642919689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1648489172234293252",
+              "start": 0,
+              "username": "xiaokemeiyouai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928400066642919689",
+        "in_reply_to_user_id": "1648489172234293252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928390443131162847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaokemeiyouai 实际上没瘦多少呜呜\n只是美颜参数拉大了T^T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648489172234293252",
+        "conversation_id": "1928375754691084717",
+        "created_at": "2025-05-30T09:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T10:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928390443131162847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928390443131162847",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928375754691084717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 感觉小雫瘦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜ 是雫基米星人喵 来自🇨🇳成都｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌｜最后祝大家天天开心！w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "dexy0306"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15715,
+          "following_count": 727,
+          "like_count": 619,
+          "listed_count": 44,
+          "media_count": 185,
+          "tweet_count": 1001
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T00:50:36.000Z",
+        "description": "是可！爱！味！蝴！蝶！酥！‖持证含糖‖cos新手‖infp‖家骗党‖拒绝键政‖重度抑郁双相情感障碍‖边缘人格‖超讨厌自己的声音‖梦想着能成为小可爱‖努力学习化妆ing‖有一点小m但是温柔是一种好文明‖摸摸头就能拐走的小呆瓜‖如果可以的话请把我当做小妹妹‖可能是个病娇‖梦想是拍好多好看的照片",
+        "id": "1648489172234293252",
+        "location": "湖北",
+        "name": "小可",
+        "pinned_tweet_id": "1664666120341553160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657040660917043209/NHjON3g3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2386,
+          "following_count": 1008,
+          "like_count": 41072,
+          "listed_count": 7,
+          "media_count": 81,
+          "tweet_count": 9045
+        },
+        "username": "xiaokemeiyouai",
+        "verified": false
+      }
+    ]
+  }
+}

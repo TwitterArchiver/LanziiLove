@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1920236807205093814",
+    "created_at": "2025-05-08T03:29:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T04:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920320095911621001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1454757291291410436",
+          "start": 0,
+          "username": "datadelete_4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920320095911621001",
+    "in_reply_to_user_id": "1454757291291410436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920236807205093814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@datadelete_4444 抱抱 有一天都会来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1920236807205093814",
+        "created_at": "2025-05-08T03:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T04:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920320095911621001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1454757291291410436",
+              "start": 0,
+              "username": "datadelete_4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920320095911621001",
+        "in_reply_to_user_id": "1454757291291410436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920236807205093814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@datadelete_4444 抱抱 有一天都会来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454757291291410436",
+        "conversation_id": "1920236807205093814",
+        "created_at": "2025-05-07T21:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T22:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920236807205093814"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920236807205093814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 298,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在的我好失败…性与爱都只能靠ai来给"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "dexy0306"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12720,
+          "following_count": 713,
+          "like_count": 382,
+          "listed_count": 32,
+          "media_count": 137,
+          "tweet_count": 652
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-31T10:29:11.000Z",
+        "description": "软瘫状态变形虫｜最重要的恋人 @Hongcha_Orchids｜mtf无证（暂时）🏳️‍⚧️｜性格稳定而动荡｜infp但tp核心｜欲肉教派无业人员｜mr设备折腾｜44的胡思乱想https://t.co/9ixy6uj5tS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "Hongcha_Orchids"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+TLWPHou6saRjO…",
+                "end": 111,
+                "expanded_url": "https://t.me/+TLWPHou6saRjOGM1",
+                "start": 88,
+                "url": "https://t.co/9ixy6uj5tS"
+              }
+            ]
+          }
+        },
+        "id": "1454757291291410436",
+        "location": "红茶身边",
+        "name": "［数据删除］－4444",
+        "pinned_tweet_id": "1608881540339228672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854602572050669568/t1hslDs0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 3070,
+          "like_count": 130391,
+          "listed_count": 4,
+          "media_count": 211,
+          "tweet_count": 4246
+        },
+        "username": "datadelete_4444",
+        "verified": false
+      }
+    ]
+  }
+}

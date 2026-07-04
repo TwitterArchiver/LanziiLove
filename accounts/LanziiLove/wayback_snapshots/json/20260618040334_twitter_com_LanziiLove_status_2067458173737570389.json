@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2067449764883669150",
+    "created_at": "2026-06-18T04:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T05:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067458173737570389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1497876376833052673",
+          "start": 0,
+          "username": "Slama_05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067458173737570389",
+    "in_reply_to_user_id": "1497876376833052673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067457111941157180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Slama_05 端正在哪\n就他这一副看了眼就想吐的长相还配评价上别人了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2067449764883669150",
+        "created_at": "2026-06-18T04:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067458173737570389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1497876376833052673",
+              "start": 0,
+              "username": "Slama_05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067458173737570389",
+        "in_reply_to_user_id": "1497876376833052673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067457111941157180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Slama_05 端正在哪\n就他这一副看了眼就想吐的长相还配评价上别人了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497876376833052673",
+        "conversation_id": "2067449764883669150",
+        "created_at": "2026-06-18T03:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067457111941157180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067457111941157180",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067449764883669150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 还好吧长的算端正了，就是缺了双眼皮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！直女w💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人！🏠我永生挚爱的男友然桑@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25606,
+          "following_count": 1268,
+          "like_count": 3150,
+          "listed_count": 79,
+          "media_count": 467,
+          "tweet_count": 2827
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-27T10:09:02.000Z",
+        "description": "。",
+        "id": "1497876376833052673",
+        "name": "BIANYUAN",
+        "pinned_tweet_id": "2009913055778611312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056774292734390273/jvzTASz1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 388,
+          "like_count": 25442,
+          "listed_count": 11,
+          "media_count": 95,
+          "tweet_count": 1004
+        },
+        "url": "",
+        "username": "Slama_05",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1924768680640184523",
+    "created_at": "2025-05-20T10:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T11:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924768680640184523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tansuyegen/sta…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/tansuyegen/status/1924458972930519042",
+          "start": 22,
+          "url": "https://t.co/ffZ7mWjn7R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924768680640184523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924458972930519042",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "三个奇度数节点走到下辈子都走不出来欧拉通路 https://t.co/ffZ7mWjn7R"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34367,
+        "height": 1024,
+        "media_key": "13_1924348202838274048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1924348202838274048/img/QJJod5Whlq4-Lgf1.jpg",
+        "public_metrics": {
+          "view_count": 2086898
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1924348202838274048/vid/avc1/320x568/A5bgOaSbFpujThMu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1924348202838274048/vid/avc1/480x852/ProSTLJ6m8khNWQW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1924348202838274048/vid/avc1/576x1024/h9MEGDHOh-iiLGCd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1924348202838274048/pl/8JFgkFUntTY3c0kO.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1924768680640184523",
+        "created_at": "2025-05-20T10:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T11:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924768680640184523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tansuyegen/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/tansuyegen/status/1924458972930519042",
+              "start": 22,
+              "url": "https://t.co/ffZ7mWjn7R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924768680640184523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924458972930519042",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "三个奇度数节点走到下辈子都走不出来欧拉通路 https://t.co/ffZ7mWjn7R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1924348202838274048"
+          ],
+          "media_source_tweet_id": [
+            "1924348279870865725"
+          ]
+        },
+        "author_id": "94543804",
+        "conversation_id": "1924458972930519042",
+        "created_at": "2025-05-19T13:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T14:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924458972930519042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1lEJEO9AtE",
+              "end": 137,
+              "expanded_url": "https://x.com/voiceofworldco/status/1924348279870865725/video/1",
+              "media_key": "13_1924348202838274048",
+              "start": 114,
+              "url": "https://t.co/1lEJEO9AtE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924458972930519042",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 770,
+          "impression_count": 2104213,
+          "like_count": 1537,
+          "quote_count": 48,
+          "reply_count": 139,
+          "retweet_count": 146
+        },
+        "reply_settings": "everyone",
+        "text": "A Chinese kids’ game is trending everywhere and driving people crazy to figure it out! Can you crack it too? 🧠🎯\n\n https://t.co/1lEJEO9AtE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "19岁 无🍬🇨🇳男娘 可以叫咱小雫哦w｜最爱的人是妈妈和老公｜男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜理智爱国 不见证 ｜纯清水 无黄无福利 无任何业务 私信骚扰等着挨骂吧｜无门槛 同好可酌情扩列｜备用小号@hosh1no_sh1zuku｜全网同名 只有B站/X/抖音有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "dexy0306"
+              },
+              {
+                "end": 130,
+                "start": 114,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14731,
+          "following_count": 720,
+          "like_count": 455,
+          "listed_count": 40,
+          "media_count": 171,
+          "tweet_count": 814
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-04T11:56:23.000Z",
+        "description": "Exploring the intersections of AI, startups, and the economy 🌐 | Top 100 Most Influential X Accounts | All opinions are my own #AI",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 130,
+                "start": 127,
+                "tag": "AI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yegentansu.com",
+                "end": 23,
+                "expanded_url": "https://yegentansu.com",
+                "start": 0,
+                "url": "https://t.co/6PEuuxhuuE"
+              }
+            ]
+          }
+        },
+        "id": "94543804",
+        "location": "Turkey",
+        "name": "Tansu Yegen",
+        "pinned_tweet_id": "1924354047647367425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908358126870409216/B4efXE9z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532383,
+          "following_count": 1954,
+          "like_count": 8900,
+          "listed_count": 12119,
+          "media_count": 31317,
+          "tweet_count": 47592
+        },
+        "url": "https://t.co/6PEuuxhuuE",
+        "username": "TansuYegen",
+        "verified": true
+      }
+    ]
+  }
+}

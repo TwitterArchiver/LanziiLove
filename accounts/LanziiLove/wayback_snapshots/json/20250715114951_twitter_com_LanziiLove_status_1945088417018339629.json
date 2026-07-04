@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945088405743796224"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1945088417018339629",
+    "created_at": "2025-07-15T11:49:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T12:49:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945088417018339629"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y0iaoAJso5",
+          "end": 51,
+          "expanded_url": "https://x.com/LanziiLove/status/1945088417018339629/photo/1",
+          "media_key": "3_1945088405743796224",
+          "start": 28,
+          "url": "https://t.co/Y0iaoAJso5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945088417018339629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雫基米会根据不同的穿搭、不同的地点比出相同的剪刀手✌️ https://t.co/Y0iaoAJso5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1945088405743796224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv5XmXkXAAAFULT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945088405743796224"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1945088417018339629",
+        "created_at": "2025-07-15T11:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T12:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945088417018339629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y0iaoAJso5",
+              "end": 51,
+              "expanded_url": "https://x.com/LanziiLove/status/1945088417018339629/photo/1",
+              "media_key": "3_1945088405743796224",
+              "start": 28,
+              "url": "https://t.co/Y0iaoAJso5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945088417018339629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雫基米会根据不同的穿搭、不同的地点比出相同的剪刀手✌️ https://t.co/Y0iaoAJso5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "小雫想要变得可爱！目标是活成自己喜欢的样子！19岁大一计算机｜最爱的人是妈妈和老公 ｜男朋友@dexy0306 他叫然然～（他超可爱！）是纯爱哦～｜爱好是写歌画画和各种可爱的东西！｜备用小号@hosh1no_sh1zuku｜🔞涩涩是不可以的！不接任何委托！❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "dexy0306"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926987262962610176/lp6ojk0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17759,
+          "following_count": 833,
+          "like_count": 889,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 1282
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

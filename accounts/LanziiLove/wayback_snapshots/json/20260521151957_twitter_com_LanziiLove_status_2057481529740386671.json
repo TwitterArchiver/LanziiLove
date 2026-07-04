@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2057321950134120953",
+    "created_at": "2026-05-21T15:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057481529740386671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1390257908336586758",
+          "start": 0,
+          "username": "cici24202979"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057481529740386671",
+    "in_reply_to_user_id": "1390257908336586758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057481015929843998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cici24202979 谢谢❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2057321950134120953",
+        "created_at": "2026-05-21T15:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057481529740386671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1390257908336586758",
+              "start": 0,
+              "username": "cici24202979"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057481529740386671",
+        "in_reply_to_user_id": "1390257908336586758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057481015929843998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cici24202979 谢谢❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390257908336586758",
+        "conversation_id": "2057321950134120953",
+        "created_at": "2026-05-21T15:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057481015929843998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057481015929843998",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057321950134120953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 她真的好爱你，祝一切顺利"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24629,
+          "following_count": 1194,
+          "like_count": 2624,
+          "listed_count": 75,
+          "media_count": 435,
+          "tweet_count": 2439
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-06T10:51:46.000Z",
+        "description": "坐标山西太原|    CD伪娘一枚|    含糖超甜|   喜欢分享一些女装照片和视频|   可以互推|   请礼貌聊天|    加我请过🚪",
+        "id": "1390257908336586758",
+        "name": "小熊奶糖🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1793856877312549229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817359774155227137/208tI6ZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4873,
+          "following_count": 1609,
+          "like_count": 547,
+          "listed_count": 24,
+          "media_count": 216,
+          "tweet_count": 481
+        },
+        "username": "cici24202979",
+        "verified": false
+      }
+    ]
+  }
+}

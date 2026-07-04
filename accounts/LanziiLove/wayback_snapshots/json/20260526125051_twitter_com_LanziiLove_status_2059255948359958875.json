@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2059255948359958875",
+    "created_at": "2026-05-26T12:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T13:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059255948359958875"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059255948359958875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "草 今天依旧素颜男装和我妈出门转悠\n结果被喊爽了\n从早到晚一直在被嬢嬢喊“妹妹”\n\n然后这会和我妈来夜市吃烧烤 我先找个位置坐下了 我妈去点餐 然后那大妈问我妈：“你是跟那边那个美女一起的哇”\n\nmtf经典节目之被喊“妹妹”然后开心发帖补药rt我谢谢喵 孩子就乐呵一下(｡･ω･｡)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2059255948359958875",
+        "created_at": "2026-05-26T12:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059255948359958875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059255948359958875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草 今天依旧素颜男装和我妈出门转悠\n结果被喊爽了\n从早到晚一直在被嬢嬢喊“妹妹”\n\n然后这会和我妈来夜市吃烧烤 我先找个位置坐下了 我妈去点餐 然后那大妈问我妈：“你是跟那边那个美女一起的哇”\n\nmtf经典节目之被喊“妹妹”然后开心发帖补药rt我谢谢喵 孩子就乐呵一下(｡･ω･｡)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24878,
+          "following_count": 1218,
+          "like_count": 2881,
+          "listed_count": 77,
+          "media_count": 442,
+          "tweet_count": 2604
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

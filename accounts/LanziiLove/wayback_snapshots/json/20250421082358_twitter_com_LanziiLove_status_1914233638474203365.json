@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914233628638556160"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1914233638474203365",
+    "created_at": "2025-04-21T08:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T09:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914233638474203365"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 77,
+          "start": 74,
+          "tag": "男娘"
+        },
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "伪娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ojA3aDNnQ8",
+          "end": 105,
+          "expanded_url": "https://x.com/LanziiLove/status/1914233638474203365/photo/1",
+          "media_key": "3_1914233628638556160",
+          "start": 82,
+          "url": "https://t.co/ojA3aDNnQ8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914233638474203365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次穿着睡裙躺在床上都会幻想老公就在旁边\n然后一个人死死抱紧被子 一边在脑子里不停念着“好喜欢好喜欢好喜欢……”一边扭得跟条蛆一样(｡･ω･｡)\n\n#男娘 #伪娘 https://t.co/ojA3aDNnQ8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1914233628638556160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpC5V9wbsAA9drA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914233628638556160"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1914233638474203365",
+        "created_at": "2025-04-21T08:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T09:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914233638474203365"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "男娘"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ojA3aDNnQ8",
+              "end": 105,
+              "expanded_url": "https://x.com/LanziiLove/status/1914233638474203365/photo/1",
+              "media_key": "3_1914233628638556160",
+              "start": 82,
+              "url": "https://t.co/ojA3aDNnQ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914233638474203365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次穿着睡裙躺在床上都会幻想老公就在旁边\n然后一个人死死抱紧被子 一边在脑子里不停念着“好喜欢好喜欢好喜欢……”一边扭得跟条蛆一样(｡･ω･｡)\n\n#男娘 #伪娘 https://t.co/ojA3aDNnQ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号@kitsunehashirao被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友 他叫然然～ 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "kitsunehashirao"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku（原号被盗 请转到该新号）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10798,
+          "following_count": 684,
+          "like_count": 259,
+          "listed_count": 25,
+          "media_count": 99,
+          "tweet_count": 390
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

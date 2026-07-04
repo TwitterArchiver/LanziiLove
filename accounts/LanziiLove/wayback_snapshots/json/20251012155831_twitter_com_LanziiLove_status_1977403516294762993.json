@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977403483751063552"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "1977403516294762993",
+    "created_at": "2025-10-12T15:58:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T16:58:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977403516294762993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aCfoUHWQIY",
+          "end": 57,
+          "expanded_url": "https://x.com/LanziiLove/status/1977403516294762993/photo/1",
+          "media_key": "3_1977403483751063552",
+          "start": 34,
+          "url": "https://t.co/aCfoUHWQIY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977403516294762993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "头发已经慢慢长到不用戴假发也可以拍了\n\n上初中时高年级的短发大姐姐 https://t.co/aCfoUHWQIY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1155,
+        "media_key": "3_1977403483751063552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3El_eKaIAA2MeZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977403483751063552"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "1977403516294762993",
+        "created_at": "2025-10-12T15:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T16:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977403516294762993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aCfoUHWQIY",
+              "end": 57,
+              "expanded_url": "https://x.com/LanziiLove/status/1977403516294762993/photo/1",
+              "media_key": "3_1977403483751063552",
+              "start": 34,
+              "url": "https://t.co/aCfoUHWQIY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977403516294762993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头发已经慢慢长到不用戴假发也可以拍了\n\n上初中时高年级的短发大姐姐 https://t.co/aCfoUHWQIY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好：编曲 画画 3DCG Cos//985大二计算机科学与技术 第二学位数学//B站6.2万粉丝同名//中立生物 不主动攻击 阴阳我会被我攻击// 音乐&绘画作品 音乐平台&Pixiv@LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962507406770155521/giP0winc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18735,
+          "following_count": 910,
+          "like_count": 1193,
+          "listed_count": 48,
+          "media_count": 302,
+          "tweet_count": 1487
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1960780741270458464",
+    "created_at": "2025-08-28T05:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T06:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960943955735908591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1488406853780328451",
+          "start": 0,
+          "username": "Crystal47599515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960943955735908591",
+    "in_reply_to_user_id": "1488406853780328451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960780741270458464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Crystal47599515 也太可爱了叭w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 829,
+        "media_key": "3_1960780733880131586",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzYXsFVa4AIefWd.jpg",
+        "width": 825
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1960780741270458464",
+        "created_at": "2025-08-28T05:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T06:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960943955735908591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1488406853780328451",
+              "start": 0,
+              "username": "Crystal47599515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960943955735908591",
+        "in_reply_to_user_id": "1488406853780328451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960780741270458464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Crystal47599515 也太可爱了叭w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960780733880131586"
+          ]
+        },
+        "author_id": "1488406853780328451",
+        "conversation_id": "1960780741270458464",
+        "created_at": "2025-08-27T19:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T20:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960780741270458464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/exwghFAoaC",
+              "end": 35,
+              "expanded_url": "https://x.com/Crystal47599515/status/1960780741270458464/photo/1",
+              "media_key": "3_1960780733880131586",
+              "start": 12,
+              "url": "https://t.co/exwghFAoaC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960780741270458464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 64,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的新女儿也太可爱了叭 https://t.co/exwghFAoaC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年国产人类🇨🇳//X当朋友圈发 照片高P//男友@Dexy0306//一个除了高考674分以外没有任何过人之处的做题区//爱好 编曲&画画&3DCG//985大二计算机科学与技术 第二学位辅修数学//B站6.2万粉丝同名// 音乐&绘画作品 音乐平台&Pixiv@LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "马桶上",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1941909732438200707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952297088974462977/bue5f0ca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17912,
+          "following_count": 890,
+          "like_count": 1085,
+          "listed_count": 47,
+          "media_count": 265,
+          "tweet_count": 1410
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-01T07:00:49.000Z",
+        "description": "你关注列表里一只画画很涩的触手狐狸！\n🐾 A lewd tentacle fox artist!\n🚫 未满16岁禁止灌注！\n活跃于Bilibili | Active mostly on Bilibili",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/uSxqd4l",
+                "end": 23,
+                "expanded_url": "https://b23.tv/uSxqd4l",
+                "start": 0,
+                "url": "https://t.co/553nuFZxVA"
+              }
+            ]
+          }
+        },
+        "id": "1488406853780328451",
+        "location": "罗德岛制药",
+        "name": "冰块子LyRan",
+        "pinned_tweet_id": "1925839720027763121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925837055453536256/KpJxWq7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 76,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/553nuFZxVA",
+        "username": "Crystal47599515",
+        "verified": false
+      }
+    ]
+  }
+}

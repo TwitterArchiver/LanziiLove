@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2064739628717093239",
+    "created_at": "2026-06-12T23:55:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T00:55:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065583756652495222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545300185169166336",
+          "start": 0,
+          "username": "JessicaLee9974"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065583756652495222",
+    "in_reply_to_user_id": "1545300185169166336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065551719325692317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JessicaLee9974 谢谢姐姐！！！\n其实之前了解到一些之后就是准备找您咨询一下了解一些的QwQ没想到您直接评论我的推文了🥺\n我这边手术的事情还在和家里人商量 等确认之后会来找姐姐进一步咨询细节滴！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2064739628717093239",
+        "created_at": "2026-06-12T23:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T00:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065583756652495222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545300185169166336",
+              "start": 0,
+              "username": "JessicaLee9974"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065583756652495222",
+        "in_reply_to_user_id": "1545300185169166336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065551719325692317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JessicaLee9974 谢谢姐姐！！！\n其实之前了解到一些之后就是准备找您咨询一下了解一些的QwQ没想到您直接评论我的推文了🥺\n我这边手术的事情还在和家里人商量 等确认之后会来找姐姐进一步咨询细节滴！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545300185169166336",
+        "conversation_id": "2064739628717093239",
+        "created_at": "2026-06-12T21:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T22:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065551719325692317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065551719325692317",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其實手術每個醫生一定會有人說的吧,畢竟醫生也是人即便沒有醫療疏失,只要對方復原有問題永遠都會說是醫生做壞了是醫生的鍋,也沒有所謂的最好的醫生..選擇醫生如果是泰國的話無非就是兩個點\n1.醫生-風險(選擇的術式),技術穩定,整體風評\n2.也是我覺得最重要的就是聯繫渠道,比如我陪護或者仲介跟官方,每個地方的運作模式都有不同的,不過為什麼說聯繫渠道最重要呢?因為聯繫渠道掌控了妳的手術行程安排,回國後有什麼問題也需要她憑經驗回答或者轉達給醫生,這部分其實大家最常聽到的也是仲介術後消失了..@@\"\n簡單說先選擇醫生再確認聯繫渠道(畢竟每個仲介也有自己的地域性)...\n如果還有什麼要問的可以問我..我盡量回答吧><"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064739628717093239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 其實手術每個醫生一定會有人說的吧,畢竟醫生也是人即便沒有醫療疏失,只要對方復原有問題永遠都會說是醫生做壞了是醫生的鍋,也沒有所謂的最好的醫生..選擇醫生如果是泰國的話無非就是兩個點\n1.醫生-風險(選擇的術式),技術穩定,整體風評"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25500,
+          "following_count": 1259,
+          "like_count": 3103,
+          "listed_count": 78,
+          "media_count": 460,
+          "tweet_count": 2752
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T06:54:16.000Z",
+        "description": "吃糖9年多的MTF//泰國手術翻譯陪護//PAI診所義務諮詢人員/一星美食獵人//ISTJ-T//",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jessica99.com",
+                "end": 23,
+                "expanded_url": "https://jessica99.com/",
+                "start": 0,
+                "url": "https://t.co/hdMsFcDZ0x"
+              }
+            ]
+          }
+        },
+        "id": "1545300185169166336",
+        "location": "Singapore",
+        "name": "~嘉嘉~Aka Jessica",
+        "pinned_tweet_id": "1785958413970862544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731677121901178880/9tf20fwq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3676,
+          "following_count": 153,
+          "like_count": 14,
+          "listed_count": 14,
+          "media_count": 1165,
+          "tweet_count": 5634
+        },
+        "url": "https://t.co/hdMsFcDZ0x",
+        "username": "JessicaLee9974",
+        "verified": true
+      }
+    ]
+  }
+}

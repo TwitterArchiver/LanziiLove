@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2053662944756683035",
+    "created_at": "2026-05-11T02:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T03:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053664330873520397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1733692753899569152",
+          "start": 0,
+          "username": "chny547354"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053664330873520397",
+    "in_reply_to_user_id": "1733692753899569152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053664221821546920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chny547354 谢谢www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2053662944756683035",
+        "created_at": "2026-05-11T02:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T03:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053664330873520397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1733692753899569152",
+              "start": 0,
+              "username": "chny547354"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053664330873520397",
+        "in_reply_to_user_id": "1733692753899569152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053664221821546920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chny547354 谢谢www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733692753899569152",
+        "conversation_id": "2053662944756683035",
+        "created_at": "2026-05-11T02:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T03:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053664221821546920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053664221821546920",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053662944756683035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 是因为姐姐太好看了喵🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！希望被称作She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23798,
+          "following_count": 1133,
+          "like_count": 2214,
+          "listed_count": 73,
+          "media_count": 420,
+          "tweet_count": 2167
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-10T03:39:55.000Z",
+        "description": "社恐男大，泛性恋，INFP-T\n线上线下都很社恐\n私聊时看到输入中只是因为我在纠结怎么认真回复你，私信我都会努力回复的\n非跨友跨，不会歧视任何人，如果我有哪里做的不好请原谅我，不要骂我我会伤心的😭\n喜欢的：明日方舟，cs，瓦或 cod 之类的 FPS 游戏，喜欢折腾洋垃圾",
+        "id": "1733692753899569152",
+        "name": "社恐猫猫Ark🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042935891061280772/SGl5z9S8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 90,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 200
+        },
+        "username": "chny547354",
+        "verified": false
+      }
+    ]
+  }
+}

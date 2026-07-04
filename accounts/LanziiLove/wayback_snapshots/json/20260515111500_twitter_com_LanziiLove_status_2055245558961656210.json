@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055245550757502977"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2055245219738898897",
+    "created_at": "2026-05-15T11:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T12:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055245558961656210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1CvAfJS8rk",
+          "end": 38,
+          "expanded_url": "https://x.com/LanziiLove/status/2055245558961656210/photo/1",
+          "media_key": "3_2055245550757502977",
+          "start": 15,
+          "url": "https://t.co/1CvAfJS8rk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055245558961656210",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055245219738898897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以及依旧神秘蓝粉白冰淇淋（x https://t.co/1CvAfJS8rk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055245550757502977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWy8HMaYAEoCwA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2055245210498772992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWyoToaMAAQRGF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055245550757502977"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055245219738898897",
+        "created_at": "2026-05-15T11:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055245558961656210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1CvAfJS8rk",
+              "end": 38,
+              "expanded_url": "https://x.com/LanziiLove/status/2055245558961656210/photo/1",
+              "media_key": "3_2055245550757502977",
+              "start": 15,
+              "url": "https://t.co/1CvAfJS8rk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055245558961656210",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055245219738898897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以及依旧神秘蓝粉白冰淇淋（x https://t.co/1CvAfJS8rk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055245210498772992"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055245219738898897",
+        "created_at": "2026-05-15T11:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055245219738898897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UeaKFm5d9G",
+              "end": 161,
+              "expanded_url": "https://x.com/LanziiLove/status/2055245219738898897/photo/1",
+              "media_key": "3_2055245210498772992",
+              "start": 138,
+              "url": "https://t.co/UeaKFm5d9G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055245219738898897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天花¥250请妈妈吃了寿喜烧\n顺便聊了很多hhh\n上次炸柜了有男朋友这件事\n这次我妈跟我询问了很多不懂的东西 跟她讲解解释讨论了一些关于少数群体的东西\n然后跟她出柜了性别认同\n不过她好像对于我女性性别认同还能接受\n但是明确表示接受不了我SRS\n不过就这样也挺好滴 慢慢来叭 https://t.co/UeaKFm5d9G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24104,
+          "following_count": 1153,
+          "like_count": 2301,
+          "listed_count": 75,
+          "media_count": 425,
+          "tweet_count": 2228
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

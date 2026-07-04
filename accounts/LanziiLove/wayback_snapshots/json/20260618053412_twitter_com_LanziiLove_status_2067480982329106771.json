@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2067475918499774857",
+    "created_at": "2026-06-18T05:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T06:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067480982329106771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2046283772455485440",
+          "start": 0,
+          "username": "AubreyCamilleuu"
+        },
+        {
+          "end": 33,
+          "id": "1363778249277382656",
+          "start": 17,
+          "username": "JVltGillEasbaig"
+        },
+        {
+          "end": 40,
+          "id": "1618909954156679168",
+          "start": 34,
+          "username": "afdtb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067480982329106771",
+    "in_reply_to_user_id": "2046283772455485440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067479660884312200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AubreyCamilleuu @JVltGillEasbaig @afdtb 毫无道理的优越感和贬低他人\n而且还在先\n\n我不觉得比吐脏字好到哪去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2067475918499774857",
+        "created_at": "2026-06-18T05:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067480982329106771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046283772455485440",
+              "start": 0,
+              "username": "AubreyCamilleuu"
+            },
+            {
+              "end": 33,
+              "id": "1363778249277382656",
+              "start": 17,
+              "username": "JVltGillEasbaig"
+            },
+            {
+              "end": 40,
+              "id": "1618909954156679168",
+              "start": 34,
+              "username": "afdtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067480982329106771",
+        "in_reply_to_user_id": "2046283772455485440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067479660884312200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AubreyCamilleuu @JVltGillEasbaig @afdtb 毫无道理的优越感和贬低他人\n而且还在先\n\n我不觉得比吐脏字好到哪去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046283772455485440",
+        "conversation_id": "2067475918499774857",
+        "created_at": "2026-06-18T05:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067479660884312200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 28,
+              "id": "1363778249277382656",
+              "start": 12,
+              "username": "JVltGillEasbaig"
+            },
+            {
+              "end": 35,
+              "id": "1618909954156679168",
+              "start": 29,
+              "username": "afdtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067479660884312200",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067475918499774857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @JVltGillEasbaig @afdtb 因为他骂人时没用脏字也没管别人叫肥猪野狗，但你回复他的时候脏字用尽还直接把别人照片挂出来，最讽刺的是他本人也不丑，所以在路人眼里你只是因bodyshame到了自己头上而急眼。(没说你的回击是错的，大家都不喜欢他的容貌羞辱，只是观感上看你的回应和他的羞辱一样荒谬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！直女w💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人！🏠我永生挚爱的男友然桑@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25609,
+          "following_count": 1268,
+          "like_count": 3158,
+          "listed_count": 79,
+          "media_count": 469,
+          "tweet_count": 2838
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T17:44:16.000Z",
+        "description": "💜🤍💚/💛🤍💜🖤/🩵🤍🩷",
+        "id": "2046283772455485440",
+        "name": "沅子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058491039305084928/dJpjJwl0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 167,
+          "like_count": 1026,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 277
+        },
+        "url": "",
+        "username": "AubreyCamilleuu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T09:10:56.000Z",
+        "description": "ᛋᚨᚢᛚ:ᚺᚢᚷᚨᚱ:ᛚᛁᚲᛁᛚᛚᛁᚾᚾ:ᛏᛁᛚ:ᛚᛟᚠᛏᛊ:ᛚᛁᚠᛊ",
+        "id": "1363778249277382656",
+        "location": "Silent Hill, Maine, USA",
+        "name": "JoannaGillespuic",
+        "pinned_tweet_id": "2054057274277302458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054574979145220096/BH8Ellu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 538,
+          "like_count": 16395,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 8339
+        },
+        "url": "",
+        "username": "JVltGillEasbaig",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T09:53:18.000Z",
+        "description": "MtF/退役OIer/舞萌W2/m/健全逼/日子人/慢性鼻炎/胃胀气\n🚪：一个月内拍摄的腹肌照\n猪：@sherry4869000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "sherry4869000"
+              }
+            ]
+          }
+        },
+        "id": "1618909954156679168",
+        "name": "不吃奶猪",
+        "pinned_tweet_id": "2064107257475059872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998668524831780864/zz8CBL0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4444,
+          "following_count": 904,
+          "like_count": 12920,
+          "listed_count": 14,
+          "media_count": 1589,
+          "tweet_count": 8825
+        },
+        "url": "",
+        "username": "afdtb",
+        "verified": false
+      }
+    ]
+  }
+}

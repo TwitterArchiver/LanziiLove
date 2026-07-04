@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2055194636982071671",
+    "created_at": "2026-05-15T07:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T08:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055195219231203829"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055195219231203829",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055194636982071671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实昨天已经是我现在能努力达到的最男外貌的状态了（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2055194636982071671",
+        "created_at": "2026-05-15T07:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055195219231203829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055195219231203829",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055194636982071671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实昨天已经是我现在能努力达到的最男外貌的状态了（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2055194636982071671",
+        "created_at": "2026-05-15T07:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055194636982071671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1877920276316585984",
+              "start": 6,
+              "username": "CelestialSayuki"
+            },
+            {
+              "end": 42,
+              "id": "1899682374679760896",
+              "start": 34,
+              "username": "minGxw_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055194636982071671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天约饭 和@CelestialSayuki 在男生组团宿舍楼底下等@minGxw_ 下楼 站那唠了会嗑\n正巧冥酱的室友刚好从楼底下回宿舍\n一会冥酱从宿舍下来了：\n“刚刚我室友跟我说楼底下站了个女生（”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24104,
+          "following_count": 1153,
+          "like_count": 2301,
+          "listed_count": 75,
+          "media_count": 423,
+          "tweet_count": 2224
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

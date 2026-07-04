@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2050898336362921985",
+    "created_at": "2026-05-03T14:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T15:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050941199201231025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692820634328526848",
+          "start": 0,
+          "username": "Alicehime_Haona"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050941199201231025",
+    "in_reply_to_user_id": "1692820634328526848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050898336362921985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alicehime_Haona すごく綺麗だな！！！💕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2050898074143473664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZA7qvawAAt7bR.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2050898336362921985",
+        "created_at": "2026-05-03T14:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050941199201231025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692820634328526848",
+              "start": 0,
+              "username": "Alicehime_Haona"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050941199201231025",
+        "in_reply_to_user_id": "1692820634328526848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050898336362921985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alicehime_Haona すごく綺麗だな！！！💕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050898074143473664"
+          ]
+        },
+        "author_id": "1692820634328526848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041302998",
+              "name": "ラブライブ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2050898336362921985",
+        "created_at": "2026-05-03T11:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T12:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050898336362921985"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 76,
+              "tag": "cosplay"
+            },
+            {
+              "end": 96,
+              "start": 85,
+              "tag": "ラブライブㅤㅤㅤㅤㅤ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jKwEzzuNLi",
+              "end": 120,
+              "expanded_url": "https://x.com/Alicehime_Haona/status/2050898336362921985/photo/1",
+              "media_key": "3_2050898074143473664",
+              "start": 97,
+              "url": "https://t.co/jKwEzzuNLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050898336362921985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 175,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "～Cosplay～\n\nラブライブ！\n『南ことり 踊子覚醒』\n\n名前変更に伴い再投稿です\n\n個人的にお気に入りの一枚で、気に入ってもらえると嬉しいです♪\n#cosplay　#ラブライブㅤㅤㅤㅤㅤ https://t.co/jKwEzzuNLi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！希望被称作She/Her✨喜欢cos编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名 混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意平台公益捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23051,
+          "following_count": 1066,
+          "like_count": 2056,
+          "listed_count": 68,
+          "media_count": 409,
+          "tweet_count": 2102
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-19T08:47:53.000Z",
+        "description": "ようこそ♡ 豪娜の世界へ💕\n憧れを追いかけてコスプレしてます\n成長途中ですが頑張っています！\nプロを目指して🔥\n\n読み方:アリス姫ごうなです♡あだ名なーたん\n\n大家好(˶ᐢωᐢ˶)\n因为我在中国有一位很憧憬的人，所以一直在努力✨ \n为了变得更高质量，我会继续加油🪄\n『伪娘・男娘 Cosplayer ♡』",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "allmylinks.com/aihime-Haonaa",
+                "end": 23,
+                "expanded_url": "https://allmylinks.com/aihime-Haonaa",
+                "start": 0,
+                "url": "https://t.co/THGd2LkYQ9"
+              }
+            ]
+          }
+        },
+        "id": "1692820634328526848",
+        "name": "爱丽丝姬·豪娜",
+        "pinned_tweet_id": "2050898336362921985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048478292408500224/-DuN8zdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 86,
+          "like_count": 7504,
+          "listed_count": 4,
+          "media_count": 108,
+          "tweet_count": 3011
+        },
+        "url": "https://t.co/THGd2LkYQ9",
+        "username": "Alicehime_Haona",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2060730343322464296",
+    "created_at": "2026-06-13T03:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T04:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065637707318223311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1402648752347705346",
+          "start": 0,
+          "username": "OCc1Fywi1AKXk9s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065637707318223311",
+    "in_reply_to_user_id": "1402648752347705346",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065635386207129738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OCc1Fywi1AKXk9s 小臂 大臂 大腿内侧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2060730343322464296",
+        "created_at": "2026-06-13T03:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065637707318223311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1402648752347705346",
+              "start": 0,
+              "username": "OCc1Fywi1AKXk9s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065637707318223311",
+        "in_reply_to_user_id": "1402648752347705346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065635386207129738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OCc1Fywi1AKXk9s 小臂 大臂 大腿内侧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1402648752347705346",
+        "conversation_id": "2060730343322464296",
+        "created_at": "2026-06-13T03:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065635386207129738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065635386207129738",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060730343322464296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 好奇你擦雌一般都是擦哪些位置呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25501,
+          "following_count": 1259,
+          "like_count": 3103,
+          "listed_count": 78,
+          "media_count": 460,
+          "tweet_count": 2756
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-09T15:28:26.000Z",
+        "description": "是喜欢一切可爱生物的小南梁哦～偶尔也会冒出一些涩涩的想法☺️",
+        "id": "1402648752347705346",
+        "name": "矢崎佳音♠️",
+        "pinned_tweet_id": "1949804189724393724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949091109281681408/sJWKcd3C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 4309,
+          "like_count": 162,
+          "listed_count": 13,
+          "media_count": 91,
+          "tweet_count": 1854
+        },
+        "username": "OCc1Fywi1AKXk9s",
+        "verified": false
+      }
+    ]
+  }
+}

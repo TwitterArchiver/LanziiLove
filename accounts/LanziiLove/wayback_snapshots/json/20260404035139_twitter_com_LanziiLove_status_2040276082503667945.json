@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040276073888595968"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2040276082503667945",
+    "created_at": "2026-04-04T03:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T04:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040276082503667945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TSMWc3W96H",
+          "end": 51,
+          "expanded_url": "https://x.com/LanziiLove/status/2040276082503667945/photo/1",
+          "media_key": "3_2040276073888595968",
+          "start": 28,
+          "url": "https://t.co/TSMWc3W96H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040276082503667945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国节假日高速路睡觉做梦核\n\n*刚刚看到拍下来随手P的 https://t.co/TSMWc3W96H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2040276073888595968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFCER4PbwAAb78d.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040276073888595968"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040276082503667945",
+        "created_at": "2026-04-04T03:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T04:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040276082503667945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TSMWc3W96H",
+              "end": 51,
+              "expanded_url": "https://x.com/LanziiLove/status/2040276082503667945/photo/1",
+              "media_key": "3_2040276073888595968",
+              "start": 28,
+              "url": "https://t.co/TSMWc3W96H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040276082503667945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国节假日高速路睡觉做梦核\n\n*刚刚看到拍下来随手P的 https://t.co/TSMWc3W96H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫 平时喜欢打打游戏玩玩cos发照片 账号纯绿日常向 已经有对象啦@dexy0306 B站6.7w粉同名的是我本人号 不定期直播打游戏 祝你生活愉快～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22101,
+          "following_count": 994,
+          "like_count": 1741,
+          "listed_count": 64,
+          "media_count": 367,
+          "tweet_count": 1862
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

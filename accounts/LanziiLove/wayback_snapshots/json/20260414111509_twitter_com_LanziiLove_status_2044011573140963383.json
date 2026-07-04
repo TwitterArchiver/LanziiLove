@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2043703211043983772",
+    "created_at": "2026-04-14T11:15:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044011573140963383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1705973570898460672",
+          "start": 0,
+          "username": "superfoxmolika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044011573140963383",
+    "in_reply_to_user_id": "1705973570898460672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044008204145922117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@superfoxmolika 省流版：直接给Tony看这张照片\n\n文字版：前面剪成八字刘海 副刘海鬓发不要剪短要留长 后发的层次剪低剪齐 要可以扎起来留长的那种"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2043703211043983772",
+        "created_at": "2026-04-14T11:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044011573140963383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1705973570898460672",
+              "start": 0,
+              "username": "superfoxmolika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044011573140963383",
+        "in_reply_to_user_id": "1705973570898460672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044008204145922117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@superfoxmolika 省流版：直接给Tony看这张照片\n\n文字版：前面剪成八字刘海 副刘海鬓发不要剪短要留长 后发的层次剪低剪齐 要可以扎起来留长的那种"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705973570898460672",
+        "conversation_id": "2043703211043983772",
+        "created_at": "2026-04-14T11:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044008204145922117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044008204145922117",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043703211043983772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 这种叫什么（\n要怎么跟理发师形容（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫✨平时喜欢打打游戏玩玩cos发照片编曲画画写代码💻账号纯绿日常向🏠已经有对象啦@dexy0306❤️B站6.7w粉同名的是我本人号😉不定期直播打游戏 评论区混眼熟了会回fo 🥳 祝你生活愉快～☀️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21866,
+          "following_count": 1018,
+          "like_count": 1821,
+          "listed_count": 64,
+          "media_count": 380,
+          "tweet_count": 1924
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T15:52:58.000Z",
+        "description": "冰红茶🍵（康师傅👨🏿）1000Mililiter🍶：\n🚰水 | 白砂糖🍬 | 红茶粉🌺 | 食用盐🧂 | 食品添加剂（柠檬酸🍋、维生素C₵、焦糖色🍩）| 食用香精🧊 | 4/0.6 CNY/USD💴💵 | 冰冻国窖🧊 | LAKERS代言🏀 | 大众轻奢💃🏼 | 人生不被定义🌏",
+        "id": "1705973570898460672",
+        "name": "狐狸莫狸卡Molika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919218356298850304/pKvw0vAI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 197,
+          "like_count": 5121,
+          "listed_count": 2,
+          "media_count": 483,
+          "tweet_count": 2042
+        },
+        "username": "superfoxmolika",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2002778374515868149",
+    "created_at": "2025-12-22T05:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T06:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002970526491545927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1547020655740080128",
+          "start": 0,
+          "username": "H_galgame"
+        },
+        {
+          "end": 20,
+          "id": "1915622690653954048",
+          "start": 11,
+          "username": "dexy0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002970526491545927",
+    "in_reply_to_user_id": "1547020655740080128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002916160904589526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H_galgame @dexy0306 谢谢www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2002778374515868149",
+        "created_at": "2025-12-22T05:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T06:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002970526491545927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1547020655740080128",
+              "start": 0,
+              "username": "H_galgame"
+            },
+            {
+              "end": 20,
+              "id": "1915622690653954048",
+              "start": 11,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002970526491545927",
+        "in_reply_to_user_id": "1547020655740080128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002916160904589526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H_galgame @dexy0306 谢谢www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547020655740080128",
+        "conversation_id": "2002778374515868149",
+        "created_at": "2025-12-22T01:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T02:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002916160904589526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 21,
+              "id": "1915622690653954048",
+              "start": 12,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002916160904589526",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002778374515868149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @dexy0306 生日快乐，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 非跨无药不是男娘是男的 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好编曲 画画 3DCG cos//985大二计算机科学与技术第二学位数学//B站6.6万粉丝同名//无差别block所有见证傻狗//音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 156,
+                "start": 145,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "世界和平☮️World Peace",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1946772875698110774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22377,
+          "following_count": 974,
+          "like_count": 1573,
+          "listed_count": 69,
+          "media_count": 347,
+          "tweet_count": 1754
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T00:50:57.000Z",
+        "description": "男，怨世的伪善者，健忘的家伙。\n想要朋友？大概是个笨蛋傲娇。\n希望大家都能找到属于自己的真爱呢。\n\n问答箱https://t.co/qFhVEYSxVz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hy3129342449",
+                "end": 76,
+                "expanded_url": "https://ngl.link/hy3129342449",
+                "start": 53,
+                "url": "https://t.co/qFhVEYSxVz"
+              }
+            ]
+          }
+        },
+        "id": "1547020655740080128",
+        "location": "哈尔滨",
+        "name": "輝子",
+        "pinned_tweet_id": "1788435902139945017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977243309082083328/Vbn7lhde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 692,
+          "like_count": 18117,
+          "listed_count": 2,
+          "media_count": 4734,
+          "tweet_count": 10369
+        },
+        "username": "H_galgame",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915673915411881988/qqYyNevC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 5,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 66
+        },
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

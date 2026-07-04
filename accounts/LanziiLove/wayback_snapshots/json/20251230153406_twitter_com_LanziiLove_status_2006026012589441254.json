@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2005719594980573360",
+    "created_at": "2025-12-30T15:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T16:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006026012589441254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1935317436917751808",
+          "start": 0,
+          "username": "Kizuna_no_Gei"
+        },
+        {
+          "end": 24,
+          "id": "13411672",
+          "start": 15,
+          "username": "fournoas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006026012589441254",
+    "in_reply_to_user_id": "1935317436917751808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006019679026901418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kizuna_no_Gei @fournoas 其实是我此前都没见过这sb\n估计看我简介里光是为了表明国籍了个国旗就给我ban了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2005719594980573360",
+        "created_at": "2025-12-30T15:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T16:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006026012589441254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1935317436917751808",
+              "start": 0,
+              "username": "Kizuna_no_Gei"
+            },
+            {
+              "end": 24,
+              "id": "13411672",
+              "start": 15,
+              "username": "fournoas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006026012589441254",
+        "in_reply_to_user_id": "1935317436917751808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006019679026901418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kizuna_no_Gei @fournoas 其实是我此前都没见过这sb\n估计看我简介里光是为了表明国籍了个国旗就给我ban了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935317436917751808",
+        "conversation_id": "2005719594980573360",
+        "created_at": "2025-12-30T15:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T16:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006019679026901418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 21,
+              "id": "13411672",
+              "start": 12,
+              "username": "fournoas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006019679026901418",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005719594980573360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @fournoas 还真是\n难绷支黑心平气和说两句马上给你扣爱支病的帽子😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "05年🇨🇳//纯清水 非跨无药不是男娘是男的 照片高P 上网纯娱乐//男友@Dexy0306//高考674分做题区//爱好编曲 画画 3DCG cos//985大二计算机科学与技术第二学位数学//B站6.6万粉丝同名//无差别block所有见证傻狗//音乐&绘画作品 音乐平台&Pixiv @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "Dexy0306"
+              },
+              {
+                "end": 156,
+                "start": 145,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "世界和平☮️World Peace",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1946772875698110774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22277,
+          "following_count": 982,
+          "like_count": 1607,
+          "listed_count": 69,
+          "media_count": 350,
+          "tweet_count": 1774
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T12:43:47.000Z",
+        "description": "Мой Харошка@c_upx7/高中生/后朋/民谣/特摄/ACG/酒蒙子/不键政/自由平等民主科学/日本語勉強中/希望认识所有国家的人/最近我觉得很幸福",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 11,
+                "username": "c_upx7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kizuna_no_Gei",
+                "end": 23,
+                "expanded_url": "http://t.me/Kizuna_no_Gei",
+                "start": 0,
+                "url": "https://t.co/xC2wyeBsMl"
+              }
+            ]
+          }
+        },
+        "id": "1935317436917751808",
+        "location": "Shanghai.PRC🇨🇳Main.ROC🇹🇼",
+        "name": "☦︎絆の芸⳩",
+        "pinned_tweet_id": "1973654165642760467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001871359006429184/mzGA0v0a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 183,
+          "like_count": 1704,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 2520
+        },
+        "url": "https://t.co/xC2wyeBsMl",
+        "username": "Kizuna_no_Gei",
+        "verified": false
+      },
+      {
+        "created_at": "2008-02-13T02:22:57.000Z",
+        "description": "",
+        "id": "13411672",
+        "name": "四不象",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/53426670/05_normal.gif",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 159,
+          "like_count": 1832,
+          "listed_count": 5,
+          "media_count": 487,
+          "tweet_count": 14409
+        },
+        "username": "fournoas",
+        "verified": false
+      }
+    ]
+  }
+}

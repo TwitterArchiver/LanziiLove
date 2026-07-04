@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1911783037450461342",
+    "created_at": "2025-04-14T17:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T18:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911827990327312566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1723329693733294080",
+          "start": 0,
+          "username": "Skystar_meow"
+        },
+        {
+          "end": 30,
+          "id": "1878333765514346496",
+          "start": 14,
+          "username": "hosh1no_shizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911827990327312566",
+    "in_reply_to_user_id": "1723329693733294080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911827864229712135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Skystar_meow @hosh1no_shizuku 好的 非常感谢！！🥺"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [hosh1no_shizuku].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "hosh1no_shizuku",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "hosh1no_shizuku"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1911783037450461342",
+        "created_at": "2025-04-14T17:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T18:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911827990327312566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1723329693733294080",
+              "start": 0,
+              "username": "Skystar_meow"
+            },
+            {
+              "end": 30,
+              "id": "1878333765514346496",
+              "start": 14,
+              "username": "hosh1no_shizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911827990327312566",
+        "in_reply_to_user_id": "1723329693733294080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911827864229712135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Skystar_meow @hosh1no_shizuku 好的 非常感谢！！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723329693733294080",
+        "conversation_id": "1911783037450461342",
+        "created_at": "2025-04-14T17:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T18:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911827864229712135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 28,
+              "id": "1878333765514346496",
+              "start": 12,
+              "username": "hosh1no_shizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911827864229712135",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911827045497413890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @hosh1no_shizuku 有時會比較晚回，我這最一開始大概是半個月後，然後一個月(都是在跟我重新要郵箱、電話那些，看妳那時有用什麼綁定)\n後來就是應該是查好沒問題，大概三四天就回覆了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "男娘小雫｜大号@hosh1no_shizuku被盗 本号为唯一真号 置顶查证｜纯清水无黄无福利无tg 其他账号均为假冒的骗子｜🥺求帮帮孩子新号重生 现在关注我就回fo 求转推（没回fo就是到上限了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "hosh1no_shizuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "映鏡R3-DMPT",
+        "name": "星野雫丶Shizuku（唯一真号 主页查证）",
+        "pinned_tweet_id": "1911783037450461342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 317,
+          "like_count": 244,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 186
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T13:19:58.000Z",
+        "description": "處於焦慮的小貓/05 mtf/she her/夢想是沉浸在起司世界/可愛呆貓貓、老公、主人 @yqng143579 /\n\nbs: @starmeow.bsky.social /提問箱喵 https://t.co/0R3MWCmDNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "yqng143579"
+              },
+              {
+                "end": 74,
+                "start": 65,
+                "username": "starmeow"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/skystar_meow",
+                "end": 116,
+                "expanded_url": "https://ngl.link/skystar_meow",
+                "start": 93,
+                "url": "https://t.co/0R3MWCmDNd"
+              }
+            ]
+          }
+        },
+        "id": "1723329693733294080",
+        "location": "大貓咪起司天堂",
+        "name": "Lilith_Cat🍥",
+        "pinned_tweet_id": "1838144801340010679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859862701297762305/FAt77NOW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 190,
+          "like_count": 4174,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 2364
+        },
+        "username": "Skystar_meow",
+        "verified": false
+      }
+    ]
+  }
+}

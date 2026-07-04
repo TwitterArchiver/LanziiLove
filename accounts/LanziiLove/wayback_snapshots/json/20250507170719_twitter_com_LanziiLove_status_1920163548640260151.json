@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "1919986718456893849",
+    "created_at": "2025-05-07T17:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T18:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920163548640260151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1439306335",
+          "start": 0,
+          "username": "60Mohan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920163548640260151",
+    "in_reply_to_user_id": "1439306335",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920163439798071521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@60Mohan 假发喵w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "1919986718456893849",
+        "created_at": "2025-05-07T17:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T18:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920163548640260151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1439306335",
+              "start": 0,
+              "username": "60Mohan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920163548640260151",
+        "in_reply_to_user_id": "1439306335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920163439798071521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@60Mohan 假发喵w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439306335",
+        "conversation_id": "1919986718456893849",
+        "created_at": "2025-05-07T17:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T18:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920163439798071521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920163439798071521",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919986718456893849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 头发好棒，天生的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "【新号】19岁不含🍬🇨🇳男娘小雫 理智爱国 不见证｜2万fo大号被盗 可能爆炸 请尽快转到此号 ｜纯清水无黄无福利无tg ｜男娘/画师可DM我回fo｜已有男朋友@dexy0306 他叫然然～（他超可爱！） 是纯爱哦｜无门槛 同好可扩列｜小号@hosh1no_sh1zuku｜全网同名 只有B站和X有号 其他均为假冒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 80,
+                "username": "dexy0306"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hosh1no_sh1zuku"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的怀里",
+        "name": "星野雫丶Shizuku✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911751252460888064/Emjcd7cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12613,
+          "following_count": 713,
+          "like_count": 380,
+          "listed_count": 30,
+          "media_count": 137,
+          "tweet_count": 647
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-18T19:51:12.000Z",
+        "description": "只是一个什么都做不好还被人嫌弃的笨蛋女生｜🪜 https://t.co/3tSBo8e9vt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xyz004.damoplane.xyz/#/register?cod…",
+                "end": 46,
+                "expanded_url": "https://xyz004.damoplane.xyz/#/register?code=VAxKtzay",
+                "start": 23,
+                "url": "https://t.co/3tSBo8e9vt"
+              }
+            ]
+          }
+        },
+        "id": "1439306335",
+        "location": "伦敦",
+        "name": "🇬🇧Rosalie🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858489299047682048/adL6E4-x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2306,
+          "following_count": 525,
+          "like_count": 6273,
+          "listed_count": 9,
+          "media_count": 253,
+          "tweet_count": 4331
+        },
+        "username": "60Mohan",
+        "verified": false
+      }
+    ]
+  }
+}

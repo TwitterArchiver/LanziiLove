@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2056937844925735094",
+    "created_at": "2026-05-20T04:38:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T05:38:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056957726065070559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1859058867352858625",
+          "start": 0,
+          "username": "lgdlaika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056957726065070559",
+    "in_reply_to_user_id": "1859058867352858625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056955264482578569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lgdlaika 小山丘 〉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2056937844925735094",
+        "created_at": "2026-05-20T04:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056957726065070559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1859058867352858625",
+              "start": 0,
+              "username": "lgdlaika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056957726065070559",
+        "in_reply_to_user_id": "1859058867352858625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056955264482578569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lgdlaika 小山丘 〉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859058867352858625",
+        "conversation_id": "2056937844925735094",
+        "created_at": "2026-05-20T04:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056955264482578569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056955264482578569",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056937844925735094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 有多大欸awa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku（tg上的是骗子⚠️）",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24506,
+          "following_count": 1180,
+          "like_count": 2492,
+          "listed_count": 78,
+          "media_count": 434,
+          "tweet_count": 2338
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T02:19:44.000Z",
+        "description": "10年的一个普通南孩纸 (認知是非二元喵\n会画画但很烂\n想是成爲一名游戲程序員？\n不长玩游戏打游戏很菜的歇（喜歡mc\n用网抑郁音乐，同时也是术批（最喜欢张丽丽小入机啦！！\n在线时间：早八到晚6随机上线\n请理性玩梗！！！！",
+        "id": "1859058867352858625",
+        "name": "諾亞_lgdlaika🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861668764552699904/g730-THY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 68,
+          "like_count": 7783,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 184
+        },
+        "username": "lgdlaika",
+        "verified": false
+      }
+    ]
+  }
+}

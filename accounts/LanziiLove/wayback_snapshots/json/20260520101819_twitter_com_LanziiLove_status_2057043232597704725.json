@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2057027855616516130",
+    "created_at": "2026-05-20T10:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T11:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057043232597704725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1696818325832261632",
+          "start": 0,
+          "username": "Yuuko_kitsune"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057043232597704725",
+    "in_reply_to_user_id": "1696818325832261632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057041379046625639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuuko_kitsune 是滴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2057027855616516130",
+        "created_at": "2026-05-20T10:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057043232597704725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1696818325832261632",
+              "start": 0,
+              "username": "Yuuko_kitsune"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057043232597704725",
+        "in_reply_to_user_id": "1696818325832261632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057041379046625639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuuko_kitsune 是滴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696818325832261632",
+        "conversation_id": "2057027855616516130",
+        "created_at": "2026-05-20T10:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057041379046625639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057041379046625639",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057027855616516130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 所以说还是好结局呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku（tg上的是骗子⚠️）",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24528,
+          "following_count": 1185,
+          "like_count": 2524,
+          "listed_count": 75,
+          "media_count": 434,
+          "tweet_count": 2372
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-30T09:33:23.000Z",
+        "description": "潜伏于这人世间的狐狸/复学中/MtX🏳️‍⚧️HRT:2024.10.25/战地薯条/狐狸是神明大人派遣到人间的使者，所以狐狸是天使哦，难受的时候、痛苦的时候，来找狐狸吧。不设门槛",
+        "id": "1696818325832261632",
+        "name": "有狐ハチ",
+        "pinned_tweet_id": "1804614998674846113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989377535579471872/0BhaEpqF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 714,
+          "like_count": 916,
+          "listed_count": 4,
+          "media_count": 78,
+          "tweet_count": 287
+        },
+        "username": "Yuuko_kitsune",
+        "verified": false
+      }
+    ]
+  }
+}

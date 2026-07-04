@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2047653254658727990",
+    "created_at": "2026-04-24T15:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047700036545552811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3435147081",
+          "start": 0,
+          "username": "Shanwer_kotori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047700036545552811",
+    "in_reply_to_user_id": "3435147081",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047693554127110492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shanwer_kotori 兔兔好吃😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2047653254658727990",
+        "created_at": "2026-04-24T15:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047700036545552811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3435147081",
+              "start": 0,
+              "username": "Shanwer_kotori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047700036545552811",
+        "in_reply_to_user_id": "3435147081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047693554127110492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shanwer_kotori 兔兔好吃😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3435147081",
+        "conversation_id": "2047653254658727990",
+        "created_at": "2026-04-24T15:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047693554127110492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047693554127110492",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047653837457285135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 兔兔这么可爱，不要吃兔兔😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫✨喜欢cos拍照片编曲画画💻账号纯绿日常向🏠我终生的爱人然然@dexy0306 是纯爱哦❤️B站6.7w粉同名的是本人😉评论区混眼熟了会回fo 🥳 祝你生活愉快～☀️10r任意平台公益捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "1994637461843317173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22168,
+          "following_count": 1035,
+          "like_count": 1968,
+          "listed_count": 64,
+          "media_count": 392,
+          "tweet_count": 2042
+        },
+        "username": "LanziiLove",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-22T07:53:30.000Z",
+        "description": "判り合えたのなら、感じ取れたら手を繋ごう",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.shanwer.top",
+                "end": 23,
+                "expanded_url": "http://blog.shanwer.top",
+                "start": 0,
+                "url": "https://t.co/w4ug1Xe34W"
+              }
+            ]
+          }
+        },
+        "id": "3435147081",
+        "name": "Shanwer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863357184832352256/i93mE3hi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 60,
+          "like_count": 6926,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 186
+        },
+        "url": "https://t.co/w4ug1Xe34W",
+        "username": "Shanwer_kotori",
+        "verified": false
+      }
+    ]
+  }
+}
