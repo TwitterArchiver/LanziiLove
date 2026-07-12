@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2074294659468431843",
+    "created_at": "2026-07-07T08:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T09:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074415949885878293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1682393512082546688",
+          "start": 0,
+          "username": "DF4D114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074415949885878293",
+    "in_reply_to_user_id": "1682393512082546688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074414751145418957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DF4D114514 依旧一眼低学历低认知低层次的小镇淫虫看黄蝈蝻 找个班上吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2074294659468431843",
+        "created_at": "2026-07-07T08:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074415949885878293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1682393512082546688",
+              "start": 0,
+              "username": "DF4D114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074415949885878293",
+        "in_reply_to_user_id": "1682393512082546688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074414751145418957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DF4D114514 依旧一眼低学历低认知低层次的小镇淫虫看黄蝈蝻 找个班上吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682393512082546688",
+        "conversation_id": "2074294659468431843",
+        "created_at": "2026-07-07T08:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074414751145418957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074414751145418957",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074294659468431843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 依旧一眼刻板印象"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～本名杜澄溪 可以叫我小雫or澄溪 💕是女孩子！🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠这是我的男友然桑@dexy0306 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2073964025336263166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26989,
+          "following_count": 1430,
+          "like_count": 3434,
+          "listed_count": 80,
+          "media_count": 477,
+          "tweet_count": 3026
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-21T14:14:16.000Z",
+        "description": "💗@egggggssy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 1,
+                "username": "egggggssy"
+              }
+            ]
+          }
+        },
+        "id": "1682393512082546688",
+        "name": "何意味",
+        "pinned_tweet_id": "1905600661556765044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973389403654594560/GPjMYVAJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 156,
+          "like_count": 8506,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1290
+        },
+        "url": "",
+        "username": "DF4D114514",
+        "verified": false
+      }
+    ]
+  }
+}

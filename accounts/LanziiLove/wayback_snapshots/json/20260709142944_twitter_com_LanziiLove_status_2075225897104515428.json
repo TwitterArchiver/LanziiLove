@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2075197103643705690",
+    "created_at": "2026-07-09T14:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T15:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075225897104515428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2057006320851849216",
+          "start": 0,
+          "username": "yamazakiisuzu"
+        },
+        {
+          "end": 24,
+          "id": "1915622690653954048",
+          "start": 15,
+          "username": "dexy0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075225897104515428",
+    "in_reply_to_user_id": "2057006320851849216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075207081599336822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamazakiisuzu @dexy0306 是普通顺男"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2075197103643705690",
+        "created_at": "2026-07-09T14:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075225897104515428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057006320851849216",
+              "start": 0,
+              "username": "yamazakiisuzu"
+            },
+            {
+              "end": 24,
+              "id": "1915622690653954048",
+              "start": 15,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075225897104515428",
+        "in_reply_to_user_id": "2057006320851849216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075207081599336822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamazakiisuzu @dexy0306 是普通顺男"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057006320851849216",
+        "conversation_id": "2075197103643705690",
+        "created_at": "2026-07-09T13:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075207081599336822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 21,
+              "id": "1915622690653954048",
+              "start": 12,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075207081599336822",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075197103643705690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @dexy0306 你家这位不是普通顺男？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～本名杜澄溪 可以叫我小雫or澄溪 💕是女孩子！🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠这是我的男友然桑@dexy0306 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2073964025336263166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27182,
+          "following_count": 1430,
+          "like_count": 3444,
+          "listed_count": 81,
+          "media_count": 481,
+          "tweet_count": 3050
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-20T07:51:56.000Z",
+        "description": "ここは山崎いすずの個人垢/中国人/日本語を勉強している/日本語の程度はN95です/妄想加入日本籍😜",
+        "id": "2057006320851849216",
+        "name": "⁺✟₊山崎いすず₊✟⁺",
+        "pinned_tweet_id": "2058442347667677629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058413683731226624/mYzWrFfs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 86,
+          "like_count": 2505,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 747
+        },
+        "url": "",
+        "username": "yamazakiisuzu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058966578692300800/PhRHdgfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 7,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

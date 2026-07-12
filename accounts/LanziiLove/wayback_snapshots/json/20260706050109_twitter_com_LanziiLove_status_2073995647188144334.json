@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2073994035644289485",
+    "created_at": "2026-07-06T05:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T06:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073995647188144334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796192059495219200",
+          "start": 0,
+          "username": "celadon000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073995647188144334",
+    "in_reply_to_user_id": "1796192059495219200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "不要节食 多吃优质脂肪优质蛋白 适当锻炼胸肌 每日适当轻柔按摩 保持雌激素水平恒稳 不要使用黄体酮（会有副作用 正面作用存在争议 1-2年后再使用）防止炸柜主要针对夏天，多买一些宽松材质偏硬的黑色体恤，以及穿无痕内衣，如果太大了就穿裹胸（都发育到这个程度了的话勒一勒问题也不大）或者在外面套一件防晒衣，很薄的很透气，不会热"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073994035644289485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@celadon000 不要节食 多吃优质脂肪优质蛋白 适当锻炼胸肌 每日适当轻柔按摩 保持雌激素水平恒稳 不要使用黄体酮（会有副作用 正面作用存在争议"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2073994035644289485",
+        "created_at": "2026-07-06T05:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073995647188144334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796192059495219200",
+              "start": 0,
+              "username": "celadon000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073995647188144334",
+        "in_reply_to_user_id": "1796192059495219200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "不要节食 多吃优质脂肪优质蛋白 适当锻炼胸肌 每日适当轻柔按摩 保持雌激素水平恒稳 不要使用黄体酮（会有副作用 正面作用存在争议 1-2年后再使用）防止炸柜主要针对夏天，多买一些宽松材质偏硬的黑色体恤，以及穿无痕内衣，如果太大了就穿裹胸（都发育到这个程度了的话勒一勒问题也不大）或者在外面套一件防晒衣，很薄的很透气，不会热"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073994035644289485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@celadon000 不要节食 多吃优质脂肪优质蛋白 适当锻炼胸肌 每日适当轻柔按摩 保持雌激素水平恒稳 不要使用黄体酮（会有副作用 正面作用存在争议"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796192059495219200",
+        "conversation_id": "2073994035644289485",
+        "created_at": "2026-07-06T04:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:53:34.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073993736019959867",
+          "2073994035644289485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073994035644289485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么样促进胸部发育，并且在胸部发育之后还能不炸柜（我还住宿🥲）\n\n看很多人说黄体酮，这玩意真的有用嘛。还看有人说有负作用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～本名杜澄溪 可以叫我小雫or澄溪 💕是女孩子！🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠这是我的男友然桑@dexy0306 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26944,
+          "following_count": 1428,
+          "like_count": 3420,
+          "listed_count": 80,
+          "media_count": 475,
+          "tweet_count": 3000
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-30T14:49:04.000Z",
+        "description": "无证含糖🍥 | ArchLinux | 全栈 | 生产日期2008 | 前oier | INFP",
+        "id": "1796192059495219200",
+        "location": "Internet",
+        "name": "Celadon🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055488818493652992/x2Be0AsC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 236,
+          "like_count": 286,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 201
+        },
+        "url": "",
+        "username": "celadon000",
+        "verified": true
+      }
+    ]
+  }
+}

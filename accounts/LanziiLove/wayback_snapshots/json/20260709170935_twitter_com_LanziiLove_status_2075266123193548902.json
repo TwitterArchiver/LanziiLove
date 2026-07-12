@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2075197103643705690",
+    "created_at": "2026-07-09T17:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T18:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075266123193548902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1416976245544345605",
+          "start": 0,
+          "username": "Bili40014error"
+        },
+        {
+          "end": 25,
+          "id": "1915622690653954048",
+          "start": 16,
+          "username": "dexy0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075266123193548902",
+    "in_reply_to_user_id": "1416976245544345605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075265019353137486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bili40014error @dexy0306 也够"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2075197103643705690",
+        "created_at": "2026-07-09T17:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T18:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075266123193548902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1416976245544345605",
+              "start": 0,
+              "username": "Bili40014error"
+            },
+            {
+              "end": 25,
+              "id": "1915622690653954048",
+              "start": 16,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075266123193548902",
+        "in_reply_to_user_id": "1416976245544345605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075265019353137486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bili40014error @dexy0306 也够"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1416976245544345605",
+        "conversation_id": "2075197103643705690",
+        "created_at": "2026-07-09T17:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T18:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075265019353137486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 21,
+              "id": "1915622690653954048",
+              "start": 12,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075265019353137486",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075197103643705690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @dexy0306 同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～本名杜澄溪 可以叫我小雫or澄溪 💕是女孩子！🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠这是我的男友然桑@dexy0306 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2073964025336263166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27206,
+          "following_count": 1430,
+          "like_count": 3444,
+          "listed_count": 81,
+          "media_count": 481,
+          "tweet_count": 3052
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-19T04:20:45.000Z",
+        "description": "FH6 LOVER",
+        "id": "1416976245544345605",
+        "name": "40014error",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1416976355460276224/f3kb5Ue2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 549,
+          "like_count": 1544,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 653
+        },
+        "url": "",
+        "username": "Bili40014error",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058966578692300800/PhRHdgfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 7,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

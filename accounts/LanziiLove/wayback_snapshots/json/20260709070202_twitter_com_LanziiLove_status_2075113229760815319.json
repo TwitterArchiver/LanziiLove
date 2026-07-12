@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2075111650433306634",
+    "created_at": "2026-07-09T07:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T08:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075113229760815319"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075113229760815319",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075111650433306634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然后还捂嘴\n有什么问题禁止往外发🤭\n让你跟公司反馈 规矩和条款一大堆 动不动就是扣分罚款考勤打卡监控👁️\n\n结果就是成都将近四十度的大夏天你连一个空调问题四天了一点改善都没有\n\n人家是改善环境不让大家生病\n你们是无法改善环境所以直接给大家发药（藿香正气液）👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075111639293284352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxHCqFa0AA3Mif.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2075111650433306634",
+        "created_at": "2026-07-09T07:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075113229760815319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075113229760815319",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075111650433306634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后还捂嘴\n有什么问题禁止往外发🤭\n让你跟公司反馈 规矩和条款一大堆 动不动就是扣分罚款考勤打卡监控👁️\n\n结果就是成都将近四十度的大夏天你连一个空调问题四天了一点改善都没有\n\n人家是改善环境不让大家生病\n你们是无法改善环境所以直接给大家发药（藿香正气液）👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075111639293284352"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2075111650433306634",
+        "created_at": "2026-07-09T06:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075111650433306634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lS65BYFrWs",
+              "end": 70,
+              "expanded_url": "https://x.com/LanziiLove/status/2075111650433306634/photo/1",
+              "media_key": "3_2075111639293284352",
+              "start": 47,
+              "url": "https://t.co/lS65BYFrWs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075111650433306634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真靠了\n\n一个空调问题这么久解决不了\n\n工位跟特么室外一样热三十来度\n\n老娘迟早热化在这里 https://t.co/lS65BYFrWs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～本名杜澄溪 可以叫我小雫or澄溪 💕是女孩子！🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠这是我的男友然桑@dexy0306 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2073964025336263166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27147,
+          "following_count": 1429,
+          "like_count": 3441,
+          "listed_count": 83,
+          "media_count": 481,
+          "tweet_count": 3041
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      }
+    ]
+  }
+}

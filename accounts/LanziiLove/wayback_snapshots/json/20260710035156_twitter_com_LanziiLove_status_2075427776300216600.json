@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2075367604588560843",
+    "created_at": "2026-07-10T03:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T04:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075427776300216600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1787646987560755200",
+          "start": 0,
+          "username": "oyakodon311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075427776300216600",
+    "in_reply_to_user_id": "1787646987560755200",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075426913473212444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oyakodon311 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2075367604588560843",
+        "created_at": "2026-07-10T03:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075427776300216600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1787646987560755200",
+              "start": 0,
+              "username": "oyakodon311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075427776300216600",
+        "in_reply_to_user_id": "1787646987560755200",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075426913473212444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oyakodon311 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787646987560755200",
+        "conversation_id": "2075367604588560843",
+        "created_at": "2026-07-10T03:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075426913473212444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075426913473212444",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075367604588560843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 搞SRS别去东南亚，那里有诈骗园区多危险啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～本名杜澄溪 可以叫我小雫or澄溪 💕是女孩子！🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠这是我的男友然桑@dexy0306 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2073964025336263166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27240,
+          "following_count": 1430,
+          "like_count": 3445,
+          "listed_count": 81,
+          "media_count": 481,
+          "tweet_count": 3055
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-07T00:54:02.000Z",
+        "description": "",
+        "id": "1787646987560755200",
+        "location": "Guangzhou",
+        "name": "親子丼好き",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003725943400206336/CEBTSA0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 93,
+          "like_count": 695,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "oyakodon311",
+        "verified": false
+      }
+    ]
+  }
+}

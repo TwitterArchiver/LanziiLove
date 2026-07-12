@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2071183717905870899",
+    "created_at": "2026-07-05T13:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073762309735133258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1915622690653954048",
+          "start": 0,
+          "username": "dexy0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073762309735133258",
+    "in_reply_to_user_id": "1915622690653954048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071183717905870899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dexy0306 来一口老公嘴里的空气\nmua～ &gt;3&lt;"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071183708422631424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5Sm_UbcAAoHHS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2071183717905870899",
+        "created_at": "2026-07-05T13:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073762309735133258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1915622690653954048",
+              "start": 0,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073762309735133258",
+        "in_reply_to_user_id": "1915622690653954048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071183717905870899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dexy0306 来一口老公嘴里的空气\nmua～ &gt;3&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071183708422631424"
+          ]
+        },
+        "author_id": "1915622690653954048",
+        "conversation_id": "2071183717905870899",
+        "created_at": "2026-06-28T10:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071183717905870899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GSW8r6kmpA",
+              "end": 34,
+              "expanded_url": "https://x.com/dexy0306/status/2071183717905870899/photo/1",
+              "media_key": "3_2071183708422631424",
+              "start": 11,
+              "url": "https://t.co/GSW8r6kmpA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071183717905870899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2103,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来一口37年前的空气 https://t.co/GSW8r6kmpA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫 💕是女孩子！在为SRS努力🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠@dexy0306这是我的男友然桑 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26910,
+          "following_count": 1426,
+          "like_count": 3398,
+          "listed_count": 80,
+          "media_count": 470,
+          "tweet_count": 2974
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058966578692300800/PhRHdgfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 7,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

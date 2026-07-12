@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2075197103643705690",
+    "created_at": "2026-07-09T12:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075198579237699742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1486225700793495552",
+          "start": 0,
+          "username": "ABC13067637"
+        },
+        {
+          "end": 22,
+          "id": "1915622690653954048",
+          "start": 13,
+          "username": "dexy0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075198579237699742",
+    "in_reply_to_user_id": "1486225700793495552",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075198290086535261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ABC13067637 @dexy0306 🤓👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2075197103643705690",
+        "created_at": "2026-07-09T12:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075198579237699742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1486225700793495552",
+              "start": 0,
+              "username": "ABC13067637"
+            },
+            {
+              "end": 22,
+              "id": "1915622690653954048",
+              "start": 13,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075198579237699742",
+        "in_reply_to_user_id": "1486225700793495552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075198290086535261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABC13067637 @dexy0306 🤓👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486225700793495552",
+        "conversation_id": "2075197103643705690",
+        "created_at": "2026-07-09T12:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075198290086535261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 21,
+              "id": "1915622690653954048",
+              "start": 12,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075198290086535261",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075197103643705690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @dexy0306 闷骚涩气高冷御姐男娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～本名杜澄溪 可以叫我小雫or澄溪 💕是女孩子！🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠这是我的男友然桑@dexy0306 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2073964025336263166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27171,
+          "following_count": 1429,
+          "like_count": 3442,
+          "listed_count": 81,
+          "media_count": 481,
+          "tweet_count": 3044
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-26T06:33:27.000Z",
+        "description": "🏳️‍⚧️|INFP | 软件开发｜喜欢可爱的东西｜同类互fo 喵",
+        "id": "1486225700793495552",
+        "name": "Mizuki酱🍥",
+        "pinned_tweet_id": "2070438545823826325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486227103024844803/BTrXNcAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 593,
+          "like_count": 3954,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 1772
+        },
+        "url": "",
+        "username": "ABC13067637",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058966578692300800/PhRHdgfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 7,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073961541293232128"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2073961550663368862",
+    "created_at": "2026-07-06T02:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T03:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073961550663368862"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rTtwnEmMeR",
+          "end": 62,
+          "expanded_url": "https://x.com/LanziiLove/status/2073961550663368862/photo/1",
+          "media_key": "3_2073961541293232128",
+          "start": 39,
+          "url": "https://t.co/rTtwnEmMeR"
+        },
+        {
+          "display_url": "x.com/lanziilove/sta…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/lanziilove/status/2073631234962702712",
+          "start": 63,
+          "url": "https://t.co/PtVq1eIhyX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073961550663368862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073631234962702712",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "既然发高P图有人骂我\n那我发素颜原图就不要骂我丑\n\n*这个角度怎么大小眼了（ https://t.co/rTtwnEmMeR https://t.co/PtVq1eIhyX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073961541293232128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMgxCJKa0AAi5Jm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2073631227052171264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcEnUuaIAAyFFh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073961541293232128"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2073961550663368862",
+        "created_at": "2026-07-06T02:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073961550663368862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rTtwnEmMeR",
+              "end": 62,
+              "expanded_url": "https://x.com/LanziiLove/status/2073961550663368862/photo/1",
+              "media_key": "3_2073961541293232128",
+              "start": 39,
+              "url": "https://t.co/rTtwnEmMeR"
+            },
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/lanziilove/status/2073631234962702712",
+              "start": 63,
+              "url": "https://t.co/PtVq1eIhyX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073961550663368862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073631234962702712",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "既然发高P图有人骂我\n那我发素颜原图就不要骂我丑\n\n*这个角度怎么大小眼了（ https://t.co/rTtwnEmMeR https://t.co/PtVq1eIhyX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073631227052171264"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2073631234962702712",
+        "created_at": "2026-07-05T04:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073631234962702712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJyGMYYfQF",
+              "end": 74,
+              "expanded_url": "https://x.com/LanziiLove/status/2073631234962702712/photo/1",
+              "media_key": "3_2073631227052171264",
+              "start": 51,
+              "url": "https://t.co/BJyGMYYfQF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073631234962702712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8032,
+          "like_count": 196,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "主包就是这么命苦\n\n黑眼圈cosplay眼影和卧蚕\n\n妆都不用化了\n\n因为每次卸了妆都发现眼影更浓了 https://t.co/BJyGMYYfQF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～本名杜澄溪 可以叫我小雫or澄溪 💕是女孩子！🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠这是我的男友然桑@dexy0306 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26930,
+          "following_count": 1428,
+          "like_count": 3416,
+          "listed_count": 80,
+          "media_count": 471,
+          "tweet_count": 2986
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      }
+    ]
+  }
+}
