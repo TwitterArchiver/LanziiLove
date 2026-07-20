@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2075773416708468928",
+    "created_at": "2026-07-11T04:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075798115970662805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1409736932037300229",
+          "start": 0,
+          "username": "ffft0152012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075798115970662805",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075797699245527044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ffft0152012 我都能考到我这个学校了我还意识不到它的含金量我又不是sb\n我知道你本意是好的给我提建议但别带这种指点的爹味行吗\n特别是你说的这些东西在我考虑的各个方面里1%都占不到\n你能想到的我早就不知道想过多少遍了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2075773416708468928",
+        "created_at": "2026-07-11T04:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075798115970662805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409736932037300229",
+              "start": 0,
+              "username": "ffft0152012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075798115970662805",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075797699245527044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ffft0152012 我都能考到我这个学校了我还意识不到它的含金量我又不是sb\n我知道你本意是好的给我提建议但别带这种指点的爹味行吗\n特别是你说的这些东西在我考虑的各个方面里1%都占不到\n你能想到的我早就不知道想过多少遍了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2075773416708468928",
+        "created_at": "2026-07-11T04:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075797699245527044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409736932037300229",
+              "start": 0,
+              "username": "ffft0152012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075797699245527044",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "以及还有很多现实问题 等工作了之后 现在比较厉害的医生都退休了 或者价格又涨了 或者政策变了等等各种 以及等我工作了那都多久之后了，性别焦虑引起的抑郁允许我活到那个时候吗？工作后上哪找三个月去做手术？改证之后怎么和公司那边协调？你能保证别人不开除你？你能保证不被人歧视？那个年龄的身体恢复能力一定有现在好？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075796980400632236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ffft0152012 以及还有很多现实问题 等工作了之后 现在比较厉害的医生都退休了 或者价格又涨了 或者政策变了等等各种"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～本名杜澄溪 可以叫我小雫or澄溪 💕是女孩子！🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠这是我的男友然桑@dexy0306 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2073964025336263166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27295,
+          "following_count": 1430,
+          "like_count": 3450,
+          "listed_count": 81,
+          "media_count": 481,
+          "tweet_count": 3067
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-29T04:54:17.000Z",
+        "description": "",
+        "id": "1409736932037300229",
+        "name": "BF.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891819536267313152/YRwiDoQP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 363,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 835
+        },
+        "url": "",
+        "username": "ffft0152012",
+        "verified": false
+      }
+    ]
+  }
+}

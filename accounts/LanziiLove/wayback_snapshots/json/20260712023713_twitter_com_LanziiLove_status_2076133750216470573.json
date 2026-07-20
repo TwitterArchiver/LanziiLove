@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2076030320848289913",
+    "created_at": "2026-07-12T02:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T03:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076133750216470573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678117449508753408",
+          "start": 0,
+          "username": "Chunliang2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076133750216470573",
+    "in_reply_to_user_id": "1678117449508753408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076030320848289913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chunliang2nd 是个糖逼嘉豪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2076030320848289913",
+        "created_at": "2026-07-12T02:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076133750216470573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678117449508753408",
+              "start": 0,
+              "username": "Chunliang2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076133750216470573",
+        "in_reply_to_user_id": "1678117449508753408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076030320848289913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chunliang2nd 是个糖逼嘉豪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678117449508753408",
+        "conversation_id": "2076030320848289913",
+        "created_at": "2026-07-11T19:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T20:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076030320848289913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076030320848289913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特那个乌鲁鲁到底是干啥的\n一百年之内没人能看懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～本名杜澄溪 可以叫我小雫or澄溪 💕是女孩子！🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠这是我的男友然桑@dexy0306 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2072251283290071223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27308,
+          "following_count": 1430,
+          "like_count": 3455,
+          "listed_count": 81,
+          "media_count": 482,
+          "tweet_count": 3085
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-09T19:02:54.000Z",
+        "description": "我说老大哥，我刚刚在电幕旁边写日记的时候，你偷看了对吧？(错乱 ADHD/AS Bipolar Chaos-Evil 恐直🏳️‍⚧️Enby🍥HRT2023.6.9 半吊子geek ❄️NixOS Android Doubao-8b 退役HKer🇭🇰 贝贝珈毒唯 厌食/ED 维生素不足 @liminfin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 144,
+                "username": "liminfin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ouka.ro",
+                "end": 23,
+                "expanded_url": "http://ouka.ro",
+                "start": 0,
+                "url": "https://t.co/wpEdl7ukHh"
+              }
+            ]
+          }
+        },
+        "id": "1678117449508753408",
+        "location": "乡北茶舍",
+        "name": "虚拟粘同学会梦到一般通过赛博溺水态李颖吗☆",
+        "pinned_tweet_id": "2009209330239983965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907089784285392896/lOGGYplb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 1880,
+          "like_count": 27404,
+          "listed_count": 11,
+          "media_count": 1134,
+          "tweet_count": 27097
+        },
+        "url": "https://t.co/wpEdl7ukHh",
+        "username": "Chunliang2nd",
+        "verified": false
+      }
+    ]
+  }
+}

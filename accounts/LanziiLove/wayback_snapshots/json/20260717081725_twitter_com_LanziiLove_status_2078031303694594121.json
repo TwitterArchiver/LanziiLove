@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2078021699505996151",
+    "created_at": "2026-07-17T08:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T09:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078031303694594121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1911778794337353728",
+          "start": 0,
+          "username": "S1XLV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078031303694594121",
+    "in_reply_to_user_id": "1911778794337353728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078029247600574641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@S1XLV 可能是光线问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2078021699505996151",
+        "created_at": "2026-07-17T08:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078031303694594121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1911778794337353728",
+              "start": 0,
+              "username": "S1XLV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078031303694594121",
+        "in_reply_to_user_id": "1911778794337353728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078029247600574641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@S1XLV 可能是光线问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911778794337353728",
+        "conversation_id": "2078021699505996151",
+        "created_at": "2026-07-17T08:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078029247600574641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078029247600574641",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078021699505996151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove 背后的头发颜色是不是稍微有几撮没有染匀🤔，感觉看到了点色差"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年4月SRS 攒钱中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2073328283287253117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27858,
+          "following_count": 1582,
+          "like_count": 3508,
+          "listed_count": 81,
+          "media_count": 490,
+          "tweet_count": 3150
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-14T13:49:27.000Z",
+        "description": "CS2 player TF2 player \nwhatever just that lmao\nhttps://t.co/Wl3GHfs1jm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@donkeyvi",
+                "end": 70,
+                "expanded_url": "https://www.youtube.com/@donkeyvi",
+                "start": 47,
+                "url": "https://t.co/Wl3GHfs1jm"
+              }
+            ]
+          }
+        },
+        "id": "1911778794337353728",
+        "name": "S1XLV",
+        "pinned_tweet_id": "2033641993180717224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911779678446145536/iW1W1MzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 89,
+          "like_count": 1327,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 587
+        },
+        "url": "",
+        "username": "S1XLV",
+        "verified": true
+      }
+    ]
+  }
+}

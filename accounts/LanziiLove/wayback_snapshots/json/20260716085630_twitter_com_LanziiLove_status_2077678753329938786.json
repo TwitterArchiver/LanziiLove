@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077678742554710016"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2077678753329938786",
+    "created_at": "2026-07-16T08:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T09:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077678753329938786"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eTz03TkBdk",
+          "end": 164,
+          "expanded_url": "https://x.com/LanziiLove/status/2077678753329938786/photo/1",
+          "media_key": "3_2077678742554710016",
+          "start": 141,
+          "url": "https://t.co/eTz03TkBdk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077678753329938786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "实习顺利结束 回家～\n\n也算是不可多得的一段rle经历\n第一次在集体生活场所不论是起居还是上班都是rle状态，现在也能勇敢穿自己想穿的衣服了。包括被老师也当作女生看，答辩的时候也使用的中性音（伪音太久没练了 没办法保持高频率太久 答辩内容又比较多）\n\n现在我更加坚定SRS的想法了 https://t.co/eTz03TkBdk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1132,
+        "media_key": "3_2077678742554710016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVlzu9akAAzggX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077678742554710016"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2077678753329938786",
+        "created_at": "2026-07-16T08:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077678753329938786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eTz03TkBdk",
+              "end": 164,
+              "expanded_url": "https://x.com/LanziiLove/status/2077678753329938786/photo/1",
+              "media_key": "3_2077678742554710016",
+              "start": 141,
+              "url": "https://t.co/eTz03TkBdk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077678753329938786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "实习顺利结束 回家～\n\n也算是不可多得的一段rle经历\n第一次在集体生活场所不论是起居还是上班都是rle状态，现在也能勇敢穿自己想穿的衣服了。包括被老师也当作女生看，答辩的时候也使用的中性音（伪音太久没练了 没办法保持高频率太久 答辩内容又比较多）\n\n现在我更加坚定SRS的想法了 https://t.co/eTz03TkBdk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年4月SRS 攒钱中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2073328283287253117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27669,
+          "following_count": 1581,
+          "like_count": 3487,
+          "listed_count": 82,
+          "media_count": 489,
+          "tweet_count": 3143
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075871956696756225"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2075871963923599540",
+    "created_at": "2026-07-11T09:16:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T10:16:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075871963923599540"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/llGVf3B6Ld",
+          "end": 62,
+          "expanded_url": "https://x.com/LanziiLove/status/2075871963923599540/photo/1",
+          "media_key": "3_2075871956696756225",
+          "start": 39,
+          "url": "https://t.co/llGVf3B6Ld"
+        },
+        {
+          "display_url": "x.com/lanziilove/sta…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/lanziilove/status/2075856237141631118",
+          "start": 63,
+          "url": "https://t.co/XSgxTsYV2I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075871963923599540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075856237141631118",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "严肃佩戴鱼板挂件🍥+蓝粉白手环+蓝粉白发绳🏳️‍⚧️进行VibeCoding https://t.co/llGVf3B6Ld https://t.co/XSgxTsYV2I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2075871956696756225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM76i9Ia8AEvT_g.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075871956696756225"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2075871963923599540",
+        "created_at": "2026-07-11T09:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T10:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075871963923599540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/llGVf3B6Ld",
+              "end": 62,
+              "expanded_url": "https://x.com/LanziiLove/status/2075871963923599540/photo/1",
+              "media_key": "3_2075871956696756225",
+              "start": 39,
+              "url": "https://t.co/llGVf3B6Ld"
+            },
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/lanziilove/status/2075856237141631118",
+              "start": 63,
+              "url": "https://t.co/XSgxTsYV2I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075871963923599540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075856237141631118",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "严肃佩戴鱼板挂件🍥+蓝粉白手环+蓝粉白发绳🏳️‍⚧️进行VibeCoding https://t.co/llGVf3B6Ld https://t.co/XSgxTsYV2I"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2075856237141631118",
+        "created_at": "2026-07-11T08:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075856237141631118"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075856237141631118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 759,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日依旧rle上班\n\n除了依旧被餐厅阿姨喊美女以外\n\n也是解锁被老师喊女同学的成就了\n\n哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～本名杜澄溪 可以叫我小雫or澄溪 💕是女孩子！🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠这是我的男友然桑@dexy0306 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2073964025336263166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27304,
+          "following_count": 1430,
+          "like_count": 3451,
+          "listed_count": 81,
+          "media_count": 482,
+          "tweet_count": 3073
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      }
+    ]
+  }
+}

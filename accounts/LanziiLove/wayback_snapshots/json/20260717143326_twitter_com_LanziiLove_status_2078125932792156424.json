@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078125919559122944"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2078125932792156424",
+    "created_at": "2026-07-17T14:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078125932792156424"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IiR6dkoNiz",
+          "end": 36,
+          "expanded_url": "https://x.com/LanziiLove/status/2078125932792156424/photo/1",
+          "media_key": "3_2078125919559122944",
+          "start": 13,
+          "url": "https://t.co/IiR6dkoNiz"
+        },
+        {
+          "display_url": "x.com/lanziilove/sta…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/lanziilove/status/2078021699505996151",
+          "start": 37,
+          "url": "https://t.co/aiq661Hi98"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078125932792156424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078021699505996151",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "你们的主包就这样高P臭美 https://t.co/IiR6dkoNiz https://t.co/aiq661Hi98"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1154,
+        "media_key": "3_2078125919559122944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNb8g3HagAAxMQ5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1154,
+        "media_key": "3_2078021689582247936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNadt4MbYAA8OZy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078125919559122944"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2078125932792156424",
+        "created_at": "2026-07-17T14:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078125932792156424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IiR6dkoNiz",
+              "end": 36,
+              "expanded_url": "https://x.com/LanziiLove/status/2078125932792156424/photo/1",
+              "media_key": "3_2078125919559122944",
+              "start": 13,
+              "url": "https://t.co/IiR6dkoNiz"
+            },
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/lanziilove/status/2078021699505996151",
+              "start": 37,
+              "url": "https://t.co/aiq661Hi98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078125932792156424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078021699505996151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "你们的主包就这样高P臭美 https://t.co/IiR6dkoNiz https://t.co/aiq661Hi98"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078021689582247936"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2078021699505996151",
+        "created_at": "2026-07-17T07:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078021699505996151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0ZEEHilOI",
+              "end": 76,
+              "expanded_url": "https://x.com/LanziiLove/status/2078021699505996151/photo/1",
+              "media_key": "3_2078021689582247936",
+              "start": 53,
+              "url": "https://t.co/r0ZEEHilOI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078021699505996151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4366,
+          "like_count": 237,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "other",
+        "text": "染的新发色\n\n在理发店里看着镜子里的自己突然变得这么pass憋笑真的好难 我怕Tony老师觉得我是啥子🥹 https://t.co/r0ZEEHilOI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年4月SRS 攒钱中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2073328283287253117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27891,
+          "following_count": 1586,
+          "like_count": 3517,
+          "listed_count": 81,
+          "media_count": 491,
+          "tweet_count": 3158
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2077335187424522695",
+    "created_at": "2026-07-15T10:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T11:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077338951954866527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1704084965250699265",
+          "start": 0,
+          "username": "tanakalindak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077338951954866527",
+    "in_reply_to_user_id": "1704084965250699265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077338770081468419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@tanakalindak 我是直女\n\n我对象是男的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2077335187424522695",
+        "created_at": "2026-07-15T10:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077338951954866527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1704084965250699265",
+              "start": 0,
+              "username": "tanakalindak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077338951954866527",
+        "in_reply_to_user_id": "1704084965250699265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077338770081468419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@tanakalindak 我是直女\n\n我对象是男的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704084965250699265",
+        "conversation_id": "2077335187424522695",
+        "created_at": "2026-07-15T10:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077338770081468419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077338770081468419",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077335187424522695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove 如果你成功手术并改证。\n结婚应该做不到，中国不支持同性婚姻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～本名杜澄溪 可以叫我小雫or澄溪 💕是女孩子！🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠这是我的男友然桑@dexy0306 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2073328283287253117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27465,
+          "following_count": 1574,
+          "like_count": 3469,
+          "listed_count": 81,
+          "media_count": 486,
+          "tweet_count": 3125
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-19T10:48:28.000Z",
+        "description": "孤儿mtf一枚，已安定神隐",
+        "id": "1704084965250699265",
+        "location": "Minato-ku, Tokyo",
+        "name": "^#¥@&（混乱）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714108825496858624/9DkCq-Ta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 315,
+          "like_count": 7392,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 2638
+        },
+        "url": "",
+        "username": "tanakalindak",
+        "verified": true
+      }
+    ]
+  }
+}

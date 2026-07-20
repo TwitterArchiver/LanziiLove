@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2075636419478089729"
+      ],
+      "media_source_tweet_id": [
+        "2075636441712119820"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2075637142450245852",
+    "created_at": "2026-07-10T17:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T18:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075637142450245852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915622690653954048",
+          "start": 3,
+          "username": "dexy0306"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ORrPQ2Eo9S",
+          "end": 49,
+          "expanded_url": "https://x.com/dexy0306/status/2075636441712119820/photo/1",
+          "media_key": "16_2075636419478089729",
+          "start": 26,
+          "url": "https://t.co/ORrPQ2Eo9S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075637142450245852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075636441712119820",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dexy0306: 我说2是对的有没有懂的 https://t.co/ORrPQ2Eo9S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 438,
+        "media_key": "16_2075636419478089729",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HM4kU4na8AEOkzV.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HM4kU4na8AEOkzV.mp4"
+          }
+        ],
+        "width": 370
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2075636419478089729"
+          ],
+          "media_source_tweet_id": [
+            "2075636441712119820"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2075637142450245852",
+        "created_at": "2026-07-10T17:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T18:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075637142450245852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915622690653954048",
+              "start": 3,
+              "username": "dexy0306"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ORrPQ2Eo9S",
+              "end": 49,
+              "expanded_url": "https://x.com/dexy0306/status/2075636441712119820/photo/1",
+              "media_key": "16_2075636419478089729",
+              "start": 26,
+              "url": "https://t.co/ORrPQ2Eo9S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075637142450245852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075636441712119820",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dexy0306: 我说2是对的有没有懂的 https://t.co/ORrPQ2Eo9S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2075636419478089729"
+          ]
+        },
+        "author_id": "1915622690653954048",
+        "conversation_id": "2075636441712119820",
+        "created_at": "2026-07-10T17:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T18:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075636441712119820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ORrPQ2Eo9S",
+              "end": 35,
+              "expanded_url": "https://x.com/dexy0306/status/2075636441712119820/photo/1",
+              "media_key": "16_2075636419478089729",
+              "start": 12,
+              "url": "https://t.co/ORrPQ2Eo9S"
+            },
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/lanziilove/status/2075197103643705690",
+              "start": 36,
+              "url": "https://t.co/cEgtteS95G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075636441712119820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075197103643705690",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我说2是对的有没有懂的 https://t.co/ORrPQ2Eo9S https://t.co/cEgtteS95G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～本名杜澄溪 可以叫我小雫or澄溪 💕是女孩子！🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠这是我的男友然桑@dexy0306 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2073964025336263166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27276,
+          "following_count": 1430,
+          "like_count": 3450,
+          "listed_count": 81,
+          "media_count": 482,
+          "tweet_count": 3061
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058966578692300800/PhRHdgfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 7,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

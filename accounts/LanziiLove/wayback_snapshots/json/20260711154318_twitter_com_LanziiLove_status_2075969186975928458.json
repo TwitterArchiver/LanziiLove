@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2075969186975928458",
+    "created_at": "2026-07-11T15:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T16:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075969186975928458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1510447851507261445",
+          "start": 3,
+          "username": "LanziiLove"
+        },
+        {
+          "end": 24,
+          "id": "1690570637499154432",
+          "start": 16,
+          "username": "zhwevea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075969186975928458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075969036710724075",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LanziiLove: @zhwevea GPT\n除了\n说话\n喜欢\n换行\n以外\n还是\n很好\n用的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2075969186975928458",
+        "created_at": "2026-07-11T15:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075969186975928458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1510447851507261445",
+              "start": 3,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 24,
+              "id": "1690570637499154432",
+              "start": 16,
+              "username": "zhwevea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075969186975928458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075969036710724075",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LanziiLove: @zhwevea GPT\n除了\n说话\n喜欢\n换行\n以外\n还是\n很好\n用的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2075922631615004890",
+        "created_at": "2026-07-11T15:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075969036710724075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "zhwevea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075969036710724075",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075922631615004890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhwevea GPT\n除了\n说话\n喜欢\n换行\n以外\n还是\n很好\n用的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～本名杜澄溪 可以叫我小雫or澄溪 💕是女孩子！🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠这是我的男友然桑@dexy0306 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2072251283290071223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27306,
+          "following_count": 1430,
+          "like_count": 3452,
+          "listed_count": 81,
+          "media_count": 482,
+          "tweet_count": 3079
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜ 想要每天耍乐到处玩 ✈️｜❤想要成为技术大拿 📲💡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyAvMl"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2045171291104403596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738719095476224/g1B5Ghy6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7589,
+          "following_count": 433,
+          "like_count": 33355,
+          "listed_count": 23,
+          "media_count": 2623,
+          "tweet_count": 20611
+        },
+        "url": "https://t.co/Lsl0VyAvMl",
+        "username": "zhwevea",
+        "verified": true
+      }
+    ]
+  }
+}

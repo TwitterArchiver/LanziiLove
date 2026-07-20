@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2078060601855910229",
+    "created_at": "2026-07-17T10:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T11:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078060601855910229"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078060601855910229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "我就是个没有承受能力的玻璃心\n\n只需要他人点燃引线\n\n我的内心就会摧毁我自己\n\n对不起。我不是什么好东西。\n我只是努力地想看上去更好一些，能够被更多人喜欢一些。\n\n但我知道我做不到\n\n我很多事情都做不好\n\n我就是这样的人\n\n对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2078060601855910229",
+        "created_at": "2026-07-17T10:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078060601855910229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078060601855910229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我就是个没有承受能力的玻璃心\n\n只需要他人点燃引线\n\n我的内心就会摧毁我自己\n\n对不起。我不是什么好东西。\n我只是努力地想看上去更好一些，能够被更多人喜欢一些。\n\n但我知道我做不到\n\n我很多事情都做不好\n\n我就是这样的人\n\n对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年4月SRS 攒钱中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2073328283287253117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27868,
+          "following_count": 1584,
+          "like_count": 3512,
+          "listed_count": 81,
+          "media_count": 490,
+          "tweet_count": 3153
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078021689582247936"
+      ],
+      "media_source_tweet_id": [
+        "2078021699505996151"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2078109584489865387",
+    "created_at": "2026-07-17T13:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T14:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078109584489865387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1510447851507261445",
+          "start": 3,
+          "username": "LanziiLove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r0ZEEHilOI",
+          "end": 92,
+          "expanded_url": "https://x.com/LanziiLove/status/2078021699505996151/photo/1",
+          "media_key": "3_2078021689582247936",
+          "start": 69,
+          "url": "https://t.co/r0ZEEHilOI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078109584489865387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078021699505996151",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @LanziiLove: 染的新发色\n\n在理发店里看着镜子里的自己突然变得这么pass憋笑真的好难 我怕Tony老师觉得我是啥子🥹 https://t.co/r0ZEEHilOI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1154,
+        "media_key": "3_2078021689582247936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNadt4MbYAA8OZy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078021689582247936"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2078021699505996151",
+        "created_at": "2026-07-17T07:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078021699505996151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0ZEEHilOI",
+              "end": 76,
+              "expanded_url": "https://x.com/LanziiLove/status/2078021699505996151/photo/1",
+              "media_key": "3_2078021689582247936",
+              "start": 53,
+              "url": "https://t.co/r0ZEEHilOI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078021699505996151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3838,
+          "like_count": 225,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "other",
+        "text": "染的新发色\n\n在理发店里看着镜子里的自己突然变得这么pass憋笑真的好难 我怕Tony老师觉得我是啥子🥹 https://t.co/r0ZEEHilOI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078021689582247936"
+          ],
+          "media_source_tweet_id": [
+            "2078021699505996151"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2078109584489865387",
+        "created_at": "2026-07-17T13:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078109584489865387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1510447851507261445",
+              "start": 3,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0ZEEHilOI",
+              "end": 92,
+              "expanded_url": "https://x.com/LanziiLove/status/2078021699505996151/photo/1",
+              "media_key": "3_2078021689582247936",
+              "start": 69,
+              "url": "https://t.co/r0ZEEHilOI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078109584489865387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078021699505996151",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @LanziiLove: 染的新发色\n\n在理发店里看着镜子里的自己突然变得这么pass憋笑真的好难 我怕Tony老师觉得我是啥子🥹 https://t.co/r0ZEEHilOI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年4月SRS 攒钱中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2073328283287253117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27879,
+          "following_count": 1586,
+          "like_count": 3516,
+          "listed_count": 81,
+          "media_count": 490,
+          "tweet_count": 3155
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      }
+    ]
+  }
+}

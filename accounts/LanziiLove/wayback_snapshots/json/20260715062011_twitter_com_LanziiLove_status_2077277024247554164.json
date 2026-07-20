@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2077268755722404168",
+    "created_at": "2026-07-15T06:20:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T07:20:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077277024247554164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2067577976703844352",
+          "start": 0,
+          "username": "AccountFQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077277024247554164",
+    "in_reply_to_user_id": "2067577976703844352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077276547246072161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@AccountFQ 如果顺利的话应该就是女证复学入住女寝马上上大三了了🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2077268755722404168",
+        "created_at": "2026-07-15T06:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077277024247554164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067577976703844352",
+              "start": 0,
+              "username": "AccountFQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077277024247554164",
+        "in_reply_to_user_id": "2067577976703844352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077276547246072161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@AccountFQ 如果顺利的话应该就是女证复学入住女寝马上上大三了了🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067577976703844352",
+        "conversation_id": "2077268755722404168",
+        "created_at": "2026-07-15T06:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077276547246072161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077276547246072161",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077268755722404168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove 明年的七月会是怎样呢..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～本名杜澄溪 可以叫我小雫or澄溪 💕是女孩子！🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠这是我的男友然桑@dexy0306 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2073328283287253117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27428,
+          "following_count": 1567,
+          "like_count": 3467,
+          "listed_count": 81,
+          "media_count": 486,
+          "tweet_count": 3122
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-18T12:01:42.000Z",
+        "description": "欢迎互关/互fo喵~|高三毕业生|MTF🏳️‍⚧️|HRT 2025.02|生产日期:08年05月|数学竞赛|C++|Javascript",
+        "id": "2067577976703844352",
+        "name": "雾叶晴🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067578734098657280/SyoIPar0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 146,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "AccountFQ",
+        "verified": false
+      }
+    ]
+  }
+}

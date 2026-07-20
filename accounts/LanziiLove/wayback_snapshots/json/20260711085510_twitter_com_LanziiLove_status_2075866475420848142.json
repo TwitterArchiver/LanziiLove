@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2075773416708468928",
+    "created_at": "2026-07-11T08:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T09:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075866475420848142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1409736932037300229",
+          "start": 0,
+          "username": "ffft0152012"
+        },
+        {
+          "end": 22,
+          "id": "1880947147534979072",
+          "start": 13,
+          "username": "ymcxcxcy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075866475420848142",
+    "in_reply_to_user_id": "1409736932037300229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075865477520486593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ffft0152012 @ymcxcxcy 后半段话就体现出来你也是个没学历没认知智力低下且毫无素质的傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2075773416708468928",
+        "created_at": "2026-07-11T08:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075866475420848142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409736932037300229",
+              "start": 0,
+              "username": "ffft0152012"
+            },
+            {
+              "end": 22,
+              "id": "1880947147534979072",
+              "start": 13,
+              "username": "ymcxcxcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075866475420848142",
+        "in_reply_to_user_id": "1409736932037300229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075865477520486593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ffft0152012 @ymcxcxcy 后半段话就体现出来你也是个没学历没认知智力低下且毫无素质的傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409736932037300229",
+        "conversation_id": "2075773416708468928",
+        "created_at": "2026-07-11T08:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075865477520486593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1880947147534979072",
+              "start": 0,
+              "username": "ymcxcxcy"
+            },
+            {
+              "end": 21,
+              "id": "1510447851507261445",
+              "start": 10,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "4797714c95971ac1"
+        },
+        "id": "2075865477520486593",
+        "in_reply_to_user_id": "1880947147534979072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075828773208146114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ymcxcxcy @LanziiLove 那你这傻逼最好为了做手术直接退学，以后社会的苦有你受的，正常人都活得喘不过来，你一个变性的还指望什么，而且你们这些傻逼总想改身份证上性别，那作废不是你们这群傻卵自找的么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～本名杜澄溪 可以叫我小雫or澄溪 💕是女孩子！🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠这是我的男友然桑@dexy0306 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2073964025336263166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27304,
+          "following_count": 1430,
+          "like_count": 3451,
+          "listed_count": 81,
+          "media_count": 481,
+          "tweet_count": 3072
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-29T04:54:17.000Z",
+        "description": "",
+        "id": "1409736932037300229",
+        "name": "BF.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891819536267313152/YRwiDoQP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 363,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 837
+        },
+        "url": "",
+        "username": "ffft0152012",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T11:55:37.000Z",
+        "description": "",
+        "id": "1880947147534979072",
+        "name": "宮脇彩桜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880947363428306944/RaYpjupr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 214,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 721
+        },
+        "url": "",
+        "username": "ymcxcxcy",
+        "verified": false
+      }
+    ]
+  }
+}
