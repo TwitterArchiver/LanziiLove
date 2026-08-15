@@ -1,7 +1,7 @@
 {
   "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
   "username": "@LanziiLove",
-  "bio": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年4月SRS 攒钱中",
+  "bio": "纯绿生活向 甜蜜纯爱情侣日常｜MtF 跨直女🏳️‍⚧️20岁纯情恋爱脑小女孩｜我的永生挚爱男友然桑@dexy0306❤️目标是25岁时和他结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.me/+BWAHmodoTuNhNTU1",
   "location": "然然的心里",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,11 +10,20 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 40,
-        "start": 31,
-        "username": "Dexy0306"
+        "end": 58,
+        "start": 49,
+        "username": "dexy0306"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "t.me/+BWAHmodoTuNhN…",
+        "end": 139,
+        "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+        "start": 116,
+        "url": "https://t.co/kPiH5nVpNd"
       }
     ]
   },
-  "_avatar_source": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg"
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg"
 }
