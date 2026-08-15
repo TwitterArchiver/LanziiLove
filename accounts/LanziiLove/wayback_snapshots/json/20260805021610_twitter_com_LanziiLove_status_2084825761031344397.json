@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083177609366843392",
+        "16_2083177609698148352"
+      ],
+      "media_source_tweet_id": [
+        "2083177629264593348",
+        "2083177629264593348"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084825761031344397",
+    "created_at": "2026-08-05T02:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T03:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084825761031344397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915622690653954048",
+          "start": 3,
+          "username": "dexy0306"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5T2G4IrW63",
+          "end": 67,
+          "expanded_url": "https://x.com/dexy0306/status/2083177629264593348/photo/1",
+          "media_key": "3_2083177609366843392",
+          "start": 44,
+          "url": "https://t.co/5T2G4IrW63"
+        },
+        {
+          "display_url": "pic.x.com/5T2G4IrW63",
+          "end": 67,
+          "expanded_url": "https://x.com/dexy0306/status/2083177629264593348/photo/1",
+          "media_key": "16_2083177609698148352",
+          "start": 44,
+          "url": "https://t.co/5T2G4IrW63"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084825761031344397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083177629264593348",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dexy0306: 是谁每天都有对象投喂超甜超好吃的巧克力🧐\n\n原来是我自己😋 https://t.co/5T2G4IrW63"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083177609366843392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOju_6JbsAAVhwq.jpg",
+        "width": 315
+      },
+      {
+        "height": 640,
+        "media_key": "16_2083177609698148352",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HOju_7YbAAAl-Ev.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HOju_7YbAAAl-Ev.mp4"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083177609366843392",
+            "16_2083177609698148352"
+          ]
+        },
+        "author_id": "1915622690653954048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083177629264593348",
+        "created_at": "2026-07-31T13:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083177629264593348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5T2G4IrW63",
+              "end": 53,
+              "expanded_url": "https://x.com/dexy0306/status/2083177629264593348/photo/1",
+              "media_key": "3_2083177609366843392",
+              "start": 30,
+              "url": "https://t.co/5T2G4IrW63"
+            },
+            {
+              "display_url": "pic.x.com/5T2G4IrW63",
+              "end": 53,
+              "expanded_url": "https://x.com/dexy0306/status/2083177629264593348/photo/1",
+              "media_key": "16_2083177609698148352",
+              "start": 30,
+              "url": "https://t.co/5T2G4IrW63"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083177629264593348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1061,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "是谁每天都有对象投喂超甜超好吃的巧克力🧐\n\n原来是我自己😋 https://t.co/5T2G4IrW63"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083177609366843392",
+            "16_2083177609698148352"
+          ],
+          "media_source_tweet_id": [
+            "2083177629264593348",
+            "2083177629264593348"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084825761031344397",
+        "created_at": "2026-08-05T02:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T03:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084825761031344397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915622690653954048",
+              "start": 3,
+              "username": "dexy0306"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5T2G4IrW63",
+              "end": 67,
+              "expanded_url": "https://x.com/dexy0306/status/2083177629264593348/photo/1",
+              "media_key": "3_2083177609366843392",
+              "start": 44,
+              "url": "https://t.co/5T2G4IrW63"
+            },
+            {
+              "display_url": "pic.x.com/5T2G4IrW63",
+              "end": 67,
+              "expanded_url": "https://x.com/dexy0306/status/2083177629264593348/photo/1",
+              "media_key": "16_2083177609698148352",
+              "start": 44,
+              "url": "https://t.co/5T2G4IrW63"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084825761031344397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083177629264593348",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dexy0306: 是谁每天都有对象投喂超甜超好吃的巧克力🧐\n\n原来是我自己😋 https://t.co/5T2G4IrW63"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年2月SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 115,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 92,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29587,
+          "following_count": 1618,
+          "like_count": 3671,
+          "listed_count": 85,
+          "media_count": 509,
+          "tweet_count": 3291
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058966578692300800/PhRHdgfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 8,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 103
+        },
+        "url": "",
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

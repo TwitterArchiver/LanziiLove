@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078732992600842240"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2078733001685635294",
+    "created_at": "2026-07-19T06:45:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T07:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078733001685635294"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HRB6OnNBLb",
+          "end": 64,
+          "expanded_url": "https://x.com/LanziiLove/status/2078733001685635294/photo/1",
+          "media_key": "3_2078732992600842240",
+          "start": 41,
+          "url": "https://t.co/HRB6OnNBLb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078733001685635294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "今天和妈妈去游泳\n\n来点原图直出腰臀比w\n（最近太久没运动吃太多腰围都涨了哭哭） https://t.co/HRB6OnNBLb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2078732992600842240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkkpKbboAA3_wq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078732992600842240"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2078733001685635294",
+        "created_at": "2026-07-19T06:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078733001685635294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HRB6OnNBLb",
+              "end": 64,
+              "expanded_url": "https://x.com/LanziiLove/status/2078733001685635294/photo/1",
+              "media_key": "3_2078732992600842240",
+              "start": 41,
+              "url": "https://t.co/HRB6OnNBLb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078733001685635294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "今天和妈妈去游泳\n\n来点原图直出腰臀比w\n（最近太久没运动吃太多腰围都涨了哭哭） https://t.co/HRB6OnNBLb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年4月SRS 攒钱中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28096,
+          "following_count": 1588,
+          "like_count": 3540,
+          "listed_count": 81,
+          "media_count": 495,
+          "tweet_count": 3176
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      }
+    ]
+  }
+}

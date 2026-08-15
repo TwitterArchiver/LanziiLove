@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087392636030296065",
+        "3_2087392635954831360",
+        "3_2087392636332302336",
+        "3_2087392636013584384"
+      ],
+      "media_source_tweet_id": [
+        "2087392817169813712",
+        "2087392817169813712",
+        "2087392817169813712",
+        "2087392817169813712"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2087759306380955716",
+    "created_at": "2026-08-13T04:33:01.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T05:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087759306380955716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1510447851507261445",
+          "start": 3,
+          "username": "LanziiLove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PCeEpnEYwG",
+          "end": 55,
+          "expanded_url": "https://x.com/LanziiLove/status/2087392817169813712/video/1",
+          "media_key": "13_2087392636030296065",
+          "start": 32,
+          "url": "https://t.co/PCeEpnEYwG"
+        },
+        {
+          "display_url": "pic.x.com/PCeEpnEYwG",
+          "end": 55,
+          "expanded_url": "https://x.com/LanziiLove/status/2087392817169813712/video/1",
+          "media_key": "3_2087392635954831360",
+          "start": 32,
+          "url": "https://t.co/PCeEpnEYwG"
+        },
+        {
+          "display_url": "pic.x.com/PCeEpnEYwG",
+          "end": 55,
+          "expanded_url": "https://x.com/LanziiLove/status/2087392817169813712/video/1",
+          "media_key": "3_2087392636332302336",
+          "start": 32,
+          "url": "https://t.co/PCeEpnEYwG"
+        },
+        {
+          "display_url": "pic.x.com/PCeEpnEYwG",
+          "end": 55,
+          "expanded_url": "https://x.com/LanziiLove/status/2087392817169813712/video/1",
+          "media_key": "3_2087392636013584384",
+          "start": 32,
+          "url": "https://t.co/PCeEpnEYwG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087759306380955716",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2087392636030296065"
+      },
+      {
+        "media_key": "3_2087392635954831360"
+      },
+      {
+        "media_key": "3_2087392636332302336"
+      },
+      {
+        "media_key": "3_2087392636013584384"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087392817169813712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @LanziiLove: 正在严肃为我家老公制备原味黑丝 https://t.co/PCeEpnEYwG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5640,
+        "height": 3840,
+        "media_key": "13_2087392636030296065",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087392636030296065/img/SLOARQkrEYqsveTW.jpg",
+        "public_metrics": {
+          "view_count": 25605
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087392636030296065/vid/avc1/480x852/NVaAcDyp40LoDwPj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087392636030296065/vid/avc1/720x1280/IeKUiNUJ2MdidexI.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087392636030296065/vid/avc1/320x568/dyGV23ibUk8-1iiW.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087392636030296065/vid/avc1/2160x3840/cI_fTTZDfaP9-TD1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087392636030296065/pl/UDcayRS-fpdMhwig.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087392636030296065/vid/avc1/1080x1920/MmsqstK8224pMu6A.mp4"
+          }
+        ],
+        "width": 2160
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087392635954831360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfoivzaoAAUmTg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087392636332302336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfoixNaYAAC9N-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087392636013584384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfoiwBbIAAyNRn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087392636030296065",
+            "3_2087392635954831360",
+            "3_2087392636332302336",
+            "3_2087392636013584384"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2087392817169813712",
+        "created_at": "2026-08-12T04:16:44.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087392817169813712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PCeEpnEYwG",
+              "end": 39,
+              "expanded_url": "https://x.com/LanziiLove/status/2087392817169813712/video/1",
+              "media_key": "13_2087392636030296065",
+              "start": 16,
+              "url": "https://t.co/PCeEpnEYwG"
+            },
+            {
+              "display_url": "pic.x.com/PCeEpnEYwG",
+              "end": 39,
+              "expanded_url": "https://x.com/LanziiLove/status/2087392817169813712/video/1",
+              "media_key": "3_2087392635954831360",
+              "start": 16,
+              "url": "https://t.co/PCeEpnEYwG"
+            },
+            {
+              "display_url": "pic.x.com/PCeEpnEYwG",
+              "end": 39,
+              "expanded_url": "https://x.com/LanziiLove/status/2087392817169813712/video/1",
+              "media_key": "3_2087392636332302336",
+              "start": 16,
+              "url": "https://t.co/PCeEpnEYwG"
+            },
+            {
+              "display_url": "pic.x.com/PCeEpnEYwG",
+              "end": 39,
+              "expanded_url": "https://x.com/LanziiLove/status/2087392817169813712/video/1",
+              "media_key": "3_2087392636013584384",
+              "start": 16,
+              "url": "https://t.co/PCeEpnEYwG"
+            },
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/lanziilove/status/2086801228659576844",
+              "start": 40,
+              "url": "https://t.co/n8B51Ngsuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087392817169813712",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087392636030296065"
+          },
+          {
+            "media_key": "3_2087392635954831360"
+          },
+          {
+            "media_key": "3_2087392636332302336"
+          },
+          {
+            "media_key": "3_2087392636013584384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 77151,
+          "like_count": 453,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086801228659576844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "正在严肃为我家老公制备原味黑丝 https://t.co/PCeEpnEYwG https://t.co/n8B51Ngsuc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087392636030296065",
+            "3_2087392635954831360",
+            "3_2087392636332302336",
+            "3_2087392636013584384"
+          ],
+          "media_source_tweet_id": [
+            "2087392817169813712",
+            "2087392817169813712",
+            "2087392817169813712",
+            "2087392817169813712"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2087759306380955716",
+        "created_at": "2026-08-13T04:33:01.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T05:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087759306380955716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1510447851507261445",
+              "start": 3,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PCeEpnEYwG",
+              "end": 55,
+              "expanded_url": "https://x.com/LanziiLove/status/2087392817169813712/video/1",
+              "media_key": "13_2087392636030296065",
+              "start": 32,
+              "url": "https://t.co/PCeEpnEYwG"
+            },
+            {
+              "display_url": "pic.x.com/PCeEpnEYwG",
+              "end": 55,
+              "expanded_url": "https://x.com/LanziiLove/status/2087392817169813712/video/1",
+              "media_key": "3_2087392635954831360",
+              "start": 32,
+              "url": "https://t.co/PCeEpnEYwG"
+            },
+            {
+              "display_url": "pic.x.com/PCeEpnEYwG",
+              "end": 55,
+              "expanded_url": "https://x.com/LanziiLove/status/2087392817169813712/video/1",
+              "media_key": "3_2087392636332302336",
+              "start": 32,
+              "url": "https://t.co/PCeEpnEYwG"
+            },
+            {
+              "display_url": "pic.x.com/PCeEpnEYwG",
+              "end": 55,
+              "expanded_url": "https://x.com/LanziiLove/status/2087392817169813712/video/1",
+              "media_key": "3_2087392636013584384",
+              "start": 32,
+              "url": "https://t.co/PCeEpnEYwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087759306380955716",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087392636030296065"
+          },
+          {
+            "media_key": "3_2087392635954831360"
+          },
+          {
+            "media_key": "3_2087392636332302336"
+          },
+          {
+            "media_key": "3_2087392636013584384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087392817169813712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @LanziiLove: 正在严肃为我家老公制备原味黑丝 https://t.co/PCeEpnEYwG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜MtF 跨直女🏳️‍⚧️20岁纯情恋爱脑小女孩｜我的永生挚爱男友@dexy0306❤️目标是25岁时和他结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 137,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 114,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2087759306380955716",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30107,
+          "following_count": 1631,
+          "like_count": 3745,
+          "listed_count": 86,
+          "media_count": 523,
+          "tweet_count": 3406
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

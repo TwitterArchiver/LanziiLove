@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2085308986702872965",
+    "created_at": "2026-08-07T21:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T22:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085833553330458977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708446662514110464",
+          "start": 0,
+          "username": "TixItem4527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085833553330458977",
+    "in_reply_to_user_id": "1708446662514110464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085308986702872965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TixItem4527 评论区翻墙冻肉嘉豪刷怪了\n\n在外网发表弱智4000+言论不会让你们在校园墙上被表白的🤣\n\n这么恨 疑似父母被跨性别给配了生出你们这群杂种"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2085308965756477440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCBdLbaIAAAcRg.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2085308976787513345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCBd0haYAE16MV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2085308986702872965",
+        "created_at": "2026-08-07T21:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T22:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085833553330458977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085833553330458977",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085308986702872965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 评论区翻墙冻肉嘉豪刷怪了\n\n在外网发表弱智4000+言论不会让你们在校园墙上被表白的🤣\n\n这么恨 疑似父母被跨性别给配了生出你们这群杂种"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085308965756477440",
+            "3_2085308976787513345"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "conversation_id": "2085308986702872965",
+        "created_at": "2026-08-06T10:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085308986702872965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HqvGNUbewz",
+              "end": 40,
+              "expanded_url": "https://x.com/TixItem4527/status/2085308986702872965/photo/1",
+              "media_key": "3_2085308965756477440",
+              "start": 17,
+              "url": "https://t.co/HqvGNUbewz"
+            },
+            {
+              "display_url": "pic.x.com/HqvGNUbewz",
+              "end": 40,
+              "expanded_url": "https://x.com/TixItem4527/status/2085308986702872965/photo/1",
+              "media_key": "3_2085308976787513345",
+              "start": 17,
+              "url": "https://t.co/HqvGNUbewz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085308986702872965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 38688,
+          "like_count": 240,
+          "quote_count": 0,
+          "reply_count": 135,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "帮国内某些低认知傻逼翻过墙的后果 https://t.co/HqvGNUbewz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜MtF 跨直女🏳️‍⚧️20岁纯情恋爱脑小女孩｜我的永生挚爱男友@Dexy0306❤️目标是25岁时结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 135,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 112,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29592,
+          "following_count": 1619,
+          "like_count": 3677,
+          "listed_count": 85,
+          "media_count": 512,
+          "tweet_count": 3302
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|53kg|INFP|\nCNTK:tixitem4527\nE-mail:430830097@qq.com.\n最好最爱的姐姐:@Liunian_a.\n妈妈:@laggard234472\n亲姐姐:小寻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 112,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1719,
+          "following_count": 1468,
+          "like_count": 4271,
+          "listed_count": 3,
+          "media_count": 463,
+          "tweet_count": 1909
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}

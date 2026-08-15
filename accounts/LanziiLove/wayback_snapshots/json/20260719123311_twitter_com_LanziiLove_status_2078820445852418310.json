@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2078733231462228407",
+    "created_at": "2026-07-19T12:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078820445852418310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2032475934947975168",
+          "start": 0,
+          "username": "SuSu__OVOciallo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078820445852418310",
+    "in_reply_to_user_id": "2032475934947975168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078819860336071012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@SuSu__OVOciallo 女款"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2078733231462228407",
+        "created_at": "2026-07-19T12:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078820445852418310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2032475934947975168",
+              "start": 0,
+              "username": "SuSu__OVOciallo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078820445852418310",
+        "in_reply_to_user_id": "2032475934947975168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078819860336071012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@SuSu__OVOciallo 女款"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032475934947975168",
+        "conversation_id": "2078733231462228407",
+        "created_at": "2026-07-19T12:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078819860336071012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078819860336071012",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078733231462228407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove 这是男用死库水还是正常女性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年4月SRS 攒钱中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28178,
+          "following_count": 1589,
+          "like_count": 3546,
+          "listed_count": 82,
+          "media_count": 496,
+          "tweet_count": 3178
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-13T15:17:04.000Z",
+        "description": "🇨🇳/关注我的基本都会回关/🏳️‍⚧️mtf/🍥hrt/已出柜/不od/一辈子的爱人！@KareQ1013/撞大运可以转生异世界当美少女吗？/让我烂在床上吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "KareQ1013"
+              }
+            ]
+          }
+        },
+        "id": "2032475934947975168",
+        "name": "蘇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039407039072681984/83S5ARqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 117,
+          "like_count": 1258,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 679
+        },
+        "url": "",
+        "username": "SuSu__OVOciallo",
+        "verified": false
+      }
+    ]
+  }
+}

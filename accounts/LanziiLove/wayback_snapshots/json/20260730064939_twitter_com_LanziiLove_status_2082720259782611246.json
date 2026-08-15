@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2082720259782611246",
+    "created_at": "2026-07-30T06:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T07:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082720259782611246"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082720259782611246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "我永远只是一个搞砸一切的废物\n\n我妈说的对\n\n我是祸害、冤孽、怪物。所有我身边的人都会因为遭受极大的痛苦。\n\n我好想没有这一切问题。抑郁症和性别焦虑把我变成了一个怪物，或者我本来就是怪物？\n\n对不起。\n\n虽然我还不想死，但我想先睡一会。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2082720259782611246",
+        "created_at": "2026-07-30T06:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082720259782611246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082720259782611246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我永远只是一个搞砸一切的废物\n\n我妈说的对\n\n我是祸害、冤孽、怪物。所有我身边的人都会因为遭受极大的痛苦。\n\n我好想没有这一切问题。抑郁症和性别焦虑把我变成了一个怪物，或者我本来就是怪物？\n\n对不起。\n\n虽然我还不想死，但我想先睡一会。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年2月SRS｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 121,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 98,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29525,
+          "following_count": 1613,
+          "like_count": 3656,
+          "listed_count": 84,
+          "media_count": 503,
+          "tweet_count": 3256
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      }
+    ]
+  }
+}

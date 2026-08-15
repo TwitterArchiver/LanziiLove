@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2087369505244922135",
+    "created_at": "2026-08-12T02:59:18.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T03:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087373329963561147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1433833820810211332",
+          "start": 0,
+          "username": "Ettf_Cabage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087373329963561147",
+    "in_reply_to_user_id": "1433833820810211332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087370440314679371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Ettf_Cabage 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2087369505244922135",
+        "created_at": "2026-08-12T02:59:18.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T03:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087373329963561147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1433833820810211332",
+              "start": 0,
+              "username": "Ettf_Cabage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087373329963561147",
+        "in_reply_to_user_id": "1433833820810211332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087370440314679371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ettf_Cabage 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433833820810211332",
+        "conversation_id": "2087369505244922135",
+        "created_at": "2026-08-12T02:47:49.000Z",
+        "display_text_range": [
+          12,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T03:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087370440314679371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087370440314679371",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087369505244922135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove 以后天天能看中国人妖 泰国人妖可不是天天能看的（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜MtF 跨直女🏳️‍⚧️20岁纯情恋爱脑小女孩｜我的永生挚爱男友@dexy0306❤️目标是25岁时结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 135,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 112,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2087373329963561147",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29849,
+          "following_count": 1616,
+          "like_count": 3709,
+          "listed_count": 87,
+          "media_count": 520,
+          "tweet_count": 3370
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-03T16:46:52.000Z",
+        "description": "中文/English 我是白菜！ 双性恋 男孩子！活动范围以泉州／厦门为主 现在是19岁想可爱的183cm 91kg性压抑肥猪 - Citroen C4 Coupe车主 - 坚定的伊蕾娜厨 r18转发bot（x）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ettfcabage.airrice.cn",
+                "end": 23,
+                "expanded_url": "http://ettfcabage.airrice.cn",
+                "start": 0,
+                "url": "https://t.co/p5B0lrWGcf"
+              }
+            ]
+          }
+        },
+        "id": "1433833820810211332",
+        "is_identity_verified": false,
+        "location": "Airrice space center",
+        "most_recent_tweet_id": "2087371639386451972",
+        "name": "Ettf Cabage @什么都只会一点的废物人生",
+        "pinned_tweet_id": "2032747309088518195",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1433833820810211332/1761900874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617749411005857793/1ffSoHVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 2065,
+          "like_count": 65458,
+          "listed_count": 12,
+          "media_count": 422,
+          "tweet_count": 17452
+        },
+        "url": "https://t.co/p5B0lrWGcf",
+        "username": "Ettf_Cabage",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

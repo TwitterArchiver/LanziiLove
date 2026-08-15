@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087977069393424384",
+        "3_2087977069393399808",
+        "3_2087977069502431234",
+        "3_2087977069506654208"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2087977079400996952",
+    "created_at": "2026-08-13T18:58:23.000Z",
+    "display_text_range": [
+      0,
+      120
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T19:58:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087977079400996952"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NG1WHgUkGD",
+          "end": 144,
+          "expanded_url": "https://x.com/LanziiLove/status/2087977079400996952/photo/1",
+          "media_key": "3_2087977069393424384",
+          "start": 121,
+          "url": "https://t.co/NG1WHgUkGD"
+        },
+        {
+          "display_url": "pic.x.com/NG1WHgUkGD",
+          "end": 144,
+          "expanded_url": "https://x.com/LanziiLove/status/2087977079400996952/photo/1",
+          "media_key": "3_2087977069393399808",
+          "start": 121,
+          "url": "https://t.co/NG1WHgUkGD"
+        },
+        {
+          "display_url": "pic.x.com/NG1WHgUkGD",
+          "end": 144,
+          "expanded_url": "https://x.com/LanziiLove/status/2087977079400996952/photo/1",
+          "media_key": "3_2087977069502431234",
+          "start": 121,
+          "url": "https://t.co/NG1WHgUkGD"
+        },
+        {
+          "display_url": "pic.x.com/NG1WHgUkGD",
+          "end": 144,
+          "expanded_url": "https://x.com/LanziiLove/status/2087977079400996952/photo/1",
+          "media_key": "3_2087977069506654208",
+          "start": 121,
+          "url": "https://t.co/NG1WHgUkGD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087977079400996952",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087977069393424384"
+      },
+      {
+        "media_key": "3_2087977069393399808"
+      },
+      {
+        "media_key": "3_2087977069502431234"
+      },
+      {
+        "media_key": "3_2087977069506654208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "真不知道到底谁才是小团体嗷😅\n我fo你跟你主动友好互动就是因为看你人好长得好看，换来一个单取还不让b了，单取只字不提然后就造上谣了。\n就一个单取我回b能让你们解读出这么多东西也是牛逼嗷😅\n评论区的一条条野狗就开始跟上团了\n我都不知道是谁好笑 https://t.co/NG1WHgUkGD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087977069393424384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPn8FQBbMAAIrg4.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087977069393399808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPn8FQBa0AAdNcu.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087977069502431234",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPn8FQbagAIOXmI.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087977069506654208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPn8FQca8AAGtFV.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087977069393424384",
+            "3_2087977069393399808",
+            "3_2087977069502431234",
+            "3_2087977069506654208"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2087977079400996952",
+        "created_at": "2026-08-13T18:58:23.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087977079400996952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NG1WHgUkGD",
+              "end": 144,
+              "expanded_url": "https://x.com/LanziiLove/status/2087977079400996952/photo/1",
+              "media_key": "3_2087977069393424384",
+              "start": 121,
+              "url": "https://t.co/NG1WHgUkGD"
+            },
+            {
+              "display_url": "pic.x.com/NG1WHgUkGD",
+              "end": 144,
+              "expanded_url": "https://x.com/LanziiLove/status/2087977079400996952/photo/1",
+              "media_key": "3_2087977069393399808",
+              "start": 121,
+              "url": "https://t.co/NG1WHgUkGD"
+            },
+            {
+              "display_url": "pic.x.com/NG1WHgUkGD",
+              "end": 144,
+              "expanded_url": "https://x.com/LanziiLove/status/2087977079400996952/photo/1",
+              "media_key": "3_2087977069502431234",
+              "start": 121,
+              "url": "https://t.co/NG1WHgUkGD"
+            },
+            {
+              "display_url": "pic.x.com/NG1WHgUkGD",
+              "end": 144,
+              "expanded_url": "https://x.com/LanziiLove/status/2087977079400996952/photo/1",
+              "media_key": "3_2087977069506654208",
+              "start": 121,
+              "url": "https://t.co/NG1WHgUkGD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087977079400996952",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087977069393424384"
+          },
+          {
+            "media_key": "3_2087977069393399808"
+          },
+          {
+            "media_key": "3_2087977069502431234"
+          },
+          {
+            "media_key": "3_2087977069506654208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "真不知道到底谁才是小团体嗷😅\n我fo你跟你主动友好互动就是因为看你人好长得好看，换来一个单取还不让b了，单取只字不提然后就造上谣了。\n就一个单取我回b能让你们解读出这么多东西也是牛逼嗷😅\n评论区的一条条野狗就开始跟上团了\n我都不知道是谁好笑 https://t.co/NG1WHgUkGD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜MtF 跨直女🏳️‍⚧️20岁纯情恋爱脑小女孩｜我的永生挚爱男友然桑@dexy0306❤️目标是25岁时和他结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 139,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 116,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2087977079400996952",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2087974190444163174",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30165,
+          "following_count": 1630,
+          "like_count": 3749,
+          "listed_count": 86,
+          "media_count": 527,
+          "tweet_count": 3419
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

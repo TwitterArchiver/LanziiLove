@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2084428558215307524",
+    "created_at": "2026-08-03T23:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T00:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084428558215307524"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084428558215307524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "双相复发了…\n\n这个剂量好像顶不住了……\n还是说因为受到的各种打击太大了……\n无法接受的现实……\n我应该自己加量吗…还是该问医生…\n\n唉，我不知道……\n\n我就该把那三盒安眠药一起吃下去的\n但是那样又对不起我妈……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2084428558215307524",
+        "created_at": "2026-08-03T23:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084428558215307524"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084428558215307524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "双相复发了…\n\n这个剂量好像顶不住了……\n还是说因为受到的各种打击太大了……\n无法接受的现实……\n我应该自己加量吗…还是该问医生…\n\n唉，我不知道……\n\n我就该把那三盒安眠药一起吃下去的\n但是那样又对不起我妈……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年2月SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 115,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 92,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29568,
+          "following_count": 1617,
+          "like_count": 3669,
+          "listed_count": 85,
+          "media_count": 508,
+          "tweet_count": 3289
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      }
+    ]
+  }
+}

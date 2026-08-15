@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081783278361858048"
+      ],
+      "media_source_tweet_id": [
+        "2081783294505717829"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2081784024566222966",
+    "created_at": "2026-07-27T16:49:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T17:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081784024566222966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915622690653954048",
+          "start": 3,
+          "username": "dexy0306"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p4pjsyqnGx",
+          "end": 134,
+          "expanded_url": "https://x.com/dexy0306/status/2081783294505717829/photo/1",
+          "media_key": "3_2081783278361858048",
+          "start": 111,
+          "url": "https://t.co/p4pjsyqnGx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081784024566222966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081783294505717829",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dexy0306: 神言part 1.\n雫：You are the one\n然：我是1吗\n\n神言part 2.\n雫：那么问题来了，我该怎么从学妹变成学姐呢\n然：我懂了，年底我去报一个27年高考，考你们学校去就行了 https://t.co/p4pjsyqnGx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2081783278361858048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOP63KYbUAANCob.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081783278361858048"
+          ]
+        },
+        "author_id": "1915622690653954048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081783294505717829",
+        "created_at": "2026-07-27T16:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081783294505717829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p4pjsyqnGx",
+              "end": 120,
+              "expanded_url": "https://x.com/dexy0306/status/2081783294505717829/photo/1",
+              "media_key": "3_2081783278361858048",
+              "start": 97,
+              "url": "https://t.co/p4pjsyqnGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081783294505717829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "神言part 1.\n雫：You are the one\n然：我是1吗\n\n神言part 2.\n雫：那么问题来了，我该怎么从学妹变成学姐呢\n然：我懂了，年底我去报一个27年高考，考你们学校去就行了 https://t.co/p4pjsyqnGx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081783278361858048"
+          ],
+          "media_source_tweet_id": [
+            "2081783294505717829"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081784024566222966",
+        "created_at": "2026-07-27T16:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081784024566222966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915622690653954048",
+              "start": 3,
+              "username": "dexy0306"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p4pjsyqnGx",
+              "end": 134,
+              "expanded_url": "https://x.com/dexy0306/status/2081783294505717829/photo/1",
+              "media_key": "3_2081783278361858048",
+              "start": 111,
+              "url": "https://t.co/p4pjsyqnGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081784024566222966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081783294505717829",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dexy0306: 神言part 1.\n雫：You are the one\n然：我是1吗\n\n神言part 2.\n雫：那么问题来了，我该怎么从学妹变成学姐呢\n然：我懂了，年底我去报一个27年高考，考你们学校去就行了 https://t.co/p4pjsyqnGx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年2月SRS｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 121,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 98,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29456,
+          "following_count": 1606,
+          "like_count": 3624,
+          "listed_count": 84,
+          "media_count": 503,
+          "tweet_count": 3234
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058966578692300800/PhRHdgfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 7,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

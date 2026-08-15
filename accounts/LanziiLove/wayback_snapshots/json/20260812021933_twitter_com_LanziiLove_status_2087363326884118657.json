@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2087035974664827082",
+    "created_at": "2026-08-12T02:19:33.000Z",
+    "display_text_range": [
+      16,
+      156
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T03:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087363326884118657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1866155254406127616",
+          "start": 0,
+          "username": "HayakawaFeixue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087363326884118657",
+    "in_reply_to_user_id": "1866155254406127616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "这个的话，主要家里人理解自己、愿意讲道理、不是抵触这件事本身而是有顾虑的话，可以试着友善地多交流交流呢。首先可以多介绍一下跨性别和跨性别的处境，比如其实现在社会很开放，没有那么多歧视，像全国的跨性别也有很多，而且对身体也没有那么大的危害，除了留长发的话家里的老人其他也是不会发觉什么的。一个逃课的小办法就是：告诉ai，“我是一名mtf，我的妈妈担心我xxxxxx，请你为我向她解释疏导，允许我进行HRT等等等………让她放心等等等……”"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087188485128221165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@HayakawaFeixue 这个的话，主要家里人理解自己、愿意讲道理、不是抵触这件事本身而是有顾虑的话，可以试着友善地多交流交流呢。首先可以多介绍一下跨性别和跨性别的处境，比如其实现在社会很开放，没有那么多歧视，像全国的跨性别也有很多，而且对身体也没有那么大的危害，除了留长发的话家里的老人其他也是不会发觉什"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2087035974664827082",
+        "created_at": "2026-08-12T02:19:33.000Z",
+        "display_text_range": [
+          16,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T03:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087363326884118657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1866155254406127616",
+              "start": 0,
+              "username": "HayakawaFeixue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087363326884118657",
+        "in_reply_to_user_id": "1866155254406127616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这个的话，主要家里人理解自己、愿意讲道理、不是抵触这件事本身而是有顾虑的话，可以试着友善地多交流交流呢。首先可以多介绍一下跨性别和跨性别的处境，比如其实现在社会很开放，没有那么多歧视，像全国的跨性别也有很多，而且对身体也没有那么大的危害，除了留长发的话家里的老人其他也是不会发觉什么的。一个逃课的小办法就是：告诉ai，“我是一名mtf，我的妈妈担心我xxxxxx，请你为我向她解释疏导，允许我进行HRT等等等………让她放心等等等……”"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087188485128221165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@HayakawaFeixue 这个的话，主要家里人理解自己、愿意讲道理、不是抵触这件事本身而是有顾虑的话，可以试着友善地多交流交流呢。首先可以多介绍一下跨性别和跨性别的处境，比如其实现在社会很开放，没有那么多歧视，像全国的跨性别也有很多，而且对身体也没有那么大的危害，除了留长发的话家里的老人其他也是不会发觉什"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866155254406127616",
+        "conversation_id": "2087035974664827082",
+        "created_at": "2026-08-11T14:44:47.000Z",
+        "display_text_range": [
+          12,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087188485128221165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087188485128221165",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087035974664827082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove 好羡慕姐姐……窝麻麻虽然不反对窝想变成女孩子的想法，但是一直很担心窝在社会上可能会受到偏见之类的，更担心家里的两位老人知道以后受打击，所以一直不同意窝吃糖……好想知道要怎么样才能和麻麻解释清楚……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜MtF 跨直女🏳️‍⚧️20岁纯情恋爱脑小女孩｜我的永生挚爱男友@dexy0306❤️目标是25岁时结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 135,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 112,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2087363326884118657",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29850,
+          "following_count": 1616,
+          "like_count": 3708,
+          "listed_count": 87,
+          "media_count": 520,
+          "tweet_count": 3366
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-09T16:18:08.000Z",
+        "description": "出厂时间2007.05/小证2026.06.24/坐标上海/头像是oc/自介在置顶/小企鹅@whitecloud_ybw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "whitecloud_ybw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sayuki37995",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sayuki37995",
+                "start": 0,
+                "url": "https://t.co/J9EwxGm0Er"
+              }
+            ]
+          }
+        },
+        "id": "1866155254406127616",
+        "is_identity_verified": false,
+        "location": "Toshima-ku, Tokyo",
+        "most_recent_tweet_id": "2087257814620360803",
+        "name": "早川雪",
+        "pinned_tweet_id": "2066325659358818567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866155254406127616/1773076815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069094372499689472/bTeW2yPV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 674,
+          "like_count": 467,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 150
+        },
+        "url": "https://t.co/J9EwxGm0Er",
+        "username": "HayakawaFeixue",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

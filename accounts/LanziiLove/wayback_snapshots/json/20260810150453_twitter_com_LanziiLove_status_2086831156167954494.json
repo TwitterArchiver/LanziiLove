@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2086831156167954494",
+    "created_at": "2026-08-10T15:04:53.000Z",
+    "display_text_range": [
+      0,
+      138
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T16:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086831156167954494"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lanziilove/sta…",
+          "end": 162,
+          "expanded_url": "https://twitter.com/lanziilove/status/2085717788568736198",
+          "start": 139,
+          "url": "https://t.co/5dLWq46P9W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086831156167954494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085717788568736198",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "突发奇想：鉴于🥚无法过海关，有没有大手子专门在泰国为mtf办一个蛋蛋公墓？为术后无法将蛋蛋带回国的mtf们存放她们的蛋蛋。供mtf们思念故蛋的时候，回到泰国去见自己已故的蛋蛋？一排排架子上整齐排列着浸泡着福尔马林和蛋蛋的玻璃罐，旁边的牌子上记录着这颗蛋的所有者和srs日期（？ https://t.co/5dLWq46P9W"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2086831156167954494",
+        "created_at": "2026-08-10T15:04:53.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086831156167954494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/lanziilove/status/2085717788568736198",
+              "start": 139,
+              "url": "https://t.co/5dLWq46P9W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086831156167954494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085717788568736198",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "突发奇想：鉴于🥚无法过海关，有没有大手子专门在泰国为mtf办一个蛋蛋公墓？为术后无法将蛋蛋带回国的mtf们存放她们的蛋蛋。供mtf们思念故蛋的时候，回到泰国去见自己已故的蛋蛋？一排排架子上整齐排列着浸泡着福尔马林和蛋蛋的玻璃罐，旁边的牌子上记录着这颗蛋的所有者和srs日期（？ https://t.co/5dLWq46P9W"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2085717788568736198",
+        "created_at": "2026-08-07T13:20:46.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085717788568736198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 47,
+              "id": "1915622690653954048",
+              "start": 38,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085717788568736198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 18360,
+          "like_count": 148,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 2
+        },
+        "reply_settings": "other",
+        "text": "要是SRS切下来的蛋蛋能自己留下来就好了\n\n一颗我自己留着，一颗送给我家老公@dexy0306 ❤️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜MtF 跨直女🏳️‍⚧️20岁纯情恋爱脑小女孩｜我的永生挚爱男友@Dexy0306❤️目标是25岁时结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 135,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 112,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2086831156167954494",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29732,
+          "following_count": 1619,
+          "like_count": 3687,
+          "listed_count": 86,
+          "media_count": 517,
+          "tweet_count": 3329
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

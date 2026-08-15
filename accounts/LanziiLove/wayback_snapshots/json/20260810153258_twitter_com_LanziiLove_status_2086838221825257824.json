@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2086831156167954494",
+    "created_at": "2026-08-10T15:32:58.000Z",
+    "display_text_range": [
+      12,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T16:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086838221825257824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796192059495219200",
+          "start": 0,
+          "username": "celadon000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086838221825257824",
+    "in_reply_to_user_id": "1796192059495219200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086837746887458827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@celadon000 为什么大家都在“😨”\n我确实觉得这是个可行的东西🤔\n毕竟我确实有这个需求\n但是我感觉现在肯定没人这么干（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2086831156167954494",
+        "created_at": "2026-08-10T15:32:58.000Z",
+        "display_text_range": [
+          12,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086838221825257824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796192059495219200",
+              "start": 0,
+              "username": "celadon000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086838221825257824",
+        "in_reply_to_user_id": "1796192059495219200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086837746887458827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@celadon000 为什么大家都在“😨”\n我确实觉得这是个可行的东西🤔\n毕竟我确实有这个需求\n但是我感觉现在肯定没人这么干（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796192059495219200",
+        "conversation_id": "2086831156167954494",
+        "created_at": "2026-08-10T15:31:05.000Z",
+        "display_text_range": [
+          12,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086837746887458827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086837746887458827",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086831156167954494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove 为什么感觉你的推文越来越雷霆了😨"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜MtF 跨直女🏳️‍⚧️20岁纯情恋爱脑小女孩｜我的永生挚爱男友@Dexy0306❤️目标是25岁时结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 135,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 112,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2086838221825257824",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29735,
+          "following_count": 1618,
+          "like_count": 3689,
+          "listed_count": 86,
+          "media_count": 517,
+          "tweet_count": 3331
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-30T14:49:04.000Z",
+        "description": "无证含糖🍥 | 跨直女🏳️‍⚧️ | ArchLinux | 生产日期2008 | 前oier | INFP-T\n同类想要回fo请私信喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/celadon2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/celadon2",
+                "start": 0,
+                "url": "https://t.co/QRdQWCelEG"
+              }
+            ]
+          }
+        },
+        "id": "1796192059495219200",
+        "is_identity_verified": false,
+        "location": "上海/北京",
+        "most_recent_tweet_id": "2086837746887458827",
+        "name": "Celadon🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796192059495219200/1779375492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055488818493652992/x2Be0AsC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 327,
+          "like_count": 491,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 432
+        },
+        "url": "https://t.co/QRdQWCelEG",
+        "username": "celadon000",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

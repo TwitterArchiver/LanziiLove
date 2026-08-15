@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2087369505244922135",
+    "created_at": "2026-08-12T04:32:22.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T05:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087396753024917835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1643126722760679424",
+          "start": 0,
+          "username": "AnnieChorly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087396753024917835",
+    "in_reply_to_user_id": "1643126722760679424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087380859871707236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@AnnieChorly 好诶 谢谢ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2087369505244922135",
+        "created_at": "2026-08-12T04:32:22.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087396753024917835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1643126722760679424",
+              "start": 0,
+              "username": "AnnieChorly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087396753024917835",
+        "in_reply_to_user_id": "1643126722760679424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087380859871707236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@AnnieChorly 好诶 谢谢ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643126722760679424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "844438182523383808",
+              "name": "BTS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "844438182523383808",
+              "name": "BTS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "844438182523383808",
+              "name": "BTS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          }
+        ],
+        "conversation_id": "2087369505244922135",
+        "created_at": "2026-08-12T03:29:13.000Z",
+        "display_text_range": [
+          12,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T04:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087380859871707236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087380859871707236",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087369505244922135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove 曼谷飞摩一定要体验（如果你能接受），然后各种好吃的还有曼谷主要的景点也是，轨道迷BTS和地铁不容错过，逛街爱好者去Siam或者National Stadium站，打国际服乌蒙DX去MBK中心"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜MtF 跨直女🏳️‍⚧️20岁纯情恋爱脑小女孩｜我的永生挚爱男友@dexy0306❤️目标是25岁时结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 135,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 112,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2087396753024917835",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29859,
+          "following_count": 1616,
+          "like_count": 3715,
+          "listed_count": 87,
+          "media_count": 521,
+          "tweet_count": 3373
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-04T05:42:03.000Z",
+        "description": "做好自己手上的事，好好生活",
+        "id": "1643126722760679424",
+        "is_identity_verified": false,
+        "location": "Gangdong, PRC",
+        "most_recent_tweet_id": "2087380859871707236",
+        "name": "是小酥子呀🍢🍰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643126722760679424/1725548472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815608698984710144/IjSAp-oA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 161,
+          "like_count": 3526,
+          "listed_count": 1,
+          "media_count": 900,
+          "tweet_count": 2768
+        },
+        "url": "",
+        "username": "AnnieChorly",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

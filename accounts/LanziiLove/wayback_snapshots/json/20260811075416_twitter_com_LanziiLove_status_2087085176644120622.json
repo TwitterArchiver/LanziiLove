@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2087035974664827082",
+    "created_at": "2026-08-11T07:54:16.000Z",
+    "display_text_range": [
+      13,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T08:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087085176644120622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1262442210060054528",
+          "start": 0,
+          "username": "Dark_CIouds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087085176644120622",
+    "in_reply_to_user_id": "1262442210060054528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087074741639335985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Dark_CIouds 我是综合wiki、sns口碑和询问朋友综合得出的结果\n\n主要考虑自己的需求来选择医院和医生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2087035974664827082",
+        "created_at": "2026-08-11T07:54:16.000Z",
+        "display_text_range": [
+          13,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087085176644120622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1262442210060054528",
+              "start": 0,
+              "username": "Dark_CIouds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087085176644120622",
+        "in_reply_to_user_id": "1262442210060054528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087074741639335985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Dark_CIouds 我是综合wiki、sns口碑和询问朋友综合得出的结果\n\n主要考虑自己的需求来选择医院和医生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1262442210060054528",
+        "conversation_id": "2087035974664827082",
+        "created_at": "2026-08-11T07:12:49.000Z",
+        "display_text_range": [
+          12,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087074741639335985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087074741639335985",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087035974664827082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove 你好你好~请问你是怎么确定去找哪个医院/医生进行srs的呢？想知道比较和权衡的过程"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜MtF 跨直女🏳️‍⚧️20岁纯情恋爱脑小女孩｜我的永生挚爱男友@dexy0306❤️目标是25岁时结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 135,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 112,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2087085176644120622",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29805,
+          "following_count": 1618,
+          "like_count": 3704,
+          "listed_count": 87,
+          "media_count": 519,
+          "tweet_count": 3359
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-18T17:57:51.000Z",
+        "description": "Edge runner",
+        "id": "1262442210060054528",
+        "is_identity_verified": false,
+        "location": "United Kingdom",
+        "most_recent_tweet_id": "2087074741639335985",
+        "name": "🌦️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1262442210060054528/1642590593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063252578226614272/4Qu_kPUt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 110,
+          "like_count": 9447,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1143
+        },
+        "url": "",
+        "username": "Dark_CIouds",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2083676968726442461",
+    "created_at": "2026-08-02T03:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T04:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083750319125848101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781893716183060480",
+          "start": 0,
+          "username": "akihiro_0313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083750319125848101",
+    "in_reply_to_user_id": "1781893716183060480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083721590613619049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@akihiro_0313 谢谢❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2083676968726442461",
+        "created_at": "2026-08-02T03:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083750319125848101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781893716183060480",
+              "start": 0,
+              "username": "akihiro_0313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083750319125848101",
+        "in_reply_to_user_id": "1781893716183060480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083721590613619049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@akihiro_0313 谢谢❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781893716183060480",
+        "conversation_id": "2083676968726442461",
+        "created_at": "2026-08-02T01:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083721590613619049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083721590613619049",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083676968726442461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove 辛苦了，自己的身体也要保重。不过到时候允许的话尽快休息一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年2月SRS｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 121,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 98,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29551,
+          "following_count": 1615,
+          "like_count": 3664,
+          "listed_count": 85,
+          "media_count": 506,
+          "tweet_count": 3278
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-21T03:52:38.000Z",
+        "description": "あきひろ ☄️\n🇨🇳｜15\n​✨ 二次元 & アニメ\n💻 プログラミング\n✏️ 日本語勉強中\n​気軽に仲良くしてください😼✨\n🐾 大切な親友がいます➰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akihiro.03131",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akihiro.03131",
+                "start": 0,
+                "url": "https://t.co/cWs0qXeWVS"
+              }
+            ]
+          }
+        },
+        "id": "1781893716183060480",
+        "location": "A happy world...",
+        "name": "⟩あきひろ✨",
+        "pinned_tweet_id": "2071854934258311450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079848684662202369/1bYOBN1l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 2404,
+          "like_count": 11826,
+          "listed_count": 1,
+          "media_count": 1263,
+          "tweet_count": 9173
+        },
+        "url": "https://t.co/cWs0qXeWVS",
+        "username": "akihiro_0313",
+        "verified": true
+      }
+    ]
+  }
+}

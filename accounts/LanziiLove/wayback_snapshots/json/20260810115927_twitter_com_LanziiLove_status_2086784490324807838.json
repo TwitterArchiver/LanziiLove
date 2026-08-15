@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2086775211274457197",
+    "created_at": "2026-08-10T11:59:27.000Z",
+    "display_text_range": [
+      16,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T12:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086784490324807838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086784490324807838",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086775414173937877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro 你看又急🤣又开始自以为是地划等号了\n你是我脑子里的蛔虫吗你这么懂我是怎么想的\n我只能说你是对的\n经典非要把全世界所有的玩笑上升到反思层面\n那我看活该你精神有问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2086775211274457197",
+        "created_at": "2026-08-10T11:59:27.000Z",
+        "display_text_range": [
+          16,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086784490324807838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086784490324807838",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086775414173937877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 你看又急🤣又开始自以为是地划等号了\n你是我脑子里的蛔虫吗你这么懂我是怎么想的\n我只能说你是对的\n经典非要把全世界所有的玩笑上升到反思层面\n那我看活该你精神有问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2086775211274457197",
+        "created_at": "2026-08-10T11:23:23.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086775414173937877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086775414173937877",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086775211274457197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以及雄性性慾=不專一的性慾（難道雌性性慾=專一的性慾），這是否？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜MtF 跨直女🏳️‍⚧️20岁纯情恋爱脑小女孩｜我的永生挚爱男友@Dexy0306❤️目标是25岁时结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 135,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 112,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2086784490324807838",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29720,
+          "following_count": 1619,
+          "like_count": 3679,
+          "listed_count": 86,
+          "media_count": 514,
+          "tweet_count": 3313
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "祢看起來淡淡的，聞起來也淡淡的，但在這人潮的顏色洪流中間，為何祢如此鮮明。@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 37,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086780685063520559",
+        "name": "小羽",
+        "pinned_tweet_id": "2086575772404510733",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489468526826082312/1780524705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086664527601696768/l8-GR4IU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 198,
+          "like_count": 16017,
+          "listed_count": 3,
+          "media_count": 452,
+          "tweet_count": 10922
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

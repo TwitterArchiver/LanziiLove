@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2087035974664827082",
+    "created_at": "2026-08-11T05:09:39.000Z",
+    "display_text_range": [
+      12,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T06:09:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087043749394501692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1283016791132758018",
+          "start": 0,
+          "username": "Aybssus350"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087043749394501692",
+    "in_reply_to_user_id": "1283016791132758018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087038006880514326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Aybssus350 嘿嘿嘿，这个准备到时候B站10万粉的时候出个视频专门讲一讲，因为这个故事确实很有趣很有戏剧性ww\n大致来说就是他看到我的b站视频然后认识我的，后面就在一起啦ww 具体的细节以后会发出来hhhh\n\n以及谢谢喜欢嘿嘿嘿ww\n以后也会继续更新更多xql日常哒！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2087035974664827082",
+        "created_at": "2026-08-11T05:09:39.000Z",
+        "display_text_range": [
+          12,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087043749394501692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1283016791132758018",
+              "start": 0,
+              "username": "Aybssus350"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087043749394501692",
+        "in_reply_to_user_id": "1283016791132758018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087038006880514326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Aybssus350 嘿嘿嘿，这个准备到时候B站10万粉的时候出个视频专门讲一讲，因为这个故事确实很有趣很有戏剧性ww\n大致来说就是他看到我的b站视频然后认识我的，后面就在一起啦ww 具体的细节以后会发出来hhhh\n\n以及谢谢喜欢嘿嘿嘿ww\n以后也会继续更新更多xql日常哒！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1283016791132758018",
+        "conversation_id": "2087035974664827082",
+        "created_at": "2026-08-11T04:46:50.000Z",
+        "display_text_range": [
+          12,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087038006880514326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087038006880514326",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087035974664827082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove 好奇雫和然一开始是怎么认识的，xql甜甜甜好磕😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜MtF 跨直女🏳️‍⚧️20岁纯情恋爱脑小女孩｜我的永生挚爱男友@dexy0306❤️目标是25岁时结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 135,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 112,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2087043749394501692",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29797,
+          "following_count": 1618,
+          "like_count": 3693,
+          "listed_count": 87,
+          "media_count": 517,
+          "tweet_count": 3335
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-14T12:33:45.000Z",
+        "description": "你好，你可以叫我聆或者什么别的你喜欢的🥰",
+        "id": "1283016791132758018",
+        "is_identity_verified": false,
+        "location": "距离你  5m",
+        "most_recent_tweet_id": "2087038006880514326",
+        "name": "😢",
+        "pinned_tweet_id": "1928414551550116104",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1283016791132758018/1773821659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080637081995632640/xhhmtbe5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 341,
+          "like_count": 473,
+          "listed_count": 7,
+          "media_count": 18,
+          "tweet_count": 605
+        },
+        "url": "",
+        "username": "Aybssus350",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

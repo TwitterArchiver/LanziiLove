@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2087035974664827082",
+    "created_at": "2026-08-12T04:45:08.000Z",
+    "display_text_range": [
+      12,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T05:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087399966532882869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1739618996612460544",
+          "start": 0,
+          "username": "fuyukiSmkw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087399966532882869",
+    "in_reply_to_user_id": "1739618996612460544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "HRT对我来说，比较大的变化就是性格、思维、情绪、欲望和身体。会变得女性化思维，更感性，爱哭，敏感，黏人（比如特别黏男友）身体方面主要体现在乳房、全身脂肪变化，腰变细，屁股和胯变粗，面部脂肪女性化，力气变小等。同时我的话没有了雄性欲望。\n\n日常打扮来说，我觉得很重要一点就是头发。有一个很适合跨女的发型，也就是我这个发型，可以把我的照片拿去给tony当参考。也就是齐刘海单马尾+染发。齐刘海可以遮眉毛（当然自己会修眉也可以）、遮颧骨，然后副刘海（就是我照片里面部两侧那两缕头发）可以遮颧骨和下颌。染发可以让头发看起来更接近顺女的发质（不要染死亡发色就行）打扮的话，日常穿搭就很好了哦，不要穿的太夸张，否则会很显眼，不论是优点还是缺点都会被放大，所以这也是网上所谓的“男娘穿搭”的坏处，即是优点放大器，也是缺点放大器。想要单纯pass的话就最好避免那类衣服。\n\n然后就是日常出门出勤可以买个那个美宝莲的素颜霜，很好用哦"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087122260729696362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@fuyukiSmkw HRT对我来说，比较大的变化就是性格、思维、情绪、欲望和身体。会变得女性化思维，更感性，爱哭，敏感，黏人（比如特别黏男友）身体方面主要体现在乳房、全身脂肪变化，腰变细，屁股和胯变粗，面部脂肪女性化，力气变小等。同时我的话没有了雄性欲望。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2087035974664827082",
+        "created_at": "2026-08-12T04:45:08.000Z",
+        "display_text_range": [
+          12,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087399966532882869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1739618996612460544",
+              "start": 0,
+              "username": "fuyukiSmkw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087399966532882869",
+        "in_reply_to_user_id": "1739618996612460544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "HRT对我来说，比较大的变化就是性格、思维、情绪、欲望和身体。会变得女性化思维，更感性，爱哭，敏感，黏人（比如特别黏男友）身体方面主要体现在乳房、全身脂肪变化，腰变细，屁股和胯变粗，面部脂肪女性化，力气变小等。同时我的话没有了雄性欲望。\n\n日常打扮来说，我觉得很重要一点就是头发。有一个很适合跨女的发型，也就是我这个发型，可以把我的照片拿去给tony当参考。也就是齐刘海单马尾+染发。齐刘海可以遮眉毛（当然自己会修眉也可以）、遮颧骨，然后副刘海（就是我照片里面部两侧那两缕头发）可以遮颧骨和下颌。染发可以让头发看起来更接近顺女的发质（不要染死亡发色就行）打扮的话，日常穿搭就很好了哦，不要穿的太夸张，否则会很显眼，不论是优点还是缺点都会被放大，所以这也是网上所谓的“男娘穿搭”的坏处，即是优点放大器，也是缺点放大器。想要单纯pass的话就最好避免那类衣服。\n\n然后就是日常出门出勤可以买个那个美宝莲的素颜霜，很好用哦"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087122260729696362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@fuyukiSmkw HRT对我来说，比较大的变化就是性格、思维、情绪、欲望和身体。会变得女性化思维，更感性，爱哭，敏感，黏人（比如特别黏男友）身体方面主要体现在乳房、全身脂肪变化，腰变细，屁股和胯变粗，面部脂肪女性化，力气变小等。同时我的话没有了雄性欲望。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739618996612460544",
+        "conversation_id": "2087035974664827082",
+        "created_at": "2026-08-11T10:21:38.000Z",
+        "display_text_range": [
+          12,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087122260729696362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087122260729696362",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087035974664827082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove 姐姐请问您觉得hrt对哪些地方改善比较大、多久见效呢😳以及关于日常的发型着装打扮等，您觉得有哪些操作是比较好上手的、哪些对pass提升较大呢？感谢(⁠ ⁠╹⁠▽⁠╹⁠ ⁠)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜MtF 跨直女🏳️‍⚧️20岁纯情恋爱脑小女孩｜我的永生挚爱男友@dexy0306❤️目标是25岁时结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 135,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 112,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2087399966532882869",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29859,
+          "following_count": 1616,
+          "like_count": 3718,
+          "listed_count": 87,
+          "media_count": 522,
+          "tweet_count": 3377
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-26T12:07:54.000Z",
+        "description": "🍨🧋🍤🍥🍜🥟🍮☕🫐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuyukis.uk",
+                "end": 23,
+                "expanded_url": "http://fuyukis.uk",
+                "start": 0,
+                "url": "https://t.co/6PDHquBjAI"
+              }
+            ]
+          }
+        },
+        "id": "1739618996612460544",
+        "is_identity_verified": false,
+        "location": "osu!; VRChat;",
+        "most_recent_tweet_id": "2087122260729696362",
+        "name": "fuyukiS",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1739618996612460544/1705051612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739619610297778176/iVFnptjq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 686,
+          "like_count": 25853,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 36
+        },
+        "url": "https://t.co/6PDHquBjAI",
+        "username": "fuyukiSmkw",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

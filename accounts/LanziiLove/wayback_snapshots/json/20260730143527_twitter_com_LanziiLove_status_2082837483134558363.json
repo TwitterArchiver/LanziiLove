@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2082812302261371221",
+    "created_at": "2026-07-30T14:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T15:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082837483134558363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "998386167010639872",
+          "start": 0,
+          "username": "Yuugiri0X0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082837483134558363",
+    "in_reply_to_user_id": "998386167010639872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082836814465994884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Yuugiri0X0 也就仅限二次元幻想了\n\n三次元的话我被动就响了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2082812302261371221",
+        "created_at": "2026-07-30T14:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082837483134558363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "998386167010639872",
+              "start": 0,
+              "username": "Yuugiri0X0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082837483134558363",
+        "in_reply_to_user_id": "998386167010639872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082836814465994884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Yuugiri0X0 也就仅限二次元幻想了\n\n三次元的话我被动就响了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "998386167010639872",
+        "conversation_id": "2082812302261371221",
+        "created_at": "2026-07-30T14:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082836814465994884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082836814465994884",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082828977962614830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove 你染上绿帽癖了！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年2月SRS｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 121,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 98,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29525,
+          "following_count": 1613,
+          "like_count": 3662,
+          "listed_count": 84,
+          "media_count": 504,
+          "tweet_count": 3268
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-21T02:13:06.000Z",
+        "description": "我要狠狠关注你们这些清水博主\n想出考斯普雷\n坏了不会有人觉得我是女生吧",
+        "id": "998386167010639872",
+        "name": "Yuugiri",
+        "pinned_tweet_id": "2054418612853809188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061391136850313216/bBWY0uLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 647,
+          "like_count": 5658,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 1055
+        },
+        "url": "",
+        "username": "Yuugiri0X0",
+        "verified": false
+      }
+    ]
+  }
+}

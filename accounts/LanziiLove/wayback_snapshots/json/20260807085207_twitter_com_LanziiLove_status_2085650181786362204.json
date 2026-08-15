@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085649723030192128"
+      ],
+      "media_source_tweet_id": [
+        "2085649731020308510"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2085650181786362204",
+    "created_at": "2026-08-07T08:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T09:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085650181786362204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915622690653954048",
+          "start": 3,
+          "username": "dexy0306"
+        },
+        {
+          "end": 33,
+          "id": "1510447851507261445",
+          "start": 22,
+          "username": "LanziiLove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AcSZoVH2FI",
+          "end": 57,
+          "expanded_url": "https://x.com/dexy0306/status/2085649731020308510/photo/1",
+          "media_key": "3_2085649723030192128",
+          "start": 34,
+          "url": "https://t.co/AcSZoVH2FI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085650181786362204",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085649731020308510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dexy0306: 史上最好喝的❤️@LanziiLove https://t.co/AcSZoVH2FI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085649723030192128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPG3X3MbQAAw0PM.jpg",
+        "width": 1670
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085649723030192128"
+          ]
+        },
+        "author_id": "1915622690653954048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2085649731020308510",
+        "created_at": "2026-08-07T08:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T09:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085649731020308510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1510447851507261445",
+              "start": 8,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AcSZoVH2FI",
+              "end": 43,
+              "expanded_url": "https://x.com/dexy0306/status/2085649731020308510/photo/1",
+              "media_key": "3_2085649723030192128",
+              "start": 20,
+              "url": "https://t.co/AcSZoVH2FI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085649731020308510",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "史上最好喝的❤️@LanziiLove https://t.co/AcSZoVH2FI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085649723030192128"
+          ],
+          "media_source_tweet_id": [
+            "2085649731020308510"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2085650181786362204",
+        "created_at": "2026-08-07T08:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T09:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085650181786362204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915622690653954048",
+              "start": 3,
+              "username": "dexy0306"
+            },
+            {
+              "end": 33,
+              "id": "1510447851507261445",
+              "start": 22,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AcSZoVH2FI",
+              "end": 57,
+              "expanded_url": "https://x.com/dexy0306/status/2085649731020308510/photo/1",
+              "media_key": "3_2085649723030192128",
+              "start": 34,
+              "url": "https://t.co/AcSZoVH2FI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085650181786362204",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085649731020308510",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dexy0306: 史上最好喝的❤️@LanziiLove https://t.co/AcSZoVH2FI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️病娇纯爱恋爱脑小女孩｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 130,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 107,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29602,
+          "following_count": 1618,
+          "like_count": 3677,
+          "listed_count": 85,
+          "media_count": 511,
+          "tweet_count": 3297
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058966578692300800/PhRHdgfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 9,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

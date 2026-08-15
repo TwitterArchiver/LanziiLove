@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2081018499439468990",
+    "created_at": "2026-07-25T15:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081037292526084419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995146888249778177",
+          "start": 0,
+          "username": "Rin_Mashiro_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081037292526084419",
+    "in_reply_to_user_id": "1995146888249778177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081032030129897859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Rin_Mashiro_ 我开玩笑干嘛\n\n我是因为牛子这东西只有一个孔我也没见过批所以直接思维固化了\n\n在研究批的构造的时候也没往那块去想\n\n以及我初中生物讲那块的时候我在住院（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2081018499439468990",
+        "created_at": "2026-07-25T15:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081037292526084419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995146888249778177",
+              "start": 0,
+              "username": "Rin_Mashiro_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081037292526084419",
+        "in_reply_to_user_id": "1995146888249778177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081032030129897859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Rin_Mashiro_ 我开玩笑干嘛\n\n我是因为牛子这东西只有一个孔我也没见过批所以直接思维固化了\n\n在研究批的构造的时候也没往那块去想\n\n以及我初中生物讲那块的时候我在住院（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995146888249778177",
+        "conversation_id": "2081018499439468990",
+        "created_at": "2026-07-25T15:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081032030129897859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081032030129897859",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081018499439468990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove 没开玩笑吗，我觉得作为mtf应该会对女性身体有着不浅的研究吧（也有可能只是我这么做），况且初中生物应该有教到才对🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年2月SRS｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 121,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 98,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29319,
+          "following_count": 1598,
+          "like_count": 3601,
+          "listed_count": 83,
+          "media_count": 501,
+          "tweet_count": 3218
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-30T15:04:29.000Z",
+        "description": "VPS梦女？（很喜欢这个称呼就拿来用了）｜处于HRT与非HRT叠加态（取决于买完vps还有没有钱…）｜无GD｜全栈｜软件开发｜AI｜ACGN｜JP（N2） EN CH@｜SillyTavern二开及插件开发者\n个人博客:https://t.co/PVGkqciT7N\n匿名提问:https://t.co/520DUeTJuy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 133,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 110,
+                "url": "https://t.co/PVGkqciT7N"
+              },
+              {
+                "display_url": "blog.rin.wtf/ask",
+                "end": 162,
+                "expanded_url": "https://blog.rin.wtf/ask",
+                "start": 139,
+                "url": "https://t.co/520DUeTJuy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 23,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 0,
+                "url": "https://t.co/PVGkqciT7N"
+              }
+            ]
+          }
+        },
+        "id": "1995146888249778177",
+        "name": "Rin",
+        "pinned_tweet_id": "2080359589506404639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006297830823215106/c2krAf_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 60,
+          "like_count": 555,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1179
+        },
+        "url": "https://t.co/PVGkqciT7N",
+        "username": "Rin_Mashiro_",
+        "verified": true
+      }
+    ]
+  }
+}

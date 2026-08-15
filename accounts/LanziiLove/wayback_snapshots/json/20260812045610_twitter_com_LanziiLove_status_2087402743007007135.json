@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2087398562535784457",
+    "created_at": "2026-08-12T04:56:10.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T05:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087402743007007135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1915622690653954048",
+          "start": 0,
+          "username": "dexy0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087402743007007135",
+    "in_reply_to_user_id": "1915622690653954048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087398562535784457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dexy0306 呜坏坏老公🥺羞羞"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087398531997061120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPft58RbUAA6gdr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2087398562535784457",
+        "created_at": "2026-08-12T04:56:10.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087402743007007135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1915622690653954048",
+              "start": 0,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087402743007007135",
+        "in_reply_to_user_id": "1915622690653954048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087398562535784457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dexy0306 呜坏坏老公🥺羞羞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087398531997061120"
+          ]
+        },
+        "author_id": "1915622690653954048",
+        "conversation_id": "2087398562535784457",
+        "created_at": "2026-08-12T04:39:33.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087398562535784457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8A0go3fM1y",
+              "end": 23,
+              "expanded_url": "https://x.com/dexy0306/status/2087398562535784457/photo/1",
+              "media_key": "3_2087398531997061120",
+              "start": 0,
+              "url": "https://t.co/8A0go3fM1y"
+            },
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/lanziilove/status/2087392817169813712",
+              "start": 24,
+              "url": "https://t.co/MrXLBK8XvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087398562535784457",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087398531997061120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087392817169813712",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/8A0go3fM1y https://t.co/MrXLBK8XvG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜MtF 跨直女🏳️‍⚧️20岁纯情恋爱脑小女孩｜我的永生挚爱男友@dexy0306❤️目标是25岁时结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 135,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 112,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2087402743007007135",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29861,
+          "following_count": 1624,
+          "like_count": 3725,
+          "listed_count": 87,
+          "media_count": 522,
+          "tweet_count": 3389
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "is_identity_verified": false,
+        "location": "小雫的心里",
+        "most_recent_tweet_id": "2087398562535784457",
+        "name": "Dexy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1915622690653954048/1745556774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058966578692300800/PhRHdgfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 9,
+          "like_count": 379,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "dexy0306",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

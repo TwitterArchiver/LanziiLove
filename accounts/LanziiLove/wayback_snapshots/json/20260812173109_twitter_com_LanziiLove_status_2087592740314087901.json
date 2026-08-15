@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087592731115921408"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2087592740314087901",
+    "created_at": "2026-08-12T17:31:09.000Z",
+    "display_text_range": [
+      0,
+      156
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T18:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087592740314087901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 141,
+          "id": "1915622690653954048",
+          "start": 132,
+          "username": "dexy0306"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7eGO3v4bnM",
+          "end": 180,
+          "expanded_url": "https://x.com/LanziiLove/status/2087592740314087901/photo/1",
+          "media_key": "3_2087592731115921408",
+          "start": 157,
+          "url": "https://t.co/7eGO3v4bnM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087592740314087901",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087592731115921408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "30,000 Followers\n\n谢谢所有推友，感谢你们所有每一个人一直以来的陪伴，你们每一个人，都是我终生的挚友与伙伴。希望今后的日子里我们也能继续友好相处，分享彼此的生活，互相加油鼓气。\n\n感谢一直以来理解我包容我的妈妈\n最为感谢，自始至终，一直陪伴我的爱人@dexy0306 我永远爱你❤️余生，永随相伴 https://t.co/7eGO3v4bnM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1245,
+        "media_key": "3_2087592731115921408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPieh0XaIAA7hVg.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087592731115921408"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2087592740314087901",
+        "created_at": "2026-08-12T17:31:09.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087592740314087901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 141,
+              "id": "1915622690653954048",
+              "start": 132,
+              "username": "dexy0306"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7eGO3v4bnM",
+              "end": 180,
+              "expanded_url": "https://x.com/LanziiLove/status/2087592740314087901/photo/1",
+              "media_key": "3_2087592731115921408",
+              "start": 157,
+              "url": "https://t.co/7eGO3v4bnM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087592740314087901",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087592731115921408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "30,000 Followers\n\n谢谢所有推友，感谢你们所有每一个人一直以来的陪伴，你们每一个人，都是我终生的挚友与伙伴。希望今后的日子里我们也能继续友好相处，分享彼此的生活，互相加油鼓气。\n\n感谢一直以来理解我包容我的妈妈\n最为感谢，自始至终，一直陪伴我的爱人@dexy0306 我永远爱你❤️余生，永随相伴 https://t.co/7eGO3v4bnM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜MtF 跨直女🏳️‍⚧️20岁纯情恋爱脑小女孩｜我的永生挚爱男友@dexy0306❤️目标是25岁时结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 135,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 112,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2087592740314087901",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30011,
+          "following_count": 1628,
+          "like_count": 3738,
+          "listed_count": 86,
+          "media_count": 523,
+          "tweet_count": 3404
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "is_identity_verified": false,
+        "location": "小雫的心里",
+        "most_recent_tweet_id": "2087405596349985170",
+        "name": "Dexy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1915622690653954048/1745556774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058966578692300800/PhRHdgfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 9,
+          "like_count": 379,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "dexy0306",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

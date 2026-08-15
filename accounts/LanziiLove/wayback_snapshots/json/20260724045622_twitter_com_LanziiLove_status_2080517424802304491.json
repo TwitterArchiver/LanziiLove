@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2080517424802304491",
+    "created_at": "2026-07-24T04:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T05:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080517424802304491"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dexy0306/statu…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/dexy0306/status/2080516442307625246",
+          "start": 35,
+          "url": "https://t.co/l2mQU6RTzP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080517424802304491",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080516442307625246",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "我要看1000fo福利女装照🙌\n\n*能cos成男娘大姐姐草我就更好了 https://t.co/l2mQU6RTzP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1148,
+        "media_key": "3_2080516435345035264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN96rMYaUAA9eMx.jpg",
+        "width": 994
+      },
+      {
+        "height": 1075,
+        "media_key": "3_2080516435349213185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN96rMZaEAEcGI6.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2080517424802304491",
+        "created_at": "2026-07-24T04:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080517424802304491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dexy0306/statu…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/dexy0306/status/2080516442307625246",
+              "start": 35,
+              "url": "https://t.co/l2mQU6RTzP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080517424802304491",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080516442307625246",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我要看1000fo福利女装照🙌\n\n*能cos成男娘大姐姐草我就更好了 https://t.co/l2mQU6RTzP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080516435345035264",
+            "3_2080516435349213185"
+          ]
+        },
+        "author_id": "1915622690653954048",
+        "conversation_id": "2080516442307625246",
+        "created_at": "2026-07-24T04:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080516442307625246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e7w36d2Uyd",
+              "end": 33,
+              "expanded_url": "https://x.com/dexy0306/status/2080516442307625246/photo/1",
+              "media_key": "3_2080516435345035264",
+              "start": 10,
+              "url": "https://t.co/e7w36d2Uyd"
+            },
+            {
+              "display_url": "pic.x.com/e7w36d2Uyd",
+              "end": 33,
+              "expanded_url": "https://x.com/dexy0306/status/2080516442307625246/photo/1",
+              "media_key": "3_2080516435349213185",
+              "start": 10,
+              "url": "https://t.co/e7w36d2Uyd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080516442307625246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩过cs也算（存疑 https://t.co/e7w36d2Uyd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年2月SRS｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 121,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 98,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29061,
+          "following_count": 1598,
+          "like_count": 3568,
+          "listed_count": 82,
+          "media_count": 498,
+          "tweet_count": 3197
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058966578692300800/PhRHdgfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 7,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080624449343352832"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2080624459086746106",
+    "created_at": "2026-07-24T12:01:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080624459086746106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AYBKHap6dP",
+          "end": 57,
+          "expanded_url": "https://x.com/LanziiLove/status/2080624459086746106/photo/1",
+          "media_key": "3_2080624449343352832",
+          "start": 34,
+          "url": "https://t.co/AYBKHap6dP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080624459086746106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "对不起，你们的兄弟已经被我夺舍了\n\n（为了对比选了两张素颜原相机） https://t.co/AYBKHap6dP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080624449343352832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_c6b4acAAkG2W.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080624449343352832"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2080624459086746106",
+        "created_at": "2026-07-24T12:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080624459086746106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AYBKHap6dP",
+              "end": 57,
+              "expanded_url": "https://x.com/LanziiLove/status/2080624459086746106/photo/1",
+              "media_key": "3_2080624449343352832",
+              "start": 34,
+              "url": "https://t.co/AYBKHap6dP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080624459086746106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "对不起，你们的兄弟已经被我夺舍了\n\n（为了对比选了两张素颜原相机） https://t.co/AYBKHap6dP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年2月SRS｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 121,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 98,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29066,
+          "following_count": 1599,
+          "like_count": 3569,
+          "listed_count": 82,
+          "media_count": 500,
+          "tweet_count": 3201
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      }
+    ]
+  }
+}

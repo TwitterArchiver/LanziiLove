@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2079940262277890551",
+    "created_at": "2026-07-22T14:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079941121627836549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2045308783711199232",
+          "start": 0,
+          "username": "hto2028519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079941121627836549",
+    "in_reply_to_user_id": "2045308783711199232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079940991830851587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@hto2028519 刚刚又看到那个精子偶遇臭臭的图了\n\n有感而发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2079940262277890551",
+        "created_at": "2026-07-22T14:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079941121627836549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045308783711199232",
+              "start": 0,
+              "username": "hto2028519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079941121627836549",
+        "in_reply_to_user_id": "2045308783711199232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079940991830851587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@hto2028519 刚刚又看到那个精子偶遇臭臭的图了\n\n有感而发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045308783711199232",
+        "conversation_id": "2079940262277890551",
+        "created_at": "2026-07-22T14:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079940991830851587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079940991830851587",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079940262277890551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove ？🙀怎么想出来这么雷霆的文案的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年4月SRS 攒钱中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28992,
+          "following_count": 1596,
+          "like_count": 3565,
+          "listed_count": 82,
+          "media_count": 498,
+          "tweet_count": 3192
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-18T01:10:06.000Z",
+        "description": "可以叫咱小希或者axwo｜🏳️‍🌈mtf🏳️‍⚧️｜HRT2026.04.12-2026.07.05｜已开小证但家长反对😭｜双相情感障碍｜生产日期2010.02.01｜小希喜欢你们🥺",
+        "id": "2045308783711199232",
+        "location": "永远爱你们",
+        "name": "axwo🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078393825480036352/KbH6wC5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 31,
+          "like_count": 193,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 356
+        },
+        "url": "",
+        "username": "hto2028519",
+        "verified": false
+      }
+    ]
+  }
+}

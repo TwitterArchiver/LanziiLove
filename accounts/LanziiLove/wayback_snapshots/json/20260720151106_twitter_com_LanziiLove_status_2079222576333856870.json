@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2079161846158999828",
+    "created_at": "2026-07-20T15:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T16:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079222576333856870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1915622690653954048",
+          "start": 0,
+          "username": "dexy0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079222576333856870",
+    "in_reply_to_user_id": "1915622690653954048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079161846158999828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dexy0306 可爱喵(&gt;^ω^&lt;)\n\n和我家老公一样可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079161819416133632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqqqKzagAAVUAs.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079161819407822849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqqqKxbsAEypVz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2079161846158999828",
+        "created_at": "2026-07-20T15:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079222576333856870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1915622690653954048",
+              "start": 0,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079222576333856870",
+        "in_reply_to_user_id": "1915622690653954048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079161846158999828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dexy0306 可爱喵(&gt;^ω^&lt;)\n\n和我家老公一样可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079161819416133632",
+            "3_2079161819407822849"
+          ]
+        },
+        "author_id": "1915622690653954048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079161846158999828",
+        "created_at": "2026-07-20T11:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079161846158999828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/maWUsX3hIy",
+              "end": 63,
+              "expanded_url": "https://x.com/dexy0306/status/2079161846158999828/photo/1",
+              "media_key": "3_2079161819416133632",
+              "start": 40,
+              "url": "https://t.co/maWUsX3hIy"
+            },
+            {
+              "display_url": "pic.x.com/maWUsX3hIy",
+              "end": 63,
+              "expanded_url": "https://x.com/dexy0306/status/2079161846158999828/photo/1",
+              "media_key": "3_2079161819407822849",
+              "start": 40,
+              "url": "https://t.co/maWUsX3hIy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079161846158999828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等了小半年终于到手了🥰\n\n（然后我的搞莫子脸不出意外的也歪了，cls我恨你😡） https://t.co/maWUsX3hIy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年4月SRS 攒钱中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28780,
+          "following_count": 1593,
+          "like_count": 3549,
+          "listed_count": 83,
+          "media_count": 496,
+          "tweet_count": 3182
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "location": "小雫的心里",
+        "name": "Dexy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058966578692300800/PhRHdgfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 7,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 96
+        },
+        "url": "",
+        "username": "dexy0306",
+        "verified": false
+      }
+    ]
+  }
+}

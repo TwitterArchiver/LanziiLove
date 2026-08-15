@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2081018499439468990",
+    "created_at": "2026-07-25T14:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T15:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081022698394935497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "973935307375587331",
+          "start": 0,
+          "username": "yukiricc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081022698394935497",
+    "in_reply_to_user_id": "973935307375587331",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081022135657750851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@yukiricc 🤯🤯🤯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2081018499439468990",
+        "created_at": "2026-07-25T14:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081022698394935497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "973935307375587331",
+              "start": 0,
+              "username": "yukiricc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081022698394935497",
+        "in_reply_to_user_id": "973935307375587331",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081022135657750851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@yukiricc 🤯🤯🤯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "973935307375587331",
+        "conversation_id": "2081018499439468990",
+        "created_at": "2026-07-25T14:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081022135657750851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081022135657750851",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081018499439468990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove 😄没事，也确实有很多跨女出现过术后通模具出现502 bad gateway错误（把模具放进..后面..）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年2月SRS｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 121,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 98,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29316,
+          "following_count": 1596,
+          "like_count": 3589,
+          "listed_count": 83,
+          "media_count": 501,
+          "tweet_count": 3211
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-14T14:54:06.000Z",
+        "description": "一个正在流浪的MTF部队重型虎式坦克\nA wandering Tiger Tank, currently deployed as an MTF unit.",
+        "id": "973935307375587331",
+        "location": "Earth",
+        "name": "Konno Yuuki",
+        "pinned_tweet_id": "1866731019988349242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808725503060422656/UzGChCv3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2616,
+          "following_count": 497,
+          "like_count": 15261,
+          "listed_count": 11,
+          "media_count": 491,
+          "tweet_count": 9175
+        },
+        "url": "",
+        "username": "yukiricc",
+        "verified": false
+      }
+    ]
+  }
+}

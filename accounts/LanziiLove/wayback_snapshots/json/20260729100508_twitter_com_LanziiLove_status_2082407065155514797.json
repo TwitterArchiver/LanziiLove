@@ -1,0 +1,565 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1560348702857867264",
+          "name": "Zenless Zone Zero"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898252936970260",
+          "name": "Free-to-play games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1560348702857867264",
+          "name": "Zenless Zone Zero"
+        }
+      }
+    ],
+    "conversation_id": "2082407065155514797",
+    "created_at": "2026-07-29T10:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T11:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082407065155514797"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zzz_en/status/…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/zzz_en/status/2082043385750114436",
+          "start": 27,
+          "url": "https://t.co/j5JPEYsD9t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082407065155514797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082043385750114436",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "烧完了 把直女都掰成双了\n\n我要让我家老公cos这个 https://t.co/j5JPEYsD9t"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13216,
+        "height": 1920,
+        "media_key": "13_2082023765894918144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082023765894918144/img/tsLFl0_0LofZknfr.jpg",
+        "public_metrics": {
+          "view_count": 141908
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082023765894918144/vid/avc1/320x568/7bpcikQDrfPu8zA4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082023765894918144/vid/avc1/480x852/35gEmENAvAyZP3uX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082023765894918144/vid/avc1/720x1280/hUg4bbc01B0Wd-Ir.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082023765894918144/pl/iCVe761k59wQUMtm.m3u8?tag=14&v=e66"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "2082407065155514797",
+        "created_at": "2026-07-29T10:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082407065155514797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zzz_en/status/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/zzz_en/status/2082043385750114436",
+              "start": 27,
+              "url": "https://t.co/j5JPEYsD9t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082407065155514797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082043385750114436",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "烧完了 把直女都掰成双了\n\n我要让我家老公cos这个 https://t.co/j5JPEYsD9t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082023765894918144"
+          ]
+        },
+        "author_id": "1508387670208270343",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "2082043385750114436",
+        "created_at": "2026-07-28T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082043385750114436"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 61,
+              "tag": "zzzero"
+            },
+            {
+              "end": 85,
+              "start": 69,
+              "tag": "zenlesszonezero"
+            },
+            {
+              "end": 95,
+              "start": 86,
+              "tag": "Remielle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8g60poejt9",
+              "end": 119,
+              "expanded_url": "https://x.com/ZZZ_EN/status/2082043385750114436/video/1",
+              "media_key": "13_2082023765894918144",
+              "start": 96,
+              "url": "https://t.co/8g60poejt9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082043385750114436",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2092,
+          "impression_count": 318907,
+          "like_count": 18976,
+          "quote_count": 143,
+          "reply_count": 100,
+          "retweet_count": 2099
+        },
+        "reply_settings": "everyone",
+        "text": "For Display Only | Remielle\n\n\"May I steal you for a dance?\"\n\n#zzzero #zenlesszonezero\n#Remielle https://t.co/8g60poejt9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年2月SRS｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 121,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 98,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29499,
+          "following_count": 1612,
+          "like_count": 3654,
+          "listed_count": 84,
+          "media_count": 503,
+          "tweet_count": 3251
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-28T10:17:18.000Z",
+        "description": "The 3.1 anniversary update and Void Hunter Remielle are here. Log in to get a free S-Rank Agent & W-Engine.\n \n#ZZZ2ndANNI\n \nPS5·iOS·Android·PC·Epic·Xbox·Steam",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 121,
+                "start": 110,
+                "tag": "ZZZ2ndANNI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoyo.link/aSOkFIAL",
+                "end": 23,
+                "expanded_url": "https://hoyo.link/aSOkFIAL",
+                "start": 0,
+                "url": "https://t.co/gm4oGNi9tX"
+              }
+            ]
+          }
+        },
+        "id": "1508387670208270343",
+        "location": "New Eridu",
+        "name": "Zenless Zone Zero",
+        "pinned_tweet_id": "2081318613005557767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082277558406803456/EVyeUqBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106473,
+          "following_count": 19,
+          "like_count": 142,
+          "listed_count": 1095,
+          "media_count": 2388,
+          "tweet_count": 3032
+        },
+        "url": "https://t.co/gm4oGNi9tX",
+        "username": "ZZZ_EN",
+        "verified": true
+      }
+    ]
+  }
+}

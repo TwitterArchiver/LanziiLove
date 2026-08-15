@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078733221668528128"
+      ],
+      "media_source_tweet_id": [
+        "2078733231462228407"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2082015226497785908",
+    "created_at": "2026-07-28T08:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T09:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082015226497785908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1510447851507261445",
+          "start": 3,
+          "username": "LanziiLove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F6TkZbutgX",
+          "end": 92,
+          "expanded_url": "https://x.com/LanziiLove/status/2078733231462228407/photo/1",
+          "media_key": "3_2078733221668528128",
+          "start": 69,
+          "url": "https://t.co/F6TkZbutgX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082015226497785908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078733231462228407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LanziiLove: 今天和妈妈去游泳\n\n试穿我妈给我买的泳衣\n\n来点原图直出腰臀比w\n（最近太久没运动吃太多腰围都涨了哭哭） https://t.co/F6TkZbutgX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2078733221668528128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkk2fxbIAA1AHp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078733221668528128"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2078733231462228407",
+        "created_at": "2026-07-19T06:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078733231462228407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F6TkZbutgX",
+              "end": 76,
+              "expanded_url": "https://x.com/LanziiLove/status/2078733231462228407/photo/1",
+              "media_key": "3_2078733221668528128",
+              "start": 53,
+              "url": "https://t.co/F6TkZbutgX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078733231462228407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 287,
+          "impression_count": 209664,
+          "like_count": 1677,
+          "quote_count": 10,
+          "reply_count": 71,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "今天和妈妈去游泳\n\n试穿我妈给我买的泳衣\n\n来点原图直出腰臀比w\n（最近太久没运动吃太多腰围都涨了哭哭） https://t.co/F6TkZbutgX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078733221668528128"
+          ],
+          "media_source_tweet_id": [
+            "2078733231462228407"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2082015226497785908",
+        "created_at": "2026-07-28T08:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082015226497785908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1510447851507261445",
+              "start": 3,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F6TkZbutgX",
+              "end": 92,
+              "expanded_url": "https://x.com/LanziiLove/status/2078733231462228407/photo/1",
+              "media_key": "3_2078733221668528128",
+              "start": 69,
+              "url": "https://t.co/F6TkZbutgX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082015226497785908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078733231462228407",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LanziiLove: 今天和妈妈去游泳\n\n试穿我妈给我买的泳衣\n\n来点原图直出腰臀比w\n（最近太久没运动吃太多腰围都涨了哭哭） https://t.co/F6TkZbutgX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年2月SRS｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 121,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 98,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29458,
+          "following_count": 1610,
+          "like_count": 3646,
+          "listed_count": 84,
+          "media_count": 503,
+          "tweet_count": 3243
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      }
+    ]
+  }
+}

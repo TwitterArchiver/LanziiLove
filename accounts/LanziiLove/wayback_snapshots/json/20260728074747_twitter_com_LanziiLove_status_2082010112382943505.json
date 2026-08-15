@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2082010112382943505",
+    "created_at": "2026-07-28T07:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T08:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082010112382943505"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lanziilove/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/lanziilove/status/2045385789153095760",
+          "start": 14,
+          "url": "https://t.co/lBjyauc09N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082010112382943505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045385789153095760",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "这么一看我头发长得还挺快的 https://t.co/lBjyauc09N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1154,
+        "media_key": "3_2045385780504535040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKrh8uboAAAfZo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2082010112382943505",
+        "created_at": "2026-07-28T07:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082010112382943505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/lanziilove/status/2045385789153095760",
+              "start": 14,
+              "url": "https://t.co/lBjyauc09N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082010112382943505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045385789153095760",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "这么一看我头发长得还挺快的 https://t.co/lBjyauc09N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045385780504535040"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2045385789153095760",
+        "created_at": "2026-04-18T06:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045385789153095760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pKNY61dmyT",
+              "end": 23,
+              "expanded_url": "https://x.com/LanziiLove/status/2045385789153095760/photo/1",
+              "media_key": "3_2045385780504535040",
+              "start": 0,
+              "url": "https://t.co/pKNY61dmyT"
+            },
+            {
+              "display_url": "x.com/LanziiLove/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/LanziiLove/status/2043703211043983772",
+              "start": 24,
+              "url": "https://t.co/pfXsUcR1pv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045385789153095760",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 15087,
+          "like_count": 207,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043703211043983772",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/pKNY61dmyT https://t.co/pfXsUcR1pv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年2月SRS｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 121,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 98,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29459,
+          "following_count": 1609,
+          "like_count": 3645,
+          "listed_count": 84,
+          "media_count": 503,
+          "tweet_count": 3242
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      }
+    ]
+  }
+}

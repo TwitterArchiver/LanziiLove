@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2087457955755217141",
+    "created_at": "2026-08-12T08:35:34.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T09:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087457955755217141"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/hsn8086/status/2087432618577162250",
+          "start": 40,
+          "url": "https://t.co/yoOWzq1VKi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087457955755217141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087432618577162250",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "骗你的，MTF学姐也无法冲淡男女比例\n\n我能帮泥电 男-1 女+1 已经尽力了 https://t.co/yoOWzq1VKi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1128,
+        "media_key": "3_2087432605339897856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgM5RXaUAAsj9d.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2087457955755217141",
+        "created_at": "2026-08-12T08:35:34.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087457955755217141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/hsn8086/status/2087432618577162250",
+              "start": 40,
+              "url": "https://t.co/yoOWzq1VKi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087457955755217141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087432618577162250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骗你的，MTF学姐也无法冲淡男女比例\n\n我能帮泥电 男-1 女+1 已经尽力了 https://t.co/yoOWzq1VKi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087432605339897856"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2087432618577162250",
+        "created_at": "2026-08-12T06:54:53.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T07:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087432618577162250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YaysS5r7Ue",
+              "end": 40,
+              "expanded_url": "https://x.com/hsn8086/status/2087432618577162250/photo/1",
+              "media_key": "3_2087432605339897856",
+              "start": 17,
+              "url": "https://t.co/YaysS5r7Ue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087432618577162250",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087432605339897856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1603,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "并非, 还有男娘学长和MTF学姐 https://t.co/YaysS5r7Ue"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜MtF 跨直女🏳️‍⚧️20岁纯情恋爱脑小女孩｜我的永生挚爱男友@dexy0306❤️目标是25岁时结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 135,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 112,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2087457955755217141",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29904,
+          "following_count": 1628,
+          "like_count": 3734,
+          "listed_count": 86,
+          "media_count": 522,
+          "tweet_count": 3397
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2087455109265654035",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1433678976564662273/1680328005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121655,
+          "following_count": 1120,
+          "like_count": 52079,
+          "listed_count": 296,
+          "media_count": 24495,
+          "tweet_count": 35051
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

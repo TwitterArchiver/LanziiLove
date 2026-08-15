@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2079051292723577213",
+    "created_at": "2026-07-20T03:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T04:36:36.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079047796293013915",
+      "2079051292723577213"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079051292723577213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "hrt久了是不是能分辨出雄性激素/汗液的味道了\n\nhrt之后抱着然桑的衣服吸的时候闻到了一种以前没闻过的味道。\n我一直以为那是他的味道，到后面我才发现好像男性都是这个味。但是hrt之前从来没闻到过这种味道。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2079047796293013915",
+        "created_at": "2026-07-20T03:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:36:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079047796293013915",
+          "2079051292723577213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079047796293013915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "hrt久了是不是能分辨出雄性激素/汗液的味道了\n\nhrt之后抱着然桑的衣服吸的时候闻到了一种以前没闻过的味道。\n我一直以为那是他的味道，到后面我才发现好像雄性都是这个味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2079051292723577213",
+        "created_at": "2026-07-20T03:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:36:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079047796293013915",
+          "2079051292723577213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079051292723577213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "hrt久了是不是能分辨出雄性激素/汗液的味道了\n\nhrt之后抱着然桑的衣服吸的时候闻到了一种以前没闻过的味道。\n我一直以为那是他的味道，到后面我才发现好像男性都是这个味。但是hrt之前从来没闻到过这种味道。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年4月SRS 攒钱中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28505,
+          "following_count": 1594,
+          "like_count": 3547,
+          "listed_count": 81,
+          "media_count": 496,
+          "tweet_count": 3181
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      }
+    ]
+  }
+}

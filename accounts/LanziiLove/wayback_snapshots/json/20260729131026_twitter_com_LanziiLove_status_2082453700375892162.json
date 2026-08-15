@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2082100831856517318",
+    "created_at": "2026-07-29T13:10:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T14:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082453700375892162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882099914886537220",
+          "start": 0,
+          "username": "kkaawaayii"
+        },
+        {
+          "end": 25,
+          "id": "1506577819886784514",
+          "start": 12,
+          "username": "LuLuLuShShSh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082453700375892162",
+    "in_reply_to_user_id": "1882099914886537220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082452739775184973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkaawaayii @LuLuLuShShSh 我至少我不觉得我会因为抑郁死去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2082100831856517318",
+        "created_at": "2026-07-29T13:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082453700375892162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882099914886537220",
+              "start": 0,
+              "username": "kkaawaayii"
+            },
+            {
+              "end": 25,
+              "id": "1506577819886784514",
+              "start": 12,
+              "username": "LuLuLuShShSh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082453700375892162",
+        "in_reply_to_user_id": "1882099914886537220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082452739775184973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkaawaayii @LuLuLuShShSh 我至少我不觉得我会因为抑郁死去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882099914886537220",
+        "conversation_id": "2082100831856517318",
+        "created_at": "2026-07-29T13:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082452739775184973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            },
+            {
+              "end": 25,
+              "id": "1506577819886784514",
+              "start": 12,
+              "username": "LuLuLuShShSh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082452739775184973",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082103373210538352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove @LuLuLuShShSh 可是抑郁想不碰就不碰吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年2月SRS｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 121,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 98,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29508,
+          "following_count": 1612,
+          "like_count": 3655,
+          "listed_count": 84,
+          "media_count": 503,
+          "tweet_count": 3253
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-22T16:16:26.000Z",
+        "description": "11岁的抑郁症，23岁才治好。03年丨深圳打工人丨169cm58kg丨12岁跳楼丨2026.5.4开药治焦虑抑郁丨5.18CPA丨6.7hrt丨想和MTF贴贴",
+        "id": "1882099914886537220",
+        "name": "剧中人🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067469478430912512/L2nGDei1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 99,
+          "like_count": 10033,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 980
+        },
+        "url": "",
+        "username": "kkaawaayii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-23T10:25:43.000Z",
+        "description": "Male Goblin born in 2000; LGBT friendly;\nArknights, Punishing Gray Raven, Pretty Derby, Majhong Soul, FGO.\nYou can chat with me about any game topic!",
+        "id": "1506577819886784514",
+        "name": "LuLuLu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999923087735951362/3uNl04jp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 338,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "LuLuLuShShSh",
+        "verified": false
+      }
+    ]
+  }
+}

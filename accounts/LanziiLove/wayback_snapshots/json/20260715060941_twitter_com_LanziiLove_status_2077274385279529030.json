@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2077274254408831398",
+    "created_at": "2026-07-15T06:09:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T07:09:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077274385279529030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1207289479498649600",
+          "start": 0,
+          "username": "TaiwanOuO0617"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077274385279529030",
+    "in_reply_to_user_id": "1207289479498649600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077274254408831398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TaiwanOuO0617 会有滴喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2077274254408831398",
+        "created_at": "2026-07-15T06:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077274385279529030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1207289479498649600",
+              "start": 0,
+              "username": "TaiwanOuO0617"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077274385279529030",
+        "in_reply_to_user_id": "1207289479498649600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077274254408831398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaiwanOuO0617 会有滴喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1207289479498649600",
+        "conversation_id": "2077274254408831398",
+        "created_at": "2026-07-15T06:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077274254408831398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LanziiLove/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/LanziiLove/status/2077268755722404168",
+              "start": 7,
+              "url": "https://t.co/9ONfSXKM2E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077274254408831398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077268755722404168",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也要偽音😭 https://t.co/9ONfSXKM2E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～本名杜澄溪 可以叫我小雫or澄溪 💕是女孩子！🏳️‍⚧️平时发发日常～ 纯绿清水主播 不要相信骗子哦 目前只营B站和X🏠这是我的男友然桑@dexy0306 我一生的挚爱🥰祝你生活愉快！10r慈善捐款可以加粉丝群～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2073328283287253117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27426,
+          "following_count": 1564,
+          "like_count": 3465,
+          "listed_count": 81,
+          "media_count": 486,
+          "tweet_count": 3119
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-18T13:20:29.000Z",
+        "description": "陰晴不定 鬱嬌地雷女 \n缺愛精神病 INFP 容貌焦慮MAX\n想變家長黨的家暴黨\n到底為什麼會自動退Fo別人\nHRT:2024/01/18、SRS:????/??/??\n🏳️‍⚧️一個人○○的小日子",
+        "id": "1207289479498649600",
+        "location": "高雄市, 台灣",
+        "name": "🍥ペイトン梓芮",
+        "pinned_tweet_id": "1926734576480555490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655335863042326528/MNcIipZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 2618,
+          "like_count": 67448,
+          "listed_count": 11,
+          "media_count": 436,
+          "tweet_count": 14941
+        },
+        "url": "",
+        "username": "TaiwanOuO0617",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2086795693361152260",
+    "created_at": "2026-08-10T12:43:58.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T13:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086795693361152260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lanziilove/sta…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/lanziilove/status/2086788597781610684",
+          "start": 70,
+          "url": "https://t.co/5i4cC7N60w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086795693361152260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086788597781610684",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "感觉像是会给你扣：\n{\n“哈基米音乐”=“虐猫娱乐化”,\n“大狗叫音乐”=“疫情娱乐化”,\n“曼巴牢大”=“死亡娱乐化”\n}\n帽子的那种人 https://t.co/5i4cC7N60w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1332,
+        "media_key": "3_2086788581666979840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXDKKOaAAAOoSZ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2086795693361152260",
+        "created_at": "2026-08-10T12:43:58.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086795693361152260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/lanziilove/status/2086788597781610684",
+              "start": 70,
+              "url": "https://t.co/5i4cC7N60w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086795693361152260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086788597781610684",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "感觉像是会给你扣：\n{\n“哈基米音乐”=“虐猫娱乐化”,\n“大狗叫音乐”=“疫情娱乐化”,\n“曼巴牢大”=“死亡娱乐化”\n}\n帽子的那种人 https://t.co/5i4cC7N60w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086788581666979840"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2086788597781610684",
+        "created_at": "2026-08-10T12:15:47.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086788597781610684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wXspGRMtZn",
+              "end": 68,
+              "expanded_url": "https://x.com/LanziiLove/status/2086788597781610684/photo/1",
+              "media_key": "3_2086788581666979840",
+              "start": 45,
+              "url": "https://t.co/wXspGRMtZn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086788597781610684",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086788581666979840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "首先不论你遭遇过什么我都深表抱歉，同时我从来没有任何觉得“扭转治疗”是值得开玩笑的事情。\n但是我只看到了一个人非要把我和我男友之间开的小玩笑化出的一个单纯玩笑梗扣上一个“拿扭转治疗的苦难开玩笑”的帽子，然后在自己阅读能力不过关的同时说我认为“雄性性欲”=“不专一”，我不知道是不是你们那里并没有顿号这个标点符号导致你产生了这种误解，然后使您如此大张旗鼓地把我的玩笑化扣个高帽子然后挂出来🤯\n\n如果您还看不懂的话，还请您把此语境下的HRT和SRS变成“剁吊”理解。我猜你应该是没有见过大量的不专一的男性是什么样貌的。但是一旦变成雌激素和SRS了在您眼里就变成了拿苦难开玩笑了🤯您那“雄性性欲等于不专一”和“雌性性欲=专一”的神人言论我更是难以置信您是从哪里臆想出来的\n\n光是一个这种玩笑贴能被上升到这么高的程度给我扣个这么高的帽子，我要是发点真的爆的言论，给我扣个多大的帽子我都不敢想🤯\n\n宝宝我建议您还是少用这种思维看人看事，否则我只觉得你的认知配的上你的苦难"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 746,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "首先不论你遭遇过什么我都深表抱歉，同时我从来没有任何觉得“扭转治疗”是值得开玩笑的事情。 https://t.co/wXspGRMtZn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜MtF 跨直女🏳️‍⚧️20岁纯情恋爱脑小女孩｜我的永生挚爱男友@Dexy0306❤️目标是25岁时结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 135,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 112,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2086795693361152260",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29718,
+          "following_count": 1619,
+          "like_count": 3681,
+          "listed_count": 86,
+          "media_count": 515,
+          "tweet_count": 3318
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

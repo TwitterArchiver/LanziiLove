@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079390997277237248"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2079391005846155712",
+    "created_at": "2026-07-21T02:20:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T03:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079391005846155712"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bmORqbqv0a",
+          "end": 304,
+          "expanded_url": "https://x.com/LanziiLove/status/2079391005846155712/photo/1",
+          "media_key": "3_2079390997277237248",
+          "start": 281,
+          "url": "https://t.co/bmORqbqv0a"
+        },
+        {
+          "display_url": "x.com/lanziilove/sta…",
+          "end": 328,
+          "expanded_url": "https://twitter.com/lanziilove/status/2078775488861081898",
+          "start": 305,
+          "url": "https://t.co/oOEBbC7otC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079391005846155712",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "I’ve noticed a post discussing about girlmoding and surgery lately. I wont give any opinion on which is right and which is not. But for me girlmoding and surgery have different meaning for each person. For example, for me, who lives in China, the SRS(Genitals) means most to me as it’s the only way for me to be identified as a biological female by law and acquire a female identity. And that means only through this could I marry my boyfriend and go to female spaces like bathroom and changing room. But for someone else surgeries like ffs and voice surgeries may do more help. This all depends on individual. As we are all in different conditions so what makes YOU relaxed and comfortable most is the most important thing. No matter it’s hrt, ffs or srs. Just choose the ones that make you happy and then that’s enough.\nBe happy girls :) that’s more important than anything."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078775488861081898",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "I’ve noticed a post discussing about girlmoding and surgery lately. I wont give any opinion on which is right and which is not. But for me girlmoding and surgery have different meaning for each person. For example, for me, who lives in China, the SRS(Genitals) means most to me as https://t.co/bmORqbqv0a https://t.co/oOEBbC7otC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079390997277237248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNt7GE3a4AAnEDa.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078775479960739841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlLSQLaIAEQqim.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078775479897919488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlLSP8bkAABoMq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079390997277237248"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2079391005846155712",
+        "created_at": "2026-07-21T02:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079391005846155712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bmORqbqv0a",
+              "end": 304,
+              "expanded_url": "https://x.com/LanziiLove/status/2079391005846155712/photo/1",
+              "media_key": "3_2079390997277237248",
+              "start": 281,
+              "url": "https://t.co/bmORqbqv0a"
+            },
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 328,
+              "expanded_url": "https://twitter.com/lanziilove/status/2078775488861081898",
+              "start": 305,
+              "url": "https://t.co/oOEBbC7otC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079391005846155712",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "I’ve noticed a post discussing about girlmoding and surgery lately. I wont give any opinion on which is right and which is not. But for me girlmoding and surgery have different meaning for each person. For example, for me, who lives in China, the SRS(Genitals) means most to me as it’s the only way for me to be identified as a biological female by law and acquire a female identity. And that means only through this could I marry my boyfriend and go to female spaces like bathroom and changing room. But for someone else surgeries like ffs and voice surgeries may do more help. This all depends on individual. As we are all in different conditions so what makes YOU relaxed and comfortable most is the most important thing. No matter it’s hrt, ffs or srs. Just choose the ones that make you happy and then that’s enough.\nBe happy girls :) that’s more important than anything."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078775488861081898",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "I’ve noticed a post discussing about girlmoding and surgery lately. I wont give any opinion on which is right and which is not. But for me girlmoding and surgery have different meaning for each person. For example, for me, who lives in China, the SRS(Genitals) means most to me as https://t.co/bmORqbqv0a https://t.co/oOEBbC7otC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078775479960739841",
+            "3_2078775479897919488"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2078775488861081898",
+        "created_at": "2026-07-19T09:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078775488861081898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4w9ern9HZX",
+              "end": 118,
+              "expanded_url": "https://x.com/LanziiLove/status/2078775488861081898/photo/1",
+              "media_key": "3_2078775479960739841",
+              "start": 95,
+              "url": "https://t.co/4w9ern9HZX"
+            },
+            {
+              "display_url": "pic.x.com/4w9ern9HZX",
+              "end": 118,
+              "expanded_url": "https://x.com/LanziiLove/status/2078775488861081898/photo/1",
+              "media_key": "3_2078775479897919488",
+              "start": 95,
+              "url": "https://t.co/4w9ern9HZX"
+            },
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/lanziilove/status/2078733231462228407",
+              "start": 119,
+              "url": "https://t.co/d7aWdzQcA5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078775488861081898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 320,
+          "impression_count": 200649,
+          "like_count": 1535,
+          "quote_count": 6,
+          "reply_count": 44,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078733231462228407",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天游得很开心 第一次穿着泳衣在外面游泳 还被分配了女柜钥匙（不过因为还没术所以没进去 是让妈妈帮我存的）\n这整段时间的rle真的让我从抑郁中有一次找到了活着的感觉\n这才是我本该活成的模样 https://t.co/4w9ern9HZX https://t.co/d7aWdzQcA5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年4月SRS 攒钱中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28866,
+          "following_count": 1593,
+          "like_count": 3550,
+          "listed_count": 81,
+          "media_count": 497,
+          "tweet_count": 3183
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      }
+    ]
+  }
+}

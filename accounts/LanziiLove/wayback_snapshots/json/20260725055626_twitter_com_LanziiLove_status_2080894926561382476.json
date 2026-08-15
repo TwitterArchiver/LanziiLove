@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2080615530428617091",
+    "created_at": "2026-07-25T05:56:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080894926561382476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1637472306237956096",
+          "start": 0,
+          "username": "senluo_photo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080894926561382476",
+    "in_reply_to_user_id": "1637472306237956096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080893641703272561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@senluo_photo 谢谢www❤️(&gt;^ω^&lt;)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2080615530428617091",
+        "created_at": "2026-07-25T05:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080894926561382476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1637472306237956096",
+              "start": 0,
+              "username": "senluo_photo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080894926561382476",
+        "in_reply_to_user_id": "1637472306237956096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080893641703272561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@senluo_photo 谢谢www❤️(&gt;^ω^&lt;)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637472306237956096",
+        "conversation_id": "2080615530428617091",
+        "created_at": "2026-07-25T05:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080893641703272561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080893641703272561",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080615530428617091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove 又可爱手艺又这么好😭羡慕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向主播｜MtF 跨直女🏳️‍⚧️｜我的永生挚爱男友@Dexy0306❤️｜欢迎同类找我回fo｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT 计划预约27年2月SRS｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 121,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 98,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29263,
+          "following_count": 1600,
+          "like_count": 3575,
+          "listed_count": 82,
+          "media_count": 501,
+          "tweet_count": 3205
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-19T15:13:25.000Z",
+        "description": "相信生活值得被记录，也在努力成为更酷的自己！\n不主动私信任何人！！！",
+        "id": "1637472306237956096",
+        "name": "糯米团子🍡",
+        "pinned_tweet_id": "2080538897415606444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080845978442031104/qlIQzEBr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11894,
+          "following_count": 290,
+          "like_count": 592,
+          "listed_count": 19,
+          "media_count": 47,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "senluo_photo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087398059370270720",
+        "3_2087398059655487489"
+      ],
+      "media_source_tweet_id": [
+        "2087398089124655262",
+        "2087398089124655262"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2087398186717745577",
+    "created_at": "2026-08-12T04:38:04.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T05:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087398186717745577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915622690653954048",
+          "start": 3,
+          "username": "dexy0306"
+        },
+        {
+          "end": 36,
+          "id": "1510447851507261445",
+          "start": 25,
+          "username": "LanziiLove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jvoB44oI7V",
+          "end": 60,
+          "expanded_url": "https://x.com/dexy0306/status/2087398089124655262/photo/1",
+          "media_key": "3_2087398059370270720",
+          "start": 37,
+          "url": "https://t.co/jvoB44oI7V"
+        },
+        {
+          "display_url": "pic.x.com/jvoB44oI7V",
+          "end": 60,
+          "expanded_url": "https://x.com/dexy0306/status/2087398089124655262/photo/1",
+          "media_key": "3_2087398059655487489",
+          "start": 37,
+          "url": "https://t.co/jvoB44oI7V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087398186717745577",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087398059370270720"
+      },
+      {
+        "media_key": "3_2087398059655487489"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087398089124655262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dexy0306: 我说我是天才有没有懂的@LanziiLove https://t.co/jvoB44oI7V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_2087398059370270720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPftebma0AAsc-D.jpg",
+        "width": 383
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087398059655487489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPftecqa4AEAYeq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087398059370270720",
+            "3_2087398059655487489"
+          ]
+        },
+        "author_id": "1915622690653954048",
+        "conversation_id": "2087398089124655262",
+        "created_at": "2026-08-12T04:37:41.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087398089124655262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1510447851507261445",
+              "start": 11,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jvoB44oI7V",
+              "end": 46,
+              "expanded_url": "https://x.com/dexy0306/status/2087398089124655262/photo/1",
+              "media_key": "3_2087398059370270720",
+              "start": 23,
+              "url": "https://t.co/jvoB44oI7V"
+            },
+            {
+              "display_url": "pic.x.com/jvoB44oI7V",
+              "end": 46,
+              "expanded_url": "https://x.com/dexy0306/status/2087398089124655262/photo/1",
+              "media_key": "3_2087398059655487489",
+              "start": 23,
+              "url": "https://t.co/jvoB44oI7V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087398089124655262",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087398059370270720"
+          },
+          {
+            "media_key": "3_2087398059655487489"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我说我是天才有没有懂的@LanziiLove https://t.co/jvoB44oI7V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087398059370270720",
+            "3_2087398059655487489"
+          ],
+          "media_source_tweet_id": [
+            "2087398089124655262",
+            "2087398089124655262"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2087398186717745577",
+        "created_at": "2026-08-12T04:38:04.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087398186717745577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915622690653954048",
+              "start": 3,
+              "username": "dexy0306"
+            },
+            {
+              "end": 36,
+              "id": "1510447851507261445",
+              "start": 25,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jvoB44oI7V",
+              "end": 60,
+              "expanded_url": "https://x.com/dexy0306/status/2087398089124655262/photo/1",
+              "media_key": "3_2087398059370270720",
+              "start": 37,
+              "url": "https://t.co/jvoB44oI7V"
+            },
+            {
+              "display_url": "pic.x.com/jvoB44oI7V",
+              "end": 60,
+              "expanded_url": "https://x.com/dexy0306/status/2087398089124655262/photo/1",
+              "media_key": "3_2087398059655487489",
+              "start": 37,
+              "url": "https://t.co/jvoB44oI7V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087398186717745577",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087398059370270720"
+          },
+          {
+            "media_key": "3_2087398059655487489"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087398089124655262",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dexy0306: 我说我是天才有没有懂的@LanziiLove https://t.co/jvoB44oI7V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜MtF 跨直女🏳️‍⚧️20岁纯情恋爱脑小女孩｜我的永生挚爱男友@dexy0306❤️目标是25岁时结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 135,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 112,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2087398186717745577",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29859,
+          "following_count": 1616,
+          "like_count": 3717,
+          "listed_count": 87,
+          "media_count": 522,
+          "tweet_count": 3375
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "is_identity_verified": false,
+        "location": "小雫的心里",
+        "most_recent_tweet_id": "2087398089124655262",
+        "name": "Dexy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1915622690653954048/1745556774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058966578692300800/PhRHdgfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 9,
+          "like_count": 379,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 107
+        },
+        "url": "",
+        "username": "dexy0306",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

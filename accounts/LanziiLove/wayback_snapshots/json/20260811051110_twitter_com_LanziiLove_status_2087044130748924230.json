@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2087035974664827082",
+    "created_at": "2026-08-11T05:11:10.000Z",
+    "display_text_range": [
+      12,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T06:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087044130748924230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1681716872415440896",
+          "start": 0,
+          "username": "Ajs_ririka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087044130748924230",
+    "in_reply_to_user_id": "1681716872415440896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087040952829616446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Ajs_ririka 谢谢！❤️\n也祝你未来一切顺利哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2087035974664827082",
+        "created_at": "2026-08-11T05:11:10.000Z",
+        "display_text_range": [
+          12,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087044130748924230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1681716872415440896",
+              "start": 0,
+              "username": "Ajs_ririka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087044130748924230",
+        "in_reply_to_user_id": "1681716872415440896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087040952829616446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ajs_ririka 谢谢！❤️\n也祝你未来一切顺利哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681716872415440896",
+        "conversation_id": "2087035974664827082",
+        "created_at": "2026-08-11T04:58:33.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087040952829616446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087040952829616446",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087035974664827082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove 祝你幸福…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜MtF 跨直女🏳️‍⚧️20岁纯情恋爱脑小女孩｜我的永生挚爱男友@dexy0306❤️目标是25岁时结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 135,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 112,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2087044130748924230",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29797,
+          "following_count": 1618,
+          "like_count": 3694,
+          "listed_count": 87,
+          "media_count": 517,
+          "tweet_count": 3337
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-19T17:25:30.000Z",
+        "description": "遗憾总是贯穿人生始终/逃生舱@Ajs_aya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "Ajs_aya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ajisairirika",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ajisairirika",
+                "start": 0,
+                "url": "https://t.co/ojeLWGdAIM"
+              }
+            ]
+          }
+        },
+        "id": "1681716872415440896",
+        "is_identity_verified": false,
+        "location": "精神世界",
+        "most_recent_tweet_id": "2087040952829616446",
+        "name": "Ririka",
+        "pinned_tweet_id": "2032472045599244684",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1681716872415440896/1763025470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085697171576549376/2dwx28N3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 1260,
+          "like_count": 33250,
+          "listed_count": 2,
+          "media_count": 962,
+          "tweet_count": 20916
+        },
+        "url": "https://t.co/ojeLWGdAIM",
+        "username": "Ajs_ririka",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
