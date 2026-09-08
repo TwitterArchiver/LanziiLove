@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2094372382471512363",
+    "created_at": "2026-08-31T11:41:15.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T12:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094390055762845851"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2094390055762845851",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094372382471512363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "传本人话：\n\n“我只是一个比较奇怪的顺直男而已”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2094372382471512363",
+        "created_at": "2026-08-31T11:41:15.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T12:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094390055762845851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094390055762845851",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094372382471512363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "传本人话：\n\n“我只是一个比较奇怪的顺直男而已”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2094372382471512363",
+        "created_at": "2026-08-31T10:31:02.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094372382471512363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094372382471512363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2212,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我男友：\n\n我去，那以后——\n你的女证和我的男证结婚\n我的女证和你的男证结婚\n我们就贡献了双倍的结婚率\n成为了四口之家\n\n我：？🤔😧😨🤯"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向 无门槛无黄无业务｜我的未来的丈夫然桑@dexy0306❤️｜常驻成都 大三计科摆烂老登｜高P不pass丑逼 ｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 92,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 69,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2094390055762845851",
+        "name": "雫丶Shizuku✨DUCEXY",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30513,
+          "following_count": 1630,
+          "like_count": 3877,
+          "listed_count": 88,
+          "media_count": 542,
+          "tweet_count": 3475
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2087974190444163174",
+    "created_at": "2026-08-13T19:09:42.000Z",
+    "display_text_range": [
+      15,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T20:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087979929560637481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573704119516176384",
+          "start": 0,
+          "username": "SnozakiSakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087979929560637481",
+    "in_reply_to_user_id": "1573704119516176384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087975885374898626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@SnozakiSakura 好消息啥，我被单取了回b给我挂出来一起骂我，笑死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2087975878693421056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPn6_8UbAAAFXoy.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2087974190444163174",
+        "created_at": "2026-08-13T19:09:42.000Z",
+        "display_text_range": [
+          15,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T20:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087979929560637481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573704119516176384",
+              "start": 0,
+              "username": "SnozakiSakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087979929560637481",
+        "in_reply_to_user_id": "1573704119516176384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087975885374898626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@SnozakiSakura 好消息啥，我被单取了回b给我挂出来一起骂我，笑死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087975878693421056"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2087974190444163174",
+        "created_at": "2026-08-13T18:53:38.000Z",
+        "display_text_range": [
+          12,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087975885374898626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hiUcunktw0",
+              "end": 90,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2087975885374898626/photo/1",
+              "media_key": "3_2087975878693421056",
+              "start": 67,
+              "url": "https://t.co/hiUcunktw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087975885374898626",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087975878693421056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087974190444163174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove 这算一个好消息吗？我的codex额度用光了，宝可以让它重写一下试试，或者等我下周额度回复试着复活一下这个插件 https://t.co/hiUcunktw0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜MtF 跨直女🏳️‍⚧️20岁纯情恋爱脑小女孩｜我的永生挚爱男友然桑@dexy0306❤️目标是25岁时和他结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 139,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 116,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2087979929560637481",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2087977079400996952",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30166,
+          "following_count": 1630,
+          "like_count": 3749,
+          "listed_count": 86,
+          "media_count": 527,
+          "tweet_count": 3421
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "is_identity_verified": true,
+        "location": "魔女岛",
+        "most_recent_tweet_id": "2087975885374898626",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2076297327455981834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573704119516176384/1664107354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98251,
+          "following_count": 2592,
+          "like_count": 8055,
+          "listed_count": 207,
+          "media_count": 931,
+          "tweet_count": 4822
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

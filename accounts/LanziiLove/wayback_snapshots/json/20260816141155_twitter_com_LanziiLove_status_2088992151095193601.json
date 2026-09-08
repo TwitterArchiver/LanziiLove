@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2088990700402831416",
+    "created_at": "2026-08-16T14:11:55.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T15:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088992151095193601"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088992151095193601",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088990700402831416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "酸味都溢出了不觉得自己好笑吗🤥你们叫清真是因为你们都是bmi 30+的猪头肉吗，其实能想象到那种腊肉肤色挤压无关一头头油经典药娘头的长相，长得像他妈一坨烂肉还天天穿这样那样的衣服装女的，自己看了笑不笑吧🤣我说实话我要真长你们那吊样我早tm重开了，你爸妈真是饥不择食啊，能生出这种基因的野狗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2088990700402831416",
+        "created_at": "2026-08-16T14:11:55.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088992151095193601"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088992151095193601",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088990700402831416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "酸味都溢出了不觉得自己好笑吗🤥你们叫清真是因为你们都是bmi 30+的猪头肉吗，其实能想象到那种腊肉肤色挤压无关一头头油经典药娘头的长相，长得像他妈一坨烂肉还天天穿这样那样的衣服装女的，自己看了笑不笑吧🤣我说实话我要真长你们那吊样我早tm重开了，你爸妈真是饥不择食啊，能生出这种基因的野狗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2088990700402831416",
+        "created_at": "2026-08-16T14:06:09.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088990700402831416"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088990700402831416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "清真那帮死吗烂爹的东西还又挂上了\n\n别默认所有人都跟你们长得像他妈潲水里泡的猪头肉一样，你P都P不出来我线下素颜的水平还叫上了😂我偶尔P两张高P真给你优越完了，没P的原图你是装瞎看不见吗。\n\n撒泡尿看看你自己 别急的哭出来"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜20岁纯情恋爱脑小女孩｜我的永生挚爱男友然桑@dexy0306❤️目标是25岁时和他结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 127,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 104,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2088992151095193601",
+        "name": "雫丶Shizuku✨DUCEXY",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30190,
+          "following_count": 1639,
+          "like_count": 3820,
+          "listed_count": 86,
+          "media_count": 533,
+          "tweet_count": 3452
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

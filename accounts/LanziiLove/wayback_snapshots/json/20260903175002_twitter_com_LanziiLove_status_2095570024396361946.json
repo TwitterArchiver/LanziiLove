@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2095476017225969768",
+    "created_at": "2026-09-03T17:50:02.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T18:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095570024396361946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1357977098963611648",
+          "start": 0,
+          "username": "iiTzTimmy_fake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095570024396361946",
+    "in_reply_to_user_id": "1357977098963611648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095477781023060133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@iiTzTimmy_fake 好久没练了🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2095476017225969768",
+        "created_at": "2026-09-03T17:50:02.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T18:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095570024396361946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1357977098963611648",
+              "start": 0,
+              "username": "iiTzTimmy_fake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095570024396361946",
+        "in_reply_to_user_id": "1357977098963611648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095477781023060133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@iiTzTimmy_fake 好久没练了🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357977098963611648",
+        "conversation_id": "2095476017225969768",
+        "created_at": "2026-09-03T11:43:29.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T12:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095477781023060133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095477781023060133",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1167,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095476017225969768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove 听听伪音，老师"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向 无门槛无黄无业务｜我的未来的丈夫然桑@dexy0306❤️｜常驻成都 大三计科摆烂老登｜高P不pass丑逼 ｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 92,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 69,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2095570024396361946",
+        "name": "雫丶Shizuku✨DUCEXY",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30545,
+          "following_count": 1634,
+          "like_count": 3894,
+          "listed_count": 88,
+          "media_count": 542,
+          "tweet_count": 3484
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-06T08:59:16.000Z",
+        "description": "Apex Legends  Player🎮 master |  le♀ |  Aviation enthusiasts｜photographer📷｜Sony α6100",
+        "id": "1357977098963611648",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2095566025161134537",
+        "name": "iitz_sora✈",
+        "pinned_tweet_id": "2079770258752352395",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1357977098963611648/1718874652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076588179180912640/XweR79BW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15367,
+          "following_count": 1771,
+          "like_count": 6962,
+          "listed_count": 35,
+          "media_count": 1427,
+          "tweet_count": 11104
+        },
+        "url": "",
+        "username": "iiTzTimmy_fake",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

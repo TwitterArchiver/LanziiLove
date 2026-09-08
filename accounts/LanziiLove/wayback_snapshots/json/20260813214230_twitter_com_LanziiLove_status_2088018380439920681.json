@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2088018380439920681",
+    "created_at": "2026-08-13T21:42:30.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T22:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088018380439920681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1510447851507261445",
+          "start": 3,
+          "username": "LanziiLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088018380439920681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088010468912943438",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @LanziiLove: 我主动友好互动+fo结果热脸贴冷屁股被你们爹单取了，我屁都没放一个回了个block就要被挂，还对单取只字未提，然后就用了一张截图就被你们一群孝子在那意淫各种原因把我骂得比tyw还狠像是犯了天条，这就是活该你们部分人被歧视的原因💧到底谁是小团体?…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2088018380439920681",
+        "created_at": "2026-08-13T21:42:30.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T22:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088018380439920681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1510447851507261445",
+              "start": 3,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088018380439920681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088010468912943438",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @LanziiLove: 我主动友好互动+fo结果热脸贴冷屁股被你们爹单取了，我屁都没放一个回了个block就要被挂，还对单取只字未提，然后就用了一张截图就被你们一群孝子在那意淫各种原因把我骂得比tyw还狠像是犯了天条，这就是活该你们部分人被歧视的原因💧到底谁是小团体?…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2088010468912943438",
+        "created_at": "2026-08-13T21:11:03.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T22:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088010468912943438"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088010468912943438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 505,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "我主动友好互动+fo结果热脸贴冷屁股被你们爹单取了，我屁都没放一个回了个block就要被挂，还对单取只字未提，然后就用了一张截图就被你们一群孝子在那意淫各种原因把我骂得比tyw还狠像是犯了天条，这就是活该你们部分人被歧视的原因💧到底谁是小团体?\n\n祝你们这些清醒人冰清玉洁人生活愉快活久点再死🙏"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜20岁纯情恋爱脑小女孩｜我的永生挚爱男友然桑@dexy0306❤️目标是25岁时和他结婚｜常驻成都 某985大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 131,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 108,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2088018380439920681",
+        "name": "雫丶Shizuku✨杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30152,
+          "following_count": 1631,
+          "like_count": 3751,
+          "listed_count": 86,
+          "media_count": 524,
+          "tweet_count": 3425
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

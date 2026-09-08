@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2088492206202175658",
+    "created_at": "2026-08-15T05:08:07.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T06:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088492913785438434"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088492913785438434",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088492206202175658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "以前我还一直信誓旦旦地坚信，一定是正常人远多于神人的，只是神人声音大而已\n\n但现在我已经分不清到底是正常人还是神人更多了😆有些跨畜我看就是他吗批事比谁都多，融合了雌雄全部缺点的究极不男不女药罐子啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2088492206202175658",
+        "created_at": "2026-08-15T05:08:07.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088492913785438434"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088492913785438434",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088492206202175658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "以前我还一直信誓旦旦地坚信，一定是正常人远多于神人的，只是神人声音大而已\n\n但现在我已经分不清到底是正常人还是神人更多了😆有些跨畜我看就是他吗批事比谁都多，融合了雌雄全部缺点的究极不男不女药罐子啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2088492206202175658",
+        "created_at": "2026-08-15T05:05:18.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088492206202175658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088492206202175658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "*每次我想通过我较多粉丝数的B站号发的视频：\n《拒绝歧视和刻板印象！大部分跨性别都是想好好生活的好孩子，告诉你真实的跨性别生活是什么样的》\n*觉得就算被劳保骂也没关系，至少能被一部分人看到，出一份力\n\n*每次被你圈部分跨畜恶心后想法的视频：\n《哈哈！我们跨畜是这样的！》\n😆跨的尽头是反跨"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜20岁纯情恋爱脑小女孩｜我的永生挚爱男友然桑@dexy0306❤️目标是25岁时和他结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 127,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 104,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2088492913785438434",
+        "name": "雫丶Shizuku✨杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30178,
+          "following_count": 1640,
+          "like_count": 3796,
+          "listed_count": 86,
+          "media_count": 528,
+          "tweet_count": 3445
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095007769892171776"
+      ],
+      "media_source_tweet_id": [
+        "2095007778033311885"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2095008252086165986",
+    "created_at": "2026-09-02T04:37:45.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T05:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095008252086165986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915622690653954048",
+          "start": 3,
+          "username": "dexy0306"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yRTVMzoD6l",
+          "end": 47,
+          "expanded_url": "https://x.com/dexy0306/status/2095007778033311885/photo/1",
+          "media_key": "3_2095007769892171776",
+          "start": 24,
+          "url": "https://t.co/yRTVMzoD6l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095008252086165986",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095007769892171776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095007778033311885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dexy0306: 棋逢对手 ep.2 https://t.co/yRTVMzoD6l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_2095007769892171776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRL2d4YbMAA0-IY.jpg",
+        "width": 987
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095007769892171776"
+          ],
+          "media_source_tweet_id": [
+            "2095007778033311885"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095008252086165986",
+        "created_at": "2026-09-02T04:37:45.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095008252086165986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915622690653954048",
+              "start": 3,
+              "username": "dexy0306"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yRTVMzoD6l",
+              "end": 47,
+              "expanded_url": "https://x.com/dexy0306/status/2095007778033311885/photo/1",
+              "media_key": "3_2095007769892171776",
+              "start": 24,
+              "url": "https://t.co/yRTVMzoD6l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095008252086165986",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095007769892171776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095007778033311885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dexy0306: 棋逢对手 ep.2 https://t.co/yRTVMzoD6l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095007769892171776"
+          ]
+        },
+        "author_id": "1915622690653954048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095007778033311885",
+        "created_at": "2026-09-02T04:35:52.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095007778033311885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yRTVMzoD6l",
+              "end": 33,
+              "expanded_url": "https://x.com/dexy0306/status/2095007778033311885/photo/1",
+              "media_key": "3_2095007769892171776",
+              "start": 10,
+              "url": "https://t.co/yRTVMzoD6l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095007778033311885",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095007769892171776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "棋逢对手 ep.2 https://t.co/yRTVMzoD6l"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向 无门槛无黄无业务｜我的未来的丈夫然桑@dexy0306❤️｜常驻成都 大三计科摆烂老登｜高P不pass丑逼 ｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 92,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 69,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2095008252086165986",
+        "name": "雫丶Shizuku✨DUCEXY",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30536,
+          "following_count": 1632,
+          "like_count": 3881,
+          "listed_count": 88,
+          "media_count": 542,
+          "tweet_count": 3479
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "is_identity_verified": false,
+        "location": "小雫的心里",
+        "most_recent_tweet_id": "2095007778033311885",
+        "name": "Dexy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1915622690653954048/1745556774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087901715089838080/_V-Qqhsm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 10,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "dexy0306",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

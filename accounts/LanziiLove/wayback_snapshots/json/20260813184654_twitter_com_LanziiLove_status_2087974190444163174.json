@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087972685569798144"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2087974190444163174",
+    "created_at": "2026-08-13T18:46:54.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T19:40:57.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087972694566523391",
+      "2087974190444163174"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PkcnRGOSJv",
+          "end": 95,
+          "expanded_url": "https://x.com/LanziiLove/status/2087974190444163174/photo/1",
+          "media_key": "3_2087972685569798144",
+          "start": 72,
+          "url": "https://t.co/PkcnRGOSJv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087974190444163174",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087972685569798144"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "友好互动之后换来的是你的单取有人还叫上了🤣\n\n我不说是谁\n\n主动跟你友好互动互fo，自己单取了，被b不知道有啥好叫冤的\n\n好笑，反倒还挂上我了 https://t.co/PkcnRGOSJv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087972685569798144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPn4GFAbMAAc7Bc.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087972685569798144"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2087972694566523391",
+        "created_at": "2026-08-13T18:40:57.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:40:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087972694566523391",
+          "2087974190444163174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IPrfnM1upJ",
+              "end": 76,
+              "expanded_url": "https://x.com/LanziiLove/status/2087972694566523391/photo/1",
+              "media_key": "3_2087972685569798144",
+              "start": 53,
+              "url": "https://t.co/IPrfnM1upJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087972694566523391",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087972685569798144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "友好互动之后有人单取还叫上了🤣\n\n我不说是谁\n\n主动跟你友好互动还单取的，被b不知道有啥好叫冤的\n\n好笑 https://t.co/IPrfnM1upJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087972685569798144"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2087974190444163174",
+        "created_at": "2026-08-13T18:46:54.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:40:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087972694566523391",
+          "2087974190444163174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PkcnRGOSJv",
+              "end": 95,
+              "expanded_url": "https://x.com/LanziiLove/status/2087974190444163174/photo/1",
+              "media_key": "3_2087972685569798144",
+              "start": 72,
+              "url": "https://t.co/PkcnRGOSJv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087974190444163174",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087972685569798144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "友好互动之后换来的是你的单取有人还叫上了🤣\n\n我不说是谁\n\n主动跟你友好互动互fo，自己单取了，被b不知道有啥好叫冤的\n\n好笑，反倒还挂上我了 https://t.co/PkcnRGOSJv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜MtF 跨直女🏳️‍⚧️20岁纯情恋爱脑小女孩｜我的永生挚爱男友然桑@dexy0306❤️目标是25岁时和他结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 139,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 116,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2087974190444163174",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30163,
+          "following_count": 1630,
+          "like_count": 3749,
+          "listed_count": 86,
+          "media_count": 526,
+          "tweet_count": 3418
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

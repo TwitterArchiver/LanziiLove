@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088854886125576192"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2088854898104586260",
+    "created_at": "2026-08-16T05:06:31.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T06:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088854898104586260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O0yGvBgncC",
+          "end": 26,
+          "expanded_url": "https://x.com/LanziiLove/status/2088854898104586260/photo/1",
+          "media_key": "3_2088854886125576192",
+          "start": 3,
+          "url": "https://t.co/O0yGvBgncC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088854898104586260",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088854886125576192"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "服了 https://t.co/O0yGvBgncC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088854886125576192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0ac6LaoAAOCBj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088854886125576192"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2088854898104586260",
+        "created_at": "2026-08-16T05:06:31.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T06:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088854898104586260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O0yGvBgncC",
+              "end": 26,
+              "expanded_url": "https://x.com/LanziiLove/status/2088854898104586260/photo/1",
+              "media_key": "3_2088854886125576192",
+              "start": 3,
+              "url": "https://t.co/O0yGvBgncC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088854898104586260",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088854886125576192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "服了 https://t.co/O0yGvBgncC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜20岁纯情恋爱脑小女孩｜我的永生挚爱男友然桑@dexy0306❤️目标是25岁时和他结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 127,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 104,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2088854898104586260",
+        "name": "雫丶Shizuku✨DUCEXY",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30204,
+          "following_count": 1642,
+          "like_count": 3813,
+          "listed_count": 86,
+          "media_count": 533,
+          "tweet_count": 3449
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2088428746747584656",
+    "created_at": "2026-08-15T00:58:30.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T01:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088430093505020304"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088430093505020304",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088428746747584656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "我是跨是因为我既可以是个成功的男的也可以是个成功的女的。而你圈*某些人**某些人*是跨是因为不管你当男的还是当女的都是一个一无是处的废物跨出😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2088428746747584656",
+        "created_at": "2026-08-15T00:58:30.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T01:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088430093505020304"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088430093505020304",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088428746747584656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "我是跨是因为我既可以是个成功的男的也可以是个成功的女的。而你圈*某些人**某些人*是跨是因为不管你当男的还是当女的都是一个一无是处的废物跨出😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2088428746747584656",
+        "created_at": "2026-08-15T00:53:09.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T01:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088428746747584656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yunthought5744…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/yunthought57441/status/2088397771623792709",
+              "start": 133,
+              "url": "https://t.co/NnI3hiykOZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088428746747584656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "评论区里那些野狗会仅仅因为你的高考成绩高而给你扣上一个做题区的帽子，却没有一条也中认识到它们不论是高考成绩、兴趣爱好、恋爱交友、现充活动、家庭关系、人生规划还是经济条件没有一个比得上我😆对这种认知和智力水平的人来说，以它的逻辑全世界99%的人都是做题区 可悲又好笑 我只看到了一群酸到极致的野狗在它们野爹的评论区抱团群暖，饱饱你们真是一群死吗烂爹的丑男人啊😆"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088397771623792709",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "评论区里那些野狗会仅仅因为你的高考成绩高而给你扣上一个做题区的帽子，却没有一条也中认识到它们不论是高考成绩、兴趣爱好、恋爱交友、现充活动、家庭关系、人生规划还是经济条件没有一个比得上我😆对这种认知和智力水平的人来说，以它的逻辑全世界99%的人都是做题区 可悲又好笑 https://t.co/NnI3hiykOZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜20岁纯情恋爱脑小女孩｜我的永生挚爱男友然桑@dexy0306❤️目标是25岁时和他结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 127,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 104,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2088430093505020304",
+        "name": "雫丶Shizuku✨杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30184,
+          "following_count": 1640,
+          "like_count": 3783,
+          "listed_count": 86,
+          "media_count": 526,
+          "tweet_count": 3433
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

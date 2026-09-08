@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2088013131679408528",
+    "created_at": "2026-08-13T21:21:38.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T22:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088013131679408528"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lanziilove/sta…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/lanziilove/status/2088010468912943438",
+          "start": 145,
+          "url": "https://t.co/un2yd8xDBl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088013131679408528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088010468912943438",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "所以说贵圈是真牛逼\n\n唐➗这种死吗烂爹事情干完了的纯坏种说了两句好话就被你们说成温柔善良的人\n\n我被你们孝敬的爹单取了，点了个block就能被你们追着骂几层楼💧不知道的以为我干了多罪大恶极的事啊\n\n找不到骂我的理由还直接开办帽子工厂，开始意淫我小团体意淫我嫉妒意淫我这样那样了。\n\n牛逼👍 https://t.co/un2yd8xDBl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2088013131679408528",
+        "created_at": "2026-08-13T21:21:38.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T22:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088013131679408528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/lanziilove/status/2088010468912943438",
+              "start": 145,
+              "url": "https://t.co/un2yd8xDBl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088013131679408528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088010468912943438",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "所以说贵圈是真牛逼\n\n唐➗这种死吗烂爹事情干完了的纯坏种说了两句好话就被你们说成温柔善良的人\n\n我被你们孝敬的爹单取了，点了个block就能被你们追着骂几层楼💧不知道的以为我干了多罪大恶极的事啊\n\n找不到骂我的理由还直接开办帽子工厂，开始意淫我小团体意淫我嫉妒意淫我这样那样了。\n\n牛逼👍 https://t.co/un2yd8xDBl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2088010468912943438",
+        "created_at": "2026-08-13T21:11:03.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T22:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088010468912943438"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088010468912943438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我主动友好互动+fo结果热脸贴冷屁股被你们爹单取了，我屁都没放一个回了个block就要被挂，还对单取只字未提，然后就用了一张截图就被你们一群孝子在那意淫各种原因把我骂得比tyw还狠像是犯了天条，这就是活该你们部分人被歧视的原因💧到底谁是小团体?\n\n祝你们这些清醒人冰清玉洁人生活愉快活久点再死🙏"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜20岁纯情恋爱脑小女孩｜我的永生挚爱男友然桑@dexy0306❤️目标是25岁时和他结婚｜常驻成都 某985大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 131,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 108,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2088013131679408528",
+        "name": "雫丶Shizuku✨杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30156,
+          "following_count": 1631,
+          "like_count": 3751,
+          "listed_count": 86,
+          "media_count": 524,
+          "tweet_count": 3423
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

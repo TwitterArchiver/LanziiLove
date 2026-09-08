@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088563746591645696",
+        "3_2088563746579136512"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2088563756116967847",
+    "created_at": "2026-08-15T09:49:37.000Z",
+    "display_text_range": [
+      0,
+      119
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T10:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088563756116967847"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eOimQt4x9A",
+          "end": 143,
+          "expanded_url": "https://x.com/LanziiLove/status/2088563756116967847/photo/1",
+          "media_key": "3_2088563746591645696",
+          "start": 120,
+          "url": "https://t.co/eOimQt4x9A"
+        },
+        {
+          "display_url": "pic.x.com/eOimQt4x9A",
+          "end": 143,
+          "expanded_url": "https://x.com/LanziiLove/status/2088563756116967847/photo/1",
+          "media_key": "3_2088563746579136512",
+          "start": 120,
+          "url": "https://t.co/eOimQt4x9A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088563756116967847",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088563746591645696"
+      },
+      {
+        "media_key": "3_2088563746579136512"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "嘿嘿ww\n明天男友就到成都来陪我了🥺后面还会一起过七夕！！！\n准备把他接到我家里来陪我住一晚上嘿嘿～\n所以打算做一顿丰盛的晚饭给我家老公吃！然后在家里一起睡觉～\n雫大厨明晚上演胡闹厨房（bushi\n嘿嘿，今天已经在开始准备神秘菜肴之一啦～ https://t.co/eOimQt4x9A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088563746591645696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwRqW5aoAAj317.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088563746579136512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwRqW2bwAAUuKA.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088563746591645696",
+            "3_2088563746579136512"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088563756116967847",
+        "created_at": "2026-08-15T09:49:37.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088563756116967847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eOimQt4x9A",
+              "end": 143,
+              "expanded_url": "https://x.com/LanziiLove/status/2088563756116967847/photo/1",
+              "media_key": "3_2088563746591645696",
+              "start": 120,
+              "url": "https://t.co/eOimQt4x9A"
+            },
+            {
+              "display_url": "pic.x.com/eOimQt4x9A",
+              "end": 143,
+              "expanded_url": "https://x.com/LanziiLove/status/2088563756116967847/photo/1",
+              "media_key": "3_2088563746579136512",
+              "start": 120,
+              "url": "https://t.co/eOimQt4x9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088563756116967847",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088563746591645696"
+          },
+          {
+            "media_key": "3_2088563746579136512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "嘿嘿ww\n明天男友就到成都来陪我了🥺后面还会一起过七夕！！！\n准备把他接到我家里来陪我住一晚上嘿嘿～\n所以打算做一顿丰盛的晚饭给我家老公吃！然后在家里一起睡觉～\n雫大厨明晚上演胡闹厨房（bushi\n嘿嘿，今天已经在开始准备神秘菜肴之一啦～ https://t.co/eOimQt4x9A"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜20岁纯情恋爱脑小女孩｜我的永生挚爱男友然桑@dexy0306❤️目标是25岁时和他结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 127,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 104,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2088563756116967847",
+        "name": "雫丶Shizuku✨杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30193,
+          "following_count": 1642,
+          "like_count": 3800,
+          "listed_count": 86,
+          "media_count": 529,
+          "tweet_count": 3436
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

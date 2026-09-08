@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2095213574545453140",
+    "created_at": "2026-09-02T18:13:38.000Z",
+    "display_text_range": [
+      0,
+      142
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T19:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095213574545453140"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lanziilove/sta…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/lanziilove/status/2054596407458496722",
+          "start": 143,
+          "url": "https://t.co/mwxjdVQLZv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095213574545453140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054596407458496722",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "不🀄️了不🀄️了因为转氨酶爆了饿死了我要吃牛油火锅串串香回锅肉蹄花冒烤鸭子姜烧鸭麻辣烤鱼肥肠粉酸辣羊血羊肉汤重庆小面冰粉冰豆花火锅兔火锅鱼红糖糍粑糖油果子麻辣兔头麻辣兔腿鲜椒兔冷吃兔卤鸭头卤鸡翅尖辣子鸡毛血旺烤匠芭夯兔绵阳米粉酸辣粉大碗面担担面李庄白肉豆花饭蛋烘糕加上一瓶冰镇唯怡豆奶 https://t.co/mwxjdVQLZv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2095213574545453140",
+        "created_at": "2026-09-02T18:13:38.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T19:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095213574545453140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/lanziilove/status/2054596407458496722",
+              "start": 143,
+              "url": "https://t.co/mwxjdVQLZv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095213574545453140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054596407458496722",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "不🀄️了不🀄️了因为转氨酶爆了饿死了我要吃牛油火锅串串香回锅肉蹄花冒烤鸭子姜烧鸭麻辣烤鱼肥肠粉酸辣羊血羊肉汤重庆小面冰粉冰豆花火锅兔火锅鱼红糖糍粑糖油果子麻辣兔头麻辣兔腿鲜椒兔冷吃兔卤鸭头卤鸡翅尖辣子鸡毛血旺烤匠芭夯兔绵阳米粉酸辣粉大碗面担担面李庄白肉豆花饭蛋烘糕加上一瓶冰镇唯怡豆奶 https://t.co/mwxjdVQLZv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2054596407458496722",
+        "created_at": "2026-05-13T16:15:30.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054596407458496722"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054596407458496722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11205,
+          "like_count": 92,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不🀄️了不🀄️了为了空腹抽饿血饿死了我要吃牛油火锅串串香回锅肉蹄花冒烤鸭子姜烧鸭麻辣烤鱼肥肠粉酸辣羊血羊肉汤重庆小面冰粉冰豆花火锅兔火锅鱼红糖糍粑糖油果子麻辣兔头麻辣兔腿鲜椒兔冷吃兔卤鸭头卤鸡翅尖辣子鸡毛血旺烤匠芭夯兔绵阳米粉酸辣粉大碗面担担面李庄白肉豆花饭蛋烘糕加上一瓶冰镇唯怡豆奶"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向 无门槛无黄无业务｜我的未来的丈夫然桑@dexy0306❤️｜常驻成都 大三计科摆烂老登｜高P不pass丑逼 ｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 92,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 69,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2095213574545453140",
+        "name": "雫丶Shizuku✨DUCEXY",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30531,
+          "following_count": 1632,
+          "like_count": 3886,
+          "listed_count": 88,
+          "media_count": 542,
+          "tweet_count": 3480
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
