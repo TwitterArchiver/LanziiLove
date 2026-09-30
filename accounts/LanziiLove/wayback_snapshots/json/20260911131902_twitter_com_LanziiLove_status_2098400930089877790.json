@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098400922955329536"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2098400930089877790",
+    "created_at": "2026-09-11T13:19:02.000Z",
+    "display_text_range": [
+      0,
+      156
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T14:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098400930089877790"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jNnrdsdcXz",
+          "end": 180,
+          "expanded_url": "https://x.com/LanziiLove/status/2098400930089877790/photo/1",
+          "media_key": "3_2098400922955329536",
+          "start": 157,
+          "url": "https://t.co/jNnrdsdcXz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098400930089877790",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098400922955329536"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "因为有很多推友私信问我很多很多HRT和SRS相关的问题，所以想着可以建一个交流群在里面回答这些内容\n这个群主要用来聊天、交流和互助，hrt、rle和srs这些相关的东西，也可以用来同类交友。\n然后mtf、ftm、非二元等只要是性别认同相关的少数群体都可以加，谢绝顺性别，发现了会踢出。\nqq：1124701458 https://t.co/jNnrdsdcXz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098400922955329536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8EhYkasAA2e4m.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098400922955329536"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2098400930089877790",
+        "created_at": "2026-09-11T13:19:02.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T14:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098400930089877790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jNnrdsdcXz",
+              "end": 180,
+              "expanded_url": "https://x.com/LanziiLove/status/2098400930089877790/photo/1",
+              "media_key": "3_2098400922955329536",
+              "start": 157,
+              "url": "https://t.co/jNnrdsdcXz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098400930089877790",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098400922955329536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "因为有很多推友私信问我很多很多HRT和SRS相关的问题，所以想着可以建一个交流群在里面回答这些内容\n这个群主要用来聊天、交流和互助，hrt、rle和srs这些相关的东西，也可以用来同类交友。\n然后mtf、ftm、非二元等只要是性别认同相关的少数群体都可以加，谢绝顺性别，发现了会踢出。\nqq：1124701458 https://t.co/jNnrdsdcXz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向 无门槛无黄无业务｜我的未来的丈夫然桑@dexy0306❤️｜高P不pass丑逼 ｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 78,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 55,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2098400930089877790",
+        "name": "雫丶Shizuku✨DUCEXY",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30649,
+          "following_count": 1637,
+          "like_count": 3940,
+          "listed_count": 89,
+          "media_count": 547,
+          "tweet_count": 3519
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2104435159596716177",
+    "created_at": "2026-09-28T13:43:55.000Z",
+    "display_text_range": [
+      14,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T14:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104567786098090035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1843881413407653888",
+          "start": 0,
+          "username": "Reiugi148054"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104567786098090035",
+    "in_reply_to_user_id": "1843881413407653888",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104563140805714262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Reiugi148054 ❓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 474,
+        "media_key": "3_2104563132576489472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTpBMSa4AAhUVY.jpg",
+        "width": 269
+      },
+      {
+        "height": 1560,
+        "media_key": "3_2104563132597403649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTpBMXaAAEfbHk.jpg",
+        "width": 1494
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2104435159596716177",
+        "created_at": "2026-09-28T13:43:55.000Z",
+        "display_text_range": [
+          14,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104567786098090035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1843881413407653888",
+              "start": 0,
+              "username": "Reiugi148054"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104567786098090035",
+        "in_reply_to_user_id": "1843881413407653888",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104563140805714262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Reiugi148054 ❓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104563132576489472",
+            "3_2104563132597403649"
+          ]
+        },
+        "author_id": "1843881413407653888",
+        "conversation_id": "2104435159596716177",
+        "created_at": "2026-09-28T13:25:28.000Z",
+        "display_text_range": [
+          11,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104563140805714262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rHRfJa3uJA",
+              "end": 35,
+              "expanded_url": "https://x.com/Reiugi148054/status/2104563140805714262/photo/1",
+              "media_key": "3_2104563132576489472",
+              "start": 12,
+              "url": "https://t.co/rHRfJa3uJA"
+            },
+            {
+              "display_url": "pic.x.com/rHRfJa3uJA",
+              "end": 35,
+              "expanded_url": "https://x.com/Reiugi148054/status/2104563140805714262/photo/1",
+              "media_key": "3_2104563132597403649",
+              "start": 12,
+              "url": "https://t.co/rHRfJa3uJA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104563140805714262",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2104563132576489472"
+          },
+          {
+            "media_key": "3_2104563132597403649"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104435159596716177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove https://t.co/rHRfJa3uJA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "MTF 05｜男友@dexy0306｜能和你交朋友很开心｜HRT 2026.3.1｜SRS 2027.2.13｜SRS日记 https://t.co/kPiH5nVXCL｜成都 欢迎找我粗来玩🥳",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 85,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 62,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2104567786098090035",
+        "name": "DUCEXY",
+        "pinned_tweet_id": "2101960379421384708",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1790520494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104136188328349696/qOVeRNZo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31122,
+          "following_count": 1647,
+          "like_count": 4018,
+          "listed_count": 90,
+          "media_count": 569,
+          "tweet_count": 3615
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-09T05:09:32.000Z",
+        "description": "cuteness be my god",
+        "id": "1843881413407653888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104563140805714262",
+        "name": "Ρεiug1ß",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843881413407653888/1770364625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082761877218836480/OoL0zFY4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 85,
+          "like_count": 7898,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 289
+        },
+        "url": "",
+        "username": "Reiugi148054",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

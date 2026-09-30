@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2102697977680937092",
+    "created_at": "2026-09-23T09:53:58.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T10:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102697977680937092"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dexy0306/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/dexy0306/status/2102697535286751618",
+          "start": 6,
+          "url": "https://t.co/M9GI6TEfu6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102697977680937092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102697535286751618",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "你看他骚的 https://t.co/M9GI6TEfu6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2102697528353501184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5IQu-aMAAN1vi.jpg",
+        "width": 793
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2102697977680937092",
+        "created_at": "2026-09-23T09:53:58.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T10:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102697977680937092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dexy0306/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/dexy0306/status/2102697535286751618",
+              "start": 6,
+              "url": "https://t.co/M9GI6TEfu6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102697977680937092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102697535286751618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "你看他骚的 https://t.co/M9GI6TEfu6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102697528353501184"
+          ]
+        },
+        "author_id": "1915622690653954048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102697535286751618",
+        "created_at": "2026-09-23T09:52:13.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T10:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102697535286751618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5YGOigabvR",
+              "end": 40,
+              "expanded_url": "https://x.com/dexy0306/status/2102697535286751618/photo/1",
+              "media_key": "3_2102697528353501184",
+              "start": 17,
+              "url": "https://t.co/5YGOigabvR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102697535286751618",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102697528353501184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一句话给我骂湿了…///^/// https://t.co/5YGOigabvR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向跨直女 无门槛无黄无业务｜我未来的丈夫然桑@dexy0306❤️｜高P不pass丑逼男相脸大骨架大眼距npd ｜HRT 2026.3.1💊 SRS 2027.2.13🏥 SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 121,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 98,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2102697977680937092",
+        "name": "雫丶Shizuku✨DUCEXY",
+        "pinned_tweet_id": "2101960379421384708",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31099,
+          "following_count": 1646,
+          "like_count": 3999,
+          "listed_count": 91,
+          "media_count": 559,
+          "tweet_count": 3591
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "is_identity_verified": false,
+        "location": "小雫的心里",
+        "most_recent_tweet_id": "2102697535286751618",
+        "name": "Dexy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1915622690653954048/1745556774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087901715089838080/_V-Qqhsm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 10,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "dexy0306",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

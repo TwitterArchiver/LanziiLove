@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2097511297860653458",
+    "created_at": "2026-09-09T02:23:57.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T03:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097511297860653458"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2097511297860653458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "做了个雷霆大梦\n梦到男友突然告诉我，他其实是个ftm。当然，这倒是没啥。让这个梦变成噩梦的是：其实最早和我恋爱的是个顺男，但是这个ftm因为喜欢我，所以在网恋时期偷偷赶走了那个顺男，然后狸猫换太子了。然后我甚至不知道他是什么时候被冒充的。我意识到我很早以前就喜欢的人早就被调包成了另一个人，这真的好可怕…\n然后我不敢相信，我问他，那你一直以来每天和我语音打电话的嗓音…？他夹了一段（因为最近然桑老爱发骚夹着叫），然后就是那种中性音，我很是震惊*原来是这样？*，我又问：“那平时正常说话呢？”他：“诶，那看来我声音还挺自然的。”\n梦里的我：难怪之前看然桑有一丝女相（我妈也这么说），还老用那么尖的声音骚叫……而且难怪和最开始认识他的时候说话方式不太一样……喜欢发的表情包也不一样了，但是伪装的真的好像啊……\n\n*醒来\n\n他是怎么长到一米九的（\n\n那我吃的那么大的几把是哪里来的（回想起ftm术后效果图）\n\n哦，做梦啊（"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "做了个雷霆大梦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2097511297860653458",
+        "created_at": "2026-09-09T02:23:57.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T03:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097511297860653458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097511297860653458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "做了个雷霆大梦\n梦到男友突然告诉我，他其实是个ftm。当然，这倒是没啥。让这个梦变成噩梦的是：其实最早和我恋爱的是个顺男，但是这个ftm因为喜欢我，所以在网恋时期偷偷赶走了那个顺男，然后狸猫换太子了。然后我甚至不知道他是什么时候被冒充的。我意识到我很早以前就喜欢的人早就被调包成了另一个人，这真的好可怕…\n然后我不敢相信，我问他，那你一直以来每天和我语音打电话的嗓音…？他夹了一段（因为最近然桑老爱发骚夹着叫），然后就是那种中性音，我很是震惊*原来是这样？*，我又问：“那平时正常说话呢？”他：“诶，那看来我声音还挺自然的。”\n梦里的我：难怪之前看然桑有一丝女相（我妈也这么说），还老用那么尖的声音骚叫……而且难怪和最开始认识他的时候说话方式不太一样……喜欢发的表情包也不一样了，但是伪装的真的好像啊……\n\n*醒来\n\n他是怎么长到一米九的（\n\n那我吃的那么大的几把是哪里来的（回想起ftm术后效果图）\n\n哦，做梦啊（"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "做了个雷霆大梦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向 无门槛无黄无业务｜我的未来的丈夫然桑@dexy0306❤️｜常驻成都 大三计科摆烂老登｜高P不pass丑逼 ｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 92,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 69,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2097511297860653458",
+        "name": "雫丶Shizuku✨DUCEXY",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30637,
+          "following_count": 1637,
+          "like_count": 3931,
+          "listed_count": 89,
+          "media_count": 545,
+          "tweet_count": 3511
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

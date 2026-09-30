@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101960372425306112"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2101960379421384708",
+    "created_at": "2026-09-21T09:03:01.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T10:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101960379421384708"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "You are invited to a group chat on Telegram. Click to",
+          "display_url": "t.me/+BWAHmodoTuNhN…",
+          "end": 40,
+          "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+          "images": [
+            {
+              "height": 256,
+              "url": "https://pbs.twimg.com/news_img/2084402845856522241/iIUWhnGY?format=png&name=orig",
+              "width": 256
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2084402845856522241/iIUWhnGY?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 17,
+          "status": 200,
+          "title": "Join group chat on Telegram",
+          "unwound_url": "https://t.me/+BWAHmodoTuNhNTU1",
+          "url": "https://t.co/i6Zf5Uivhl"
+        },
+        {
+          "display_url": "pic.x.com/VfAoQ9fK6Q",
+          "end": 103,
+          "expanded_url": "https://x.com/LanziiLove/status/2101960379421384708/photo/1",
+          "media_key": "3_2101960372425306112",
+          "start": 80,
+          "url": "https://t.co/VfAoQ9fK6Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101960379421384708",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101960372425306112"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "再发一条挂到置顶\n个人SRS记录：https://t.co/i6Zf5Uivhl\n个人粉丝群：¥10公益慈善捐款截图私聊发我 我拉进群\n个人建的一个小小跨群： https://t.co/VfAoQ9fK6Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101960372425306112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSup0nJbsAA8ZSQ.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101960372425306112"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2101960379421384708",
+        "created_at": "2026-09-21T09:03:01.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101960379421384708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+BWAHmodoTuNhN…",
+              "end": 40,
+              "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2084402845856522241/iIUWhnGY?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2084402845856522241/iIUWhnGY?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+BWAHmodoTuNhNTU1",
+              "url": "https://t.co/i6Zf5Uivhl"
+            },
+            {
+              "display_url": "pic.x.com/VfAoQ9fK6Q",
+              "end": 103,
+              "expanded_url": "https://x.com/LanziiLove/status/2101960379421384708/photo/1",
+              "media_key": "3_2101960372425306112",
+              "start": 80,
+              "url": "https://t.co/VfAoQ9fK6Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101960379421384708",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101960372425306112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "再发一条挂到置顶\n个人SRS记录：https://t.co/i6Zf5Uivhl\n个人粉丝群：¥10公益慈善捐款截图私聊发我 我拉进群\n个人建的一个小小跨群： https://t.co/VfAoQ9fK6Q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向 无门槛无黄无业务｜我的未来的丈夫然桑@dexy0306❤️｜高P不pass丑逼 ｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 78,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 55,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2101960379421384708",
+        "name": "雫丶Shizuku✨DUCEXY",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31085,
+          "following_count": 1651,
+          "like_count": 3996,
+          "listed_count": 91,
+          "media_count": 559,
+          "tweet_count": 3582
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2098385525531095515",
+    "created_at": "2026-09-11T12:17:50.000Z",
+    "display_text_range": [
+      0,
+      124
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T13:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098385525531095515"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2098385525531095515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "上网不必太动火气\n气不过的时候就想想我曾因为粉丝群门槛是¥10的公益慈善捐款/献血记录然后被人骂是麦的\n要不就再想想我既不发暴论也不怎么发评论平时就发发日常和碎碎念就能被墙内反跨劳保和墙外跨圈小团体群起而攻之扣上一堆意淫出来的帽子然后对我虚空打靶💦\n而且不知道为什么发现block我最多的基本都是嘉欣跨和卖屁股男娘（"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "上网不必太动火气\n气不过的时候就想想我曾因为粉丝群门槛是¥10的公益慈善捐款/献血记录然后被人骂是麦的\n要不就再想想我既不发暴论也不怎么发评论平时就发发日常和碎碎念就能被墙内反跨劳保和墙外跨圈小团体群起而攻之扣上一堆意淫出来的帽子然后对我虚空打靶💦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2098385525531095515",
+        "created_at": "2026-09-11T12:17:50.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098385525531095515"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098385525531095515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "上网不必太动火气\n气不过的时候就想想我曾因为粉丝群门槛是¥10的公益慈善捐款/献血记录然后被人骂是麦的\n要不就再想想我既不发暴论也不怎么发评论平时就发发日常和碎碎念就能被墙内反跨劳保和墙外跨圈小团体群起而攻之扣上一堆意淫出来的帽子然后对我虚空打靶💦\n而且不知道为什么发现block我最多的基本都是嘉欣跨和卖屁股男娘（"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "上网不必太动火气\n气不过的时候就想想我曾因为粉丝群门槛是¥10的公益慈善捐款/献血记录然后被人骂是麦的\n要不就再想想我既不发暴论也不怎么发评论平时就发发日常和碎碎念就能被墙内反跨劳保和墙外跨圈小团体群起而攻之扣上一堆意淫出来的帽子然后对我虚空打靶💦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向 无门槛无黄无业务｜我的未来的丈夫然桑@dexy0306❤️｜常驻成都 大三计科摆烂老登｜高P不pass丑逼 ｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 92,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 69,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2098385525531095515",
+        "name": "雫丶Shizuku✨DUCEXY",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30646,
+          "following_count": 1637,
+          "like_count": 3940,
+          "listed_count": 89,
+          "media_count": 546,
+          "tweet_count": 3518
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

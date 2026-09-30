@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2099698445359677698",
+    "created_at": "2026-09-15T03:17:13.000Z",
+    "display_text_range": [
+      16,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T04:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099699030280561140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "98589461",
+          "start": 0,
+          "username": "Chitanda_Akemi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099699030280561140",
+    "in_reply_to_user_id": "98589461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099698445359677698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chitanda_Akemi 其实只是中央电视台的团队负责拍摄制作\n大概率不会放在电视台上播，一般都只是上传到网络视频平台而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2099698445359677698",
+        "created_at": "2026-09-15T03:17:13.000Z",
+        "display_text_range": [
+          16,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T04:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099699030280561140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "98589461",
+              "start": 0,
+              "username": "Chitanda_Akemi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099699030280561140",
+        "in_reply_to_user_id": "98589461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099698445359677698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chitanda_Akemi 其实只是中央电视台的团队负责拍摄制作\n大概率不会放在电视台上播，一般都只是上传到网络视频平台而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "98589461",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "description": "Documentary",
+              "id": "856976742166048769",
+              "name": "Documentary films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Documentary",
+              "id": "856976742166048769",
+              "name": "Documentary films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          }
+        ],
+        "conversation_id": "2099698445359677698",
+        "created_at": "2026-09-15T03:14:54.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T04:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099698445359677698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LanziiLove/sta…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/LanziiLove/status/2099356455677927894",
+              "start": 100,
+              "url": "https://t.co/6sfUcngEHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099698445359677698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099356455677927894",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国中央テレビがトランスジェンダー等の性的少数者を題材とする記録映画を製作し、取材してくれる家庭を募集しているそうだ。\n政府の態度とは真逆なことをしては中央テレビとはいえ本当に許されるのだろうか。。 https://t.co/6sfUcngEHG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向 无门槛无黄无业务｜我的未来的丈夫然桑@dexy0306❤️｜高P不pass丑逼 ｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 78,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 55,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2099699030280561140",
+        "name": "雫丶Shizuku✨DUCEXY",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30683,
+          "following_count": 1640,
+          "like_count": 3951,
+          "listed_count": 89,
+          "media_count": 553,
+          "tweet_count": 3552
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-12-22T08:47:16.000Z",
+        "description": "民主派香港有権者、まどマギファン、提督（嫁扶桑、山城、翔鶴、瑞鶴、涼月）、P（小早川、貴音、エミリー担当）千河焔太郎。 アニメ、香港民主、ニュース全般。紫音（78688）のマスター。香港テレビまどマギ放送感謝！\nヘッダー写真は強制排除された　#旺角　占拠区のテントで。エロ起業副業投資バイト仮想通貨系スパム垢固くお断り。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "旺角"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/Chitanda_Akemi",
+                "end": 23,
+                "expanded_url": "http://twpf.jp/Chitanda_Akemi",
+                "start": 0,
+                "url": "https://t.co/W6R0OfVzGO"
+              }
+            ]
+          }
+        },
+        "id": "98589461",
+        "is_identity_verified": false,
+        "location": "神山市見滝原町光坂１-８-１旭丘ビル１階（魔法少女被害者会）",
+        "most_recent_tweet_id": "2099698445359677698",
+        "name": "🌈千河焔太郎＠令和の丸一年に続く長く暑い夏を生きる平成生まれ香港市民。ニェット・バイネ。🌈",
+        "pinned_tweet_id": "2095197522142851314",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/98589461/1416558235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069825518833188864/HChUSCZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2184,
+          "following_count": 5407,
+          "like_count": 67262,
+          "listed_count": 46,
+          "media_count": 8292,
+          "tweet_count": 415676
+        },
+        "url": "https://t.co/W6R0OfVzGO",
+        "username": "Chitanda_Akemi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

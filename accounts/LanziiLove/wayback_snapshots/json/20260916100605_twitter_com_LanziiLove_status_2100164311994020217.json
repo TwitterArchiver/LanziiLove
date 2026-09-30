@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2100164311994020217",
+    "created_at": "2026-09-16T10:06:05.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T11:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100164311994020217"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lucioo41116/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/lucioo41116/status/2100048780275950004",
+          "start": 13,
+          "url": "https://t.co/M6pr9dS8O7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100164311994020217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100048780275950004",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "我不允许只有我看到了这个 https://t.co/M6pr9dS8O7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51050,
+        "height": 1280,
+        "media_key": "7_2100048482870390784",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2100048482870390784/pu/img/kUL6IZJkw6e4LF9V.jpg",
+        "public_metrics": {
+          "view_count": 251001
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2100048482870390784/pu/vid/avc1/320x710/WvJYkSDotmADzp_B.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2100048482870390784/pu/vid/avc1/480x1066/yM4OYGri_hn2TvcV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2100048482870390784/pu/vid/avc1/576x1280/NTF5_yc1gZyT0nTH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2100048482870390784/pu/pl/pxJVYJ0XgR_b1B7J.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2100164311994020217",
+        "created_at": "2026-09-16T10:06:05.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T11:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100164311994020217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lucioo41116/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/lucioo41116/status/2100048780275950004",
+              "start": 13,
+              "url": "https://t.co/M6pr9dS8O7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100164311994020217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100048780275950004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我不允许只有我看到了这个 https://t.co/M6pr9dS8O7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2100048482870390784"
+          ]
+        },
+        "author_id": "1805096761691951104",
+        "conversation_id": "2100048780275950004",
+        "created_at": "2026-09-16T02:27:00.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T03:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100048780275950004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lbYcianKgF",
+              "end": 56,
+              "expanded_url": "https://x.com/LucioO41116/status/2100048780275950004/video/1",
+              "media_key": "7_2100048482870390784",
+              "start": 33,
+              "url": "https://t.co/lbYcianKgF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100048780275950004",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_2100048482870390784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4036,
+          "impression_count": 448107,
+          "like_count": 7700,
+          "quote_count": 284,
+          "reply_count": 315,
+          "retweet_count": 690
+        },
+        "reply_settings": "everyone",
+        "text": "FUCK CKIKEN!!!! 🤤😵‍💫🤤😵‍💫🤤😵‍💫😵‍💫🤤 https://t.co/lbYcianKgF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向 无门槛无黄无业务｜我的未来的丈夫然桑@dexy0306❤️｜高P不pass丑逼 ｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 78,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 55,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2100164311994020217",
+        "name": "雫丶Shizuku✨DUCEXY",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30680,
+          "following_count": 1649,
+          "like_count": 3965,
+          "listed_count": 92,
+          "media_count": 554,
+          "tweet_count": 3560
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-24T04:33:18.000Z",
+        "description": "",
+        "id": "1805096761691951104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100083431367393487",
+        "name": "burguer porn 7w7",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838035049783963648/lLjaMSyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 1564,
+          "like_count": 27284,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 16500
+        },
+        "url": "",
+        "username": "LucioO41116",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

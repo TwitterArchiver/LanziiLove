@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2104500942632873984",
+        "13_2104500942653800448",
+        "3_2104500942611816449"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2104501181016133690",
+    "created_at": "2026-09-28T09:19:15.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T10:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104501181016133690"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rPEY7YjVLj",
+          "end": 23,
+          "expanded_url": "https://x.com/LanziiLove/status/2104501181016133690/video/1",
+          "media_key": "13_2104500942632873984",
+          "start": 0,
+          "url": "https://t.co/rPEY7YjVLj"
+        },
+        {
+          "display_url": "pic.x.com/rPEY7YjVLj",
+          "end": 23,
+          "expanded_url": "https://x.com/LanziiLove/status/2104501181016133690/video/1",
+          "media_key": "13_2104500942653800448",
+          "start": 0,
+          "url": "https://t.co/rPEY7YjVLj"
+        },
+        {
+          "display_url": "pic.x.com/rPEY7YjVLj",
+          "end": 23,
+          "expanded_url": "https://x.com/LanziiLove/status/2104501181016133690/video/1",
+          "media_key": "3_2104500942611816449",
+          "start": 0,
+          "url": "https://t.co/rPEY7YjVLj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104501181016133690",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2104500942632873984"
+      },
+      {
+        "media_key": "13_2104500942653800448"
+      },
+      {
+        "media_key": "3_2104500942611816449"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "https://t.co/rPEY7YjVLj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3851,
+        "height": 2160,
+        "media_key": "13_2104500942632873984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104500942632873984/img/6pHoXI8zo55Cexl6.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104500942632873984/vid/avc1/1920x1080/FhYFn-yOsLd7HPlv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104500942632873984/pl/klDYpDZnAs6HHCOE.m3u8"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104500942632873984/vid/avc1/3840x2160/DvTzkZEheVpXyrEk.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104500942632873984/vid/avc1/480x270/L4yuJHa6lOKTk9xJ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104500942632873984/vid/avc1/640x360/UeliDboH42rZfinE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104500942632873984/vid/avc1/1280x720/Uz4qNtMvDyayK5WS.mp4"
+          }
+        ],
+        "width": 3840
+      },
+      {
+        "duration_ms": 4236,
+        "height": 2160,
+        "media_key": "13_2104500942653800448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104500942653800448/img/aWWRDVb0pgZKDym3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104500942653800448/vid/avc1/640x360/4fxl1560mE1lFDV0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104500942653800448/pl/xjFWPvKxzvbPoCyR.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104500942653800448/vid/avc1/1280x720/OXN3xs9CSitmpBh-.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104500942653800448/vid/avc1/3840x2160/1SqYyu5QBcs8Lphf.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104500942653800448/vid/avc1/1920x1080/V--TyXEIA21ZjX8E.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104500942653800448/vid/avc1/480x270/p6SiWovbFE7ar1-j.mp4"
+          }
+        ],
+        "width": 3840
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104500942611816449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSwdQnaIAExHw9.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104500942632873984",
+            "13_2104500942653800448",
+            "3_2104500942611816449"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2104501181016133690",
+        "created_at": "2026-09-28T09:19:15.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T10:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104501181016133690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rPEY7YjVLj",
+              "end": 23,
+              "expanded_url": "https://x.com/LanziiLove/status/2104501181016133690/video/1",
+              "media_key": "13_2104500942632873984",
+              "start": 0,
+              "url": "https://t.co/rPEY7YjVLj"
+            },
+            {
+              "display_url": "pic.x.com/rPEY7YjVLj",
+              "end": 23,
+              "expanded_url": "https://x.com/LanziiLove/status/2104501181016133690/video/1",
+              "media_key": "13_2104500942653800448",
+              "start": 0,
+              "url": "https://t.co/rPEY7YjVLj"
+            },
+            {
+              "display_url": "pic.x.com/rPEY7YjVLj",
+              "end": 23,
+              "expanded_url": "https://x.com/LanziiLove/status/2104501181016133690/video/1",
+              "media_key": "3_2104500942611816449",
+              "start": 0,
+              "url": "https://t.co/rPEY7YjVLj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104501181016133690",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2104500942632873984"
+          },
+          {
+            "media_key": "13_2104500942653800448"
+          },
+          {
+            "media_key": "3_2104500942611816449"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "https://t.co/rPEY7YjVLj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "MTF 05｜男友@dexy0306｜能和你交朋友很开心｜HRT 2026.3.1｜SRS 2027.2.13｜SRS日记 https://t.co/kPiH5nVXCL｜成都 欢迎找我粗来玩🥳",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 85,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 62,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2104501181016133690",
+        "name": "DUCEXY",
+        "pinned_tweet_id": "2101960379421384708",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1790520494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104136188328349696/qOVeRNZo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31112,
+          "following_count": 1647,
+          "like_count": 4016,
+          "listed_count": 90,
+          "media_count": 569,
+          "tweet_count": 3613
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101005944591409152"
+      ],
+      "media_source_tweet_id": [
+        "2101005950731874417"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2101006047091851557",
+    "created_at": "2026-09-18T17:50:51.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T18:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101006047091851557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915622690653954048",
+          "start": 3,
+          "username": "dexy0306"
+        },
+        {
+          "end": 25,
+          "id": "1510447851507261445",
+          "start": 14,
+          "username": "LanziiLove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mz1vH12WLE",
+          "end": 67,
+          "expanded_url": "https://x.com/dexy0306/status/2101005950731874417/photo/1",
+          "media_key": "3_2101005944591409152",
+          "start": 44,
+          "url": "https://t.co/Mz1vH12WLE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101006047091851557",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101005944591409152"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101005950731874417",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @dexy0306: @LanziiLove 杯子/杯子pro/杯子promax https://t.co/Mz1vH12WLE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 917,
+        "media_key": "3_2101005944591409152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HShFxmZa4AAXuNp.jpg",
+        "width": 601
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101005944591409152"
+          ],
+          "media_source_tweet_id": [
+            "2101005950731874417"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2101006047091851557",
+        "created_at": "2026-09-18T17:50:51.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T18:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101006047091851557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915622690653954048",
+              "start": 3,
+              "username": "dexy0306"
+            },
+            {
+              "end": 25,
+              "id": "1510447851507261445",
+              "start": 14,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mz1vH12WLE",
+              "end": 67,
+              "expanded_url": "https://x.com/dexy0306/status/2101005950731874417/photo/1",
+              "media_key": "3_2101005944591409152",
+              "start": 44,
+              "url": "https://t.co/Mz1vH12WLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101006047091851557",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101005944591409152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101005950731874417",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @dexy0306: @LanziiLove 杯子/杯子pro/杯子promax https://t.co/Mz1vH12WLE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101005944591409152"
+          ]
+        },
+        "author_id": "1915622690653954048",
+        "conversation_id": "2100988458143793577",
+        "created_at": "2026-09-18T17:50:28.000Z",
+        "display_text_range": [
+          12,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T18:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101005950731874417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mz1vH12WLE",
+              "end": 53,
+              "expanded_url": "https://x.com/dexy0306/status/2101005950731874417/photo/1",
+              "media_key": "3_2101005944591409152",
+              "start": 30,
+              "url": "https://t.co/Mz1vH12WLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101005950731874417",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101005944591409152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100988458143793577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove 杯子/杯子pro/杯子promax https://t.co/Mz1vH12WLE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向 无门槛无黄无业务｜我的未来的丈夫然桑@dexy0306❤️｜高P不pass丑逼 ｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 78,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 55,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2101006047091851557",
+        "name": "雫丶Shizuku✨DUCEXY",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30701,
+          "following_count": 1650,
+          "like_count": 3979,
+          "listed_count": 91,
+          "media_count": 558,
+          "tweet_count": 3572
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "is_identity_verified": false,
+        "location": "小雫的心里",
+        "most_recent_tweet_id": "2101005950731874417",
+        "name": "Dexy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1915622690653954048/1745556774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087901715089838080/_V-Qqhsm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 10,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 133
+        },
+        "url": "",
+        "username": "dexy0306",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

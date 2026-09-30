@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2097881333536379381",
+    "created_at": "2026-09-10T02:54:21.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T03:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097881333536379381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lanziilove/sta…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/lanziilove/status/2097846819720155238",
+          "start": 72,
+          "url": "https://t.co/iGi9OgkhO5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097881333536379381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097846819720155238",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "尼玛 今天去上课节课给肿块干破了\n回寝室脱裤子一看内裤上全是乌血和脓\n往屁股上一挤那血水跟喷泉一样就涌出来了\n太酸爽了\n\n比我打搅射出来的还多 https://t.co/iGi9OgkhO5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2097881333536379381",
+        "created_at": "2026-09-10T02:54:21.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T03:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097881333536379381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/lanziilove/status/2097846819720155238",
+              "start": 72,
+              "url": "https://t.co/iGi9OgkhO5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097881333536379381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097846819720155238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "尼玛 今天去上课节课给肿块干破了\n回寝室脱裤子一看内裤上全是乌血和脓\n往屁股上一挤那血水跟喷泉一样就涌出来了\n太酸爽了\n\n比我打搅射出来的还多 https://t.co/iGi9OgkhO5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2097846819720155238",
+        "created_at": "2026-09-10T00:37:12.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T01:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097846819720155238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097846819720155238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1584,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "没招了\n屁股蛋子上长了个鸡蛋大小的肿块，疼了一周多了越来越大越来越疼，也是让我提前体验了一番青春版的术后不能走不能坐、就算躺着下半身也疼飞的生活了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向 无门槛无黄无业务｜我的未来的丈夫然桑@dexy0306❤️｜常驻成都 大三计科摆烂老登｜高P不pass丑逼 ｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 92,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 69,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2097881333536379381",
+        "name": "雫丶Shizuku✨DUCEXY",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30634,
+          "following_count": 1638,
+          "like_count": 3933,
+          "listed_count": 89,
+          "media_count": 545,
+          "tweet_count": 3514
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

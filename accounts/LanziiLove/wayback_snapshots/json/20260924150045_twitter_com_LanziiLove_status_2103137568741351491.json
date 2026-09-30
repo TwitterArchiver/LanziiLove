@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2103124821437820928"
+      ],
+      "media_source_tweet_id": [
+        "2103124837686485134"
+      ]
+    },
+    "author_id": "1510447851507261445",
+    "conversation_id": "2103137568741351491",
+    "created_at": "2026-09-24T15:00:45.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T16:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103137568741351491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915622690653954048",
+          "start": 3,
+          "username": "dexy0306"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1TkiQG4T1l",
+          "end": 101,
+          "expanded_url": "https://x.com/dexy0306/status/2103124837686485134/photo/1",
+          "media_key": "16_2103124821437820928",
+          "start": 78,
+          "url": "https://t.co/1TkiQG4T1l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103137568741351491",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "16_2103124821437820928"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103124837686485134",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dexy0306: 雫：我吃的好撑啊…你能不能不要在我撑的时候草窝\n\n我：正好可以把你捅到吐出来，然后把吐出来的东西吃掉\n\n雫：我的天呐…羞死了… https://t.co/1TkiQG4T1l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 340,
+        "media_key": "16_2103124821437820928",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HS_M4dwbsAAZf0a.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HS_M4dwbsAAZf0a.mp4"
+          }
+        ],
+        "width": 340
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2103124821437820928"
+          ],
+          "media_source_tweet_id": [
+            "2103124837686485134"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2103137568741351491",
+        "created_at": "2026-09-24T15:00:45.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T16:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103137568741351491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915622690653954048",
+              "start": 3,
+              "username": "dexy0306"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1TkiQG4T1l",
+              "end": 101,
+              "expanded_url": "https://x.com/dexy0306/status/2103124837686485134/photo/1",
+              "media_key": "16_2103124821437820928",
+              "start": 78,
+              "url": "https://t.co/1TkiQG4T1l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103137568741351491",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2103124821437820928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103124837686485134",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dexy0306: 雫：我吃的好撑啊…你能不能不要在我撑的时候草窝\n\n我：正好可以把你捅到吐出来，然后把吐出来的东西吃掉\n\n雫：我的天呐…羞死了… https://t.co/1TkiQG4T1l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2103124821437820928"
+          ]
+        },
+        "author_id": "1915622690653954048",
+        "conversation_id": "2103124837686485134",
+        "created_at": "2026-09-24T14:10:10.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T15:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103124837686485134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1TkiQG4T1l",
+              "end": 87,
+              "expanded_url": "https://x.com/dexy0306/status/2103124837686485134/photo/1",
+              "media_key": "16_2103124821437820928",
+              "start": 64,
+              "url": "https://t.co/1TkiQG4T1l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103124837686485134",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2103124821437820928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "雫：我吃的好撑啊…你能不能不要在我撑的时候草窝\n\n我：正好可以把你捅到吐出来，然后把吐出来的东西吃掉\n\n雫：我的天呐…羞死了… https://t.co/1TkiQG4T1l"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向跨直女 无门槛无黄无业务｜我未来的丈夫然桑@dexy0306❤️｜高P不pass丑逼男相脸大骨架大眼距npd ｜HRT 2026.3.1💊 SRS 2027.2.13🏥 SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 121,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 98,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2103137568741351491",
+        "name": "雫丶Shizuku✨DUCEXY",
+        "pinned_tweet_id": "2101960379421384708",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31109,
+          "following_count": 1645,
+          "like_count": 4006,
+          "listed_count": 91,
+          "media_count": 563,
+          "tweet_count": 3604
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "is_identity_verified": false,
+        "location": "小雫的心里",
+        "most_recent_tweet_id": "2103124837686485134",
+        "name": "Dexy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1915622690653954048/1745556774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087901715089838080/_V-Qqhsm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1225,
+          "following_count": 10,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 138
+        },
+        "url": "",
+        "username": "dexy0306",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

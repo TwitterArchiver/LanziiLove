@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2102812230400213041",
+    "created_at": "2026-09-23T17:27:58.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T18:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102812230400213041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915622690653954048",
+          "start": 3,
+          "username": "dexy0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102812230400213041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102808420139282501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dexy0306: 我：我准备找个机会好好洗一下然后用假牛狠狠捅后面😋\n\n雫：那我咧🤔\n\n我：你帮我导😋\n\n雫：那你坚持不了多久的…\n\n我：那这样，我能坚持多少秒，等完事之后我们就吃多少钱的饭。为了能吃上大餐而不是拼好饭，我一定会努力的🫡\n\n雫：那咱俩估计就只能吃两包辣…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 426,
+        "media_key": "16_2102808391047680000",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HS6tFysbkAAsVWG.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HS6tFysbkAAsVWG.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2102812230400213041",
+        "created_at": "2026-09-23T17:27:58.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T18:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102812230400213041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915622690653954048",
+              "start": 3,
+              "username": "dexy0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102812230400213041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102808420139282501",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dexy0306: 我：我准备找个机会好好洗一下然后用假牛狠狠捅后面😋\n\n雫：那我咧🤔\n\n我：你帮我导😋\n\n雫：那你坚持不了多久的…\n\n我：那这样，我能坚持多少秒，等完事之后我们就吃多少钱的饭。为了能吃上大餐而不是拼好饭，我一定会努力的🫡\n\n雫：那咱俩估计就只能吃两包辣…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2102808391047680000"
+          ]
+        },
+        "author_id": "1915622690653954048",
+        "conversation_id": "2102808420139282501",
+        "created_at": "2026-09-23T17:12:50.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T18:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102808420139282501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cgy8aKEDVA",
+              "end": 152,
+              "expanded_url": "https://x.com/dexy0306/status/2102808420139282501/photo/1",
+              "media_key": "16_2102808391047680000",
+              "start": 129,
+              "url": "https://t.co/cgy8aKEDVA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102808420139282501",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2102808391047680000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我：我准备找个机会好好洗一下然后用假牛狠狠捅后面😋\n\n雫：那我咧🤔\n\n我：你帮我导😋\n\n雫：那你坚持不了多久的…\n\n我：那这样，我能坚持多少秒，等完事之后我们就吃多少钱的饭。为了能吃上大餐而不是拼好饭，我一定会努力的🫡\n\n雫：那咱俩估计就只能吃两包辣条了（ https://t.co/cgy8aKEDVA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向跨直女 无门槛无黄无业务｜我未来的丈夫然桑@dexy0306❤️｜高P不pass丑逼男相脸大骨架大眼距npd ｜HRT 2026.3.1💊 SRS 2027.2.13🏥 SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 121,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 98,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2102812230400213041",
+        "name": "雫丶Shizuku✨DUCEXY",
+        "pinned_tweet_id": "2101960379421384708",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31106,
+          "following_count": 1647,
+          "like_count": 4002,
+          "listed_count": 91,
+          "media_count": 561,
+          "tweet_count": 3596
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-25T04:23:45.000Z",
+        "description": "My beloved: @LanziiLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "LanziiLove"
+              }
+            ]
+          }
+        },
+        "id": "1915622690653954048",
+        "is_identity_verified": false,
+        "location": "小雫的心里",
+        "most_recent_tweet_id": "2102808420139282501",
+        "name": "Dexy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1915622690653954048/1745556774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087901715089838080/_V-Qqhsm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 10,
+          "like_count": 437,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 137
+        },
+        "url": "",
+        "username": "dexy0306",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
