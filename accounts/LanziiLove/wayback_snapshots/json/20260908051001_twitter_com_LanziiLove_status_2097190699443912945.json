@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1510447851507261445",
+    "conversation_id": "2097190699443912945",
+    "created_at": "2026-09-08T05:10:01.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097190699443912945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rin_mashiro_/s…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/rin_mashiro_/status/2097185870176784719",
+          "start": 32,
+          "url": "https://t.co/BTLAJvf3Jq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097190699443912945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097185870176784719",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "真不理解为什么这么多人想做srs，我有10万块钱都够我srs了 https://t.co/BTLAJvf3Jq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2097190699443912945",
+        "created_at": "2026-09-08T05:10:01.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097190699443912945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rin_mashiro_/s…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/rin_mashiro_/status/2097185870176784719",
+              "start": 32,
+              "url": "https://t.co/BTLAJvf3Jq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097190699443912945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097185870176784719",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "真不理解为什么这么多人想做srs，我有10万块钱都够我srs了 https://t.co/BTLAJvf3Jq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995146888249778177",
+        "conversation_id": "2097185870176784719",
+        "created_at": "2026-09-08T04:50:49.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T05:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097185870176784719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huhu12027596/s…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/huhu12027596/status/2096853472759222468",
+              "start": 52,
+              "url": "https://t.co/SvENcGUE0U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097185870176784719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096853472759222468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真不理解为什么这么多人想做srs，我有10万块钱都够我环游日本一个月或买100个搬瓦工顶级线路的年付了 https://t.co/SvENcGUE0U"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿日常生活向 无门槛无黄无业务｜我的未来的丈夫然桑@dexy0306❤️｜常驻成都 大三计科摆烂老登｜高P不pass丑逼 ｜SRS日记 https://t.co/kPiH5nVXCL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 92,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 69,
+                "url": "https://t.co/kPiH5nVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2097190699443912945",
+        "name": "雫丶Shizuku✨DUCEXY",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30635,
+          "following_count": 1638,
+          "like_count": 3926,
+          "listed_count": 89,
+          "media_count": 545,
+          "tweet_count": 3508
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T15:04:29.000Z",
+        "description": "VPS梦女｜处于HRT与非HRT叠加态｜J-POP｜AI｜ACGN｜JP（N2） EN CN｜SillyTavern二开及插件开发者\n个人博客:https://t.co/PVGkqcilif\n匿名提问:https://t.co/520DUeTbF0\nTG:https://t.co/mrZzq3tpLq(24h在线)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 95,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 72,
+                "url": "https://t.co/PVGkqcilif"
+              },
+              {
+                "display_url": "blog.rin.wtf/ask",
+                "end": 124,
+                "expanded_url": "https://blog.rin.wtf/ask",
+                "start": 101,
+                "url": "https://t.co/520DUeTbF0"
+              },
+              {
+                "display_url": "t.me/Rin_Mashiro",
+                "end": 151,
+                "expanded_url": "https://t.me/Rin_Mashiro",
+                "start": 128,
+                "url": "https://t.co/mrZzq3tpLq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 23,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 0,
+                "url": "https://t.co/PVGkqcilif"
+              }
+            ]
+          }
+        },
+        "id": "1995146888249778177",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2097189630252883979",
+        "name": "Rin",
+        "pinned_tweet_id": "2095914123938943477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1995146888249778177/1782917546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006297830823215106/c2krAf_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 127,
+          "like_count": 1320,
+          "listed_count": 0,
+          "media_count": 285,
+          "tweet_count": 3054
+        },
+        "url": "https://t.co/PVGkqcilif",
+        "username": "Rin_Mashiro_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
